@@ -4,21 +4,47 @@
     <meta charset="utf-8" />
     <title>Docs Admin</title>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+    </style>
   </head>
   <body>
+    <div id="nc-root"></div>
     <script>
       window.CMS_MANUAL_INIT = true;
-    </script>
-    <script>
-      window.addEventListener("load", () => {
+      window.addEventListener("load", function () {
         if (typeof CMS !== "undefined") {
-          CMS.init({ config: "/admin/config.yml" });
+          CMS.init({
+            config: {
+              backend: {
+                name: "git-gateway",
+                branch: "main"
+              },
+              media_folder: "static/img/uploads",
+              public_folder: "/img/uploads",
+              collections: [
+                {
+                  name: "docs",
+                  label: "Docs",
+                  folder: "docs",
+                  create: true,
+                  slug: "{{slug}}",
+                  fields: [
+                    { label: "Title", name: "title", widget: "string" },
+                    { label: "Body", name: "body", widget: "markdown" }
+                  ]
+                }
+              ]
+            }
+          });
         } else {
-          console.error("Decap CMS failed to load");
+          console.error("CMS is not defined");
         }
       });
     </script>
-    <div id="nc-root"></div>
   </body>
 </html>
 
