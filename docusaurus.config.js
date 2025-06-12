@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ezycreate Resources',
-  tagline: 'Everything Developers Need to Build, Integrate, and Launch.',
+  tagline: 'Tools and Docs to Power Your Integration',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
