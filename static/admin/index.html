@@ -1,50 +1,42 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Docs Admin</title>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <style>
-      html, body {
-        height: 100%;
-        margin: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="nc-root"></div>
-    <script>
-      window.CMS_MANUAL_INIT = true;
-      window.addEventListener("load", function () {
-        if (typeof CMS !== "undefined") {
-          CMS.init({
-            config: {
-              backend: {
-                name: "git-gateway",
-                branch: "main"
-              },
-              media_folder: "static/img/uploads",
-              public_folder: "/img/uploads",
-              collections: [
-                {
-                  name: "docs",
-                  label: "Docs",
-                  folder: "docs",
-                  create: true,
-                  slug: "{{slug}}",
-                  fields: [
-                    { label: "Title", name: "title", widget: "string" },
-                    { label: "Body", name: "body", widget: "markdown" }
-                  ]
-                }
-              ]
-            }
-          });
-        } else {
-          console.error("CMS is not defined");
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body>
+  <!-- Add the mounting point -->
+  <div id="nc-root"></div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      CMS.init({
+        config: {
+          backend: {
+            name: 'github',
+            repo: 'amit4184/ezyresource',
+            branch: 'main',
+          },
+          media_folder: 'static/img',
+          public_folder: '/img',
+          collections: [
+            {
+              name: 'docs',
+              label: 'Docs',
+              folder: 'docs',
+              create: true,
+              fields: [
+                { label: 'Title', name: 'title', widget: 'string' },
+                { label: 'Body', name: 'body', widget: 'markdown' },
+              ],
+            },
+          ],
         }
       });
-    </script>
-  </body>
+    });
+  </script>
+</body>
 </html>
-
