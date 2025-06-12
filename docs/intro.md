@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ezycreate Resources
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Resources section — your go-to hub for everything you need to successfully integrate with our platform. Whether you're building a custom solution, connecting to our APIs, or embedding features into your application, you'll find comprehensive guides, API documentation, SDKs, code samples, and troubleshooting tips right here. Our goal is to help developers move faster, build smarter, and deliver seamless experiences.
+
+Start exploring and bring your integration to life with confidence.
 
 ## Getting Started
 
