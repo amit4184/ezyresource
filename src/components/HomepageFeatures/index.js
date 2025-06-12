@@ -17,8 +17,11 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Our API Integrations empower developers to seamlessly connect with our platform and extend its functionality into any custom workflow or application. This section provides detailed API documentation, authentication methods, endpoint references,
+    request/response examples, and usage best practices.
+
+Whether you're syncing product data, managing users, handling orders, or customizing workflows, our APIs are designed to be flexible, secure, and easy to work with. 
+  Get started quickly with step-by-step guides and real-world integration examples to accelerate your development process.
       </>
     ),
   },
