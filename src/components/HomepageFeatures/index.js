@@ -4,17 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Integrations',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Wordpress Plugins
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'APIs',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Developer Guidelines',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
