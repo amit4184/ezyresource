@@ -84,7 +84,7 @@ const config = {
         title: 'Resources',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/ezycreate.png',
+          src: 'img/ezycreatelogo.png',
         },
         items: [
           {
