@@ -4,39 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </head>
 <body>
-  <!-- Add the mounting point -->
-  <div id="nc-root"></div>
-  
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      CMS.init({
-        config: {
-          backend: {
-            name: 'github',
-            repo: 'amit4184/ezyresource',
-            branch: 'main',
-          },
-          media_folder: 'static/img',
-          public_folder: '/img',
-          collections: [
-            {
-              name: 'docs',
-              label: 'Docs',
-              folder: 'docs',
-              create: true,
-              fields: [
-                { label: 'Title', name: 'title', widget: 'string' },
-                { label: 'Body', name: 'body', widget: 'markdown' },
-              ],
-            },
-          ],
-        }
-      });
-    });
-  </script>
+  <!-- Include the script that builds the page and powers Decap CMS -->
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 </html>
