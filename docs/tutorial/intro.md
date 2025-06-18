@@ -1,5 +1,8 @@
 ---
-title: Introduction
+id: intro
+title: Tutorial
+slug: /
 ---
-Welcome to [category name] section!
+
+Welcome to the EC Pro
 

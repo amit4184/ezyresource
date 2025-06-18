@@ -1,4 +1,8 @@
+i---
+id: intro
+title: EC Designer
+slug: /
 ---
-title: Introduction
----
-Welcome to [category name] section!
+
+Welcome to the EC Products documentation.
+

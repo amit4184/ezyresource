@@ -1,4 +1,8 @@
 ---
-title: Introduction
+id: intro
+title: EC Store
+slug: /
 ---
-Welcome to [category name] section!
+
+Welcome to the EC Products documentation.
+
