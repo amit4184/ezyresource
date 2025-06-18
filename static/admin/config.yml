@@ -19,7 +19,7 @@ collections:
       - { name: tags, label: Tags, widget: list }
       - label: "Authors"
         name: "authors"
-        widget: "list"
+        widget: list
         fields:
           - { name: name, label: Name, widget: string }
           - { name: title, label: Title, widget: string }
@@ -35,6 +35,16 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
 
   - name: ec-designer
     label: "EC Designer"
@@ -45,6 +55,16 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
 
   - name: ec-store
     label: "EC Store"
@@ -55,6 +75,16 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
 
   - name: ec-dropship
     label: "EC Dropship"
@@ -65,6 +95,16 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
 
   - name: ec-factory
     label: "EC Factory"
@@ -75,6 +115,16 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
 
   - name: ec-crm
     label: "EC CRM"
@@ -85,4 +135,13 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
-
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
