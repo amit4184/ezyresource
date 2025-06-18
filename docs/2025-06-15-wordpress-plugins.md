@@ -1,6 +1,6 @@
 ---
 title: Wordpress Plugins
-slug: "Wordpress "
+slug: "Wordpress-plugins"
 ---
 
 
