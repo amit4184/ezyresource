@@ -1,33 +1,88 @@
 backend:
   name: github
-  branch: main
   repo: amit4184/ezyresource
+  branch: main
 
-# These lines should *not* be indented
-media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/img"
+public_folder: "/img/"
 
 collections:
-- name: tutorial
-  label: "docs"
-  folder: docs
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-    - label: "Authors"
-      name: "authors"
-      widget: "list"
-      fields:
-        - { name: name, label: Name, widget: string }
-        - { name: title, label: Title, widget: string }
-        - { name: url, label: URL, widget: string }
-        - { name: imageUrl, label: ImageURL, widget: string }
+  - name: tutorial
+    label: "Tutorial"
+    folder: docs
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      - { name: slug, label: Slug, widget: string }
+      - { name: tags, label: Tags, widget: list }
+      - label: "Authors"
+        name: "authors"
+        widget: "list"
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: title, label: Title, widget: string }
+          - { name: url, label: URL, widget: string }
+          - { name: imageUrl, label: ImageURL, widget: string }
+
+  - name: products
+    label: "Products"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^products$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-designer
+    label: "EC Designer"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^ec-designer$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-store
+    label: "EC Store"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^ec-store$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-dropship
+    label: "EC Dropship"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^ec-dropship$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-factory
+    label: "EC Factory"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^ec-factory$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-crm
+    label: "EC CRM"
+    folder: src/pages
+    create: true
+    slug: "{{slug}}"
+    filter: { field: slug, pattern: "^ec-crm$" }
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
