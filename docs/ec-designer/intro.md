@@ -1,4 +1,4 @@
-i---
+---
 id: intro
 title: EC Designer
 slug: /
