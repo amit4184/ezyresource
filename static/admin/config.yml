@@ -9,7 +9,7 @@ public_folder: "/img/"
 collections:
   - name: tutorial
     label: "Tutorial"
-    folder: docs
+    folder: docs/tutorial-basics
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -19,107 +19,7 @@ collections:
       - { name: tags, label: Tags, widget: list }
       - label: "Authors"
         name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
-
-  - name: products
-    label: "Products"
-    folder: src/pages
-    create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^products$" }
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
-
-  - name: ec-designer
-    label: "EC Designer"
-    folder: src/pages
-    create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^ec-designer$" }
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
-
-  - name: ec-store
-    label: "EC Store"
-    folder: src/pages
-    create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^ec-store$" }
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
-
-  - name: ec-dropship
-    label: "EC Dropship"
-    folder: src/pages
-    create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^ec-dropship$" }
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
-
-  - name: ec-factory
-    label: "EC Factory"
-    folder: src/pages
-    create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^ec-factory$" }
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
+        widget: "list"
         fields:
           - { name: name, label: Name, widget: string }
           - { name: title, label: Title, widget: string }
@@ -128,20 +28,55 @@ collections:
 
   - name: ec-crm
     label: "EC CRM"
-    folder: src/pages
+    folder: docs/ec-crm
     create: true
-    slug: "{{slug}}"
-    filter: { field: slug, pattern: "^ec-crm$" }
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
-      - label: "Authors"
-        name: "authors"
-        widget: list
-        fields:
-          - { name: name, label: Name, widget: string }
-          - { name: title, label: Title, widget: string }
-          - { name: url, label: URL, widget: string }
-          - { name: imageUrl, label: ImageURL, widget: string }
+
+  - name: ec-designer
+    label: "EC Designer"
+    folder: docs/ec-designer
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-store
+    label: "EC Store"
+    folder: docs/ec-store
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-dropship
+    label: "EC Dropship"
+    folder: docs/ec-dropship
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-factory
+    label: "EC Factory"
+    folder: docs/ec-factory
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: products
+    label: "Products"
+    folder: docs/products
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
