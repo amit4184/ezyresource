@@ -25,12 +25,71 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'products',
+        path: 'docs/products',
+        routeBasePath: 'products',
+        sidebarPath: require.resolve('./sidebars-products.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ec-designer',
+        path: 'docs/ec-designer',
+        routeBasePath: 'ec-designer',
+        sidebarPath: require.resolve('./sidebars-ec-designer.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ec-store',
+        path: 'docs/ec-store',
+        routeBasePath: 'ec-store',
+        sidebarPath: require.resolve('./sidebars-ec-store.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ec-dropship',
+        path: 'docs/ec-dropship',
+        routeBasePath: 'ec-dropship',
+        sidebarPath: require.resolve('./sidebars-ec-dropship.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ec-factory',
+        path: 'docs/ec-factory',
+        routeBasePath: 'ec-factory',
+        sidebarPath: require.resolve('./sidebars-ec-factory.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ec-crm',
+        path: 'docs/ec-crm',
+        routeBasePath: 'ec-crm',
+        sidebarPath: require.resolve('./sidebars-ec-crm.js'),
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
-      ({
+      {
         docs: {
-          sidebarPath: './sidebars.js',
+          path: 'docs/tutorial-basics',
+          routeBasePath: 'docs',
+          sidebarPath: require.resolve('./sidebars-tutorial.js'),
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -47,13 +106,13 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig: ({
+  themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Resources',
@@ -126,8 +185,7 @@ const config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  }),
+  },
 };
 
 export default config;
-

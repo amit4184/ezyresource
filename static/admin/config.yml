@@ -26,9 +26,9 @@ collections:
           - { name: url, label: URL, widget: string }
           - { name: imageUrl, label: ImageURL, widget: string }
 
-  - name: ec-crm
-    label: "EC CRM"
-    folder: docs/ec-crm
+  - name: products
+    label: "Products"
+    folder: docs/products
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -71,9 +71,9 @@ collections:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
 
-  - name: products
-    label: "Products"
-    folder: docs/products
+  - name: ec-crm
+    label: "EC CRM"
+    folder: docs/ec-crm
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
