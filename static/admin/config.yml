@@ -31,6 +31,7 @@ collections:
     folder: docs/products
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
@@ -40,6 +41,7 @@ collections:
     folder: docs/ec-designer
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
@@ -49,6 +51,7 @@ collections:
     folder: docs/ec-store
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
@@ -58,6 +61,7 @@ collections:
     folder: docs/ec-dropship
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
@@ -67,6 +71,7 @@ collections:
     folder: docs/ec-factory
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
@@ -76,6 +81,7 @@ collections:
     folder: docs/ec-crm
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
