@@ -1,14 +1,11 @@
 ---
 title: Overview
 ---
-
-
-
 ## **EC Designer Overview**
 
 Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
 
-### **🔹 What is EC Designer?**
+## **What is EC Designer?**
 
 **EC Designer** is a visual product customization engine that allows businesses, creators, and developers to offer personalized products online. Whether you're selling photobooks, calendars, merch, or printables, EC Designer helps you:
 
@@ -24,37 +21,25 @@ Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empo
 * Merch and gifting customizers
 * Print-on-demand e-commerce stores
 
-### **🔹 Key Benefits**
+## **Key Benefits**
 
 **Feature**
 
 **Description**
 
-💡 **Drag-and-Drop Editor**
+💡 **Drag-and-Drop Editor -** No-code design interface for end users
 
-No-code design interface for end users
+🧩 **Modular Product Designers -** Choose from Photobook, Print, Calendar, more
 
-🧩 **Modular Product Designers**
+🛒 **eCommerce Integration -** Connect with your webstore 
 
-Choose from Photobook, Print, Calendar, and Custom Product designers
+📐 **Template System -** Pre-design layouts for quick user customization
 
-🛒 **eCommerce Integration**
+🔌 **SDK & Plugins -** Extend the tool via SDK, WordPress plugin, and APIs
 
-Connect with your webstore (e.g. Shopify, WooCommerce)
+📊 **Analytics Dashboard -** Track user activity, product performance, and orders
 
-📐 **Template System**
-
-Pre-design layouts for quick user customization
-
-🔌 **SDK & Plugins**
-
-Extend the tool via SDK, WordPress plugin, and APIs
-
-📊 **Analytics Dashboard**
-
-Track user activity, product performance, and orders
-
-### **🔹 Who Should Use EC Designer?**
+## **Who Should Use EC Designer?**
 
 This platform is built for:
 
@@ -64,19 +49,11 @@ This platform is built for:
 * 🏢 **Corporate Clients** setting up internal design + print portals
 * 📸 **Studios & Photographers** selling albums or prints
 
-### **🔹 How Does It Work?**
+##  **How Does It Work?**
 
-Here’s a simplified flow of how EC Designer fits into your business:
+Step 1 - Register Account →Step 2. Choose Product Type → Step 3. Create Product Blank → Step 4. Design Templates → Step 5. Publish & Connect Store → Step 6. Accept Orders → Step 7. Track via Dashboard
 
-mathematica
-
-CopyEdit
-
-1. Register Account → 2. Choose Product Type → 3. Create Product Blank → 
-2. Design Templates → 5. Publish & Connect Store → 6. Accept Orders → 
-3. Track via Dashboard
-
-### **🔹 EC Designer Modules**
+## **EC Designer Modules**
 
 Each module within EC Designer serves a specific type of product:
 
@@ -86,46 +63,29 @@ Each module within EC Designer serves a specific type of product:
 * 🧩 **Custom Product Designer** – Tailored to objects like mugs, T-shirts
 * 🛍️ **Webstore Setup** – Integrate with your frontend or third-party stores
 
-### **🔹 Core Concepts to Know**
+## **Core Concepts to Know**
 
 **Concept**
 
 **Description**
 
-**Product Blank**
+**Product Blank -** A base product layout with dimensions and safe zones
 
-A base product layout with dimensions and safe zones
+**Mask Image -** PNG used to define print-safe areas, cutouts, or shaped regions
 
-**Mask Image**
+**Template -** A pre-designed layout that users can customize
 
-PNG used to define print-safe areas, cutouts, or shaped regions
+**Ready Flow vs Custom Flow -** Ready: templated shopping. Custom: full personalization
 
-**Template**
+**Library -** A collection of backgrounds, layouts, and design assets
 
-A pre-designed layout that users can customize
+**Page Layouts -** Reusable page structures for multi-page products like photobooks
 
-**Ready Flow vs Custom Flow**
+##  **Getting Support**
 
-Ready: templated shopping. Custom: full personalization
+Need help while getting started? Connect - support@ezycreate.com
 
-**Library**
-
-A collection of backgrounds, layouts, and design assets
-
-**Page Layouts**
-
-Reusable page structures for multi-page products like photobooks
-
-### **🔹 Getting Support**
-
-Need help while getting started?
-
-* 📄 Check our FAQs & Help
-* 📹 Watch Tutorial Videos
-* 🛠️ Visit the Product Setup Guide
-* 💬 Reach out to Support
-
-### **🔹 What's Next?**
+### **What's Next?**
 
 Once you’re familiar with the overview, we recommend you move on to:
 
