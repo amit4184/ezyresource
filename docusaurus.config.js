@@ -121,11 +121,12 @@ const config = {
         src: 'img/ezycreatelogo.png',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-        },
+        // 🔴 Remove this block to hide 'Tutorial'
+       // {
+       //   type: 'docSidebar',
+        //  sidebarId: 'tutorialSidebar',
+         // position: 'left',
+        //},
         { to: '/products', label: 'Products', position: 'left' },
         { to: '/ec-designer', label: 'EC Designer', position: 'left' },
         { to: '/ec-store', label: 'EC Store', position: 'left' },
