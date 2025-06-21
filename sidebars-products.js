@@ -4,11 +4,11 @@ export default {
 	type: 'category',
       label: 'Explore all Products',
       items: [
-        'Explore all products/01-Photobook Designer',
-        'Explore all products/02-Print Designer',
-        'Explore all products/03-Calendar Designer',
-        'Explore all products/04-Custom Product Designer',
-        'Explore all products/05-Webstore',    
+      'Explore all products/01-Photobook Designer',
+    'Explore all products/02-Print Designer',
+    'Explore all products/03-Calendar Designer',
+    'Explore all products/04-Custom Product Designer',
+    'Explore all products/05-Webstore',
       ],
     },
     {
