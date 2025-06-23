@@ -127,7 +127,7 @@ const config = {
         //  sidebarId: 'tutorialSidebar',
          // position: 'left',
         //},
-        { to: '/products', label: 'Products', position: 'left' },
+        { to: '/products/Explore%20all%20products/Photobook%20Designer', label: 'Products', position: 'left' },
         { to: '/ec-designer', label: 'EC Designer', position: 'left' },
         { to: '/ec-store', label: 'EC Store', position: 'left' },
         { to: '/ec-dropship', label: 'EC Dropship', position: 'left' },
