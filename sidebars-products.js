@@ -1,9 +1,6 @@
 export default {
   productsSidebar: [
-    {
-      type: 'doc',
-      id: 'index', // 👈 This is for Products Overview (intro.md)
-    },
+  
     {
       type: 'category',
       label: 'Explore all Products',
