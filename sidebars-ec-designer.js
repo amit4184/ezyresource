@@ -1,5 +1,5 @@
 export default {
-  ec-designerSidebar: [
+  "ec-designerSidebar": [
   
     {
       type: 'category',
