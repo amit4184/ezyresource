@@ -2,7 +2,7 @@ export default {
   productsSidebar: [
     {
       type: 'doc',
-      id: 'intro', // 👈 This is for Products Overview (intro.md)
+      id: 'index', // 👈 This is for Products Overview (intro.md)
     },
     {
       type: 'category',
