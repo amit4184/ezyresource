@@ -6,7 +6,7 @@ export default {
       label: 'Get started',
       items: [
         'Get started/Overview',
-	 'Get started/Key Concepts',
+	 'Get started/Key Concept',
       ],
     },
     {
