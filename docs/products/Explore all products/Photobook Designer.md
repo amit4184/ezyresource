@@ -97,6 +97,10 @@ Here are some basic terms you'll see in this guide:
 
 4. You’ll see your Dashboard with a list of all saved templates
 
+   ![](/img/photobook-step-1.png)
+
+
+
 
 
 ## **➕ Step 2: Create a New Template**
