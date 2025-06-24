@@ -15,7 +15,8 @@ This document outlines the complete procedure for creating a **Merchandise Produ
 * **📦 Product**
    A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
 * **🔧 Product Types**
-* * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
+
+  * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
   * **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
 * **🎨 Template**
   A design layout applied to a product blank.
@@ -35,7 +36,8 @@ Before beginning product creation:
 * Log into[ **EzyAdmin**](https://admin.ezycreate.com).
 * Ensure you have the necessary permissions to create/manage products.
 * Ensure:
-* * At least one **product blank** exists.
+
+  * At least one **product blank** exists.
   * At least one **published template** is available.
 
 ## **Procedure: How to Create a Merchandise Product**
@@ -85,7 +87,8 @@ Before beginning product creation:
 
 * Select the **product language** (e.g., English).
 * Fill in:
-* * **Product Name**
+
+  * **Product Name**
   * **Description**
   * **Specifications** (materials, dimensions, etc.)
   * **Tags** (used for filtering and search)
@@ -104,7 +107,8 @@ Before beginning product creation:
 ### **Step 8: Set Product Prices**
 
 * All added variants will be shown with editable:
-* * **SKU**
+
+  * **SKU**
   * **Price**
 * Click the icon for each entry to update pricing.
 * Click **Save** after updating each entry.
@@ -121,7 +125,8 @@ Before beginning product creation:
 ### **Step 10: Final Preview and Save**
 
 * Review the following:
-* * **Product details**
+
+  * **Product details**
   * **Variants**
   * **Pricing**
   * **Albums**
@@ -176,7 +181,8 @@ Before beginning product creation:
 
 * Select the **product language** (e.g., English).
 * Fill in:
-* * **Product Name**
+
+  * **Product Name**
   * **Description**
   * **Specifications** (materials, dimensions, etc.)
   * **Tags** (used for filtering and search)
@@ -185,7 +191,8 @@ Before beginning product creation:
 ### **Step 7: Set Product Prices**
 
 * All variants will be shown with editable:
-* * **SKU**
+
+  * **SKU**
   * **Price**
 * Click the ✏️ icon to update each entry.
 * Click **Save**, then **Next**.
@@ -201,10 +208,11 @@ Before beginning product creation:
 ### **Step 9: Final Preview and Save**
 
 * Review the following:
-* * **Product details**
+
+  * **Product details**
   * **Variants**
   * **Pricing**
   * **Albums**
   * **Mockups**
 
-    If everything is correct, click **Save**.
+    Your merchandise product is now ready for publishing and sale on the platform. If you need additional guidance or encounter issues during setup, please contact the support team at **support@ezycreate.com**.
