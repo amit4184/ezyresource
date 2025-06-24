@@ -194,7 +194,7 @@ Before beginning product creation:
 
   * **SKU**
   * **Price**
-* Click the ✏️ icon to update each entry.
+* Click the icon to update each entry.
 * Click **Save**, then **Next**.
 
 ### **Step 8: Upload Mockup Images**
