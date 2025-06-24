@@ -53,8 +53,26 @@ With EzyDesigner, you can:
 Here are some basic terms you'll see in this guide:
 
 
+* **Photo Holder**
+   An empty frame where users can drag and drop their own photos.
 
+* **Tags**
+   Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
 
+* **Template Group**
+   A collection of templates with the same design but resized for different product sizes.
+
+* **Template**
+   A ready-to-use layout that includes photos, text fields, clipart, and background images.
+
+* **Text Field**
+   An editable area where users can add or customize text within a design.
+
+* **Template Creator**
+   The online design workspace where you create and customize templates.
+
+* **Template Object**
+   Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
 
 
@@ -301,6 +319,36 @@ To **unpublish**, go to the same settings menu and click **Unpublish.**
 
 
 ## **🧠 Quick Summary**
+
+* **Start a design**
+   → Go to **Dashboard** → Click **Create New Group**
+
+* **Add photos**
+   → Use the **Photo Holders** tab
+
+
+* **Add text**
+   → Use the **Text** tab
+
+
+* **Add background**
+   → Go to the **Background** tab
+
+
+* **Resize for other products**
+   → Open the **Layout** tab and select a size
+
+
+* **Preview before saving**
+   → Click the **Preview** button (2D preview)
+
+
+* **Make it live**
+   → Click Publish from the Dashboard
+
+
+
+
 
 
 
