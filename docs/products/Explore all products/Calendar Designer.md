@@ -1,7 +1,7 @@
 ---
 title: Calendar Designer
 ---
-# **🗓️ How to Create an EzyDesigner Calendar Template**
+# **How to Create an EC Calendar Template**
 
  📍 Platform:[ https://admin.ezycreate.com
 ](https://admin.ezycreate.com) 📩 Feedback Email: feedback@ezycreate.com
