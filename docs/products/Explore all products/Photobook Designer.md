@@ -9,7 +9,7 @@ title: Photobook Designer
 
 💬 Feedback? Send it to: **feedback@ezycreate.com**
 
-**What is EzyDesigner?**
+## **What is EzyDesigner?**
 
 **EzyDesigner** is a simple design tool that helps you make your own custom templates for personalized products like photobooks, calendars, and more. You don’t need design skills — just drag, drop, and create!
 
@@ -44,7 +44,7 @@ With EzyDesigner, you can:
 
 ✅ Use **filters** to find templates by name, occasion, language, or publish status
 
-# **Glossary of Key Terms**
+## **Glossary of Key Terms**
 
 Here are some basic terms you'll see in this guide:
 
@@ -63,7 +63,7 @@ Here are some basic terms you'll see in this guide:
 * **Template Object**
    Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
-## **Before You Start**
+### **Before You Start**
 
 **What is a Template?**
  A template is a pre-designed layout that helps your customers start designing quickly. It includes photo boxes, text areas, colors, and backgrounds — all ready to customize.
@@ -71,7 +71,7 @@ Here are some basic terms you'll see in this guide:
 **Where does this template appear?**
  It shows up inside the **EzyDesigner** where customers can choose and personalize it.
 
-# **Section I: How to Create a Template**
+## **Section I: How to Create a Template**
 
  **Step 1: Login**
 
@@ -118,7 +118,7 @@ Here are some basic terms you'll see in this guide:
 * Update template name, occasion, description
 * Option to disable the template if not in use
 
-## **🧰 Template Creator Features**
+## **Template Creator Features**
 
 **📌 Navigation Bar**
 
@@ -195,7 +195,7 @@ Here are some basic terms you'll see in this guide:
 
 
 
-# **Section II: How to Resize a Template in Template Creator**
+## **Section II: How to Resize a Template in Template Creator**
 
 **🟢 Step 1: Access Dashboard**
 
@@ -237,7 +237,7 @@ Here are some basic terms you'll see in this guide:
 
 
 
-#  **Common Questions**
+##  **Common Questions**
 
 1. **Can I edit a published template?**
 
@@ -251,7 +251,7 @@ Here are some basic terms you'll see in this guide:
 
 
 
-#  **Quick Summary**
+##  **Quick Summary**
 
 * **Start a design**
    → Go to **Dashboard** → Click **Create New Group**
@@ -268,6 +268,6 @@ Here are some basic terms you'll see in this guide:
 * **Make it live**
    → Click Publish from the Dashboard
 
-# **📩 Need Help?**
+## **📩 Need Help?**
 
 If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
