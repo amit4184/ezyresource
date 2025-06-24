@@ -1,18 +1,18 @@
 ---
 title: Calendar Designer
 ---
-# **How to Create an EC Calendar Template**
+## **How to Create an EC Calendar Template**
 
  📍 Platform:[ https://admin.ezycreate.com
 ](https://admin.ezycreate.com) 📩 Feedback Email: feedback@ezycreate.com
 
-## **🧾 Introduction**
+## **Introduction**
 
 The **Calendar Template Creator** allows users to design custom calendar templates with pre-designed date pad layouts, fonts, and color options. Users can personalize text styles, add multilingual events, adjust backgrounds, and design attractive calendar layouts with ease.
 
 Templates created here will be used by customers on **EzyDesigner** to customize and order printed calendars.
 
-## **📚 Index**
+## **Index**
 
 **Section**
 
@@ -20,9 +20,9 @@ Templates created here will be used by customers on **EzyDesigner** to customize
 2. How to Create a Calendar Template
 3. How to Create Events and Collections
 
-## **🧩 Section I: Calendar Template Creator Features**
+## **Section I: Calendar Template Creator Features**
 
-### **🔹 Features Offered**
+### **Features Offered**
 
 * Access pre-designed templates in the dashboard.
 * Add **multilingual events**.
@@ -32,7 +32,7 @@ Templates created here will be used by customers on **EzyDesigner** to customize
 * Edit and preview unpublished templates.
 * Use **filter options** (by template name, occasion, language, or published status).
 
-### **📘 Glossary**
+### **Glossary**
 
 **Photo Holder**: Frame to add user photos in square, portrait, or landscape ratios.
 
@@ -46,7 +46,7 @@ Templates created here will be used by customers on **EzyDesigner** to customize
 
 **Tags**: Used to filter layouts/templates easily.
 
-### **🛠️ Navigation & Editing Tools**
+### **Navigation & Editing Tools**
 
 #### **🌟 Upload Photos**
 
@@ -93,7 +93,7 @@ Templates created here will be used by customers on **EzyDesigner** to customize
 * Use typography dropdown and “+ / -” buttons for font size.
 * Choose text color via color picker and apply to entire calendar.
 
-## **🛠️ Section II: How to Create a Calendar Template**
+## **Section II: How to Create a Calendar Template**
 
 ### **✅ Step 1: Login**
 
@@ -142,7 +142,7 @@ Click Create New Group.
 
 ⚠️ Note: Template Name and Product cannot be changed after creation.
 
-## **📅 Section III: How to Create Collection and Events**
+## **Section III: How to Create Collection and Events**
 
 ### **🗂️ Step A: Open Calendar Events**
 
