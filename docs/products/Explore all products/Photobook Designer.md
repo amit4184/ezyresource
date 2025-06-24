@@ -22,7 +22,7 @@ This guide shows you how to:
 3. Edit, resize, and publish your template
 4. Add photos, text, backgrounds, and clipart
 
-##  **Key Features of the EzyDesigner Template Creator**
+## **Key Features of the EzyDesigner Template Creator**
 
 With EzyDesigner, you can:
 
@@ -74,8 +74,6 @@ Here are some basic terms you'll see in this guide:
 ## **🔐 Step 1: Log In to the Template Creator**
 
 1. Go to[ **https://admin.ezycreate.com**
-
-   ](https://admin.ezycreate.com)
 2. Enter your login email and password
 3. Click **Submit**
 4. You’ll see your Dashboard with a list of all saved templates
@@ -84,14 +82,23 @@ Here are some basic terms you'll see in this guide:
 
 ## **➕ Step 2: Create a New Template**
 
-1. On the dashboard, click **"Templates"** in the menu
+1. On the dashboard, click **"Templates"** in the menu 
+
+   ![](/img/photobook-step-3.png)
 2. Click the **“Create New Group”** button
+
+   ![](/img/photobook-step-4.png)
 3. Fill out the form:
-4. * **Template Name** – e.g., *Summer Memories*
+
+   * **Template Name** – e.g., *Summer Memories*
    * **Product** – Choose the product (like Photobook, Mug, Calendar)
    * **Occasion** – e.g., *Birthday*, *Wedding*, *Travel*
    * **Tags** – Add hashtags like #birthday, #family to help users find it
-5. Click **Create** – your blank template will open in a new tab
+
+     ![](/img/photobook-step-4.1.png)
+4. Click **Create** – your blank template will open in a new tab
+
+   ![]()
 
 ## **🎨 Step 3: Design Your Template**
 
@@ -167,7 +174,7 @@ When you're ready:
 
 To **unpublish**, go to the same settings menu and click **Unpublish.**
 
-## **🙋‍♀️ Common Questions**
+##  **Common Questions**
 
 1. **Can I edit a published template?**
 
@@ -179,16 +186,9 @@ To **unpublish**, go to the same settings menu and click **Unpublish.**
 
    Tags like #wedding or #babyalbum help users find your templates by category.
 
-## **🔍 SEO Keywords You’re Targeting**
 
-* How to create a photobook template
-* Easy template maker for personalized products
-* Simple drag-and-drop design tool
-* EzyDesigner tutorial
-* Beginner-friendly template creator
-* Resize photobook templates
 
-## **🧠 Quick Summary**
+##  **Quick Summary**
 
 * **Start a design**
    → Go to **Dashboard** → Click **Create New Group**
