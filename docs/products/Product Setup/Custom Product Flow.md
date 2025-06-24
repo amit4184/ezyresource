@@ -49,7 +49,7 @@ Before beginning product creation:
 
 ## **4. 🎽 Procedure: How to Create a Merchandise Product**
 
-### **🪜 Step 1: Navigate to Product Creation**
+### **Step 1: Navigate to Product Creation**
 
 * Log into **EzyAdmin**.
 * From the left sidebar, go to **Products → My Products**.
@@ -57,7 +57,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 2: Select a Product Blank**
+### **Step 2: Select a Product Blank**
 
 * Under **Step 1 - Product Blank**, click **Select product blank**.
 * Choose a base item (e.g., Standard Mug).
@@ -66,14 +66,14 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 3: Choose Product Type**
+### **Step 3: Choose Product Type**
 
 * In the Product Type tab, select: **Merch product**
 * Click **Next**.
 
 
 
-### **🪜 Step 4: Select Template**
+### **Step 4: Select Template**
 
 * Click **Select a template**.
 * Choose a template design.
@@ -82,7 +82,7 @@ Before beginning product creation:
 
 * Click **Next**.
 
-### **🪜 Step 5: Add Product Variants**
+### **Step 5: Add Product Variants**
 
 * In the Product Variants tab, click **+ Add variants**.
 * Only designs from the **same template group** can be added.
@@ -100,7 +100,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 6: Enter Product Details**
+### **Step 6: Enter Product Details**
 
 * Select the **product language** (e.g., English).
 * Fill in:
@@ -115,7 +115,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 7: Manage Albums & Upload Settings**
+### **Step 7: Manage Albums & Upload Settings**
 
 * Click **Select albums** to associate image collections.
 
@@ -127,7 +127,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 8: Set Product Prices**
+### **Step 8: Set Product Prices**
 
 * All added variants will be shown with editable:
 
@@ -141,7 +141,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 9: Upload Mockup Images**
+### **Step 9: Upload Mockup Images**
 
 * Upload visual previews/mockups.
 
@@ -151,7 +151,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 10: Final Preview and Save**
+### **Step 10: Final Preview and Save**
 
 * Review the following:
 * * **Product details**
@@ -196,7 +196,7 @@ Before beginning product creation:
 
 
 
-**Step 4: Select Template**
+### **Step 4: Select Template**
 
 * Click **Select a template**.
 * Choose a template design.
@@ -207,7 +207,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 5: Add Product Variants**
+### **Step 5: Add Product Variants**
 
 * In the Product Variants tab, click **+ Add variants**.
 * Only designs from the **same template group** can be added.
@@ -219,13 +219,11 @@ Before beginning product creation:
 * All variants must be visually unique.
 * All variants must belong to the **same template group**.
 * One variant **must be marked as default**.
-
-
 * Click **Next**.
 
 
 
-### **🪜 Step 6: Enter Product Details**
+### **Step 6: Enter Product Details**
 
 * Select the **product language** (e.g., English).
 * Fill in:
@@ -246,7 +244,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 7: Set Product Prices**
+### **Step 7: Set Product Prices**
 
 * All variants will be shown with editable:
 * * **SKU**
@@ -263,7 +261,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 8: Upload Mockup Images**
+### **Step 8: Upload Mockup Images**
 
 * Upload accurate visual mockups.
 
@@ -273,7 +271,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 9: Final Preview and Save**
+### **Step 9: Final Preview and Save**
 
 * Review the following:
 * * **Product details**
@@ -286,12 +284,4 @@ Before beginning product creation:
 
   * **Mockups**
 
-
-
-
-
-
-
-
-
-If everything is correct, click **Save**.
+    If everything is correct, click **Save**.
