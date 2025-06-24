@@ -44,37 +44,24 @@ With EzyDesigner, you can:
 
 ✅ Use **filters** to find templates by name, occasion, language, or publish status
 
-
-
-
-
 ## **📘 Glossary of Key Terms**
 
 Here are some basic terms you'll see in this guide:
 
-
 * **Photo Holder**
    An empty frame where users can drag and drop their own photos.
-
 * **Tags**
    Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
-
 * **Template Group**
    A collection of templates with the same design but resized for different product sizes.
-
 * **Template**
    A ready-to-use layout that includes photos, text fields, clipart, and background images.
-
 * **Text Field**
    An editable area where users can add or customize text within a design.
-
 * **Template Creator**
    The online design workspace where you create and customize templates.
-
 * **Template Object**
    Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
-
-
 
 ## **Before You Start**
 
@@ -90,50 +77,21 @@ Here are some basic terms you'll see in this guide:
 
    ](https://admin.ezycreate.com)
 2. Enter your login email and password
-
-
 3. Click **Submit**
-
-
 4. You’ll see your Dashboard with a list of all saved templates
 
-   ![](/img/photobook-step-1.png)
-
-
-
-
+   ![Log In to the Template Creator](/img/photobook-step-1.png "Log In to the Template Creator")
 
 ## **➕ Step 2: Create a New Template**
 
 1. On the dashboard, click **"Templates"** in the menu
-
 2. Click the **“Create New Group”** button
-
 3. Fill out the form:
-
-
 4. * **Template Name** – e.g., *Summer Memories*
-
-
-
    * **Product** – Choose the product (like Photobook, Mug, Calendar)
-
-
-
    * **Occasion** – e.g., *Birthday*, *Wedding*, *Travel*
-
-
-
    * **Tags** – Add hashtags like #birthday, #family to help users find it
-
-
 5. Click **Create** – your blank template will open in a new tab
-
-
-
-
-
-
 
 ## **🎨 Step 3: Design Your Template**
 
@@ -144,146 +102,70 @@ In the Template Creator, you can add different elements:
 These are image boxes where users can add their own photos.
 
 * Click on **Photo Holders**
-
-
 * Choose a layout: square, portrait, or landscape
-
-
 * Drag them onto the page
-
-
 
 ### **✍️ Add Text**
 
 * Click **Text** or **Floating Text**
-
-
 * Type something like “Your Title Here”
-
-
 * Customize the font, size, color, alignment, bold or italic
-
-
 
 💡 *Note: Emojis aren’t supported yet and will be ignored.*
 
 ### **🌈 Add Backgrounds**
 
 * Click **Background**
-
-
 * Pick a background image
-
-
 * Or upload your own (.jpg format only)
-
-
 
 ⚠️ *Do not use CMYK images — they may show wrong colors when printed.*
 
 ### **🖼️ Add Clipart**
 
 * Click **Clipart**
-
-
 * Choose stickers to decorate your template
-
-
 * You can upload your own transparent PNGs from the admin panel
-
-
-
-
-
-
 
 ## **🛠️ Step 4: Use Helpful Tools**
 
 * **Lock/Unlock** – Prevent objects from moving
-
-
 * **Duplicate** – Copy text or image holders
-
-
 * **Bring Forward / Send Back** – Layer objects as needed
-
-
 * **Crop** – Adjust photo framing
 
-
-
 🧩 Gridlines help you align things perfectly — they appear automatically when moving objects close to each other.
-
-
-
-
 
 ## **💾 Step 5: Save & Preview**
 
 * Click **Save** to save your design
-
-
 * Click **Preview** to see how it looks (2D only for now)
-
-
 * Click **Close** to return to the dashboard
 
-
-
 🎯 Always save before you close!
-
-
-
-
 
 ## **🔁 Step 6: Resize Your Template (Optional)**
 
 Want your template to work on different product sizes? Here’s how to resize it:
 
 1. Go back to the **Dashboard**
-
-
 2. Open your existing template
-
-
 3. Click the **Layout** button
-
-
 4. Choose a new product size from the list (e.g., 6x6, 12x12)
-
-
 5. A new tab will open — review the layout and make adjustments if needed
-
-
 6. Click **Save**
 
-
-
 🛠️ **Tip:** Always check spacing and alignments after resizing — some items may shift slightly.
-
-
-
-
 
 ## **📢 Step 7: Publish Your Template**
 
 When you're ready:
 
 1. On the Dashboard, click the gear/settings icon next to your template
-
-
 2. Click **Publish**
-
-
 3. Your template will now appear for users in the EzyDesigner tool!
 
-
-
 To **unpublish**, go to the same settings menu and click **Unpublish.**
-
-
-
-
 
 ## **🙋‍♀️ Common Questions**
 
@@ -297,70 +179,32 @@ To **unpublish**, go to the same settings menu and click **Unpublish.**
 
    Tags like #wedding or #babyalbum help users find your templates by category.
 
-
-
-
-
 ## **🔍 SEO Keywords You’re Targeting**
 
 * How to create a photobook template
-
-
 * Easy template maker for personalized products
-
-
 * Simple drag-and-drop design tool
-
-
 * EzyDesigner tutorial
-
-
 * Beginner-friendly template creator
-
-
 * Resize photobook templates
-
-
 
 ## **🧠 Quick Summary**
 
 * **Start a design**
    → Go to **Dashboard** → Click **Create New Group**
-
 * **Add photos**
    → Use the **Photo Holders** tab
-
-
 * **Add text**
    → Use the **Text** tab
-
-
 * **Add background**
    → Go to the **Background** tab
-
-
 * **Resize for other products**
    → Open the **Layout** tab and select a size
-
-
 * **Preview before saving**
    → Click the **Preview** button (2D preview)
-
-
 * **Make it live**
    → Click Publish from the Dashboard
 
-
-
-
-
-
-
-
-
-
-
 ## **📩 Need Help?**
-
 
 If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
