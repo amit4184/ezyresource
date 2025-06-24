@@ -12,18 +12,15 @@ This document outlines the complete procedure for creating a **Merchandise Produ
 * **🧱 Product Blank**
    A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does *not* include pricing, eCommerce configurations, templates, or designs.
    ➤ *Example: A standard 11oz mug with no associated template or sales info.*
-  **📦 Product**
+* **📦 Product**
    A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
 * **🔧 Product Types**
-
-
 * * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
 
   * **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
 
-
 * **🎨 Template**
-   A design layout applied to a product blank.
+  A design layout applied to a product blank.
 * **🗂️ Template Group**
    A collection of templates with similar designs, used to organize variants.
 * **🎭 Variant**
