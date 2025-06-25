@@ -3,6 +3,9 @@ title: Print Designer
 ---
 # **How to Create a Print Product**
 
+
+📍Platform:[ https://admin.ezycreate.com ](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
+
 ## **Glossary**
 
 * **Product Blank**: A basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
@@ -168,3 +171,8 @@ Note:
 * Status will update to Publish
 
 Once Published, the Product Blank Specs Cannot Be Changed.
+
+
+If you need help or would like to share feedback:
+
+📩 **Feedback**: [feedback@ezycreate.com](mailto:feedback@ezycreate.com) 📩 **Support**: [support@ezycreate.com](mailto:support@ezycreate.com)
