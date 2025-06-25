@@ -195,10 +195,4 @@ Thank you for your prompt attention to this order.
 
 
 
-
-
-
-
-
-
 ![]()
