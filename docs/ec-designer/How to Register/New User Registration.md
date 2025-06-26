@@ -13,7 +13,6 @@ Welcome! If you're a new supplier joining the EzyCreate platform, this simple gu
 
 Supplier registration allows you to add your business to the EzyCreate Admin system. Once registered, you can upload products, receive orders, and manage logistics from your dashboard.
 
-
 ## **📑 Index**
 
 1. Glossary
@@ -34,7 +33,6 @@ Supplier registration allows you to add your business to the EzyCreate Admin sys
 16. Supplier notification email format
 17. Key learnings from the document
 
-
 ### **📘 Glossary**
 
 **Ready Product**
@@ -49,15 +47,11 @@ Supplier registration allows you to add your business to the EzyCreate Admin sys
 2. Enter your **username** and **password**.
 3. On successful login, the following **dashboard** will be shown.
 
-
-
 ## **➕ Adding a Supplier**
 
 1. From the left navigation panel, click on Supplier.
 2. Click the “Add” button at the top-right corner to register a new supplier.
 3. Fill in the required details and click Save. You have now successfully registered a supplier.
-
-
 
 ## **📦 Adding Products**
 
@@ -70,8 +64,6 @@ Supplier registration allows you to add your business to the EzyCreate Admin sys
 1. Once the products are configured and end-to-end testing is completed, they can be published.
 2. Published products are now visible to retailers, who can add them to their stores and allow customers to place orders.
 
-
-
 ## **📥 How to Download Orders**
 
 1. Orders placed with the supplier will appear under the Orders tab in your dashboard.
@@ -79,34 +71,25 @@ Supplier registration allows you to add your business to the EzyCreate Admin sys
 3. The supplier can:
    **Download** orders from the system & **Print** or **process** the orders
 
-
-
 ## **👁️‍🗨️ “Preview” an Item in an Order**
 
 * Click **Preview** to view the customer’s **customized design**.
-
-
 
 ## **🖼️ Download the Print-Ready Images**
 
 * Click **Download** to get the **print-ready JPG images**.
    All images will be in **.jpg** format.
 
-
-
 ## **🔄 Update the Status**
 
 * The **status** of each item can be updated as the order progresses.
 * Once **Shipped**, you'll get an option to:
 * * Select the **logistic/courier partner**
-
   * Add a **docket or AWB number**
 
 ✅ Once the order is ready and packed:
 
 * The **Label** and **Invoice/Delivery Note** can be **printed** and shipped with the order.
-
-
 
 ## **🏷️ Label Download**
 
@@ -120,15 +103,12 @@ To assign orders to a **logistic partner**:
 * Go to the Logistics tab in your dashboard
 * Add or manage your shipping/logistic partners
 
-
 ## **Order Status: Mark as Shipped**
 
 Once the order is shipped:
 
 * **Update the status** in the system to notify the customer
    E.g., "Shipped", "Out for Delivery", etc.
-
-
 
 ## **🌐 Switch Language**
 
@@ -142,8 +122,6 @@ If the supplier uses an **automated workflow**:
 * The order will be posted to the URL/API provided.
 * An API will be provided to update the status.
 * Alternatively, the supplier can call your API to pull order data shown under the order screen.
-
-
 
 ## **📊 Dashboards**
 
@@ -163,8 +141,6 @@ If the supplier uses an **automated workflow**:
 8. **Note** - 送货单
 9. **Previous** - 上一页
 
-
-
 ## **📩 Supplier Notification Email Format**
 
 **Subject:** Order Confirmation – TYNK0003423
@@ -183,16 +159,3 @@ Please ensure that the items are dispatched as per the agreed timeline. If you h
 Thank you for your prompt attention to this order.
  **Best regards,**
  Ezycreate Team
-
-
-
-
-
-
-
-
-
-
-
-
-![]()
