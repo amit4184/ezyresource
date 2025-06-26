@@ -266,7 +266,7 @@ Before beginning product creation:
 
 
 
-### **🪜 Step 8: Upload Mockup Images**
+### **Step 8: Upload Mockup Images**
 
 * Upload accurate visual mockups.
 
