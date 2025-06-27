@@ -7,43 +7,27 @@ title: Create Page Layouts
 
 * **Page Layout**
    It is a set of photo holders to be applied on the designer to fasten the process of designing.
-
-
 * **Photo Holder**
    A photo-holder is an empty object to be laid out on the designer to add an image into it.
-
-
 * **Tags**
    Hashtags are used to filter specific layouts.
-
-
 * **Groups**
    A way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
-
-
 * **Template**
    It is a set of ready designs consisting of photo holders, text field, cliparts, backgrounds etc. to facilitate users to use ready-made designs for designing purpose.
-
-
 * **Template Creator**
    Is the designer where the ready design templates are created.
-
-
 * **Layout Dashboard**
    Layout dashboard is where the created layouts are displayed and user can edit/publish/delete any of the created layouts. It is generally used to publish the created layout which will appear in the layout tab in the designer.
-
-
 * **Layout Tab**
    Is the section given in the designer where all the published layouts are grouped for the user to use.
-
-
 
 ## **Steps to Create a Page Layout**
 
 ### **Step 1**
 
 Open:[ https://stagingadmin.ezycreate.com/
-](https://stagingadmin.ezycreate.com/) Use test credentials to Login.
+](https://stagingadmin.ezycreate.com) Use test credentials to Login.
 
 ### **Step 2**
 
@@ -65,8 +49,6 @@ A form will be displayed. Enter the details:
 * **Tags** – Add the #tags
 * **Create** – Click on the create button to open the template in a new tab.
 
-
-
 ### **Step 5**
 
 Click on **Create** to create the template.
@@ -78,8 +60,6 @@ To create a page layout design:
 
 * Add a photo holder/holders as desired to the designer
 * Add single/multiple text fields to the designer as desired
-
-
 
 **Note:** A page layout saves only the **photo holders** and the **text field objects**.
 
@@ -94,8 +74,6 @@ Enter:
 
 * **Name** – Enter a name for the layout. This layout name will be displayed in the ezydesigner under the page layout tab.
 * **Tags** – Add the #tags
-
-
 
 Click on **Save** to save the page layout.
 
@@ -116,8 +94,6 @@ Users can also update an existing layout design:
 * Save it using the **“Update Layout”** option
 * Enter the layout name/tab and click on the **Update** button
 
-
-
 The existing layout design will be updated, replacing the selected design.
 
 ### **Step 11**
@@ -126,8 +102,6 @@ To search a saved layout:
 
 * Click on the **Page Layout filter** option
 * Enter the layout name or tag used while saving the layout
-
-
 
 The layout tab will display the filtered results.
 
@@ -138,8 +112,6 @@ To apply a layout:
 * Click on a layout from the **Page Layout** tab
 * The layout will be applied to the designer
 
-
-
 ## **Manage Layouts from Layout Dashboard**
 
 ### **Step 13**
@@ -148,8 +120,6 @@ Once a layout is created in Template Creator:
 
 * Go to the **“Layouts”** dashboard under **Creative Assets**
 * The Layout Dashboard will display the created layouts
-
-
 
 **Step 14**
 
@@ -160,15 +130,11 @@ Under Layouts tab, users can:
 * **Publish** a layout
 * **Delete** a layout
 
-
-
 ### **Step 15**
 
 To **edit** layout details:
 
 * Click on the **Edit** button beside each layout
-
-
 
 **Note:** A created layout will have default status as **“Unpublished”**
 
@@ -179,16 +145,12 @@ You can:
 * Upload a custom **thumbnail image** (.jpg format, square orientation recommended)
 * Click **Save**
 
-
-
 ### **Step 16**
 
 To **publish** a layout:
 
 * Click on the **Options** button
 * Select and click on the **“Publish”** button
-
-
 
 The layout status will be updated to **“Published”**
 
@@ -202,7 +164,5 @@ To **delete** a layout:
 
 * Click on the **Options** button
 * Select and click on the **“Delete”** button
-
-
 
 The layout will be deleted from both the **Template Creator** and the **end-user designer**.
