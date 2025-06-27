@@ -153,7 +153,7 @@ To preview:
  👉[ https://www.photojaanic.com/templates?size=120073](https://www.photojaanic.com/templates?size=120073)
 
 To make it live:
- 👉 <https://www.photojaanic.com/ezytemplates?size=120073>
+[👉 https://www.photojaanic.com/ezytemplates?size=120073](https://www.photojaanic.com/ezytemplates?size=120073)
  Click **Publish**.
 
 **Step 6**
