@@ -1,7 +1,7 @@
 ---
 title: Mask Img Generation
 ---
-# **How to Create a Print Product**
+## **How to Create a Mask Image for Print Product** 
 
 ### **Glossary**
 
