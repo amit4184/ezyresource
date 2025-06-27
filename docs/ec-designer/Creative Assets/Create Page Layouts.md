@@ -26,7 +26,7 @@ title: Create Page Layouts
 
 ### **Step 1**
 
-Open:[ https://stagingadmin.ezycreate.com/
+Open:[ https://stagingadmin.ezycreate.com
 ](https://stagingadmin.ezycreate.com) Use test credentials to Login.
 
 ### **Step 2**
