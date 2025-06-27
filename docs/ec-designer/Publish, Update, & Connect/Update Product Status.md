@@ -1,16 +1,13 @@
 ---
 title: Update Product Status
 ---
-
-
-
 ## **How to Update Product Status**
 
 ### **Step 1**
 
 Open the website link:
 
-👉 <https://admin.ezycreate.com/>
+👉 [https://admin.ezycreate.com](https://admin.ezycreate.com/)
 
 ### **Step 2**
 
