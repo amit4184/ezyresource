@@ -33,7 +33,7 @@ This document outlines the step-by-step procedure to create a **Ready** product 
 
 Before beginning, ensure the following:
 
-* You are logged into[ EzyAdmin](<>).
+* You are logged into[ EzyAdmin](https://admin.ezycreate.com/).
 * You have the necessary permissions to create and manage products.
 * At least one Product Blank and one Published Template are available.
 
