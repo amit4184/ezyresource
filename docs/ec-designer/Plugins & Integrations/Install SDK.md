@@ -102,7 +102,7 @@ CopyEdit
 
 ### **3. Update AndroidManifest.xml**
 
-Inside the <manifest> tag, add:
+Inside the `manifest `tag, add:
 
 xml
 
@@ -110,7 +110,7 @@ CopyEdit
 
 `xmlns:tools="http://schemas.android.com/tools"`
 
-Inside the <application> tag, add:
+Inside the `application` tag, add:
 
 xml
 
