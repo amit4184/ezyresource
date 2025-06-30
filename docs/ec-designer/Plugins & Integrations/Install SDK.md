@@ -210,11 +210,11 @@ gradle
 
 CopyEdit
 
-dependencies {
+`dependencies {`
 
-    implementation 'com.ezycreate:sdk:1.0.0' // Replace with actual version
+`    implementation 'com.ezycreate:sdk:1.0.0' // Replace with actual version`
 
-}
+`}`
 
 ## **💬 Need Help?**
 
