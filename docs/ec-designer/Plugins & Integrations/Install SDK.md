@@ -1,16 +1,9 @@
 ---
 title: Install SDK
 ---
-
-
-
 # **EzyCreate Mobile SDK Integration Guide**
 
 Welcome to the **Mobile SDK Integration Guide** for the **EzyCreate SaaS Platform**. This SDK enables seamless integration of store creation, product customization, and order processing features into your mobile app.
-
-
-
-
 
 ## **🔐 Before You Begin**
 
@@ -21,128 +14,60 @@ To use the SDK, you must:
    ](https://ezycreate.com)
 2. Subscribe to a plan that suits your business needs
 
-
-
-
-
-
-
 ## **Step 1: Register & Subscribe**
 
 * Visit[ **EzyCreate.com**
 
   ](https://ezycreate.com)
 * Create an account and complete registration
-
-
 * Choose a subscription plan based on your usage
-
-
-
-
-
-
 
 ## **Step 2: Access Your Dashboard**
 
 Once subscribed:
 
 * Log in to your **user dashboard**
-
-
 * Create your first **Store** (each store represents an integration instance)
-
-
 
 You will receive:
 
 * **Client ID**
-
-
 * **Client Secret Key**
 
-
-
 These credentials are essential for authenticating SDK requests from your mobile app.
-
-
-
-
 
 ## **Step 3: SDK Authentication**
 
 * All SDK calls require **secure authentication**
-
-
 * Use the **Client ID** and **Secret Key** to obtain access tokens or establish secure connections
-
-
 * Store credentials securely within your app
-
-
-
-
-
-
 
 ## **What’s Next?**
 
 Once authenticated, the SDK allows you to:
 
 * Connect to your **Store**
-
-
 * **Fetch products**
-
-
 * **Create personalized products** using the online designer in a **WebView**
-
-
 * **Add items to cart**
-
-
 * **Submit orders** from the app
-
-
-
-
-
-
 
 ## **SDK Downloads**
 
 Choose the appropriate SDK for your platform:
 
 * **Android (Java/Kotlin)**: Download Android SDK (.aar)
-
-
 * **React Native**: npm install ezycreate-react-sdk (coming soon)
 
-
-
 ⚠️ Always use the **Client ID** and **Secret Key** from your dashboard to initialize the SDK.
-
-
-
-
 
 # **EzyCreate SDK – Android Integration (Quick Guide)**
 
 ## **✅ Prerequisites**
 
 * Android project with compileSdkVersion 34 or higher
-
-
 * .aar file of EzyCreate SDK (for local testing)
-
-
 * Access token, client credentials, and user credentials
-
-
-
-
-
-
 
 ## **Local Testing Integration (using .aar)**
 
@@ -162,18 +87,18 @@ gradle
 
 CopyEdit
 
-dependencies {
+`dependencies {`
 
-    implementation fileTree(dir: 'libs', include: \['\*.jar', '\*.aar'])
+`    implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])`
 
-    implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+`    implementation 'com.squareup.okhttp3:okhttp:4.10.0'`
 
-    implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0'
+`    implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0'`
 
-    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+`    implementation 'com.squareup.retrofit2:retrofit:2.9.0'`
 
-    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
-             }
+`    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+             }`
 
 ### **3. Update AndroidManifest.xml**
 
@@ -200,10 +125,6 @@ bash
 CopyEdit
 
 cd android && ./gradlew clean
-
-
-
-
 
 ## **⚙️ SDK Initialization (Kotlin Example)**
 
@@ -243,10 +164,6 @@ val sdkConfig = SDKConfig(
 
 EzycreateSDK.initialize(sdkConfig)
 
-
-
-
-
 ## **📦 Usage Examples**
 
 kotlin
@@ -258,10 +175,6 @@ val products = EzycreateSDK.getInstance().getProducts()
 val projects = EzycreateSDK.getInstance().getProjects()
 
 val orders = EzycreateSDK.getInstance().getOrders()
-
-
-
-
 
 ## **Production Integration (Coming Soon via Maven)**
 
@@ -303,13 +216,7 @@ dependencies {
 
 }
 
-
-
-
-
 ## **💬 Need Help?**
 
 * 📘 View the **Full SDK Documentation** (link)
-
-
 * 📧 Contact Support: **support@ezycreate.com**
