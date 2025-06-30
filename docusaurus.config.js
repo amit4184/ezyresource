@@ -20,10 +20,26 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
+//  i18n: {
+//    defaultLocale: 'en',
+ //   locales: ['en'],
+ // },
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+  defaultLocale: 'en',
+  locales: ['en', 'ja', 'zh'],
+  localeConfigs: {
+    en: {
+      label: 'English',
+    },
+    ja: {
+      label: '日本語',
+    },
+    zh: {
+      label: '中文',
+    },
   },
+},
+
 
   plugins: [
     [
