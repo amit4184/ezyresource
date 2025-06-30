@@ -188,19 +188,19 @@ gradle
 
 CopyEdit
 
-allprojects {
+`allprojects {`
 
-    repositories {
+`    repositories {`
 
-        google()
+`        google()`
 
-        mavenCentral()
+`        mavenCentral()`
 
-        maven { url 'https://your-maven-url.com/repository' }
+`        maven { url 'https://your-maven-url.com/repository' }`
 
-    }
+`    }`
 
-}
+`}`
 
 ### **Add SDK Dependency**
 
