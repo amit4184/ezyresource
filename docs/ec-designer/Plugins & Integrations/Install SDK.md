@@ -79,7 +79,7 @@ bash
 
 CopyEdit
 
-android/app/libs
+`android/app/libs`
 
 ### **2. Configure build.gradle (Module: app)**
 
@@ -108,7 +108,7 @@ xml
 
 CopyEdit
 
-xmlns:tools="http://schemas.android.com/tools"
+`xmlns:tools="http://schemas.android.com/tools"`
 
 Inside the <application> tag, add:
 
@@ -116,7 +116,7 @@ xml
 
 CopyEdit
 
-tools:replace="android:theme"
+`tools:replace="android:theme"`
 
 ### **4. Clean and Rebuild Project**
 
@@ -124,7 +124,7 @@ bash
 
 CopyEdit
 
-cd android && ./gradlew clean
+`cd android && ./gradlew clean`
 
 ## **⚙️ SDK Initialization (Kotlin Example)**
 
@@ -132,35 +132,35 @@ kotlin
 
 CopyEdit
 
-val sdkConfig = SDKConfig(
+`val sdkConfig = SDKConfig(`
 
-    sdkToken = "YOUR_SDK_TOKEN",
+`    sdkToken = "YOUR_SDK_TOKEN",`
 
-    grantType = "client_credentials",
+`    grantType = "client_credentials",`
 
-    bundleId = "com.yourproject",
+`    bundleId = "com.yourproject",`
 
-    clientId = "YOUR_CLIENT_ID",
+`    clientId = "YOUR_CLIENT_ID",`
 
-    clientSecretKey = "YOUR_CLIENT_SECRET",
+`    clientSecretKey = "YOUR_CLIENT_SECRET",`
 
-    platform = "android",
+`    platform = "android",`
 
-    redirectUrl = "YOUR_REDIRECT_URL",
+`    redirectUrl = "YOUR_REDIRECT_URL",`
 
-    scope = "YOUR_SCOPE",
+`    scope = "YOUR_SCOPE",`
 
-    baseUrl = "YOUR_BASE_URL",
+`    baseUrl = "YOUR_BASE_URL",`
 
-    clientSecret = "YOUR_CLIENT_SECRET",
+`    clientSecret = "YOUR_CLIENT_SECRET",`
 
-    userToken = "YOUR_USER_TOKEN",
+`    userToken = "YOUR_USER_TOKEN",`
 
-    userId = "YOUR_USER_ID",
+`    userId = "YOUR_USER_ID",`
 
-    toastEnabled = true
+`    toastEnabled = true`
 
-)
+`)`
 
 EzycreateSDK.initialize(sdkConfig)
 
@@ -170,11 +170,11 @@ kotlin
 
 CopyEdit
 
-val products = EzycreateSDK.getInstance().getProducts()
+`val products = EzycreateSDK.getInstance().getProducts()`
 
-val projects = EzycreateSDK.getInstance().getProjects()
+`val projects = EzycreateSDK.getInstance().getProjects()`
 
-val orders = EzycreateSDK.getInstance().getOrders()
+`val orders = EzycreateSDK.getInstance().getOrders()`
 
 ## **Production Integration (Coming Soon via Maven)**
 
