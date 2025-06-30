@@ -9,16 +9,12 @@ Welcome to the **Mobile SDK Integration Guide** for the **EzyCreate SaaS Platfor
 
 To use the SDK, you must:
 
-1. Register on[ EzyCreate.com
-
-   ](https://ezycreate.com)
+1. Register on\[ EzyCreate.com ] (https://ezycreate.com)
 2. Subscribe to a plan that suits your business needs
 
 ## **Step 1: Register & Subscribe**
 
-* Visit[ **EzyCreate.com**
-
-  ](https://ezycreate.com)
+* Visit[ **EzyCreate.com** ] (https://ezycreate.com)
 * Create an account and complete registration
 * Choose a subscription plan based on your usage
 
@@ -75,17 +71,9 @@ Choose the appropriate SDK for your platform:
 
 Place the .aar file in:
 
-bash
-
-CopyEdit
-
 `android/app/libs`
 
 ### **2. Configure build.gradle (Module: app)**
-
-gradle
-
-CopyEdit
 
 `dependencies {`
 
@@ -104,33 +92,17 @@ CopyEdit
 
 Inside the `manifest `tag, add:
 
-xml
-
-CopyEdit
-
 `xmlns:tools="http://schemas.android.com/tools"`
 
 Inside the `application` tag, add:
-
-xml
-
-CopyEdit
 
 `tools:replace="android:theme"`
 
 ### **4. Clean and Rebuild Project**
 
-bash
-
-CopyEdit
-
 `cd android && ./gradlew clean`
 
 ## **⚙️ SDK Initialization (Kotlin Example)**
-
-kotlin
-
-CopyEdit
 
 `val sdkConfig = SDKConfig(`
 
@@ -166,10 +138,6 @@ EzycreateSDK.initialize(sdkConfig)
 
 ## **📦 Usage Examples**
 
-kotlin
-
-CopyEdit
-
 `val products = EzycreateSDK.getInstance().getProducts()`
 
 `val projects = EzycreateSDK.getInstance().getProjects()`
@@ -183,10 +151,6 @@ When the SDK is published:
 ### **Add Maven Repository**
 
 In settings.gradle or project-level build.gradle:
-
-gradle
-
-CopyEdit
 
 `allprojects {`
 
@@ -205,10 +169,6 @@ CopyEdit
 ### **Add SDK Dependency**
 
 In build.gradle (app level):
-
-gradle
-
-CopyEdit
 
 `dependencies {`
 
