@@ -3,7 +3,7 @@ title: Overview
 ---
 ## **EC Designer Overview**
 
-Welcome to Japan the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
+Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
 
 ## **What is EC Designer?**
 
