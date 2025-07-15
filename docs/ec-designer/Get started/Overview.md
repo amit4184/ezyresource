@@ -3,7 +3,7 @@ title: Overview
 ---
 ## **EC Designer Overview**
 
-Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
+Welcome to Japan the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
 
 ## **What is EC Designer?**
 
@@ -49,7 +49,7 @@ This platform is built for:
 * 🏢 **Corporate Clients** setting up internal design + print portals
 * 📸 **Studios & Photographers** selling albums or prints
 
-##  **How Does It Work?**
+## **How Does It Work?**
 
 Step 1 - Register Account →Step 2. Choose Product Type → Step 3. Create Product Blank → Step 4. Design Templates → Step 5. Publish & Connect Store → Step 6. Accept Orders → Step 7. Track via Dashboard
 
@@ -81,7 +81,7 @@ Each module within EC Designer serves a specific type of product:
 
 **Page Layouts -** Reusable page structures for multi-page products like photobooks
 
-##  **Getting Support**
+## **Getting Support**
 
 Need help while getting started? Connect - support@ezycreate.com
 
