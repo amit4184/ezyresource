@@ -149,6 +149,10 @@ const config = {
         { to: '/ec-dropship', label: 'EC Dropship', position: 'left' },
         { to: '/ec-factory', label: 'EC Factory', position: 'left' },
         { to: '/ec-crm', label: 'EC CRM', position: 'left' },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
     },
     footer: {
