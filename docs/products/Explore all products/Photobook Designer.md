@@ -1,6 +1,6 @@
 ---
 title: Photobook Designer
-sidebar_label: ""
+sidebar_label: EC Photobook Designer Tool
 ---
 
 
