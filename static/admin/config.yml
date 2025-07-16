@@ -7,6 +7,7 @@ media_folder: "static/img"
 public_folder: "/img/"
 
 collections:
+  # ---------- ENGLISH ----------
   - name: tutorial
     label: "Tutorial"
     folder: docs/tutorial-basics
@@ -86,3 +87,73 @@ collections:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
 
+  # ---------- JAPANESE ----------
+  - name: tutorial-ja
+    label: "Tutorial (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: products-ja
+    label: "Products (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-products/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-designer-ja
+    label: "EC Designer (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-ec-designer/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-store-ja
+    label: "EC Store (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-ec-store/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-dropship-ja
+    label: "EC Dropship (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-ec-dropship/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-factory-ja
+    label: "EC Factory (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-ec-factory/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: ec-crm-ja
+    label: "EC CRM (JP)"
+    folder: i18n/ja/docusaurus-plugin-content-docs-ec-crm/current
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
