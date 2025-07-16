@@ -4,147 +4,133 @@ title: Define Product Categories
 
 
 
-## **Index**
+こちらは「
 
-* **How to Add a New Category**
+✅ 新しいカテゴリおよびサブカテゴリの追加方法」の日本語翻訳です（意味はそのまま保持しています）：
 
 
-   Open Category Tab
 
+✅ **新しいカテゴリを追加する方法**
 
-   Add a New Category
+**カテゴリタブへ移動**
+ サイドバーの「**Category（カテゴリ）**」タブをクリックします。
 
 
-   Fill Category Form
-   
 
-  Save the Category
-   
 
-  Edit an Existing Category
-* **How to Add a New Sub-Category**
-   
 
-  Open Sub-category Tab
+**新しいカテゴリを追加**
+ 「**Add（追加）**」ボタンをクリックします。
 
 
-  Add a New Sub-category
 
 
-  Fill Sub-category Form
 
+**カテゴリ追加フォームを入力：**
 
-   Save the Sub-category
-   
+* **カテゴリID**：一意のIDを入力（例：CAT008）
 
-  Edit an Existing
 
-## **How to Add a New Category**
+* **カテゴリ名**：カテゴリ名を入力（例：prints、gifts、stationery）
 
-1. **Click on the** Category **tab.**
 
+* **説明**：カテゴリの説明を100語以内で入力
 
-2. **Click** Add **to create a new category.**
 
+* **画像URL**：カテゴリを表す画像のURLを貼り付け（JPG推奨）
 
-3. **Fill in the required details into the Add Category form:**
 
+* **表示順（Order）**：表示される順番を数値で指定（1 = 最初に表示）
 
-4. * **Category ID**: Enter a unique category ID (e.g., CAT008).
 
+* **ステータス（Status）**：\*\*Enabled（有効）\*\*に切り替えてカテゴリをアクティブにします
 
 
-   * **Category Name**: Enter a name for the category (e.g., Prints, Gifts, Stationery).
 
 
 
-   * **Description**: Enter a description for the category (up to 100 words).
 
 
+**保存**
+ ［**Save（保存）**］ボタンをクリックして、カテゴリを作成します。
 
-   * **Image URL**: Enter the JPG image URL describing the category.
 
 
 
-   * **Order**: Enter the display order (e.g., 1 = first position, 2 = second).
 
+**既存カテゴリを編集**
+ 対象カテゴリの［**Edit（編集）**］ボタンをクリックします
+ 必要な変更を加えたら、再度［**Save（保存）**］をクリックします
 
 
-   * **Status**: Toggle to **‘Enabled’** to make the category active.
 
 
-5. **Click on the** Save **button.**
 
+✅ **新しいサブカテゴリを追加する方法**
 
-6. **To edit a category:**
+**サブカテゴリタブへ移動**
+ 「**Sub-category（サブカテゴリ）**」タブをクリックします。
 
 
-7. * Click on the Edit button.
 
 
 
-   * Make necessary changes.
+**新しいサブカテゴリを追加**
+ 「**Add（追加）**」ボタンをクリックします。
 
 
 
-   * Click on the Save button.
 
 
+**サブカテゴリ追加フォームを入力：**
 
+* **サブカテゴリID**：SCAT### 形式で一意のIDを入力（例：SCAT005）
 
 
+* **サブカテゴリ名**：サブカテゴリの名前を入力（例：Square Prints、Mini Prints）
 
 
-## **How to Add a New Sub-Category**
+* **カテゴリ**：親カテゴリをドロップダウンから選択（例：CAT008）
 
-1. **Click on the** Sub-category **tab.**
 
+* **説明**：サブカテゴリの短い説明を1～2行で記載
 
-2. **Click** Add **to create a new sub-category.**
 
+* **画像URL**：サブカテゴリを表す画像のURLを貼り付け（JPG推奨）
 
-3. **Fill in the required details into the Add Sub-category form:**
 
+* **表示順（Order）**：表示リスト内の順番（1 = 最上部）
 
-4. * **Sub-category ID**: Enter a unique sub-category ID (e.g., SCAT005 — must follow SCAT### format).
 
+* **ステータス（Status）**：**Enabled（有効）** に切り替えて公開状態にします
 
 
-   * **Sub-category Name**: Enter a name for the sub-category (e.g., Square Prints, Mini Prints).
 
 
 
-   * **Category**: Select the category under which the sub-category will be listed (e.g., CAT008 from the dropdown).
 
 
+**保存**
+ ［**Save（保存）**］ボタンをクリックしてサブカテゴリを作成します。
 
-   * **Description**: Enter a short, realistic description (1–2 lines).
 
 
 
-   * **Image URL**: Enter the JPG image URL describing the sub-category.
 
+**既存サブカテゴリを編集**
+ 編集したいサブカテゴリの［**Edit（編集）**］ボタンをクリック
+ 変更後、再度［**Save（保存）**］をクリック
 
 
-   * **Order**: Enter the display position (e.g., 1 = top of the list).
 
 
 
-   * **Status**: Toggle to **‘Enabled’** to make the sub-category live.
+**まとめとして：**
 
+* カテゴリやサブカテゴリの登録・管理はそれぞれのタブから可能
 
-5. **Click on the** Save **button.**
 
+* 画像URLや表示順も調整でき、ステータスで公開設定も管理
 
-6. **To edit a sub-category:**
 
-
-7. * Click on the Edit button.
-
-
-
-   * Make necessary changes.
-
-
-
-   * Click on the Save button.
+* 編集機能で既存情報の変更もスムーズに行えます
