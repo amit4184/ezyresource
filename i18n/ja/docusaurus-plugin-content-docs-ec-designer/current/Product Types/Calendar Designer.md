@@ -1,203 +1,385 @@
 ---
 title: Calendar Designer
 ---
-### **How to Create an EzyDesigner Calendar Template**
 
- 📍 Platform:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com) 📩 Feedback Email: feedback@ezycreate.com
 
-## **Introduction**
 
-The Calendar Template Creator allows users to design custom calendar templates with pre-designed date pad layouts, fonts, and color options. Users can personalize text styles, add multilingual events, adjust backgrounds, and design attractive calendar layouts with ease.
+##  **EzyDesigner カレンダーテンプレート作成方法**
 
-Templates created here will be used by customers on EzyDesigner to customize and order printed calendars.
+📍 **プラットフォーム**:[ https://admin.ezycreate.com
+](https://admin.ezycreate.com) 📩 **フィードバック送付先**: feedback@ezycreate.com
 
-## **Index**
+## **📚 目次**
 
-**Sr. No**
+1. カレンダーテンプレートの機能
 
-1. Calendar Template Creator Features
-2. How to Create a Calendar Template
-3. How to Create Events and Collections
+2. カレンダーテンプレートの作成方法
 
-## **Section I: Calendar Template Creator Features**
+3. コレクションとイベントの作成方法
 
-### **Features Offered**
 
-* Access pre-designed templates in the dashboard.
-* Add **multilingual events**.
-* Customize calendar date pads, text, images, and other elements.
-* Design using **predefined placeholders**.
-* Change **background and text colors**.
-* Edit and preview unpublished templates.
-* Use **filter options** (by template name, occasion, language, or published status).
 
-### **📘 Glossary**
 
-* **Photo Holder**: Frame to add user photos in square, portrait, or landscape ratios.
-* **Image Placeholder**: Dummy image used as a placeholder until the user replaces it.
-* **Image Holder**: Box or space designed to hold an image.
-* **Template Group**: Organizational system for managing many templates.
-* **Collection**: Group of fixed/non-fixed events organized by language or theme.
-* **Tags**: Used to filter layouts/templates easily.
 
-### **Navigation & Editing Tools**
+## **🧩 セクション I：カレンダーテンプレートの機能**
 
-#### **🌟 Upload Photos**
+### **🔹 主な機能**
 
-* Only JPG/JPEG formats are supported. Avoid **CMYK images** to prevent color issues.
+* ダッシュボードからテンプレートにアクセス
 
-#### **🖼️ Backgrounds**
 
-* Add preset or custom background images (JPG only).
-* CMYK not supported for background images.
+* 多言語イベントの追加対応
 
-#### **🎨 Cliparts**
 
-* Add PNG-format transparent stickers to enhance designs.
+* 日付パッド、画像、テキストなどのカスタマイズ
 
-#### **📝 Text**
 
-* Use **“Floating Text”** to insert editable fields.
-* Note: Default label ‘Enter Your Text’ will **not render** if left unedited.
+* プレースホルダーを使ったデザイン配置
 
-##### **✏️ Text Editing Tools**
 
-* Lock/Unlock
-* Move Forward/Backward
-* Delete
-* Font Style/Size
-* Bold/Italics
-* Text Color & Background Color
+* 背景・テキストカラーの変更
 
-#### **📐 Work Area & Toolbar**
 
-* Main canvas displays photo holders and date pads.
-* Red dots = resize handles.
-* Tools: Duplicate, Lock/Unlock, Crop, Add Photo, Delete, Bring Forward, Send Backward
+* 未公開テンプレートの編集・プレビュー
 
-#### **📆 Holiday List**
 
-* Fixed: Same date yearly (e.g., New Year)
-* Non-Fixed: Vary yearly (e.g., Diwali, Holi)
+* テンプレート名、言語、公開状態などでフィルター可能
 
-#### **🗓️ Date Style Customization**
 
-* Select Date Pad layout, font, and colors.
-* Modify **width and height** — applied across all 12 months.
-* Use typography dropdown and “+ / -” buttons for font size.
-* Choose text color via color picker and apply to entire calendar.
 
-## **Section II: How to Create a Calendar Template**
 
-### **✅ Step 1: Login**
 
-Go to[ admin.ezycreate.com](https://admin.ezycreate.com) and login with valid credentials.
 
-### **✅ Step 2: Go to EzyAdmin Dashboard**
 
-Click on Templates from the left menu panel.
+### **📘 用語解説**
 
-### **✅ Step 3: View Existing Templates**
+**用語**
 
-Click My Templates to view your saved templates.
+**意味**
 
-### **✅ Step 4: Create a New Template**
+**Photo Holder**
 
-Click Create New Group.
+ユーザーの画像を追加できる枠（正方形、縦型、横型）
 
-#### **4a. Fill in Template Details**
+**Image Placeholder**
 
-* **Template Name** (this will appear in EzyDesigner)
-* **Product**: Choose a calendar product
-* **Occasion**: Select from dropdown
-* **Tags**: Add relevant #hashtags
-* Click Create to open the template in a new tab
-* Click Cancel to abort
+ダミー画像（ユーザーが後で差し替える用）
 
-#### 4b. Customize Tem**plate in Designer**
+**Image Holder**
 
-* One default Date Pad, Image Holder, and template tools are loaded.
-* Resize date pad as needed (applies to all 12 months).
-* Use < or > to navigate between months.
-* Use tools to add text, photos, background, clipart.
+画像を配置するボックス
 
-### **✅ Save & Preview**
+**Template Group**
 
-* Click Save to save your design.
-* Click Preview to see a 2D view of the calendar.
-* Close returns you to the admin panel.
+テンプレートのサイズ・バリエーション管理用グループ
 
-### **✏️ Edit an Existing Template**
+**Collection**
 
-* Go to the Template Group.
-* Click the icon beside the template name.
-* Template opens in a new tab.
-* Modify and Publish to store.
+言語やテーマごとのイベント一覧
 
-⚠️ Note: **Template Name** and **Product** cannot be changed after creation.
+**Tags**
 
-## **Section III: How to Create Collection and Events**
+テンプレートを検索しやすくするためのキーワード
 
-### **🗂️ Step A: Open Calendar Events**
 
-Click Calendar Events under Designer Settings.
 
-### **✅ Step 1: Calendar Events Dashboard**
 
-Shows all collections and event statuses.
 
-### **✅ Step 2: Create New Collection**
+### **🛠️ ナビゲーション＆編集ツール**
 
-* Click Create New Collection
-* Add Collection Name, choose Language
-* Click Save
+#### **🌟 写真のアップロード**
 
-### **✅ Step 3: View Created Collection**
+* 対応形式：**JPG/JPEG** のみ
 
-* Lists name, language, status, actions
-* Use icon to add events.
 
-### **✅ Step 4: Add New Event**
+* ⚠ CMYK画像は非対応（色ズレの原因）
 
-* Click **Create New Event**
-* Select **Date** and add **Event Title**
-* Set **Fixed = Yes/No**
-* Click **Save**
 
-📝 Example: Add 元日 (がんじつ) instead of "New Year’s Day" for Japanese collections.
 
-### **✅ Step 5: View Events**
+#### **🖼️ 背景**
 
-* Fixed Events show 
-* Non-Fixed Events show 
-* Click calendar icon to view event on date pad.
+* プリセット or カスタム背景（JPG）を使用可能
 
-### **✅ Step 6: Manage Events**
 
-* **Edit** button: Modify event details.
-* **Delete** button: Remove event.
+* ⚠ CMYK形式は使用不可
 
-### **✅ Step 7: Filter by Month/Year**
 
-View all events month-wise or year-wise.
 
-### **⚙️ Step B: Manage Collection**
+#### **🎨 クリップアート**
 
-Click **⋮ (3-dot menu)** to:
+* PNG形式（透過背景）のステッカーを追加可能
 
-* **Publish** – Make collection live
-* **Copy** – Duplicate event collection
-* **Delete** – Permanently remove
 
-Click ✏️ to edit collection name or language.
 
-### **🔁 Step C: Sync Events to Template**
+#### **📝 テキスト挿入**
 
-* Once **Published**, reopen the template.
-* Events will now appear in the **Holiday List** and **Calendar Date Pad** in the designer.
+* 「Floating Text」を使って編集可能なテキストを挿入
+   ⚠ デフォルトの Enter Your Text は編集されない限り印刷されません
 
-If you need help or would like to share feedback:
 
-📩 **Feedback**: feedback@ezycreate.com
- 📩 **Support**: support@ezycreate.com
+
+#### **✏️ テキスト編集ツール**
+
+* ロック / ロック解除
+
+
+* 前面・背面の配置
+
+
+* 削除
+
+
+* フォントのスタイル・サイズ
+
+
+* 太字 / 斜体
+
+
+* テキスト＆背景カラー設定
+
+
+
+#### **📐 作業エリア & ツールバー**
+
+* メインキャンバスには、写真枠や日付パッドが表示
+
+
+* 赤い点＝サイズ調整ハンドル
+
+
+* 主なツール：
+   🔁 複製｜🔒 ロック｜✂️ トリミング｜🗑️ 削除｜🔼🔽 レイヤー順変更
+
+
+
+#### **📆 祝日リスト**
+
+* **固定イベント**：毎年同じ日（例：元日）
+
+
+* **非固定イベント**：毎年異なる（例：ディワリ）
+
+
+
+#### **🗓️ 日付パッドのカスタマイズ**
+
+* レイアウト、フォント、色の選択
+
+
+* 幅・高さの調整（12ヶ月に一括適用）
+
+
+* フォントサイズ調整（+ / - ボタン）
+
+
+* テキストカラー選択で全体反映可能
+
+
+
+
+
+
+
+## **🛠️ セクション II：カレンダーテンプレート作成方法**
+
+### **✅ Step 1：ログイン**
+
+[admin.ezycreate.com](https://admin.ezycreate.com) にアクセスし、ログインします。
+
+### **✅ Step 2：ダッシュボードへ移動**
+
+左側のメニューから「**Templates**」を選択。
+
+### **✅ Step 3：既存テンプレートを見る**
+
+「**My Templates**」をクリックし、保存済みテンプレートを表示。
+
+### **✅ Step 4：新しいテンプレートの作成**
+
+「**Create New Group**」をクリック
+
+#### **4a：テンプレート情報の入力**
+
+* **Template Name**：EzyDesignerに表示される名前
+
+
+* **Product**：カレンダー商品を選択
+
+
+* **Occasion**：用途・イベントを選択
+
+
+* **Tags**：例：#minimal #新年
+
+
+
+「**Create**」をクリック → 新しいタブでテンプレートが開く
+ 「**Cancel**」で作成をキャンセル
+
+#### **4b：テンプレートをカスタマイズ**
+
+* デフォルトで日付パッド、画像ホルダー、ツールが読み込まれます
+
+
+* 日付パッドを必要に応じてリサイズ（全月に反映）
+
+
+* \> < を使って月を切り替え
+
+
+* 写真、テキスト、背景、クリップアートの追加も可能
+
+
+
+#### **✅ 保存 & プレビュー**
+
+* 「**Save**」をクリックで保存
+
+
+* 「**Preview**」をクリックで2D表示を確認
+
+
+* 「Close」で管理画面に戻る（事前に保存必須）
+
+
+
+
+
+
+
+### **✏️ 既存テンプレートの編集方法**
+
+* 該当テンプレートグループを開く
+
+
+* テンプレート名の横にある ✎（編集）アイコンをクリック
+
+
+* 新しいタブでテンプレートが開く → 編集して「Publish」
+   ⚠ **テンプレート名・商品種別は作成後に変更不可**
+
+
+
+
+
+
+
+## **📅 セクション III：イベントコレクションの作成方法**
+
+### **🗂️ Step A：カレンダーイベントにアクセス**
+
+「**Designer Settings > Calendar Events**」をクリック
+
+### **✅ Step 1：イベントダッシュボードを確認**
+
+全てのコレクション・ステータスを一覧表示
+
+### **✅ Step 2：新しいコレクションを作成**
+
+「**Create New Collection**」をクリック
+
+* コレクション名を入力
+
+
+* 言語を選択（例：Japanese）
+
+
+* 「**Save**」をクリック
+
+
+
+### **✅ Step 3：作成したコレクションを表示**
+
+* コレクション名、言語、ステータスなどを確認
+
+
+* 🗓️アイコンをクリックしてイベントを追加
+
+
+
+### **✅ Step 4：イベントを追加**
+
+「**Create New Event**」をクリック
+
+* 日付選択、イベント名入力
+
+
+* **Fixed = Yes/No** を設定
+
+
+* 「**Save**」で登録
+
+
+
+📝 例：英語では "New Year’s Day" → 日本語では 元日（がんじつ）
+
+### **✅ Step 5：イベントの表示と管理**
+
+* **🔴 = 固定イベント**
+
+
+* **🟢 = 非固定イベント**
+
+
+* カレンダーアイコンで日付パッド上に表示確認可能
+
+
+
+### **✅ Step 6：イベント編集・削除**
+
+* ✎ 編集 → 詳細変更
+
+
+* 🗑️ 削除 → イベント削除
+
+
+
+### **✅ Step 7：月別・年別フィルターで表示切替可能**
+
+
+
+
+
+### **⚙️ Step B：コレクション管理**
+
+「⋮（3点メニュー）」から以下操作可能：
+
+* **Publish**：公開
+
+
+* **Copy**：複製
+
+
+* **Delete**：削除
+
+
+* ✎：コレクション名・言語の編集
+
+
+
+
+
+
+
+### **🔁 Step C：テンプレートとイベントの同期**
+
+* コレクションを「Publish」した後、テンプレートを再度開きます
+   → イベントは **Holiday List / 日付パッド** に反映されます
+
+
+
+
+
+
+
+## **🎉 これで準備完了！**
+
+独自のカレンダーテンプレートをEzyDesignerで作成・編集・公開する準備が整いました。
+
+💬 お困りの際はお気軽にご連絡ください：
+
+
+ 📩 **フィードバック**：feedback@ezycreate.com
+
+
+ 📩 **サポート**：support@ezycreate.com
