@@ -1,298 +1,344 @@
 ---
 title: Custom Product Designer
 ---
+## **カスタム商品デザイナーテンプレートの作成方法**
 
-**Creating a New Product in EzyCreate**
+**バージョン 1.0**
 
-## **1.  Overview**
+ 📍 **プラットフォーム**:[ https://admin.ezycreate.com](https://admin.ezycreate.com)
 
-This document outlines the complete procedure for creating a Merchandise Product and a Customizable Product in EzyCreate. It includes key terminologies, preconditions, and step-by-step instructions for each product type.
+[
+](https://admin.ezycreate.com) 📩 **フィードバック送信先**: feedback@ezycreate.com
 
-## **2.  Key Terminologies**
 
-* **Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does *not* include pricing, eCommerce configurations, templates, or designs.
-   ➤ *Example: A standard 11oz mug with no associated template or sales info.*
-  **📦 Product**
-   A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
-* **🔧 Product Types**
 
-* * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
 
-  * **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
 
+### **📘 はじめに**
 
-* **🎨 Template**
-   A design layout applied to a product blank.
-* **🗂️ Template Group**
-   A collection of templates with similar designs, used to organize variants.
-* **🎭 Variant**
-   A version of the product that varies by design, size, color, etc., within the same template group.
-* **🆔 SKU (Stock Keeping Unit)**
-   A unique identifier for each variant.
-* **🖼️ Merch Album**
-   A group of pre-uploaded images used in product customization.
+EzyDesignerのテンプレートクリエーターでは、事前にレイアウトやフォント、プレースホルダーなどを設定した**カスタムテンプレート**を作成できます。ユーザーはデザイン経験がなくても、個人のコンテンツを使って簡単にカスタマイズが可能です。
 
 
 
-## **3. Preconditions**
 
-Before beginning product creation:
 
-* Log into[ **EzyAdmin**](https://admin.ezycreate.com).
-* Ensure you have the necessary permissions to create/manage products.
-* Ensure:
+### **📚 インデックス**
 
+1. テンプレートの作成方法
 
-* * At least one **product blank** exists.
 
-  * At least one **published template** is available.
+2. デザイナーでテンプレートを表示する方法
 
 
+3. テンプレートを別サイズにリサイズする方法
 
-## **4. Procedure: How to Create a Merchandise Product**
 
-### **Step 1: Navigate to Product Creation**
 
-* Log into EzyAdmin.
-* From the left sidebar, go to Products → My Products.
-* Click + Create new product.
 
 
 
-### **Step 2: Select a Product Blank**
 
-* Under Step 1 - Product Blank, click Select product blank.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank details (name, ID, size, description).
-* Click Next.
+### **🌟 主な機能**
 
+* 複数イベント・用途に対応したテンプレートライブラリ
 
 
-### **Step 3: Choose Product Type**
+* テキスト、画像、クリップアート、背景のカスタマイズ
 
-* In the Product Type tab, select: **Merch product**
-* Click **Next**.
 
+* プレースホルダーを使ったレイアウト設計
 
 
-### **Step 4: Select Template**
+* 背景色・文字色のカスタム対応
 
-* Click **Select a template**.
-* Choose a template design.
 
-🔔 *If your template does not appear, ensure it is published.*
+* 商品ごとのテンプレートサイズリサイズ
 
-* Click **Next**.
 
-### **Step 5: Add Product Variants**
+* 公開前に2Dプレビュー可能
 
-* In the Product Variants tab, click + Add variants.
-* Only designs from the same template group can be added.
-* Use "Set default" to mark one variant as default.
-* Use the 🗑️ icon to remove a variant.
 
+* 未公開テンプレートの編集
 
 
-⚠️ Important:
+* タグ・言語によるテンプレートフィルター
 
-* All variants must be visually unique.
-* All variants must belong to the same template group.
-* One variant must be marked as default.
-* Click Next.
 
+* テンプレートの公開・非公開管理
 
 
-### **🪜 Step 6: Enter Product Details**
 
-* Select the product language (e.g., English).
-* Fill in:
-* * Product Name
 
-  * Description
 
-  * Specifications (materials, dimensions, etc.)
 
-  * Tags (used for filtering and search)
-* Click Next.
 
+### **🧾 用語集**
 
+**用語**
 
-### **🪜 Step 7: Manage Albums & Upload Settings**
+**説明**
 
-* Click Select albums to associate image collections.
+**Photo Holder**
 
-💡 You can also manage merch albums from Creative Asset → Merch Albums.
+ユーザーが写真を挿入できる空のフレーム
 
-* Remove any undesired albums.
-* (Optional) Enable "Allow users to upload photos while customizing".
-* Click Next.
+**Tags（タグ）**
 
+\#birthday や #minimal など、テンプレート検索用のキーワード
 
+**Template Groups**
 
-### **🪜 Step 8: Set Product Prices**
+同じデザインの異なるサイズをまとめるカテゴリ
 
-* All added variants will be shown with editable:
+**Template**
 
+写真・テキストなどが含まれた事前設定済みのデザインレイアウト
 
-* * **SKU**
+**Text Field**
 
-  * **Price**
-* Click the ✏️ icon for each entry to update pricing.
-* Click **Save** after updating each entry.
-* Click **Next**.
+ユーザーが編集できるテキスト入力エリア
 
+**Template Creator**
 
+テンプレートを作成・編集するデザインインターフェース
 
-### **🪜 Step 9: Upload Mockup Images**
+**Template Object**
 
-* Upload visual previews/mockups.
+テンプレート内で使われる要素（写真枠、テキスト、背景など）
 
-📷 *Ensure mockups accurately represent the template design.*
 
-* Click **Next**.
 
 
 
-### **🪜 Step 10: Final Preview and Save**
+## **1️⃣ テンプレートの作成方法**
 
-* Review the following:
-* * **Product details**
+### **🔐 Step 1: ログイン**
 
-  * **Variants**
+<https://admin.ezycreate.com> にアクセス
+ ログイン情報を入力 → 「**Submit**」をクリック
 
-  * **Pricing**
+### **🏠 Step 2: ダッシュボード**
 
-  * **Albums**
+ログイン後、ダッシュボードが表示されます
 
-  * **Mockups**
+### **📁 Step 3: テンプレートへ移動**
 
+左メニューの「**Creative Asset > Templates**」をクリック
 
-* If everything is correct, click **Save**.
+### **➕ Step 4: 新しいテンプレートグループの作成**
 
+「**Create New Group**」をクリック
+ → 空のテンプレートフォームが開きます。保存後、このテンプレートは他のサイズにもリサイズ可能です。
 
+📌 **補足**：リサイズしたテンプレートは、元のテンプレートと同じグループとしてまとめて管理できます。
 
-## **5. Procedure: How to Create a Customizable Product**
+#### **📝 Step 4a: テンプレート情報を入力**
 
-###  **Step 1: Navigate to Product Creation**
+* **Template Name**：デザイナー内で表示される名前
 
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
 
+* **Products**：対象商品を選択
 
 
-### **Step 2: Select a Product Blank**
+* **Occasions**：イベント種類を選択
 
-* Under **Step 1 - Product Blank**, click **Select product blank**.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank (name, ID, size, description).
-* Click **Next**.
 
+* **Tags**：#birthday や #wedding などのタグを追加
 
 
-### **Step 3: Choose Product Type**
 
-* In the Product Type tab, select:
-   **Customizable product**
-* Click **Next**.
+「**Create**」をクリック → **Template Creator**が新しいタブで開きます
 
+#### **✍️ Step 4b: テンプレートを編集**
 
+* 編集したいテンプレートグループをクリック
 
-**Step 4: Select Template**
 
-* Click **Select a template**.
-* Choose a template design.
+* ✏️アイコンをクリックしてテンプレートを編集
 
-🔔 *Ensure the template is published if it doesn’t appear.*
 
-* Click **Next**.
+* 編集 → 保存 → 公開で完了
 
 
 
-### **Step 5: Add Product Variants**
 
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the 🗑️ icon to remove a variant.
 
-⚠️ Important:
 
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
 
+## **🖌️ Template Creator のインターフェース & 機能**
 
-* Click **Next**.
+### **🧭 ナビゲーション**
 
+左上にテンプレート名と商品タイプが表示されます
+ フォトブックの場合、「**Add Pages**」ボタンでページを追加可能
 
+### **📷 写真のアップロード**
 
-### **Step 6: Enter Product Details**
+* 「**Photos**」タブを開く
 
-* Select the **product language** (e.g., English).
-* Fill in:
 
+* JPG/JPEG形式の画像をアップロード
+   🚫 **CMYK形式の画像は避けてください（色不具合の原因）**
 
-* * **Product Name**
 
-  * **Description**
 
-  * **Specifications** (materials, dimensions, etc.)
+### **🖼️ Photo Holders（写真枠）**
 
-  * **Tags** (used for filtering and search)
-* Click **Next**.
+* 「**Photo Holders**」タブ → 赤枠ボタンをクリック → ワークスペースに配置
 
 
 
+### **🎨 背景画像**
 
+* 事前にアップロードされた背景（JPG）を選択
 
 
+* 管理画面から独自の背景をアップロード可能
+   📌 **CMYK画像はサポート外です**
 
-### **Step 7: Set Product Prices**
 
-* All variants will be shown with editable:
-* * **SKU**
 
-  * **Price**
+### **🧩 クリップアート**
 
+* 「**Clipart**」タブ → 選択して挿入
 
-* Click the ✏️ icon to update each entry.
-* Click **Save**, then **Next**.
 
+* **PNG形式（透過）** のみ対応
 
 
+* 新しいクリップアートは管理画面からアップロード可能
 
 
 
+### **🔤 テキストフィールド追加**
 
-### **Step 8: Upload Mockup Images**
+* 「**Floating Text**」または「**Text**」ボタンで追加
+   ⚠ 「Enter Your Text」は印刷されません。任意の内容に置き換えてください。
 
-* Upload accurate visual mockups.
 
-📷 *Ensure mockups reflect the selected design properly.*
 
-* Click **Next**.
+**フォーマット設定：**
 
+* フォントサイズ・スタイル
 
 
-### **Step 9: Final Preview and Save**
+* 太字・斜体
 
-* Review the following:
-* * **Product details**
 
-  * **Variants**
+* 文字揃え
 
-  * **Pricing**
 
-  * **Albums**
+* 色の変更（プリセットから選択）
 
-  * **Mockups**
 
+* ロック・レイヤー順・削除
 
-* If everything is correct, click **Save**.
 
 
+### **📐 作業エリア**
 
+* 赤いハンドルでオブジェクトサイズ調整可能
 
-If you need help or would like to share feedback: **Feedback**: feedback@ezycreate.com, **Support**: support@ezycreate.com
+
+* オブジェクト移動時に自動でガイドライン表示
+
+
+
+
+
+
+
+## **🛠️ ツールバー機能**
+
+**機能**
+
+**説明**
+
+🔒 Lock/Unlock
+
+オブジェクトの位置を固定／解除
+
+📑 Duplicate
+
+オブジェクトの複製
+
+🔼/🔽
+
+前面・背面のレイヤー順
+
+✂️ Crop
+
+画像のトリミング
+
+➕ Add Photo
+
+プレースホルダーに画像を追加
+
+🗑️ Delete
+
+要素の削除
+
+
+
+
+
+### **💾 保存 & プレビュー**
+
+* **Save**：変更を保存
+
+
+* **Preview**：2Dビューで表示確認
+
+
+* **Close**：終了（必ず保存してから閉じてください）
+
+
+
+
+
+
+
+## **2️⃣ テンプレートのリサイズ方法（別商品サイズに展開）**
+
+### **🔁 リサイズの手順**
+
+1. ダッシュボードで「**Templates**」をクリック
+
+
+2. 新規作成または既存テンプレートを開く
+
+
+3. **Template Creator**内で「**Layout**」タブを開く
+
+
+4. 別サイズを選択 → 新しいタブで開く
+
+
+5. 必要に応じて編集・調整
+
+
+6. **Save**をクリックして保存
+
+
+7. 元のテンプレートグループにリサイズ版が追加される
+
+
+8. **Publish**をクリックで公開
+
+
+9. デザイナーで使用時、上書き警告が表示され「Proceed」で適用可能
+
+
+
+
+
+
+
+## **✅ これで完了！**
+
+テンプレートの作成、カスタマイズ、サイズ展開、公開までの一連の流れがマスターできました 
+
+
+ 不明点やトラブルがあれば、いつでも以下までご連絡ください：
+
+📩 **サポート窓口**: support@ezycreate.com
