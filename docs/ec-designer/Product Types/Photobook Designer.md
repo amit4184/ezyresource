@@ -107,7 +107,7 @@ Here are some basic terms you'll see in this guide:
 
 ## **Template Creator Features**
 
-**📌 Navigation Bar**
+ **Navigation Bar**
 
 * Shows template name and product name on the top-left corner
 
