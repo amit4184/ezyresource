@@ -1,177 +1,380 @@
 ---
 title: Print Designer
 ---
-**How to Create a Print Product**
-
-
-📍Platform:[ https://admin.ezycreate.com ](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
-
-## **Glossary**
-
-* **Product Blank**: A basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
-* **Product Code**: A unique code required for every product definition.
-* **SKU ID**: A unique ID assigned to each product or product variant in the product fulfillment process.
-* **Safe Area**: An outline marking on the product designer indicating the area that may get cropped/cut during fulfillment.
-* **Bleed Area**: A portion of a design that extends beyond the final trim size to prevent white edges.
-* **Trim Area**: The space around the product where excess material is cut away.
-* **Substrate / Attributes**: The paper or material used for a product (e.g., Artpaper, Silky, Lustre).
-* **Lamination**: A surface layer added to enhance durability or visual appeal.
-* **Image Size**: Size of the image used in the designer.
-* **Photo Width**: The size of the photo set to fill the designer area.
-* **Binding**: The process to attach pages and create a book structure.
-* **Display Mask Image**: An overlay mask displayed in the designer.
-* **Clippath Mask Image**: The mask area used for designing.
-* **Offset Value**: Used to set mask position in the designer.
-* **Category / Sub Category**: Used to organize products under specific sections.
-* **App Name**: Type of designer used (e.g., prints designer, photobook designer).
-* **Printable Surfaces**: Designer surface where designing is done.
-* **Output Type**: Output file format generated post-order (JPEG or PDF).
-* **Min Pages / Max Pages**: Minimum and maximum number of pages a product can have.
+## **プリント製品の作成方法**
 
 
 
+### **🧾 用語集（Glossary）**
+
+* **製品ブランク（Product Blank）**：
+   デザインやテンプレートを追加する前に、製品の基本設定を定義するものです。
 
 
-## **Steps**
+* **製品コード（Product Code）**：
+   各製品定義に必要な一意のコード。
 
-### **Step 1: Login**
 
-* Open:[ https://admin.ezycreate.com](https://admin.ezycreate.com)
-* Enter login details and submit.
+* **SKU ID**：
+   製品またはバリエーションに割り当てられる一意のID。製品フルフィルメント用。
 
-### **Step 2: Navigate to "My Blanks"**
 
-* Click on **My Blanks** to see defined product blanks.
+* **セーフエリア（Safe Area）**：
+   裁断中にカットされる可能性のある範囲を示すデザイナー上のガイドライン。
 
-### **Step 3: Create a New Product Blank**
 
-* Click on **Add**.
-* **Product Code**: Enter unique code.
-* **SKU ID**: Same as Product Code or enter different ID.
-* **Product Type**: Choose from the dropdown.
-* **Category / Subcategory**: Select as required.
-* **Product Title**: Enter name.
-* **Product Description**: Max 200 characters, internal use.
-* **Thumbnail**: Upload JPG image.
-* **Supplier**: Select supplier.
-* **Orientation**: Portrait, Landscape, or Square.
-* **Size**: e.g., 4x6, 5x7.
-* **Preview Type**:
-* * Photobooks: 3D
+* **塗り足し（Bleed Area）**：
+   白い縁が残らないように仕上がりサイズよりも外側までデザインが広がる領域。
 
-  * Mini book: 2D
 
-  * Calendar: 2D
+* **トリムエリア（Trim Area）**：
+   印刷物の余分な部分が切り取られる領域。
 
-  * Canvas prints: 3D
 
-  * Mounted prints: 3D
+* **用紙/素材（Substrate / Attributes）**：
+   使用される紙または素材（例：アートペーパー、シルキー、ラスター）。
 
-  * Frames: 3D
 
-  * Mug: 3D
+* **ラミネート（Lamination）**：
+   製品の表面に追加される耐久性や視覚効果を高める層。
 
-  * Prints: Image
-* **Min / Max Pages**: As per product specs.
-* Click **Next**.
 
-### **Step 4: Set Output Type & Printable Surface**
+* **画像サイズ（Image Size）**：
+   デザイナーで使用される画像のサイズ。
 
-* Output Type: JPEG or PDF
-* Click Add Printable Surfaces
-* Enter all specs in inches:
-* * Surface Type: Choose from dropdown
 
-  * Image Size: Printable output image size
+* **写真幅（Photo Width）**：
+   デザイナー領域全体を埋める画像サイズ。
 
-  * Photo Width / Height
 
-  * Bleed Area
+* **製本（Binding）**：
+   複数のページを綴じて本の形にするプロセス。
 
-  * Safe Area
 
-  * Trim Area (enter corner radius if rounded corners)
-* Click Add.
+* **表示マスク画像（Display Mask Image）**：
+   デザイナー上で表示されるオーバーレイ画像。
 
-### Step 5: Add **Printing Components**
 
-* Define Substrate, Lamination, Binding, Cover etc.
-* If needed, add new attributes under Admin > Attributes > Laminations
-* Select and set corresponding options for lamination/substrate.
+* **クリップパスマスク画像（Clippath Mask Image）**：
+   デザイン作成に使用されるマスク領域。
 
-### **Step 6: Designer Specs**
 
-* All specs in inches.
-* App Name: Select ezyprints product.
-* Default Template: Optional customized template.
-* Click Add Designer Specs
-* Surface Type / Name: Select and name
-* Display Mask Image: PNG format only
-* Clippath Mask Image: PNG format only
-* Display Mask Dimensions: Width and Height in inches
-* Orientation: Select accordingly
-* Mask Offsets: Top, Bottom, Left, Right (in inches)
-* Important: Add both orientations (Portrait/Landscape) for print products
-* Click Add, then Next
+* **オフセット値（Offset Value）**：
+   マスク画像の配置調整に使用。
 
-### **Step 7: Pricing**
 
-#### **Option 1: Single Quantity Pricing**
+* **カテゴリ / サブカテゴリ（Category / Sub Category）**：
+   製品を分類するためのセクション。
 
-* Price Type: Single Qty
-* Cost Price / Selling Price
-* Click Add Price, then Save
 
-#### **Option 2: Volume Pricing**
+* **アプリ名（App Name）**：
+   使用するデザイナーの種類（例：プリントデザイナー、フォトブックデザイナー）。
 
-* Min Quantity
-* Cost / Selling Price
-* Combine Set (if required)
-* Click Add Price, then Save
 
-#### **Option 3: Attribute Level Pricing**
+* **印刷可能な面（Printable Surfaces）**：
+   デザインが行われる領域。
 
-* Set pricing for each attribute (e.g., substrate)
-* Click Add Price, then Save
 
-Note:
+* **出力タイプ（Output Type）**：
+   注文後に生成されるファイル形式（JPEGまたはPDF）。
 
-* No attribute: Use Single Qty
-* Bulk orders: Use Volume Pricing
-* Attribute-specific rates: Use Attribute Pricing
 
-### **Step 8: View Created Product**
+* **最小 / 最大ページ数（Min Pages / Max Pages）**：
+   製品に設定できるページの最小・最大数。
 
-* Go to Product Wizard List
-* Click View in Designer
 
-### **Step 9: Upload & Edit Photos**
 
-* Click Add Photo
-* Upload via Upload Photos
-* Select files or drag-and-drop
-* Click Upload
-* Select uploaded photo to open in designer
-* Use editing tools (Crop, Resize)
-* Click Test Order
 
-### **Step 10: Confirm Test Order**
 
-* Message: “Order placed successfully”
-* Navigate to Order Tab
-* Click View to see order details
-* Wait for status to show Rendered
 
-### **Step 11: Download Test Output**
 
-* Use Download All for ZIP or download images individually
-* Select path and click Save
+### **🧭 ステップバイステップガイド**
 
-### **Step 12: Publish the Product**
+#### **✅ ステップ 1：ログイン**
 
-* Go to Product Blank Dashboard
-* Click Product Settings
-* Click Publish
-* Status will update to Publish
+<https://admin.ezycreate.com> にアクセス
+ ログイン情報を入力して「Submit」をクリック
 
-Once Published, the Product Blank Specs Cannot Be Changed.
+#### **✅ ステップ 2：「My Blanks」に移動**
+
+「My Blanks」をクリックし、すでに定義された製品ブランクを確認
+
+#### **✅ ステップ 3：新しい製品ブランクの作成**
+
+「Add」をクリック
+
+* 製品コード：一意のコードを入力
+
+
+* SKU ID：同一または異なるIDを入力
+
+
+* 製品タイプ：ドロップダウンから選択
+
+
+* カテゴリ / サブカテゴリ：適切に選択
+
+
+* 製品タイトル：製品名を入力
+
+
+* 製品説明：200文字以内（社内用）
+
+
+* サムネイル：JPG画像をアップロード
+
+
+* サプライヤー：選択
+
+
+* 向き：縦・横・スクエア
+
+
+* サイズ：例）4x6, 5x7
+
+
+* プレビュータイプ：
+
+
+* * フォトブック：3D
+
+
+
+  * ミニブック：2D
+
+
+
+  * カレンダー：2D
+
+
+
+  * キャンバスプリント：3D
+
+
+
+  * マウントプリント：3D
+
+
+
+  * フレーム：3D
+
+
+
+  * マグ：3D
+
+
+
+  * プリント：Image
+
+
+* 最小 / 最大ページ数：仕様に応じて入力
+   「Next」をクリック
+
+
+
+
+
+
+
+#### **✅ ステップ 4：出力タイプ & 印刷可能面の設定**
+
+* 出力タイプ：JPEG または PDF
+
+
+* 「Add Printable Surfaces」をクリック
+   すべての仕様はインチで入力：
+
+
+* * 面タイプ：選択
+
+
+
+  * 画像サイズ：出力画像サイズ
+
+
+
+  * 写真の幅 / 高さ
+
+
+
+  * 塗り足し領域
+
+
+
+  * セーフエリア
+
+
+
+  * トリムエリア（角丸製品は半径も）
+     「Add」をクリック
+
+
+
+
+
+
+
+#### **✅ ステップ 5：印刷構成の追加**
+
+* 素材、ラミネート、製本などを設定
+
+
+* 必要な場合は Admin → Attributes → Laminations で新しい属性を追加
+
+
+* 対応するオプションを選択して設定
+
+
+
+
+
+
+
+#### **✅ ステップ 6：デザイナー仕様の設定**
+
+* 単位：すべてインチ
+
+
+* アプリ名：ezyprints を選択
+
+
+* デフォルトテンプレート（任意）を選択
+
+
+* 「Add Designer Specs」をクリック
+
+
+* * 面タイプ / 名前
+
+
+
+  * 表示マスク画像（PNG）
+
+
+
+  * クリップパスマスク画像（PNG）
+
+
+
+  * 画像サイズ（幅・高さ）
+
+
+
+  * 向き：アップロードされたマスクに応じて
+
+
+
+  * マスクのオフセット：上下左右（インチ）
+     📌 プリント製品には縦・横の両方のマスクが必要
+     「Add」→「Next」
+
+
+
+
+
+
+
+#### **✅ ステップ 7：価格設定**
+
+**① 単一数量価格**
+
+* タイプ：Single Qty
+
+
+* 原価 / 販売価格 → 「Add Price」→「Save」
+
+
+
+**② ボリューム価格**
+
+* 最小数量、原価 / 販売価格、必要なら「Combine Set」
+   → 「Add Price」→「Save」
+
+
+
+**③ 属性別価格**
+
+* 属性（例：用紙）ごとに価格を設定
+   → 「Add Price」→「Save」
+
+
+
+📌 ポイント：
+
+* 属性なし → 単一価格
+
+
+* まとめ買い → ボリューム価格
+
+
+* 属性別 → 属性価格設定
+
+
+
+
+
+
+
+#### **✅ ステップ 8：作成した製品の確認**
+
+「Product Wizard List」へ → 「View in Designer」をクリック
+
+
+
+
+
+#### **✅ ステップ 9：写真アップロード & 編集**
+
+* 「Add Photo」クリック
+
+
+* 「Upload Photos」でファイルを選択またはドラッグ
+
+
+* アップロード後、選択してデザイナーに挿入
+
+
+* トリミングやサイズ変更など編集ツール使用
+
+
+* 「Test Order」をクリック
+
+
+
+
+
+
+
+#### **✅ ステップ 10：テスト注文の確認**
+
+* メッセージ：「Order placed successfully」
+
+
+* 「Order」タブへ移動 → 「View」で詳細確認
+
+
+* ステータスが「Rendered」になるまで待機
+
+
+
+
+
+
+
+#### **✅ ステップ 11：テスト出力のダウンロード**
+
+* 「Download All」または個別画像をダウンロード
+
+
+* 保存先を選んで「Save」クリック
+
+
+
+
+
+
+
+#### **✅ ステップ 12：製品の公開**
+
+* 「Product Blank Dashboard」→「Product Settings」→「Publish」クリック
+   📌 一度公開された製品ブランクの仕様は**変更できません**
