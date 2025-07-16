@@ -1,141 +1,209 @@
 ---
 title: Customize Backgrounds
 ---
-**Catalogue: How to Add Background Image**
 
-## **Index**
 
-1. Introduction
-2. Login to Ezyadmin
-3. Access Backgrounds
-4. Add a New Background
-5. Successfully Added Background
-6. Edit Background
-7. Preview Background
-8. Create Template Using Backgrounds
-9. Template Creator Tab
-10. Use Added Background in Template
 
+## **背景画像のカスタマイズ**
 
+カタログ：背景画像の追加方法
 
-## **Introduction**
 
-The Ezyadmin is a cloud-based product management portal for your products. The Ezydesigner makes use of creative assets like cliparts and backgrounds that can be used while designing your personalized products.
 
-**Login to Ezyadmin**
 
-* Enter your login credentials and click the **"Submit"** button.
 
+### **目次**
 
+* はじめに
 
-## **Access Backgrounds**
 
-* Click on the **“Background”** tab to view available background categories.
-   *Will display the list of category*
-* Select a category to view the list of added backgrounds.
-   *It will display the list of added Background*
+* Ezyadmin にログイン
 
 
+* 「背景」タブにアクセス
 
-## **Add a New Background**
 
-* Click on the **“Add”** button.
-   *Will open an Add form*
-* **Display name:** Enter the display name.
+* 新しい背景を追加
 
 
-* **Image:** Click **“Choose File”** to upload a background image (*JPG format recommended*).
-* **Public:** Enable/disable.
-* **Status:** Click on the slider button to set the status of the clipart. This allows the user to enable or disable a background.
-* **Save:** Save newly added background.
-* **Cancel:** Cancel the form.
+* 背景が正常に追加されました
 
 
+* 背景を編集
 
 
+* 背景のプレビュー
 
 
+* 背景を使ったテンプレートの作成
 
-## **Edit Background**
 
-* Click on **edit symbol** to edit the added background.
-* *Edit form will open*
+* テンプレート作成タブ
 
 
-* * **Display name:** Edit the display name
+* 追加した背景をテンプレートで使用
 
-  * **Image:** Click on **Choose file** and re-upload/change background image
 
-  * **Public:** Use the slider to enable/disable background display to public in the designer.
 
-  * **Status:** Use the slider to enable or disable the background.
 
-  * **Save:** Save the changes
 
-  * **Cancel:** Cancel the changes
 
 
+### **はじめに**
 
+Ezyadmin は、製品の管理をクラウド上で行えるポータルです。Ezydesigner では、パーソナライズ製品のデザイン時に使用できる、クリップアートや背景画像などのクリエイティブ素材を利用します。
 
 
 
 
-* Click the **“Preview”** icon to view the added background.
-* **Combine under a section:** In the preview window, use the following options:
-   
 
-  **Zoom In:** Enlarge the image view
+### **Ezyadmin にログイン**
 
+ログイン情報を入力し、「Submit」ボタンをクリックします。
 
-   **Zoom Out:** Reduce the image view
 
-  **Next / Previous:** Navigate through added backgrounds
 
-  **Close:** Exit the preview window
 
 
+### **「背景」タブにアクセス**
 
-## **Create Template Using Backgrounds**
+「Background」タブをクリックすると、利用可能な背景カテゴリ一覧が表示されます。
+ カテゴリを選択すると、そのカテゴリ内で追加された背景の一覧が表示されます。
 
 
 
-* Click on **Templates** to load the list of existing templates.
-* Click the **“Create”** button to create blank new templates.
-* **Template name** – Enter the Template name
 
 
- *Example: “First Birthday Template” would help*
+### **新しい背景を追加**
 
-**Description** – Enter the description of the template
- *Example: “A fun and colorful design for 1st birthday celebrations”*
+「Add」ボタンをクリックすると、追加フォームが開きます。
 
-* **Products** – Select a product from the product dropdown list
-* **Occasions** – Select an occasion from the occasion dropdown list
-* **Language** – Select a language from the language dropdown list.
-* **Status** – Click on the slider button to change the status of the template. This allows the user to enable or disable a template
-* **Cancel** – Click on the cancel button to cancel the template form
-* **Create** – Click on create button to create the template, the template is created
+* **Display name**：表示名を入力します。
 
 
+* **Image**：「Choose File」をクリックして、背景画像をアップロードします（JPG形式推奨）。
 
-## **Template Creator Tab**
 
-* Template creator will open in a new tab
+* **Public**：公開・非公開を設定します。
 
 
+* **Status**：ステータスのスライダーを使って背景を有効/無効に切り替えます。
 
-## **Use Added Background in Template**
 
-* Click on **background**
-   *Will show all the added background*
+* **Save**：背景を保存します。
 
 
-* The background added successfully in template creator
-   *Can use it to create template/design*
+* **Cancel**：フォームをキャンセルします。
 
 
 
 
 
 
-**Successfully Added BackgroundPreview Background**
+
+### **背景を編集**
+
+編集アイコンをクリックすると、編集フォームが開きます。
+
+* **Display name**：表示名を編集します。
+
+
+* **Image**：「Choose File」をクリックして、新しい背景画像を再アップロードまたは変更します。
+
+
+* **Public**：スライダーで、デザイナーで公開するかどうかを切り替えます。
+
+
+* **Status**：スライダーで、背景の有効/無効を切り替えます。
+
+
+* **Save**：変更内容を保存します。
+
+
+* **Cancel**：変更をキャンセルします。
+
+
+
+
+
+
+
+### **背景のプレビュー**
+
+「Preview」アイコンをクリックすると、追加された背景のプレビューが表示されます。
+
+プレビュー画面では以下の操作が可能です：
+
+* **Zoom In**：画像を拡大表示
+
+
+* **Zoom Out**：画像を縮小表示
+
+
+* **Next / Previous**：追加された背景を前後に切り替え
+
+
+* **Close**：プレビューウィンドウを閉じる
+
+
+
+
+
+
+
+### **背景を使ったテンプレートの作成**
+
+「Templates」をクリックすると、既存のテンプレート一覧が表示されます。
+ 「Create」ボタンをクリックすると、空の新規テンプレートを作成できます。
+
+* **Template name**：テンプレート名を入力
+   　例：「First Birthday Template」
+
+
+* **Description**：テンプレートの説明を入力
+   　例：「A fun and colorful design for 1st birthday celebrations」
+
+
+* **Products**：ドロップダウンから製品を選択
+
+
+* **Occasions**：ドロップダウンからイベントを選択
+
+
+* **Language**：ドロップダウンから言語を選択
+
+
+* **Status**：テンプレートの有効/無効をスライダーで設定
+
+
+* **Cancel**：テンプレート作成フォームをキャンセル
+
+
+* **Create**：「Create」ボタンをクリックしてテンプレートを作成
+
+
+
+
+
+
+
+### **テンプレート作成タブ**
+
+テンプレート作成画面は新しいタブで開きます。
+
+
+
+
+
+### **追加した背景をテンプレートで使用**
+
+「Background」ボタンをクリックすると、追加された背景一覧が表示されます。
+ 追加した背景をテンプレート作成画面内で使用して、デザインを作成できます。
+
+
+
+
+
+### **背景が正常に追加されました**
+
+テンプレート作成内で背景が正常に追加され、使用可能になります。
