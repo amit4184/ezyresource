@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.productsSidebar.category.Explore all Products": {
+    "message": "Explore all Products",
+    "description": "The label for category Explore all Products in sidebar productsSidebar"
+  },
+  "sidebar.productsSidebar.category.Product Setup": {
+    "message": "Product Setup",
+    "description": "The label for category Product Setup in sidebar productsSidebar"
+  }
+}

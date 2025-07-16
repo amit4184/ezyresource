@@ -26,7 +26,7 @@ const config = {
  // },
   i18n: {
   defaultLocale: 'en',
-  locales: ['en', 'ja', 'zh'],
+  locales: ['en', 'ja'],
   localeConfigs: {
     en: {
       label: 'English',
@@ -34,9 +34,7 @@ const config = {
     ja: {
       label: '日本語',
     },
-    zh: {
-      label: '中文',
-    },
+
   },
 },
 

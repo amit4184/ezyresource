@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.ec-designerSidebar.category.Get started": {
+    "message": "Get started",
+    "description": "The label for category Get started in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.How to Register": {
+    "message": "How to Register",
+    "description": "The label for category How to Register in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Product Types": {
+    "message": "Product Types",
+    "description": "The label for category Product Types in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Product Setup": {
+    "message": "Product Setup",
+    "description": "The label for category Product Setup in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Create a Product Blank": {
+    "message": "Create a Product Blank",
+    "description": "The label for category Create a Product Blank in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Publish, Update, & Connect": {
+    "message": "Publish, Update, & Connect",
+    "description": "The label for category Publish, Update, & Connect in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Creative Assets": {
+    "message": "Creative Assets",
+    "description": "The label for category Creative Assets in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Advanced Setup": {
+    "message": "Advanced Setup",
+    "description": "The label for category Advanced Setup in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Dashboards & Analytics": {
+    "message": "Dashboards & Analytics",
+    "description": "The label for category Dashboards & Analytics in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Plugins & Integrations": {
+    "message": "Plugins & Integrations",
+    "description": "The label for category Plugins & Integrations in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.FAQs & Help": {
+    "message": "FAQs & Help",
+    "description": "The label for category FAQs & Help in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Ordering Flows": {
+    "message": "Ordering Flows",
+    "description": "The label for category Ordering Flows in sidebar ec-designerSidebar"
+  }
+}
