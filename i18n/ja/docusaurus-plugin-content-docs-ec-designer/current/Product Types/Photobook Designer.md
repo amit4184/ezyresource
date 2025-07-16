@@ -6,7 +6,7 @@ title: Photobook Designer
 ## **EzyDesignerでフォトブックテンプレートを作成する方法**
 
 📍 **プラットフォーム**:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com) 📧 **サポート連絡先**: support@ezycreate.com
+](https://admin.ezycreate.com/dashboard/welcome) 📧 **サポート連絡先**: support@ezycreate.com
  💬 **フィードバック送信先**: feedback@ezycreate.com
 
 ### **🔰 このガイドで学べること**
@@ -68,8 +68,7 @@ title: Photobook Designer
 
 ### **✅ Step 1: ログイン**
 
-### 
-\[にアクセス](https://admin.ezycreate.com)
+\[にアクセス](<https://admin.ezycreate.com>)
 
 [](https://admin.ezycreate.com)
  ログイン情報を入力 → **Submit**をクリック
