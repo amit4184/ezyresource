@@ -1,146 +1,230 @@
 ---
 title: Publish a Product
 ---
-**How to Create a Product and Add to a Store**
 
-### **Step 1**
 
-Open **“My Products”** tab and click on **“Create New Product”** button.
 
-*My Products allows you to create products on the website with content, images, similar to a product page on the website.*
+# **商品の作成とストアへの追加方法**
 
-### **Step 2**
 
-Click on the **“Select Product Blank”** option.
 
- Click on the **Next** button to continue.
+### **✅ ステップ 1**
 
-### **Step 3**
+「**My Products（マイプロダクト）**」タブを開き、「**Create New Product（新しい商品を作成）**」ボタンをクリックします。
+ ※「My Products」は、ウェブサイト上の商品ページのように、コンテンツや画像付きで商品を作成する機能です。
 
-Select a product from the list of product blanks.
 
-### **Step 4**
 
-As per the product type, select the desired option.
 
- Click on the **Next** button to continue.
 
-### **Step 5**
+### **✅ ステップ 2**
 
-Select a **template** for the product.
+「**Select Product Blank（プロダクトブランクを選択）**」オプションをクリックします。
+ 「**Next**」ボタンをクリックして続行。
 
-**Note:** If the product template is already created and published, then it will appear here.
- Else to create a new template, refer to: **EzyDesigner Template Creator**
 
-Once the template is selected, click on the **Next** button to continue.
 
-### **Step 6**
 
-If the template has other size variants (similar product blanks) created, then you can add variants here using the **“Add Variants”** button.
 
- *It refers to the multiple sizes for the same product.*
+### **✅ ステップ 3**
 
-Click on the **Next** button to continue.
+リストから使用するプロダクトブランクを選択します。
 
-### **Step 7**
 
-Enter all the required details to be displayed on the product page.
 
- Click on the **Next** button to continue.
 
-### **Step 8**
 
-Click on the **“Select Albums”** button.
+### **✅ ステップ 4**
 
-### **Step 9**
+商品タイプに応じて、希望するオプションを選択します。
+ 「**Next**」ボタンをクリックして続行。
 
-Click on the **“Create New Album”** button.
 
- Enter a **name** for the album.
 
-### **Step 10**
 
-Click on the **“View Album Photos”** button.
 
-### **Step 11**
+### **✅ ステップ 5**
 
-Click on the **“Upload Photos”** button.
+商品のテンプレートを選択します。
+ ※既に作成・公開済みのテンプレートがある場合はここに表示されます。
+ 新しいテンプレートを作成したい場合は、**EzyDesigner Template Creator**を参照してください。
+ テンプレートを選択後、「**Next**」をクリックして続行。
 
-Choose image files from your device.
 
-**Note:** Only PNG or JPEG image files are allowed for upload.
 
-### **Step 12**
 
-Once the images are uploaded in the album:
 
-* Select the album to add to the merch product
-* Click on the **Close** button to continue
+### **✅ ステップ 6**
 
-### **Step 13**
+テンプレートにサイズバリエーション（同じ商品ブランクの別サイズ）がある場合：
+ 「**Add Variants（バリエーションを追加）**」ボタンから追加可能です。
+ ※これは同一商品の複数サイズを設定するオプションです。
+ 「**Next**」ボタンをクリックして続行。
 
-To allow users to upload photos while customizing the merch product, you can either **select or uncheck** the checkbox.
 
- *If this checkbox is unchecked, the user can only access the images from the selected albums and will not be allowed to upload any images for this product in the designer.*
 
- Click on the **Next** button to continue.
 
-### **Step 14**
 
-Click on the **Edit** button
+### **✅ ステップ 7**
 
-Enter all the required details
+商品ページに表示される必要な情報をすべて入力します。
+ 「**Next**」ボタンをクリックして続行。
 
-Click on the **Save** button
 
-Click on the **Next** button to continue
 
-### **Step 15**
 
-To upload your product images, you can choose between the below options:
 
-* **Generate Mockup Images**: Auto-generates mockups from uploaded images
-* **Upload Custom Images**: Upload ready-designed mockup images
+### **✅ ステップ 8**
 
-Upload an image
- Click on the **Generate Mockup** button
+「**Select Albums（アルバムを選択）**」ボタンをクリックします。
 
-### **Step 16**
 
-Click on **Save** button
 
-### **Step 17**
 
-Click on the **“View Generated Mockup”** button to check the generated mockup
 
- Select the **added mockup selection** checkbox
+### **✅ ステップ 9**
 
-Click on the **“Close”** pop-up button
+「**Create New Album（新しいアルバムを作成）**」ボタンをクリックし、アルバム名を入力します。
 
-### **Step 18**
 
-To view the mockup, click on **“View Mockups”**
- Click on the **Next** button to continue
 
-### **Step 19**
 
-Click on **Save** button to save the product
 
-### **Step 20**
+### **✅ ステップ 10**
 
-**Publish** the product
+「**View Album Photos（アルバムの写真を見る）**」ボタンをクリックします。
 
-### **Step 21**
 
-Once the product is published, it will be added on the website
- Open website link
 
-Click on the **“Add”** button to create the product page
 
-### **Step 22**
 
-Click on the **“View the Page”** link
+### **✅ ステップ 11**
 
-**Step 23**
+「**Upload Photos（写真をアップロード）**」ボタンをクリックします。
+ デバイスから画像ファイル（PNGまたはJPEG）を選択します。
+ ※PNGまたはJPEG形式のみアップロード可能です。
 
-The created page node link will open
+
+
+
+
+### **✅ ステップ 12**
+
+画像がアルバムにアップロードされたら、
+ そのアルバムを選択し、商品に追加します。
+
+「**Close（閉じる）**」ボタンをクリックして続行。
+
+
+
+
+
+### **✅ ステップ 13**
+
+ユーザーがカスタマイズ時に写真をアップロードできるようにするかどうかを選択できます。
+
+* **チェックあり**：ユーザーは画像をアップロード可能
+
+
+* **チェックなし**：選択されたアルバム内の画像のみ使用可能、アップロード不可
+
+
+
+「**Next**」ボタンをクリックして続行。
+
+
+
+
+
+### **✅ ステップ 14**
+
+「**Edit（編集）**」ボタンをクリックし、必要事項を入力
+ 「**Save（保存）**」ボタンをクリック
+ 「**Next**」ボタンをクリックして続行
+
+
+
+
+
+### **✅ ステップ 15**
+
+商品画像のアップロード方法を選びます：
+
+* **Generate Mockup Images（モックアップ自動生成）**：アップロード画像から自動的にモックアップを生成
+
+
+* **Upload Custom Images（カスタム画像のアップロード）**：デザイン済みモックアップ画像を直接アップロード
+
+
+* 画像をアップロード後、「**Generate Mockup**」ボタンをクリック
+
+
+
+
+
+
+
+### **✅ ステップ 16**
+
+「**Save**」ボタンをクリックして保存
+
+
+
+
+
+### **✅ ステップ 17**
+
+生成されたモックアップを確認するには、
+ 「**View Generated Mockup**」をクリック
+ 追加されたモックアップにチェックを入れ、
+ 「**Close（閉じる）**」をクリック
+
+
+
+
+
+### **✅ ステップ 18**
+
+モックアップを確認するには「**View Mockups（モックアップを見る）**」をクリック
+ 「**Next**」ボタンをクリックして続行
+
+
+
+
+
+### **✅ ステップ 19**
+
+「**Save**」ボタンをクリックして商品を保存
+
+
+
+
+
+### **✅ ステップ 20**
+
+商品を\*\*公開（Publish）\*\*します
+
+
+
+
+
+### **✅ ステップ 21**
+
+商品が公開されると、**ウェブサイト上に追加**されます
+ ウェブサイトリンクを開き、「**Add（追加）**」ボタンをクリックして商品ページを作成します
+
+
+
+
+
+### **✅ ステップ 22**
+
+「**View the Page（ページを表示）**」リンクをクリックします
+
+
+
+
+
+### **✅ ステップ 23**
+
+作成された商品ページ（ノードリンク）が開きます
