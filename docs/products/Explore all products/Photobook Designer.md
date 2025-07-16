@@ -2,328 +2,181 @@
 title: Photobook Designer
 sidebar_label: フォトブックデザイナ
 ---
-## **EzyDesignerでフォトブックテンプレートを作成する方法**
 
-📍 **プラットフォーム**:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com) 📧 **サポート連絡先**: support@ezycreate.com
- 💬 **フィードバック送信先**: feedback@ezycreate.com
 
+## **EC Designer Overview**
 
+Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
 
 
 
-### **🔰 このガイドで学べること**
 
-* Template Creatorへのログイン方法
-  - Template Creator
-* 新しいテンプレートの作成
 
 
-* テンプレートの編集・リサイズ・公開
 
+### **🔹 Key Benefits**
 
-* 写真、テキスト、背景、クリップアートの追加方法
+**Feature**
 
+**Description**
 
+💡 **Drag-and-Drop Editor**
 
+No-code design interface for end users
 
+🧩 **Modular Product Designers**
 
+Choose from Photobook, Print, Calendar, and Custom Product designers
 
+🛒 **eCommerce Integration**
 
-### **🛠 EzyDesigner Template Creator の主な機能**
+Connect with your webstore (e.g. Shopify, WooCommerce)
 
-* ✅ 誕生日・結婚式・祝日などのイベント向けテンプレートライブラリを活用
+📐 **Template System**
 
+Pre-design layouts for quick user customization
 
-* ✅ テキストや画像、デザイン要素を使ってレイアウトを自由にカスタマイズ
+🔌 **SDK & Plugins**
 
+Extend the tool via SDK, WordPress plugin, and APIs
 
-* ✅ プレースホルダーからドラッグ＆ドロップで配置
+📊 **Analytics Dashboard**
 
+Track user activity, product performance, and orders
 
-* ✅ 背景色や文字色の変更
 
 
-* ✅ テンプレートを異なる商品サイズにコピー＆リサイズ
 
 
-* ✅ デザインを公開し、お客様が利用可能に
+### **🔹 Who Should Use EC Designer?**
 
+This platform is built for:
 
-* ✅ 未公開テンプレートの編集
+* 🏪 **eCommerce Businesses** offering custom products
 
 
-* ✅ 公開前に2Dビューでデザインをプレビュー
+* 🎨 **Design Teams** who want control over templates and branding
 
 
-* ✅ 名前・イベント・言語・公開ステータスでテンプレートを検索可能
+* 🧑‍💻 **Developers** integrating personalization into their platforms
 
 
+* 🏢 **Corporate Clients** setting up internal design + print portals
 
 
+* 📸 **Studios & Photographers** selling albums or prints
 
 
 
-### **📘 用語解説**
 
-**用語**
 
-**意味**
 
-**Photo Holder**
 
-顧客が写真をドラッグ＆ドロップできる空のフレーム
+### **🔹 How Does It Work?**
 
-**Tags（タグ）**
+Here’s a simplified flow of how EC Designer fits into your business:
 
-\#birthday、#travelなど、テンプレート検索用のハッシュタグ
+mathematica
 
-**Template Group**
+CopyEdit
 
-同じデザインでサイズ違いのテンプレートをまとめたグループ
+1. Register Account → 2. Choose Product Type → 3. Create Product Blank → 
 
-**Template（テンプレート）**
+4. Design Templates → 5. Publish & Connect Store → 6. Accept Orders → 
 
-写真・テキスト・背景・クリップアートなどが含まれるデザインレイアウト
+7. Track via Dashboard
 
-**Text Field**
 
-顧客が自由に編集できるテキスト入力エリア
 
-**Template Creator**
 
-テンプレート作成・編集用のオンラインデザインエディタ
 
-**Template Object**
+### **🔹 EC Designer Modules**
 
-写真フレーム・テキスト・背景・クリップアートなど、テンプレート内のデザイン要素
+Each module within EC Designer serves a specific type of product:
 
+* 📚 **Photobook Designer** – Multi-page album layout & personalization
 
 
+* 🖨️ **Print Designer** – Single-page prints, posters, and merchandise
 
 
-## **📂 セクション I：テンプレートの作成方法**
+* 📅 **Calendar Designer** – Monthly and yearly calendar customization
 
-### **✅ Step 1: ログイン**
 
-<https://admin.ezycreate.com> にアクセス
- ログイン情報を入力 → **Submit**をクリック
+* 🧩 **Custom Product Designer** – Tailored to objects like mugs, T-shirts
 
-### **✅ Step 2: ダッシュボードへ移動**
 
-ログイン後、ダッシュボードのホーム画面が表示されます
+* 🛍️ **Webstore Setup** – Integrate with your frontend or third-party stores
 
-### **✅ Step 3: テンプレート一覧を表示**
 
-メニューの「**Templates**」をクリック
 
-### **✅ Step 4: 新しいテンプレートの作成**
 
-「**Create New Group**」をクリックして空のテンプレートを開始
 
-💡**ヒント：** リサイズされたテンプレートは元のテンプレートのグループ内にまとめて表示されます
 
-#### **▶ Step 4a: テンプレート詳細の入力**
 
-* **Template Name**：テンプレートの表示名
+### **🔹 Core Concepts to Know**
 
+**Concept**
 
-* **Products**：対象商品の選択
+**Description**
 
+**Product Blank**
 
-* **Occasion**：イベント種別の選択
+A base product layout with dimensions and safe zones
 
+**Mask Image**
 
-* **Tags**：#birthday や #travel などのタグを追加
+PNG used to define print-safe areas, cutouts, or shaped regions
 
+**Template**
 
+A pre-designed layout that users can customize
 
-「**Create**」をクリック → デザイン編集画面が新しいタブで開きます
+**Ready Flow vs Custom Flow**
 
-#### **▶ Step 4b: Template Creator を開く**
+Ready: templated shopping. Custom: full personalization
 
-テンプレートエディタが別タブで起動します
+**Library**
 
+A collection of backgrounds, layouts, and design assets
 
+**Page Layouts**
 
+Reusable page structures for multi-page products like photobooks
 
 
-## **🛠 既存テンプレートの編集**
 
-* 編集したいテンプレートグループをクリック
 
 
-* 編集したいテンプレートの **鉛筆アイコン** をクリック
+### **🔹 Getting Support**
 
+Need help while getting started?
 
-* 編集後は **Publish** をクリックして公開
+* 📄 Check our FAQs & Help
 
 
+* 📹 Watch Tutorial Videos
 
 
+* 🛠️ Visit the Product Setup Guide
 
 
+* 💬 Reach out to Support
 
-### **📝 テンプレート情報の編集**
 
-* テンプレート名、イベント、説明の更新
 
 
-* 使用しない場合は無効化も可能
 
 
 
+### **🔹 What's Next?**
 
+Once you’re familiar with the overview, we recommend you move on to:
 
+* ✅ **How to Register** – Create your first account
 
 
-## **🎨 Template Creator 画面の各機能**
+* 🛠️ **Product Setup** – Start creating and launching your products
 
-### **📌 ナビゲーションバー**
 
-左上にテンプレート名と商品名が表示されます
-
-### **📄 ページ追加（フォトブックのみ）**
-
-「**Add Pages**」ボタンでページを追加
-
-### **🖼️ 写真のアップロード**
-
-「**Photos**」タブ → JPG/JPEG形式のみ対応
- ⚠ **CMYK画像は非推奨**（色ずれの可能性）
-
-### **🖼️ Photo Holder（写真枠）の追加**
-
-「**Photo Holders**」タブ → 赤いアイコンで枠を配置（正方形／縦／横）
-
-### **📐 レイアウト変更・サイズリサイズ**
-
-「**Layout**」タブ → サイズ選択 → 別タブで新サイズのテンプレートが開く
- 調整後 **保存**
-
-### **🌄 背景の追加**
-
-「**Background**」タブ → 画像を選択／アップロード（JPG形式）
-
-### **🎨 クリップアートの追加**
-
-「**Clipart**」タブ → PNG（透過）ステッカーを選択
-
-### **🔤 テキスト追加**
-
-「**Floating Text**」または「**Text**」を選択
- ⚠ 「Enter Your Text」は印刷されません
-
-**テキスト編集機能：**
- ロック、レイヤー順、削除、フォント、整列、太字、斜体、カラー、背景色 など
-
-### **🖼️ 作業エリア**
-
-赤い点でサイズ変更可能
-
-### **🛠️ ツールバー機能**
-
-* 🔒 ロック／解除
-
-
-* 📋 複製
-
-
-* 🔼 前面へ / 🔽 背面へ
-
-
-* ✂️ 画像切り抜き
-
-
-* ➕ Photo Holder追加
-
-
-* 🗑️ 削除
-
-
-
-### **💾 保存 & プレビュー**
-
-* **Save**：保存
-
-
-* **Preview**：2Dプレビュー
-
-
-* **Close**：閉じる前に必ず保存
-
-
-
-### **📏 ガイドライン**
-
-テキストや写真枠を自動整列
-
-
-
-
-
-## **📐 セクション II：テンプレートをリサイズする方法**
-
-🟢 **Step 1**：ダッシュボードから「Templates」をクリック
-
-
- 🟢 **Step 2**：新規または既存テンプレートを開く
-
-
- 🟢 **Step 3**：ベーステンプレートを完成させる
-
-
- 🟢 **Step 4**：「Layout」タブ → 新しいサイズを選択
-
-
- 🟢 **Step 5**：新タブで開いたテンプレートを調整して保存
-
-
- 🟢 **Step 6**：リサイズ済みテンプレートはグループ内に表示
-
-
- 🟢 **Step 7**：公開するには「Publish」をクリック
-
-
- 🟢 **Step 8**：Designerで使用するには → 適用時に上書き警告あり → 「Proceed」をクリック
-
-
-
-
-
-
-
-
-
-## **🧾 クイックまとめ**
-
-✅ デザイン開始 → ダッシュボード → 「Create New Group」
-
-
- ✅ 写真を追加 → 「Photo Holders」タブ
-
-
- ✅ テキストを追加 → 「Text」タブ
-
-
- ✅ 背景を追加 → 「Background」タブ
-
-
- ✅ 別商品サイズにリサイズ → 「Layout」タブ
-
-
- ✅ 保存前にプレビュー → 「Preview」ボタン
-
-
- ✅ 公開 → ダッシュボードで「Publish」クリック
-
-
-
-
-
-📩 **困ったときは？**
-
- サポート：support@ezycreate.com
-
-
- フィードバック：feedback@ezycreate.com
+* 🧩 **Create Templates** – Build reusable layouts for end-users
