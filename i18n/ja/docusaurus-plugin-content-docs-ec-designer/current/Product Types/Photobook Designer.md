@@ -68,7 +68,10 @@ title: Photobook Designer
 
 ### **✅ Step 1: ログイン**
 
-\[にアクセス](https://admin.ezycreate.com)[](https://admin.ezycreate.com)
+### 
+\[にアクセス](https://admin.ezycreate.com)
+
+[](https://admin.ezycreate.com)
  ログイン情報を入力 → **Submit**をクリック
 
 ### **✅ Step 2: ダッシュボードへ移動**
