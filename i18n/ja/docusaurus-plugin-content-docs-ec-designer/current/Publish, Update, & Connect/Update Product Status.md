@@ -1,38 +1,60 @@
 ---
 title: Update Product Status
 ---
-## **How to Update Product Status**
 
-### **Step 1**
 
-Open the website link:
 
-👉 [https://admin.ezycreate.com](https://admin.ezycreate.com/)
+#  **商品ステータスの更新方法**
 
-### **Step 2**
 
-Enter valid login details and click on the **Submit** button.
 
-### **Step 3**
 
-Open the **“My Products”** tab.
 
-It will display the list of added products under it.
+### **✅ ステップ 1**
 
-### **Step 4**
+以下のウェブサイトリンクを開きます：
+ 👉[ https://admin.ezycreate.com](https://admin.ezycreate.com)
 
-**Publish** the product.
 
-Once the product is published, it will be **added on the website**.
 
-### **Step 5**
 
-Open the **website link**.
 
-Click on the **“Add”** button to create the product page.
+### **✅ ステップ 2**
 
-### **Step 6**
+有効なログイン情報を入力し、「**Submit（送信）**」ボタンをクリックします。
 
-Click on the **“View the page”** link.
 
-The created page node link will open.
+
+
+
+### **✅ ステップ 3**
+
+「**My Products（マイプロダクト）**」タブを開きます。
+ 登録済みの商品リストが表示されます。
+
+
+
+
+
+### **✅ ステップ 4**
+
+商品を\*\*公開（Publish）\*\*します。
+ 商品が公開されると、ウェブサイト上に追加されます。
+
+
+
+
+
+### **✅ ステップ 5**
+
+ウェブサイトリンクを開きます。
+ 「**Add（追加）**」ボタンをクリックして商品ページを作成します。
+
+
+
+
+
+### **✅ ステップ 6**
+
+「**View the page（ページを表示）**」リンクをクリックします。
+ 作成されたページ（ノードリンク）が開きます。
