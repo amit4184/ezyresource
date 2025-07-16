@@ -1,98 +1,159 @@
 ---
 title: Set Product Attributes
 ---
-## **How to Add Attributes & Attribute Options**
 
 
+背景画像の追加方法とテンプレートでの使用方法」の日本語翻訳です（意味を変えず、丁寧に訳しています）：
 
-### **How to Add Attributes**
 
-* Click on the **Attributes** tab from the left-hand side menu bar.
 
 
-* Select and click on the **Attributes** option.
 
+✅ **背景画像を追加し、テンプレートで使用する方法**
 
-* Click **Add** to create a new attribute.
 
 
 
-**Fill in the required details:**
 
-* **Attribute Code**: Enter a unique code to define the attribute (e.g., Substrate, Lamination, Binding). Format: 001, 002, etc.
+### **1. EzyAdminにログイン**
 
+ポータルでログイン情報を入力します。
 
-* **App/Web Code**: Enter the app/web code for the attribute. Preferably the same as the attribute code.
+**\[Submit（送信）]** をクリック
 
 
-* **Display Caption**: Enter the display name visible to users (e.g., Substrate, Lamination).
 
 
-* **Description**: Provide a short description about the attribute’s properties, type, or feature.
 
+### **2. 背景セクションへアクセス**
 
-* **Display**: Select **Yes** if this attribute should be visible in the product definition tool.
+サイドバーの「**Background（背景）**」タブをクリックします。
 
+利用可能な背景カテゴリの一覧が表示されます。
 
-* Click **Save** to create the new attribute.
 
 
 
-**To edit an existing attribute:**
 
-* Click the **Edit** icon next to it.
+### **3. カテゴリを選択**
 
+任意のカテゴリを選択すると、そのカテゴリに追加されているすべての背景が表示されます。
 
-* Make the necessary changes.
 
 
-* Click on the **Save** button.
 
 
+### **4. 新しい背景を追加**
 
+「**Add（追加）**」ボタンをクリックします。
 
+**追加フォームの入力：**
 
+* **表示名**：背景の名前を入力
 
 
-**How to Add Attribute Options**
+* **画像**：［ファイルを選択］をクリックして背景画像をアップロード（JPG推奨）
 
-* Click on the **Attributes** tab.
 
+* **公開設定（Public）**：EzyDesigner上でユーザーに表示する場合はオンにします
 
-* Select and click on the **Attribute Options**.
 
+* **ステータス（Status）**：この背景を有効または無効にするためのスライダーを切り替え
 
-* Click on the **Add** button to add a new attribute option.
 
 
+**\[Save（保存）]** をクリックして背景を追加、または **\[Cancel（キャンセル）]** で中止します。
 
-**Fill in the required details:**
 
-* **Attribute**: Select the defined attribute from the dropdown (e.g., Substrate) for which the option is being added.
 
 
-* **Attribute Option Code**: Enter a unique code to define the attribute option (e.g., Matt, Gloss, None).
 
+### **5. 既存の背景を編集**
 
-* **Description**: Enter a short description explaining the option's type, feature, or purpose.
+背景横の\*\*鉛筆アイコン（編集）\*\*をクリックします。
 
+表示名の変更や新しい画像のアップロードが可能です。
+ PublicやStatusの切り替えもできます。
 
-* **Option Description**: Provide a more detailed explanation, e.g., *“Gloss finish offers a shiny surface suitable for photo prints.”*
+変更後、**\[Save（保存）]** または **\[Cancel（キャンセル）]** をクリック。
 
 
-* **Image**: Paste a direct image URL that represents this option (e.g., https://example.com/images/gloss.jpg).
 
 
-* Click **Save** to add the new option.
 
+### **6. 背景をプレビュー表示**
 
+\*\*目のアイコン（Preview）\*\*をクリックすると、背景画像をプレビュー表示できます。
 
-**To edit an existing attribute option:**
+**プレビューコントロール：**
 
-* Click on the **Edit** button.
+* **ズームイン（Zoom In）**：画像を拡大表示
 
 
-* Make the necessary changes.
+* **ズームアウト（Zoom Out）**：画像を縮小表示
 
 
-* Click on the **Save** button.
+* **次へ／前へ（Next／Previous）**：他の背景に切り替え
+
+
+* **閉じる（Close）**：プレビューウィンドウを終了
+
+
+
+
+
+
+
+### **7. テンプレートの作成と背景の使用**
+
+「**Templates（テンプレート）**」タブをクリックします。
+
+「**Create（作成）**」をクリックして新しいテンプレートを開始します。
+
+**テンプレート詳細を入力：**
+
+* **テンプレート名**（例：「First Birthday Template」）
+
+
+* **説明**（例：「1歳の誕生日向けの楽しくカラフルなデザイン」）
+
+
+* **製品（Product）**：ドロップダウンから選択
+
+
+* **イベント（Occasion）**：ドロップダウンから選択
+
+
+* **言語（Language）**：ドロップダウンから選択
+
+
+* **ステータス（Status）**：有効／無効を選択
+
+
+
+［**Create（作成）**］をクリックすると、テンプレート作成画面が新しいタブで開きます。
+
+
+
+
+
+### **8. テンプレート作成画面で背景を追加**
+
+テンプレート作成画面内の「**Background**」タブをクリックします。
+
+追加済みの背景がすべて表示されます。
+ 任意の背景を選んでテンプレートのデザインに使用します。
+
+
+
+
+
+### **まとめ：**
+
+* 背景は **EzyAdmin** の「**Background**」タブでアップロード＆管理可能
+
+
+* **Public** と **Status** のトグルで表示・有効状態をコントロール
+
+
+* アップロード済み背景は **Template Creator** 内で簡単に使用可能
