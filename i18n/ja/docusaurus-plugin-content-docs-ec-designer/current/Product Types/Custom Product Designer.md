@@ -114,7 +114,7 @@ EzyDesignerのテンプレートクリエーターでは、事前にレイアウ
 
 ### **🔐 Step 1: ログイン**
 
-<https://admin.ezycreate.com> にアクセス
+(https://admin.ezycreate.com) [にアクセス]
  ログイン情報を入力 → 「**Submit**」をクリック
 
 ### **🏠 Step 2: ダッシュボード**
