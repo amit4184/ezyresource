@@ -1,192 +1,157 @@
 ---
 title: Clipart Management
 ---
-# **How to Add Clipart**
 
-**Index**
 
-1. Introduction
+### **クリップアートの追加方法とテンプレートでの使用方法」の日本語翻訳です（意味は変更していません**
 
 
-2. Login to Ezyadmin
 
 
-3. Access Cliparts
 
+✅ **クリップアートを追加し、テンプレートで使用する方法**
 
-4. Add a New Clipart
+**1. EzyAdminにログイン**
+ 有効なログイン情報を入力し、以下のURLにアクセスします：
+[ https://stagingadmin.ezycreate.com/](https://stagingadmin.ezycreate.com/)
 
+**\[送信]** をクリック
 
-5. Successfully Added Clipart
 
 
-6. Edit Clipart
 
 
-7. Preview Clipart
+**2. クリップアートセクションへアクセス**
+ サイドバーの「**Clipart（クリップアート）**」タブをクリックします。
 
+誕生日や祭りなどの**イベント/カテゴリの一覧**が表示されます。
 
-8. Create Template Using Cliparts
 
 
-9. Template Creator Tab
 
 
-10. Use Added Clipart in Template
+**3. イベント/カテゴリを選択**
+ （例：**誕生日**）など、いずれかのカテゴリをクリックします。
 
+そのイベントに登録されている**クリップアート一覧**が表示されます。
 
 
-## **Introduction**
 
-The **Ezyadmin** is a cloud-based product management portal for your products. The **Ezydesigner** makes use of creative assets like cliparts and backgrounds that can be used while designing your personalized products.
 
-The creative assets currently are of two types: **Cliparts** and **Backgrounds**.
 
-**Clipart** can be a great way to add personality and flair to your personalized products. It can be used to create custom designs that are unique to your brand or customer. They give customers the freedom to create truly unique designs. You could also provide a library of free clipart that customers can use.
+**4. 新しいクリップアートを追加**
+ 「**Add（追加）**」ボタンをクリック
 
-## **Login to Ezyadmin**
+フォームに入力します：
 
-* Enter valid login credentials and click on **submit** button.
+* **表示名**：クリップアートの名前を入力
 
 
+* **画像**：［ファイルを選択］をクリックし、PNG または JPEG 形式の画像をアップロード
 
-## **Access Cliparts**
 
-* Click on the **Clipart** tab on the sidebar.
-   *Will display the list of occasions*
+* **公開設定（Public）**：デザイナー画面でユーザーに表示する場合はオンにします
 
 
-* Select any **occasion/category**
-   *Example: 'Birthday', 'Festivals' etc.*
-   *Will display the list of added clipart*
+* **ステータス**：このクリップアートを有効/無効にするためのスライダーを切り替え
 
 
 
-## **Add a New Clipart**
+［保存］をクリックして追加、または［キャンセル］で破棄
 
-* To add a new clipart click on the **“Add”** button.
-   *Will open an Add form*
 
 
-* **Display name:** Enter the display name.
 
 
-* **Image:** Click on **Choose file** and upload **PNG or JPEG** clipart image.
+**5. 既存のクリップアートを編集**
+ 各クリップアートの右側にある\*\*鉛筆アイコン（編集）\*\*をクリック
 
+表示名の変更や新しい画像のアップロードが可能です
+ Public やステータスの切り替えもできます
 
-* **Public:** Enable/disable
-   *Example: “Enable ‘Public’ to make the clipart available to users.”*
+［保存］または［キャンセル］をクリック
 
 
-* **Status:** Click on the slider button to set the status of the clipart. This allows the user to enable or disable a clipart.
 
 
-* **Save:** Save newly added clipart
 
+**6. クリップアートをプレビュー**
+ \*\*目のアイコン（プレビュー）\*\*をクリックすると、クリップアートが表示されます。
 
-* **Cancel:** Cancel the form
+プレビューコントロール：
 
+* **ズームイン**：画像を拡大
 
 
-## **Successfully Added Clipart**
 
-## **Edit Clipart**
 
-* Click on **edit symbol** to edit the added clipart.
+* **ズームアウト**：画像を縮小
 
 
-* *Edit form will open*
 
 
-* * **Display name:** Edit the display name
+* **次へ/前へ**：他のクリップアートへ移動
 
 
 
-  * **Image:** Click on **Choose file** and re-upload/change clipart image
 
+* **閉じる**：プレビューモードを終了
 
 
-  * **Public:** Enable/disable
 
 
 
-  * **Status:** Click on the slider button to change the status of the clipart. This allows the user to enable or disable a clipart.
 
 
 
-  * **Save:** Save the changes
 
+**7. テンプレートでの使用**
+ 「**Creative Assets > Templates**」に移動
+ 「**Create（作成）**」をクリックし、新しいテンプレートを追加
 
+テンプレートの詳細を入力：
 
-  * **Cancel:** Cancel the changes
+* テンプレート名
 
 
+* 説明
 
-## **Preview Clipart**
 
-* Click the **eye icon** to preview the clipart. Use Zoom In/Out buttons to adjust the view.
+* 対応製品
 
 
-* **Zoom in:** Click ‘Zoom In’ to enlarge the clipart preview
+* イベント（例：誕生日、フェスティバル）
 
 
-* **Zoom out:** Click on Zoom Out to reduce the image view
+* 言語
 
 
-* **Close:** Click to close view page
+* ステータス（有効/無効）
 
 
-* **Next:** It will show the next listed clipart view
 
+［Create］をクリックすると、テンプレート作成画面が新しいタブで開きます
 
-* **Previous:** It will show the previous listed clipart view
 
 
 
-## **Create Template Using Cliparts**
 
-* Click on **Templates** to load the list of existing templates
+**8. テンプレートにクリップアートを追加**
+ テンプレート作成画面内で「**Clipart**」タブをクリック
 
+登録済みのすべてのクリップアートが表示されます
+ 使用したいクリップアートを選択して、デザインに配置します
 
-* Click the **“Create”** button to create blank new templates.
 
 
-* **Template name:** Enter the Template name (displayed in the Ezydesigner)
 
 
-* **Description:** Enter the description of the template
+**まとめ**：
 
+* EzyAdminの「Clipart」タブで、クリップアートをアップロード・管理
 
-* **Products:** Select a product from the product dropdown list
 
+* 「Public」と「Status」の切り替えで公開範囲と有効設定を制御
 
-* **Occasions:** Select an occasion from the occasion dropdown list
 
-
-* **Language:** Select a language from the language dropdown list
-
-
-* **Status:** Click on the slider button to change the status of the template. This allows the user to enable or disable a template
-
-
-* **Cancel:** Click on the cancel button to cancel the template form
-
-
-* **Create:** Click on create button to create the template. The template is created
-
-
-
-## **Template Creator Tab**
-
-* Template creator will open in a new tab
-
-
-
-## **Use Added Clipart in Template**
-
-* Click on **clipart**
-   *Will show all the added clipart*
-
-
-* The clipart added successfully in template creator
-   *Can use it to create template/design*
+* テンプレート作成時に、簡単にクリップアートを使用可能
