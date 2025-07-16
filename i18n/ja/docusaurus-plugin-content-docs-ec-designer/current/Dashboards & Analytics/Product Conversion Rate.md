@@ -1,22 +1,17 @@
 ---
 title: Product Conversion Rate
 ---
-### **📈 Product Conversion Rate Dashboard**
-
-**Name**: Product Conversion
- **Description**: This dashboard gives the % of project conversion in EzyDesigner.
- **Note**: Only EzyDesigner products are included (not S2P).
 
 
+📈 **商品コンバージョン率ダッシュボード**
+ **名前**: 商品コンバージョン
+ **説明**: このダッシュボードは、EzyDesignerにおけるプロジェクトのコンバージョン率（％）を表示します。
+ **注記**: S2P商品は含まれず、EzyDesigner商品のみ対象です。
 
-#### **📅 X-Axis:**
+📅 **X軸**:
+ project_date：EzyDesignerプロジェクトが作成された日付
 
-* project_date: Date when EzyDesigner project was created
+📈 **Y軸**:
+ プロジェクト数：作成されたプロジェクトの数
 
-
-
-#### **📈 Y-Axis:**
-
-* Projects: Number of projects created
-
-* Product Conversion %: Conversion rate of projects to orders
+**商品コンバージョン率（％）**：プロジェクトが注文に変換された割合
