@@ -1,6 +1,6 @@
 ---
 title: 概要
-slug: /GetStarted/Overview
+slug: /get%20started/overview
 ---
 
 ## **ECデザイナー概要**
