@@ -123,7 +123,7 @@ Click **Create New Group**.
 
 * One default **Date Pad**, **Image Holder**, and template tools are loaded.
 * Resize date pad as needed (applies to all 12 months).
-* Use **\>** or **<** to navigate between months.
+* Use \> or < to navigate between months.
 * Use tools to add text, photos, background, clipart.
 
 ### **✅ Save & Preview**
