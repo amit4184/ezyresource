@@ -92,7 +92,7 @@ title: Print Designer
 
 #### **✅ ステップ 1：ログイン**
 
-<https://admin.ezycreate.com> にアクセス
+(https://admin.ezycreate.com) [にアクセス]
  ログイン情報を入力して「Submit」をクリック
 
 #### **✅ ステップ 2：「My Blanks」に移動**
