@@ -1,62 +1,46 @@
 ---
 title: Product Orders Dashboard
 ---
+**商品注文ダッシュボード**
+
+ **名前**: 商品注文
 
 
-### **📦 Product Orders Dashboard**
+ **説明**: 出荷された注文数を日別に表示します。
 
-**Name**: Product Orders
- **Description**: Displays the number of shipped orders per day.
+📅 **X軸**:
+ shipped_date：注文が出荷された日付
 
+📈 **Y軸**:
+ 注文数：出荷された注文の数
 
+🔍 **フィルター**:
 
-
-
-#### **📅 X-Axis:**
-
-* shipped_date: Date when order was shipped
-
+* **ストア**：ストアのソース（例：インドストア、SGストア）
 
 
-#### **📈 Y-Axis:**
-
-* Orders: Number of orders shipped
+* **プラン**：顧客セグメント（例：プロ、通常）
 
 
+* **カテゴリ**：商品カテゴリ（例：フォトブック、プリント）
 
 
-
-
-
-#### **🔍 Filters:**
-
-* **Store**: Store source (e.g., India Store, SG Store)
-
-
-* **Plan**: Customer segment (e.g., Pro, Regular)
-
-
-* **Category**: Product category (e.g., Photobook, Prints)
-
-
-* **Product Blank**: Product name defined
-
-
-* **Data Source**: Drupal backend database for the store
+* **商品ブランク**：定義された商品名
 
 
 
+📊 **データソース**:
+ ストアのDrupalバックエンドデータベース
+
+🧾 **追加指標**:
+
+* **商品売上（純売上）**:
+   純売上 = product_sale（定価） × 数量 - 割引
+   ※ 税・送料を除く／通貨：Rs.
 
 
+* **商品売上（総売上）**:
+   総売上 = product_sale（定価） × 数量 + 割引
 
 
-#### **🧾 Additional Metrics:**
-
-* **Product Sale (Net Sale)**:
-   Net Sale = product_sale (MRP) * quantity - discount
-   *(Exclusive of tax & shipping. Currency: Rs.)*
-
-
-* **Product Sale (Gross Sale)**:
-   Gross Sale = product_sale (MRP) * quantity + discount
-   *(Exclusive of tax & shipping. Currency: Rs.)*
+   ※ 税・送料を除く／通貨：Rs.
