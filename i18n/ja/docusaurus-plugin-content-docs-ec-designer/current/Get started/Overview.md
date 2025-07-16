@@ -1,5 +1,5 @@
 ---
-title: 概要
+title: Get Ready 概要
 ---
 
 ## **ECデザイナー概要**
