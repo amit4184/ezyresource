@@ -1,161 +1,205 @@
 ---
 title: Connect Your Online Store
 ---
-**Template Publishing Guide**
+# **テンプレート公開ガイド**
 
-### **Glossary**
+### **🔢 目次（Index）**
 
-* **Template**:
-   A set of ready designs consisting of photo holders, text fields, cliparts, backgrounds, etc., to help users easily create personalized designs.
-* **Template Group**:
-   A collection of templates organized together for easier management and access.
-* **Store**:
-   A web storefront where published products and templates appear for end users.
-* **Layouts**:
-   Predefined sets of photo holders to simplify and accelerate the design process.
+**番号**
 
-**Step 1**
+**セクション**
 
- Open the website link:[ https://admin.ezycreate.com](https://admin.ezycreate.com)
+1. 用語集（Glossary）
 
-[
-](https://admin.ezycreate.com/) Enter valid login details and click on the **Submit** button.
+2. 単一のテンプレートグループをストアに公開する方法
 
-**Step 2**
+3. テンプレートグループ内の特定テンプレートをストアに公開する方法
 
- From the dashboard, go to:
+4. 複数のテンプレートグループをストアに公開する方法
 
- **Creative Assets → Templates**
+5. テンプレートをストア商品に追加する方法
 
- Click on **“Ezycreate Templates”**.
 
- It will display the list of template groups.
 
-**Step 3**
 
- Click on the **“Add”** button next to the single **Template Group** you want to publish to the store.
 
-**Note**:
- A Template Group is a way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
+### **📖 用語集（Glossary）**
 
-**Step 4**
+* **テンプレート**：
+   フォトホルダー、テキストフィールド、クリップアート、背景などを含むデザイン済みレイアウトのセット。ユーザーが簡単にパーソナライズできるよう設計されています。
 
- A pop-up will appear with a list of all available stores.
 
-**Note**:
- Each store refers to a website (or storefront) where your templates can be used. Select one or more stores to publish the templates.
+* **テンプレートグループ**：
+   管理やアクセスを簡単にするためにまとめられたテンプレートのコレクション。
 
-Select the stores and click the **“Add”** button.
 
-**Note**:
- Publishing will make the templates available in the store's configuration page. The configurator can then assign the templates to website products. They will appear on the template selection page of the product.
+* **ストア（Store）**：
+   公開された商品やテンプレートがユーザー向けに表示されるウェブストアフロント。
 
-You will see a message: **“Added successfully to store”**.
 
-## **How to Publish Selective Template(s) within a Template Group to the Store**
+* **レイアウト（Layouts）**：
+   デザイン作成を簡略化・高速化するためのフォトホルダーのプリセット構成。
 
-**Step 1**
 
- Open the website link:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com/) Log in and click **Submit**.
 
-**Step 2**
 
- From the dashboard, go to:
 
- **Creative Assets → Templates**
 
- Click on **“Ezycreate Templates”**.
 
- The list of template groups will be displayed.
+## **1️⃣ 単一のテンプレートグループをストアに公開する方法**
 
-**Step 3**
+### **✅ ステップ 1**
 
- Select the Template Group whose templates you want to publish.
+ウェブサイトを開きます：
+ 👉[ https://admin.ezycreate.com
+](https://admin.ezycreate.com) 有効なログイン情報を入力し、「**Submit**」をクリック。
 
- Click on the group to view the individual templates.
+### **✅ ステップ 2**
 
-Select the specific Template(s) using the checkboxes.
- Click on the **“Add to Store”** button.
+ダッシュボードより：
+ **Creative Assets → Templates** を開き、
+ 「**Ezycreate Templates**」をクリック。
+ テンプレートグループの一覧が表示されます。
 
-**Step 4**
+### **✅ ステップ 3**
 
- A pop-up will appear with the list of stores.
+公開したいテンプレートグループの「**Add**」ボタンをクリック。
 
-Select the desired store(s) and click **“Add”**.
+📌 **注意**：
+ テンプレートグループは、大量のテンプレートを効率的に管理・分類するための単位です。
 
-You will see a message: **“Added successfully to store”**.
+### **✅ ステップ 4**
 
-## **How to Publish Multiple Template Groups to the Store**
+ストア一覧のポップアップが表示されます。
+ 対象のストアを選択して「**Add**」をクリック。
 
-**Step 1**
+📌 **注意**：
+ 選択したストアにテンプレートが公開されると、**コンフィギュレーター**によって商品のテンプレート選択ページに割り当てることができます。
+ 「**Added successfully to store**」という確認メッセージが表示されます。
 
- Open the website link:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com/) 
 
-Log in and click **Submit**.
 
-**Step 2**
 
- Navigate to:
- **Creative Assets → Templates → Ezycreate Templates**
 
-**Step 3**
+## **2️⃣ テンプレートグループ内の特定テンプレートをストアに公開する方法**
 
- Select multiple Template Groups using the checkboxes.
- Click on the **“Add”** button.
+### **✅ ステップ 1**
 
-**Step 4**
+👉[ https://admin.ezycreate.com](https://admin.ezycreate.com) を開き、ログイン後「Submit」をクリック。
 
- A pop-up will appear with the store(s) listed.
- Select the store(s) and click **“Add”**.
+### **✅ ステップ 2**
 
-You will see a message: **“Added successfully to store”**.
+**Creative Assets → Templates → Ezycreate Templates** へ進みます。
 
-## **How to Add a Template to a Store Product**
+### **✅ ステップ 3**
 
-**Pre-requisite**:
- Ezycreate plugin module must be installed.
+対象のテンプレートグループをクリックし、内部テンプレートを表示します。
+ 公開したいテンプレートにチェックを入れ、「**Add to Store**」をクリック。
 
-**Step 1**
+### **✅ ステップ 4**
 
- Log in to the website.
+ストア一覧のポップアップで、ストアを選択し「**Add**」をクリック。
+ 「**Added successfully to store**」が表示されます。
 
- Ensure you have access to the **Ezycreate Dashboard**.
 
-**Step 2**
 
- Go to:[ https://www.photojaanic.com/admin/settings/ezycreate/templates](https://www.photojaanic.com/admin/settings/ezycreate/templates)
 
-**Note**:
- If access is denied, contact your site administrator for dashboard permissions.
 
-The list will display only **published templates** (not yet added to the website).
+## **3️⃣ 複数のテンプレートグループをストアに公開する方法**
 
-**Step 3**
+### **✅ ステップ 1**
 
- Enter the **Product ID** to filter specific templates.
+👉[ https://admin.ezycreate.com](https://admin.ezycreate.com) にアクセスし、ログイン → 「Submit」
 
- Click on the **Apply Filter** button.
+### **✅ ステップ 2**
 
-**Step 4**
+**Creative Assets → Templates → Ezycreate Templates** を開きます。
 
- All templates related to the filtered product will be shown.
+### **✅ ステップ 3**
 
-* To select all: check **“Select All”** → click **“Add Bulk”**
-* To select individual templates: check box beside template → click **“Add”**
+チェックボックスで複数のテンプレートグループを選択し、「**Add**」をクリック。
 
-**Step 5**
+### **✅ ステップ 4**
 
- Once added, templates will appear on the product’s **Theme Selection Page** on the store.
+表示されたストア一覧からストアを選択し、「**Add**」をクリック。
+ 「**Added successfully to store**」が表示されます。
 
-To preview:
+
+
+
+
+## **4️⃣ テンプレートをストアの商品に追加する方法**
+
+### **✅ 事前条件：**
+
+**Ezycreateプラグインモジュール**がインストールされている必要があります。
+
+
+
+
+
+### **✅ ステップ 1**
+
+ウェブサイトにログインし、**Ezycreateダッシュボード**へアクセス。
+
+
+
+
+
+### **✅ ステップ 2**
+
+以下のURLへ移動します：
+ 👉[ https://www.photojaanic.com/admin/settings/ezycreate/templates](https://www.photojaanic.com/admin/settings/ezycreate/templates)
+
+📌 **注意**：
+ アクセス権がない場合は、サイト管理者へ連絡してください。
+ ここでは**まだウェブサイトに追加されていない公開済みテンプレート**のみが表示されます。
+
+
+
+
+
+### **✅ ステップ 3**
+
+商品IDを入力して、関連テンプレートをフィルター表示。
+ 「**Apply Filter**」をクリック。
+
+
+
+
+
+### **✅ ステップ 4**
+
+フィルターされたテンプレート一覧が表示されます。
+
+* **一括追加**：
+   「**Select All**」→「**Add Bulk**」
+
+
+* **個別追加**：
+   対象テンプレートにチェック → 「**Add**」
+
+
+
+
+
+
+
+### **✅ ステップ 5**
+
+テンプレートが商品ページの「テーマ選択ページ」に表示されます。
+
+📌 **プレビュー確認**：
  👉[ https://www.photojaanic.com/templates?size=120073](https://www.photojaanic.com/templates?size=120073)
 
-To make it live:
-[👉 https://www.photojaanic.com/ezytemplates?size=120073](https://www.photojaanic.com/ezytemplates?size=120073)
- Click **Publish**.
+📌 **本番公開**：
+ 👉[ https://www.photojaanic.com/ezytemplates?size=120073
+](https://www.photojaanic.com/ezytemplates?size=120073) 「**Publish**」をクリック。
 
-**Step 6**
 
- Once published, the template will be visible to users on their respective theme pages.
+
+
+
+### **✅ ステップ 6**
+
+公開されると、テンプレートはユーザーのテーマページで表示されるようになります。
