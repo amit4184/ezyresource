@@ -1,273 +1,311 @@
 ---
 title: Photobook Designer
+sidebar_label: フォトブックデザイナ
 ---
-#### **How to Create a  Photobook Template in EzyDesigner (Easy Step-by-Step Guide)**
+## **EzyDesignerでフォトブックテンプレートを作成する方法**
 
-📍 Platform:[ https://admin.ezycreate.com](https://admin.ezycreate.com) [](https://admin.ezycreate.com)
+📍 **プラットフォーム**:[ https://admin.ezycreate.com
+](https://admin.ezycreate.com) 📧 **サポート連絡先**: support@ezycreate.com
+ 💬 **フィードバック送信先**: feedback@ezycreate.com
 
-[](https://admin.ezycreate.com)📧 Need help? Email us at: **support@ezycreate.com**
 
-💬 Feedback? Send it to: **feedback@ezycreate.com**
 
-## **What is EzyDesigner?**
 
-**EzyDesigner** is a simple design tool that helps you make your own custom templates for personalized products like photobooks, calendars, and more. You don’t need design skills — just drag, drop, and create!
 
-**What You’ll Learn**
+### **🔰 このガイドで学べること**
 
-This guide shows you how to:
+* Template Creatorへのログイン方法
+  - Template Creator
+* 新しいテンプレートの作成
 
-1. Log in to the Template Creator
-2. Make a new design template
-3. Edit, resize, and publish your template
-4. Add photos, text, backgrounds, and clipart
 
-### **Key Features of the EzyDesigner Template Creator**
+* テンプレートの編集・リサイズ・公開
 
-With EzyDesigner, you can:
 
-✅ Use a library of **pre-designed templates** for various events (e.g., birthdays, weddings, holidays)
+* 写真、テキスト、背景、クリップアートの追加方法
 
-✅ **Customize** layouts with text, images, and design elements
 
-✅ **Drag and drop** from a set of predefined placeholders
 
-✅ Change **background colors** and **text colors**
 
-✅ **Copy and resize** templates across different product sizes
 
-✅ **Publish** your designs so customers can use them
 
-✅ **Edit** existing unpublished templates
 
-✅ **Preview** your design in a 2D view before going live
+### **🛠 EzyDesigner Template Creator の主な機能**
 
-✅ Use **filters** to find templates by name, occasion, language, or publish status
+* ✅ 誕生日・結婚式・祝日などのイベント向けテンプレートライブラリを活用
 
-## **Glossary of Key Terms**
 
-Here are some basic terms you'll see in this guide:
+* ✅ テキストや画像、デザイン要素を使ってレイアウトを自由にカスタマイズ
 
-* **Photo Holder**
-   An empty frame where users can drag and drop their own photos.
-* **Tags**
-   Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
-* **Template Group**
-   A collection of templates with the same design but resized for different product sizes.
-* **Template**
-   A ready-to-use layout that includes photos, text fields, clipart, and background images.
-* **Text Field**
-   An editable area where users can add or customize text within a design.
-* **Template Creator**
-   The online design workspace where you create and customize templates.
-* **Template Object**
-   Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
-### **Before You Start**
+* ✅ プレースホルダーからドラッグ＆ドロップで配置
 
-**What is a Template?**
- A template is a pre-designed layout that helps your customers start designing quickly. It includes photo boxes, text areas, colors, and backgrounds — all ready to customize.
 
-**Where does this template appear?**
- It shows up inside the **EzyDesigner** where customers can choose and personalize it.
+* ✅ 背景色や文字色の変更
 
-## **Section I: How to Create a Template**
 
- **Step 1: Login**
+* ✅ テンプレートを異なる商品サイズにコピー＆リサイズ
 
-* Go to: https://admin.ezycreate.com/
-* Enter your login details and click Submit
 
- **Step 2: Welcome Dashboard**
+* ✅ デザインを公開し、お客様が利用可能に
 
-* You'll land on the dashboard homepage
 
-**Step 3: View Templates**
+* ✅ 未公開テンプレートの編集
 
-* Click on Templates to see existing template groups
 
-**Step 4: Create a New Template**
+* ✅ 公開前に2Dビューでデザインをプレビュー
 
-* Click - Create New Group to start a blank template
-*  A template group allows you to create one base design and resize it for different product sizes
 
-**💡Note : Resized templates will appear grouped under the original template**
+* ✅ 名前・イベント・言語・公開ステータスでテンプレートを検索可能
 
- **Step 4a: Fill Template Details**
 
-* Template Name: Display name in EzyDesigner
-* Products: Select from dropdown list
-* Occasion: Choose the event type
-* Tags: Add hashtags like #birthday, #travel
-* Click Create to begin designing (opens in a new tab)
-* Click Cancel to exit the form
 
-**Step 4b: Open Template Creator**
 
-* Template Creator will launch in a new tab for editing
 
-**🛠️ Editing an Existing Template**
 
-* Click the template group you want to edit
-* Click the edit icon next to the template
-* The template will open in a new tab
-* Publish your changes once done
 
-**📝 Edit Template Info**
+### **📘 用語解説**
 
-* Update template name, occasion, description
-* Option to disable the template if not in use
+**用語**
 
-## **Template Creator Features**
+**意味**
 
-**📌 Navigation Bar**
+**Photo Holder**
 
-* Shows template name and product name on the top-left corner
+顧客が写真をドラッグ＆ドロップできる空のフレーム
 
-**📄 Add Pages (Photobooks Only)**
+**Tags（タグ）**
 
-* Use the "Add Pages" button to insert more pages
+\#birthday、#travelなど、テンプレート検索用のハッシュタグ
 
-**🖼️ Upload Photos**
+**Template Group**
 
-* Go to Photos tab
-* Upload JPG/JPEG files only
-* ⚠️ Avoid CMYK images—they may cause color issues
+同じデザインでサイズ違いのテンプレートをまとめたグループ
 
-**🖼️ Add Photo Holders**
+**Template（テンプレート）**
 
-* Click Photo Holders tab
-* Tap the red icon to place a photo frame (square/portrait/landscape)
+写真・テキスト・背景・クリップアートなどが含まれるデザインレイアウト
 
-**📐 Resize via Layouts**
+**Text Field**
 
-* Open Layout tab
-* Click a new size → Template opens in a new tab
-* Make corrections and save
-* Resized versions appear grouped under the base template
+顧客が自由に編集できるテキスト入力エリア
 
-**🌐 Publish Template**
+**Template Creator**
 
-* Click publish icon next to the template
+テンプレート作成・編集用のオンラインデザインエディタ
 
-**🚫 Unpublish Template**
+**Template Object**
 
-* Click settings → Select Unpublish
+写真フレーム・テキスト・背景・クリップアートなど、テンプレート内のデザイン要素
 
-**🌄 Add Backgrounds**
 
-* JPG format only
-* Click Background tab → Choose one or upload your own
 
-**🎨 Add Clipart**
 
-* PNG format (transparent)
-* Click Clipart tab → Pick a sticker
 
-**🔤 Add Text**
+## **📂 セクション I：テンプレートの作成方法**
 
-* Click Floating Text or Text
-* ⚠️ Default label 'Enter Your text' won’t be printed
-* Formatting tools: Lock, Layer Order, Delete, Font Style, Alignment, Bold, Italic, Color, Background Color
+### **✅ Step 1: ログイン**
 
-**🖼️ Work Area**
+<https://admin.ezycreate.com> にアクセス
+ ログイン情報を入力 → **Submit**をクリック
 
-* Main design space with red dots to resize objects
+### **✅ Step 2: ダッシュボードへ移動**
 
-**🛠️ Toolbar Functions**
+ログイン後、ダッシュボードのホーム画面が表示されます
 
-* 🔒 Lock/Unlock objects
-* 📋 Duplicate objects
-* 🔼 Bring Forward / 🔽 Send Back layers
-* ✂️ Crop images
-* ➕ Add Photo Holder
-* 🗑️ Delete selected item
+### **✅ Step 3: テンプレート一覧を表示**
 
-**💾 Save & Preview**
+メニューの「**Templates**」をクリック
 
-* Click Save to store your work
-* Click Preview for 2D view
-* Click Close (always save before closing)
+### **✅ Step 4: 新しいテンプレートの作成**
 
-**📏 Gridlines**
+「**Create New Group**」をクリックして空のテンプレートを開始
 
-* Auto-aligns text and photo holders when moving
+💡**ヒント：** リサイズされたテンプレートは元のテンプレートのグループ内にまとめて表示されます
 
+#### **▶ Step 4a: テンプレート詳細の入力**
 
+* **Template Name**：テンプレートの表示名
 
-## **Section II: How to Resize a Template in Template Creator**
 
-**🟢 Step 1: Access Dashboard**
+* **Products**：対象商品の選択
 
-* Click Templates to view existing ones
 
-**🟢 Step 2: Open or Create a Template**
+* **Occasion**：イベント種別の選択
 
-* Start new or edit an existing one
 
-**🟢 Step 3: Design or Edit Template**
+* **Tags**：#birthday や #travel などのタグを追加
 
-* Complete your base layout
-* Click Layout tab to choose another product size
 
-**🟢 Step 4: Choose New Size**
 
-* Click on a new size → Opens in new tab
+「**Create**」をクリック → デザイン編集画面が新しいタブで開きます
 
-**🟢 Step 5: Save the Resized Template**
+#### **▶ Step 4b: Template Creator を開く**
 
-* Review pages and fix alignments if needed
-* Click Save
+テンプレートエディタが別タブで起動します
 
-**🟢 Step 6: View Resized Versions**
 
-* Resized templates appear under the main design
-* Can be edited or published
 
-**🟢 Step 7: Publish Resized Template**
 
-* Click Publish to make it live
 
-**🟢 Step 8: Apply in Designer**
+## **🛠 既存テンプレートの編集**
 
-* Open product in Designer
-* A warning will show before applying the template (it will overwrite any existing design)
-* Click Proceed to apply
+* 編集したいテンプレートグループをクリック
 
 
+* 編集したいテンプレートの **鉛筆アイコン** をクリック
 
 
-##  **Common Questions**
+* 編集後は **Publish** をクリックして公開
 
-1. **Can I edit a published template?**
 
-   Yes! Just unpublish it first, make your changes, and publish again.
-2. **What’s a Template Group?**
 
-   It’s a collection of different sizes of the same template — all grouped together for easy management.
-3. **How do tags help?**
 
-   Tags like #wedding or #babyalbum help users find your templates by category.
 
 
 
-##  **Quick Summary**
+### **📝 テンプレート情報の編集**
 
-* **Start a design**
-   → Go to **Dashboard** → Click **Create New Group**
-* **Add photos**
-   → Use the **Photo Holders** tab
-* **Add text**
-   → Use the **Text** tab
-* **Add background**
-   → Go to the **Background** tab
-* **Resize for other products**
-   → Open the **Layout** tab and select a size
-* **Preview before saving**
-   → Click the **Preview** button (2D preview)
-* **Make it live**
-   → Click Publish from the Dashboard
+* テンプレート名、イベント、説明の更新
 
-## **📩 Need Help?**
 
-If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
+* 使用しない場合は無効化も可能
+
+
+
+
+
+
+
+## **🎨 Template Creator 画面の各機能**
+
+### **📌 ナビゲーションバー**
+
+左上にテンプレート名と商品名が表示されます
+
+### **📄 ページ追加（フォトブックのみ）**
+
+「**Add Pages**」ボタンでページを追加
+
+### **🖼️ 写真のアップロード**
+
+「**Photos**」タブ → JPG/JPEG形式のみ対応
+ ⚠ **CMYK画像は非推奨**（色ずれの可能性）
+
+### **🖼️ Photo Holder（写真枠）の追加**
+
+「**Photo Holders**」タブ → 赤いアイコンで枠を配置（正方形／縦／横）
+
+### **📐 レイアウト変更・サイズリサイズ**
+
+「**Layout**」タブ → サイズ選択 → 別タブで新サイズのテンプレートが開く
+ 調整後 **保存**
+
+### **🌄 背景の追加**
+
+「**Background**」タブ → 画像を選択／アップロード（JPG形式）
+
+### **🎨 クリップアートの追加**
+
+「**Clipart**」タブ → PNG（透過）ステッカーを選択
+
+### **🔤 テキスト追加**
+
+「**Floating Text**」または「**Text**」を選択
+ ⚠ 「Enter Your Text」は印刷されません
+
+**テキスト編集機能：**
+ ロック、レイヤー順、削除、フォント、整列、太字、斜体、カラー、背景色 など
+
+### **🖼️ 作業エリア**
+
+赤い点でサイズ変更可能
+
+### **🛠️ ツールバー機能**
+
+* 🔒 ロック／解除
+
+
+* 📋 複製
+
+
+* 🔼 前面へ / 🔽 背面へ
+
+
+* ✂️ 画像切り抜き
+
+
+* ➕ Photo Holder追加
+
+
+* 🗑️ 削除
+
+
+
+### **💾 保存 & プレビュー**
+
+* **Save**：保存
+
+
+* **Preview**：2Dプレビュー
+
+
+* **Close**：閉じる前に必ず保存
+
+
+
+### **📏 ガイドライン**
+
+テキストや写真枠を自動整列
+
+
+
+
+
+## **📐 セクション II：テンプレートをリサイズする方法**
+
+🟢 **Step 1**：ダッシュボードから「Templates」をクリック
+ 🟢 **Step 2**：新規または既存テンプレートを開く
+ 🟢 **Step 3**：ベーステンプレートを完成させる
+ 🟢 **Step 4**：「Layout」タブ → 新しいサイズを選択
+ 🟢 **Step 5**：新タブで開いたテンプレートを調整して保存
+ 🟢 **Step 6**：リサイズ済みテンプレートはグループ内に表示
+ 🟢 **Step 7**：公開するには「Publish」をクリック
+ 🟢 **Step 8**：Designerで使用するには → 適用時に上書き警告あり → 「Proceed」をクリック
+
+
+
+
+
+## **❓ よくある質問**
+
+**Q. 公開済みテンプレートは編集できますか？**
+ → はい。\*\*一度「Unpublish」してから編集し、再度「Publish」\*\*してください。
+
+**Q. Template Group とは？**
+ → 同じデザインで**異なるサイズをまとめたテンプレートのセット**です。
+
+**Q. タグの役割は？**
+ → 「#wedding」「#babyalbum」などで、ユーザーがカテゴリ別に検索しやすくなります。
+
+
+
+
+
+## **🧾 クイックまとめ**
+
+✅ デザイン開始 → ダッシュボード → 「Create New Group」
+ ✅ 写真を追加 → 「Photo Holders」タブ
+ ✅ テキストを追加 → 「Text」タブ
+ ✅ 背景を追加 → 「Background」タブ
+ ✅ 別商品サイズにリサイズ → 「Layout」タブ
+ ✅ 保存前にプレビュー → 「Preview」ボタン
+ ✅ 公開 → ダッシュボードで「Publish」クリック
+
+
+
+
+
+📩 **困ったときは？**
+ サポート：support@ezycreate.com
+ フィードバック：feedback@ezycreate.com
