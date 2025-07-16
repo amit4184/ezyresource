@@ -1,0 +1,20 @@
+# Redirect Japanese visitors to Japanese version
+/  /ja/  302  Country=JP
+
+# Optional: Redirect specific pages for Japanese users
+/products  /ja/products  302  Country=JP
+/ec-designer  /ja/ec-designer  302  Country=JP
+/ec-store  /ja/ec-store  302  Country=JP
+/ec-dropship  /ja/ec-dropship  302  Country=JP
+/ec-factory  /ja/ec-factory  302  Country=JP
+/ec-crm  /ja/ec-crm  302  Country=JP
+
+# Don't redirect Japanese paths (prevent redirect loops)
+/ja/*  /ja/:splat  200
+
+# Optional: Add more countries if needed
+# /  /zh/  302  Country=CN
+# /zh/*  /zh/:splat  200
+
+# Keep all other routes as they are (this should be last)
+/*  /index.html  200
