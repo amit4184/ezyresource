@@ -1,6 +1,5 @@
 ---
 title: 概要
-slug: /get%20started/overview
 ---
 
 ## **ECデザイナー概要**
