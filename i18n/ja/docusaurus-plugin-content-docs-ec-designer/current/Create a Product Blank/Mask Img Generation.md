@@ -1,69 +1,133 @@
 ---
 title: Mask Img Generation
 ---
-**How to Generate a Mask Image or Background Image**
 
-### **Step 1**
 
-Open Adobe Photoshop (CS6 or any CC version) on your PC/Laptop.
-
-### **Step 2**
-
-Click on "Create New".
-
-### **Step 3**
-
-In the new document window:
-
-* Set Width and Height in inches
-* Set Resolution to 300 DPI
-* Choose Color Mode: RGB Color
-
-**Step 4**
-
-Click on "Create" to open the artboard.
-
-**Step 5**
-
-A white artboard will appear with a locked background.
- Make sure the Layers panel is visible on the right side of Photoshop.
-
-### **Step 6**
-
-Click on the Adjustment Layer icon (half-filled circle).
-
-### **Step 7**
-
-Select "Solid Color" from the adjustment layer options.
-
-### **Step 8**
-
-Choose black color:
-
-* Color Code: #000000
-   Click OK.
+# **マスク画像または背景画像の作成方法**
 
 
 
-### **Step 9**
 
-Turn off the Background layer (click the eye icon).
 
-### **Step 10**
+### **✅ ステップ 1**
 
-Go to File → Save a Copy.
+PCまたはノートパソコンで **Adobe Photoshop（CS6 または CC バージョン）** を開きます。
 
-**Step 11**
 
-In the Save As Type dropdown, select PNG format.
 
-### **Step 12**
 
-Click Save to export the image.
- This saves your mask image with a black overlay and no background.
 
-### **To Export Transparent Background PNG:**
+### **✅ ステップ 2**
 
-* Turn off all layers including the background.
-* A transparent artboard will appear.
-* Repeat Step 10 & 11 to save as PNG with transparency.
+「**新規作成（Create New）**」をクリックします。
+
+
+
+
+
+### **✅ ステップ 3**
+
+新しいドキュメントウィンドウで以下を設定します：
+
+* **幅と高さ**：インチ単位で入力
+
+
+* **解像度**：300 DPI
+
+
+* **カラーモード**：RGBカラー
+
+
+
+
+
+
+
+### **✅ ステップ 4**
+
+「**作成（Create）**」をクリックしてアートボードを開きます。
+
+
+
+
+
+### **✅ ステップ 5**
+
+白いアートボードが表示され、背景レイヤーがロックされた状態になります。
+ Photoshopの\*\*右側に「レイヤーパネル」\*\*が表示されていることを確認してください。
+
+
+
+
+
+### **✅ ステップ 6**
+
+レイヤーパネル下部の **調整レイヤーアイコン（半分塗られた円）** をクリックします。
+
+
+
+
+
+### **✅ ステップ 7**
+
+調整レイヤーのオプションから「**単色（Solid Color）**」を選択します。
+
+
+
+
+
+### **✅ ステップ 8**
+
+**黒色**を選択します：
+
+* **カラーコード**：#000000
+   「OK」をクリックします。
+
+
+
+
+
+
+
+### **✅ ステップ 9**
+
+\*\*背景レイヤーの目のアイコン（表示切替）\*\*をクリックして非表示にします。
+
+
+
+
+
+### **✅ ステップ 10**
+
+メニューから **「ファイル（File）」→「コピーを保存（Save a Copy）」** を選択します。
+
+
+
+
+
+### **✅ ステップ 11**
+
+**「ファイルの種類（Save As Type）」** から **PNG形式** を選択します。
+
+
+
+
+
+### **✅ ステップ 12**
+
+「保存（Save）」をクリックして画像をエクスポートします。
+ これで**背景なしの黒いマスク画像**が保存されます。
+
+
+
+
+
+## **透過PNGでのエクスポート方法**
+
+1. **背景レイヤーを含めたすべてのレイヤーを非表示**にします。
+
+
+2. 透明なアートボードが表示されます。
+
+
+3. ステップ 10 および 11 を繰り返して、**透明PNGとして保存**します。
