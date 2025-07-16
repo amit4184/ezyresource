@@ -15,6 +15,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
       - { name: slug, label: Slug, widget: string }
       - { name: tags, label: Tags, widget: list }
@@ -31,129 +32,142 @@ collections:
     label: "Products"
     folder: docs/products
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   - name: ec-designer
     label: "EC Designer"
     folder: docs/ec-designer
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   - name: ec-store
     label: "EC Store"
     folder: docs/ec-store
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   - name: ec-dropship
     label: "EC Dropship"
     folder: docs/ec-dropship
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   - name: ec-factory
     label: "EC Factory"
     folder: docs/ec-factory
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   - name: ec-crm
     label: "EC CRM"
     folder: docs/ec-crm
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     nested: { depth: 10 }
     fields:
       - { name: title, label: Title, widget: string }
+      - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
   # ---------- JAPANESE ----------
   - name: tutorial-ja
-    label: "Tutorial (JP)"
+    label: "Tutorial (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: products-ja
-    label: "Products (JP)"
+    label: "Products (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-products/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: ec-designer-ja
-    label: "EC Designer (JP)"
+    label: "EC Designer (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-ec-designer/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: ec-store-ja
-    label: "EC Store (JP)"
+    label: "EC Store (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-ec-store/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: ec-dropship-ja
-    label: "EC Dropship (JP)"
+    label: "EC Dropship (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-ec-dropship/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: ec-factory-ja
-    label: "EC Factory (JP)"
+    label: "EC Factory (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-ec-factory/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
 
   - name: ec-crm-ja
-    label: "EC CRM (JP)"
+    label: "EC CRM (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs-ec-crm/current
     create: true
     slug: "{{slug}}"
-    i18n: true
+    nested: { depth: 10 }
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: "タイトル", widget: string }
+      - { name: sidebar_label, label: "サイドバーラベル", widget: string, required: false }
+      - { name: body, label: "本文", widget: markdown }
