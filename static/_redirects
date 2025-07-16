@@ -1,5 +1,8 @@
+# Redirect homepage to Products (for non-Japanese users)
+/  /products/Explore%20all%20products/Photobook%20Designer  302  Country=!JP
+
 # Redirect Japanese visitors to Japanese version
-/  /ja/  302  Country=JP
+/  /ja/products/Explore%20all%20products/Photobook%20Designer  302  Country=JP
 
 # Optional: Redirect specific pages for Japanese users
 /products  /ja/products  302  Country=JP
@@ -11,10 +14,6 @@
 
 # Don't redirect Japanese paths (prevent redirect loops)
 /ja/*  /ja/:splat  200
-
-# Optional: Add more countries if needed
-# /  /zh/  302  Country=CN
-# /zh/*  /zh/:splat  200
 
 # Keep all other routes as they are (this should be last)
 /*  /index.html  200
