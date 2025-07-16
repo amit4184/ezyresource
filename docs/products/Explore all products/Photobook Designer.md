@@ -1,6 +1,6 @@
 ---
 title: Photobook Designer
-sidebar_label: フォトブックデザイナ
+sidebar_label: ""
 ---
 
 
