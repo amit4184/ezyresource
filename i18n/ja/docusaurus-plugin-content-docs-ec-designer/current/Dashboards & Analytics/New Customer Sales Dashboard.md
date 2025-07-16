@@ -1,40 +1,25 @@
 ---
 title: New Customer Sales Dashboard
 ---
+**新規顧客売上ダッシュボード**
+
+ **名前**: 新規顧客売上
 
 
+ **説明**: 過去2か月以内に初回注文を行った顧客数を表示します。
 
-### **New Customer Sales Dashboard**
+📅 **X軸**:
+ registration_date：顧客が登録した日付
 
-**Name**: New Customer Sales
- **Description**: Displays the number of customers who placed their first order within the last 2 months.
+📈 **Y軸**:
+ 顧客数：少なくとも1回注文を行った顧客の数
 
+🔍 **インサイト**:
 
-
-
-
-#### **📅 X-Axis:**
-
-* registration_date: Date when customer registered
+* **獲得率**：新規登録顧客のうち、注文を行った割合（％）
 
 
-
-#### **📈 Y-Axis:**
-
-* Customers: Number of customers who placed at least one order
-
-
-
-
-
-
-
-#### **🔍 Insights:**
-
-* **Acquisition Rate**: % of new registered customers placing orders
-
-
-* **Customer Registered but Not Ordered**: Drop-off customers who didn’t place any order
+* **登録済みだが未注文の顧客**：注文をしていない離脱顧客
 
 
 
@@ -42,46 +27,26 @@ title: New Customer Sales Dashboard
 
 
 
-### **💸 First Purchase Sales**
+💸 **初回購入売上**
+ **説明**: 過去2か月以内に初回注文を行った顧客の売上データを表示します。
 
-**Description**: Shows sales data for customers who placed their **first orders** in the last 2 months.
+📅 **X軸**:
+ first_order_date：初回注文の日付
 
-
-
-
-
-#### **📅 X-Axis:**
-
-* first_order_date: Date of first order
-
-
-
-#### **📈 Y-Axis:**
-
-* Sale: Sales value from first-time customers
-   *(Currency in Rs. for India, Singapore)*
+📈 **Y軸**:
+ 売上：初回購入顧客からの売上金額
+ （通貨：Rs.〈インド、シンガポール〉）
 
 
 
 
 
+🧮 **平均初回購入額**
+ **説明**: 過去2か月以内に初回購入した顧客の平均購入額を表示します。
 
+📅 **X軸**:
+ first_order_date
 
-### **🧮 Average First Purchase Sale**
-
-**Description**: Displays average sale value of first-time customers within the last 2 months.
-
-
-
-
-
-#### **📅 X-Axis:**
-
-* first_order_date
-
-
-
-#### **📈 Y-Axis:**
-
-Average Sale: Average of first purchase values
- *(Currency in Rs.)*
+📈 **Y軸**:
+ 平均売上：初回購入額の平均
+ （通貨：Rs.）
