@@ -1,76 +1,38 @@
 ---
 title: WordPress Plugin Setup
 ---
-### **EzyCreate Plugin Installation Guide**
+### **EzyCreate プラグインインストールガイド**
 
-**Step 1: Upload the Plugin**
+**ステップ1：プラグインをアップロード**
+ WordPress 管理画面 > プラグイン > 新規追加 > プラグインのアップロード
+ EzyCreateから提供された .zip ファイルをアップロードします。
 
-* Go to **WordPress Admin > Plugins > Add New > Upload Plugin**
+**ステップ2：インストールと有効化**
+ 「今すぐインストール」をクリックし、インストール完了後に「有効化」をクリックします。
 
-* Upload the .zip file provided by EzyCreate.
+**ステップ3：プラグイン設定にアクセス**
+ ナビゲーションメニューから「EzyCreate Products」を選択します。
 
+**ステップ4：プラグイン設定を構成**
+ 「設定」に進み、EzyCreateから提供された認証情報を入力します。
+ デフォルト言語としてデザイナーに表示させたい言語コード（例：日本語は ja、英語は en）を選択します。
 
+**ステップ5：商品をインポート**
+ 再度「EzyCreate Products」をクリックします。
+ EzyCreate管理画面で設定された商品の一覧が表示されます。
+ 「追加」をクリックして商品をインポートします。
 
-**Step 2: Install and Activate**
+**ステップ6：WooCommerceでの商品設定**
+ 商品はWooCommerce上で自動的にバリアブル商品（可変商品）として作成されます。
+ 「商品一覧」および「ショップページ」に表示されます。
 
-* Click “Install Now”, then click “Activate” once installation is complete.
+**ステップ7：カスタマイズフローを有効化**
+ 「カスタマイズ」ボタンが「カートに追加」ボタンの代わりに表示されます。
+ このボタンをクリックすると、商品デザイナーが起動し、ユーザーは商品を自由にカスタマイズできます。
 
+**ステップ8：注文を確定**
+ ユーザーはデザイナー画面からカスタマイズした商品をカートに追加し、直接注文を行えます。
 
-
-**Step 3: Access Plugin Settings**
-
-* From the navigation menu, select **“EzyCreate Products”**.
-
-
-
-**Step 4: Configure Plugin Settings**
-
-* Go to Settings, enter the credentials provided by EzyCreate.
-
-
-* Select your preferred language code (e.g., ja for Japanese, en for English) to load the designer in the default language.
-
-
-
-**Step 5: Import Products**
-
-* Click “EzyCreate Products” again.
-
-
-* A list of products configured in the EzyCreate Admin will be displayed.
-
-
-* Click “Add” to import a product.
-
-
-
-**Step 6: Product Setup in WooCommerce**
-
-* The product will be automatically created as a Variable Product in WooCommerce.
-
-
-* It will appear under the Products list and on the Shop page.
-
-
-
-**Step 7: Enable Customization Flow**
-
-* The Customize button will replace the Add to Cart button.
-
-
-* This will launch the Product Designer, allowing users to personalize their items.
-
-
-
-**Step 8: Place Order**
-
-* Users can add the customized product to the cart directly from the designer and place their order.
-
-
-
-**Step 9: Order Management**
-
-* The order is automatically created in the EzyCreate Admin dashboard.
-
-
-* Once processed, you can download the print-ready files to print and ship the product to your customer.
+**ステップ9：注文管理**
+ 注文は自動的に EzyCreate 管理ダッシュボードに作成されます。
+ 処理が完了したら、印刷用のファイルをダウンロードして、商品の印刷・発送を行ってください。
