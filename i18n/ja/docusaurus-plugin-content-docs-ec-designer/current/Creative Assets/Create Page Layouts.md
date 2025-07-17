@@ -1,168 +1,230 @@
 ---
 title: Create Page Layouts
 ---
-# **How to Create a Page Layout**
+### **ページレイアウトの作成方法**
 
-## **Glossary**
 
-* **Page Layout**
-   It is a set of photo holders to be applied on the designer to fasten the process of designing.
-* **Photo Holder**
-   A photo-holder is an empty object to be laid out on the designer to add an image into it.
-* **Tags**
-   Hashtags are used to filter specific layouts.
-* **Groups**
-   A way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
-* **Template**
-   It is a set of ready designs consisting of photo holders, text field, cliparts, backgrounds etc. to facilitate users to use ready-made designs for designing purpose.
-* **Template Creator**
-   Is the designer where the ready design templates are created.
-* **Layout Dashboard**
-   Layout dashboard is where the created layouts are displayed and user can edit/publish/delete any of the created layouts. It is generally used to publish the created layout which will appear in the layout tab in the designer.
-* **Layout Tab**
-   Is the section given in the designer where all the published layouts are grouped for the user to use.
 
-## **Steps to Create a Page Layout**
 
-### **Step 1**
 
-Open:[ https://stagingadmin.ezycreate.com
-](https://stagingadmin.ezycreate.com) Use test credentials to Login.
+#### **用語集**
 
-### **Step 2**
+* **ページレイアウト**
+   　デザイナー上で使用するフォトホルダーのセットで、デザイン作業を迅速化するために使用されます。
 
-From the dashboard click on:
- **Creative assets > Templates**
- It will display the list of templates.
 
-### **Step 3**
+* **フォトホルダー**
+   　画像を配置するためにデザイナー上に置かれる空のオブジェクトです。
 
-Click on the **“Create new group”** button.
 
-### **Step 4**
+* **タグ**
+   　特定のレイアウトを絞り込むために使用されるハッシュタグ（#）です。
 
-A form will be displayed. Enter the details:
 
-* **Group name** – Enter the Group name, this template name will be displayed in the ezydesigner.
-* **Products** – Select a product from the product dropdown list
-* **Occasions** – Select an occasion from the occasion dropdown list
-* **Tags** – Add the #tags
-* **Create** – Click on the create button to open the template in a new tab.
+* **グループ**
+   　多数のテンプレートを管理・アクセスしやすくするための分類方法です。
 
-### **Step 5**
 
-Click on **Create** to create the template.
- The template is created and the **Template Creator** will open in a new tab.
+* **テンプレート**
+   　フォトホルダー、テキストフィールド、クリップアート、背景などを含む完成済みのデザインセットです。ユーザーはこれを使って簡単にデザインを行えます。
 
-### **Step 6**
 
-To create a page layout design:
+* **テンプレートクリエイター**
+   　テンプレートを作成するためのデザインツールです。
 
-* Add a photo holder/holders as desired to the designer
-* Add single/multiple text fields to the designer as desired
 
-**Note:** A page layout saves only the **photo holders** and the **text field objects**.
+* **レイアウトダッシュボード**
+   　作成されたレイアウトが一覧表示され、編集・公開・削除ができる管理画面です。
 
-### **Step 7**
 
-Once the page layout design is ready, click on the **Save** button.
- Select and click on the **“Save Layout”** option.
+* **レイアウトタブ**
+   　ezydesigner内で公開されたレイアウトが分類・表示されるセクションです。
 
-### **Step 8**
 
-Enter:
 
-* **Name** – Enter a name for the layout. This layout name will be displayed in the ezydesigner under the page layout tab.
-* **Tags** – Add the #tags
 
-Click on **Save** to save the page layout.
 
-### **Step 9**
 
-The saved layout will be displayed under the **Page Layout** tab with its respective name.
 
-**Note:**
- As per the number of holders on the page, the layout folders will be created under the Page Layout tab.
- i.e. if one photo holder layout is saved, “1” folder will be created and so on.
- The **“All”** folder will display all saved layouts.
+### **ページレイアウト作成手順**
 
-### **Step 10**
+**Step 1**
+[ https://stagingadmin.ezycreate.com](https://stagingadmin.ezycreate.com) を開き、テスト用のログイン情報でログインします。
 
-Users can also update an existing layout design:
+**Step 2**
+ ダッシュボードから「Creative assets > Templates」をクリックします。テンプレートの一覧が表示されます。
 
-* Edit the design
-* Save it using the **“Update Layout”** option
-* Enter the layout name/tab and click on the **Update** button
+**Step 3**
+ 「Create new group」ボタンをクリックします。
 
-The existing layout design will be updated, replacing the selected design.
+**Step 4**
+ フォームが表示されるので、以下の情報を入力します：
 
-### **Step 11**
+* **Group name**：グループ名（ezydesignerに表示されます）
 
-To search a saved layout:
 
-* Click on the **Page Layout filter** option
-* Enter the layout name or tag used while saving the layout
+* **Products**：製品を選択
 
-The layout tab will display the filtered results.
 
-### **Step 12**
+* **Occasions**：用途・シーンを選択
 
-To apply a layout:
 
-* Click on a layout from the **Page Layout** tab
-* The layout will be applied to the designer
+* **Tags**：#タグを入力
 
-## **Manage Layouts from Layout Dashboard**
 
-### **Step 13**
+* **Create**：クリックしてテンプレートを新しいタブで開きます。
 
-Once a layout is created in Template Creator:
 
-* Go to the **“Layouts”** dashboard under **Creative Assets**
-* The Layout Dashboard will display the created layouts
+
+**Step 5**
+ 「Create」ボタンをクリックするとテンプレートが作成され、テンプレートクリエイターが新しいタブで開きます。
+
+**Step 6**
+ ページレイアウトをデザインするには：
+
+* フォトホルダーを1つ以上配置
+
+
+* 必要に応じてテキストフィールドを追加
+
+
+
+※ページレイアウトとして保存されるのはフォトホルダーとテキストフィールドのみです。
+
+**Step 7**
+ デザインが完了したら、「Save」ボタンをクリックし、「Save Layout」オプションを選択します。
+
+**Step 8**
+ 以下を入力します：
+
+* **Name**：レイアウト名（ezydesignerのレイアウトタブに表示されます）
+
+
+* **Tags**：#タグを入力
+
+
+* 「Save」ボタンをクリックして保存します。
+
+
+
+**Step 9**
+ 保存されたレイアウトは、レイアウトタブにレイアウト名付きで表示されます。
+ ※ページ内のフォトホルダーの数に応じて、「1」「2」などのフォルダが作成されます。すべてのレイアウトは「All」フォルダに表示されます。
+
+**Step 10**
+ 既存のレイアウトを更新する場合：
+
+* デザインを編集
+
+
+* 「Update Layout」オプションで保存
+
+
+* レイアウト名・タブを入力して「Update」をクリック
+   → 対象のレイアウトが更新されます。
+
+
+
+**Step 11**
+ 保存済みのレイアウトを検索するには：
+
+* レイアウトフィルターをクリック
+
+
+* 保存時に使用した名前またはタグを入力
+
+
+* 結果がレイアウトタブに表示されます。
+
+
+
+**Step 12**
+ レイアウトを適用するには：
+
+* レイアウトタブから任意のレイアウトをクリック
+
+
+* 選択されたレイアウトがデザイナーに適用されます。
+
+
+
+
+
+
+
+### **レイアウトダッシュボードでの管理**
+
+**Step 13**
+ テンプレートクリエイターでレイアウト作成後：
+
+* 「Creative Assets」>「Layouts」に進みます
+
+
+* 作成済みレイアウトが一覧で表示されます
+
+
 
 **Step 14**
+ レイアウトタブでできること：
 
-Under Layouts tab, users can:
+* レイアウト詳細の編集
 
-* **Edit** layout details
-* **Upload** a thumbnail image for a layout
-* **Publish** a layout
-* **Delete** a layout
 
-### **Step 15**
+* サムネイル画像のアップロード
 
-To **edit** layout details:
 
-* Click on the **Edit** button beside each layout
+* レイアウトの公開
 
-**Note:** A created layout will have default status as **“Unpublished”**
 
-You can:
+* レイアウトの削除
 
-* Edit the layout name
-* Edit Tags
-* Upload a custom **thumbnail image** (.jpg format, square orientation recommended)
-* Click **Save**
 
-### **Step 16**
 
-To **publish** a layout:
+**Step 15**
+ レイアウト詳細を編集するには：
 
-* Click on the **Options** button
-* Select and click on the **“Publish”** button
+* 各レイアウト横の「Edit」ボタンをクリック
+   ※作成直後は「Unpublished（未公開）」状態です
 
-The layout status will be updated to **“Published”**
 
-### **Step 17**
 
-The published layout will now be visible under the **Page Layout** tab in the ezydesigner for end users.
+編集可能項目：
 
-### **Step 18**
+* レイアウト名
 
-To **delete** a layout:
 
-* Click on the **Options** button
-* Select and click on the **“Delete”** button
+* タグ
 
-The layout will be deleted from both the **Template Creator** and the **end-user designer**.
+
+* カスタムサムネイル画像のアップロード（.jpg形式、正方形推奨）
+
+
+* 「Save」ボタンをクリック
+
+
+
+**Step 16**
+ レイアウトを公開するには：
+
+* 「Options」ボタンをクリック
+
+
+* 「Publish」を選択
+
+
+* ステータスが「Published」に更新されます
+
+
+
+**Step 17**
+ 公開されたレイアウトは、ezydesignerのレイアウトタブに表示され、ユーザーが使用可能になります。
+
+**Step 18**
+ レイアウトを削除するには：
+
+* 「Options」ボタンをクリック
+
+
+
+「Delete」を選択
+ → テンプレートクリエイターおよびデザイナー両方から削除されます。
