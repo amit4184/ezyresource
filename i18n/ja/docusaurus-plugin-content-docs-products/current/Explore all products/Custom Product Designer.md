@@ -5,7 +5,7 @@ title: Custom Product Designer
 
 # **SOP：EzyCreateで新商品を作成する方法**
 
-📍 **プラットフォーム**:[ https://admin.ezycreate.com
+📍 **プラットフォーム**:[ (https://admin.ezycreate.com)
 ](https://admin.ezycreate.com) 📩 **サポートメール**: support@ezycreate.com
 
 
