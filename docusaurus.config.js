@@ -130,10 +130,12 @@ const config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Resources',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/ezycreatelogo.png',
-      },
+      logo: ({locale}) => ({
+                alt: 'Ezycreate Resources',
+                src: locale === 'ja'
+                ? 'img/ezycreate-jp-logo.png'  // path to Japanese logo
+                : 'img/ezycreatelogo.png', // path to English logo
+}),
       items: [
         // 🔴 Remove this block to hide 'Tutorial'
        // {
