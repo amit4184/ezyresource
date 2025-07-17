@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* Default logo (English) */
+.navbar__brand img {
+  content: url('/img/ezycreatelogo.png');
+}
+
+/* Japanese logo when <html lang="ja"> is active */
+html[lang="ja"] .navbar__brand img {
+  content: url('/img/ezycreate-jp-logo.png');
+}
+
