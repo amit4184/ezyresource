@@ -5,11 +5,10 @@ title: Photobook Designer
 
 ## **EzyDesignerでフォトブックテンプレートを作成する方法**
 
-📍 **プラットフォーム**:[ https://admin.ezycreate.com](<>)
+📍 **プラットフォーム**: [( https://admin.ezycreate.com )](<>)
 
 [
 ](<>) 📧 **サポート連絡先**: support@ezycreate.com
-
 
  💬 **フィードバック送信先**: feedback@ezycreate.com
 
