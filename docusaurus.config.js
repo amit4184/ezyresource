@@ -143,7 +143,7 @@ const config = {
         //},
         { to: '/products/Explore%20all%20products/Photobook%20Designer', label: 'Products', position: 'left' },
         { to: '/ec-designer/Get%20Started/Overview', label: 'EC Designer', position: 'left' },
-       // { to: '/ec-store', label: 'EC Store', position: 'left' },
+        { to: '/ec-store', label: 'EC Store', position: 'left' },
        // { to: '/ec-dropship', label: 'EC Dropship', position: 'left' },
        // { to: '/ec-factory', label: 'EC Factory', position: 'left' },
        // { to: '/ec-crm', label: 'EC CRM', position: 'left' },
