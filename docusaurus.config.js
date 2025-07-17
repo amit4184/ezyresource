@@ -130,10 +130,14 @@ const config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
     //  title: 'Resources',
-       logo: {
-        alt: 'My Site Logo',
-        src: 'img/ezycreatelogo.png',
-      },
+       logo: ({ locale }) => ({
+      alt: 'My Site Logo',
+      src: 'img/ezycreatelogo.png',
+      href:
+        locale === 'ja'
+          ? '/ja/products/Explore%20all%20products/Photobook%20Designer'
+          : '/',
+    }),
       items: [
         // 🔴 Remove this block to hide 'Tutorial'
        // {
