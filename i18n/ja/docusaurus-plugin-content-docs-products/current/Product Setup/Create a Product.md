@@ -1,139 +1,123 @@
 ---
 title: Create a Merch Product
 ---
-**SOP: Creating a New Product in EzyCreate**
-
-## **Overview**
-
-This document outlines the step-by-step procedure to create a merchandise product in **EzyCreate**, from the initial selection of a product blank to finalizing the product page. It includes definitions of essential terms, preconditions, and detailed execution steps for each phase of the process.
-
-## **Key Terminologies**
-
-* **Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type.
-   *Example: A standard 11oz mug with no associated template or sales info.*
 
 
-* **Product**
-   A market-ready item that includes all selling attributes like pricing, eCommerce metadata, and at least one design template.
-* **Product Types**
-* * **Customizable Product**: Users can personalize using the design tool (e.g., add text, images).
+## **EzyCreateでマーチャンダイズ製品を作成する方法**
 
-  * **Merchandise Product**: Pre-designed product, may or may not support image uploads.
+### **📘 重要用語（Key Terminologies）**
 
+* **製品ブランク（Product Blank）**：
+   寸法やタイプなど、基本的な定義のみが含まれるベースアイテム。
+   例：テンプレートや販売情報が未設定の標準11ozマグカップ。
+* **製品（Product）**：
+   価格設定、eコマースメタデータ、少なくとも1つのデザインテンプレートを含む市場向けの完成製品。
+* **製品タイプ（Product Types）**：
 
-* **Template**
-   A pre-defined design layout applied to a product blank.
-* **Template Group**
-   A collection of templates with a shared design structure used to organize variants.
-* **Variant**
-   A version of the product that differs by design, size, color, etc., within the same template group.
-* **SKU (Stock Keeping Unit)**
-   A unique identifier assigned to each variant.
-* **Merch Album**
-   A curated group of pre-uploaded images used in product customization.
+  * **カスタマイズ可能製品（Customizable Product）**：ユーザーがテキストや画像を追加して個別にパーソナライズ可能。
+  * **マーチャンダイズ製品（Merchandise Product）**：あらかじめデザインされた製品。画像アップロードの有無は任意。
+* **テンプレート（Template）**：
+   製品ブランクに適用される事前定義済みデザインレイアウト。
+* **テンプレートグループ（Template Group）**：
+   同じデザイン構造を持つテンプレートのコレクションで、バリアントを整理するために使用。
+* **バリアント（Variant）**：
+   デザイン、サイズ、色などの違いによる製品のバージョン。
+* **SKU（Stock Keeping Unit）**：
+   各バリアントに割り当てられる一意の識別子。
+* **Merchアルバム（Merch Album）**：
+   製品カスタマイズのために用意された画像コレクション。
 
+### **✅ 事前条件（Preconditions）**
 
+作業を開始する前に以下を確認してください：
 
-## **Preconditions**
+* EzyAdmin にログイン済みであること
+* 製品の作成・管理権限を持っていること
+* 少なくとも1つの製品ブランクと、公開済みテンプレートが存在すること
 
-Before beginning, ensure the following:
+### **🧭 手順：マーチャンダイズ製品の作成方法**
 
-* You are logged into[ EzyAdmin](https://admin.ezycreate.com).
-* You have the necessary permissions to create and manage products.
-* At least one **Product Blank** and one **Published Template** are available.
+#### **▶ ステップ1：製品作成画面に移動**
 
+1. EzyAdmin にログイン
+2. 左サイドバーから「Products」→「My Products」へ移動
+3. 「+ Create new product」をクリック
 
+#### **▶ ステップ2：製品ブランクの選択**
 
-## **Procedure: How to Create a Merchandise Product**
+1. Step 1 - Product Blank で「Select product blank」をクリック
+2. ベースアイテム（例：Standard Mug）を選択
+3. 名前、ID、サイズ、説明などの詳細を確認
+4. 「Next」をクリック
 
-### **Step 1: Navigate to Product Creation**
+#### **▶ ステップ3：製品タイプの選択**
 
-1. Log in to EzyAdmin.
-2. From the left sidebar, go to Products → My Products.
-3. Click + Create new product.
+1. 「Product Type」タブで「Merch product」を選択
+2. 「Next」をクリック
 
+#### **▶ ステップ4：テンプレートの選択**
 
+1. 「Select a template」をクリック
+2. 使用したいテンプレートを選択
+   ※表示されない場合は、テンプレートが「公開済み」になっているか確認
+3. 「Next」をクリック
 
-**Step 2: Select a Product Blank**
+#### **▶ ステップ5：バリアントの追加**
 
-1. Under Step 1 - Product Blank, click Select product blank.
-2. Choose a base item (e.g., Standard Mug).
-3. Preview details such as name, ID, size, description.
-4. Click Next.
+1. 「Product Variants」タブで「+ Add variants」をクリック
+2. 以下を確認：
 
+   * すべて同じテンプレートグループに属していること
+   * 視覚的にユニークであること
+   * 1つは「Set default」でデフォルトとして設定されていること
+3. 不要なバリアントはゴミ箱アイコンで削除
+4. 「Next」をクリック
 
+#### **▶ ステップ6：製品情報の入力**
 
-**Step 3: Choose Product Type**
+1. 製品言語を選択（例：English）
+2. 以下を入力：
 
-1. In the Product Type tab, select: Merch product
-2. Click Next.
+   * 製品名（Product Name）
+   * 製品説明（Description）
+   * 仕様（Specifications：素材、寸法など）
+   * タグ（Tags：フィルターや検索用）
+3. 「Next」をクリック
 
+#### **▶ ステップ7：アルバムおよびアップロード設定**
 
+1. 「Select albums」をクリックして画像コレクションを関連付け
+   ※Creative Asset → Merch Albums で管理可能
+2. 不要なアルバムは削除
+3. ユーザーに写真アップロードを許可したい場合は「Allow users to upload photos while customizing」を有効化
+4. 「Next」をクリック
 
-### **Step 4: Select Template**
+#### **▶ ステップ8：価格設定**
 
-1. Click Select a template.
-2. Choose your desired template design.
-    *Note: If the template doesn’t appear, confirm it’s published.*
-3. Click Next.
+1. すべてのバリアントがSKUと価格の編集フィールドと共に表示される
+2. 各バリアントの「Edit」アイコンをクリックし、価格を設定
+3. 設定後は「Save」をクリック
+4. 「Next」をクリック
 
+#### **▶ ステップ9：モックアップ画像のアップロード**
 
+1. モックアップ画像またはプレビュー画像をアップロード
+2. 選択したテンプレートを正確に表現しているか確認
+3. 「Next」をクリック
 
-### **Step 5: Add Product Variants**
+#### **▶ ステップ10：最終確認と保存**
 
-1. In the Product Variants tab, click + Add variants.
-2. Ensure:  
+1. 以下をすべて確認：
 
-* All variants are from the same template group. 
-* All are visually unique. &
-*  One is marked as default using the Set default option.
+   * 製品情報
+   * バリアント
+   * 価格設定
+   * アルバム
+   * モックアップ
+2. 問題がなければ「Save」をクリック
 
-  3. Use the trash icon to delete any unwanted variant.
+✅ これでマーチャンダイズ製品の設定が完了し、プラットフォーム上での販売準備が整いました。
 
-  4. Click Next.
+ 💬 作業中に不明点やエラーが発生した場合は、以下のサポート窓口までお問い合わせください：
 
-
-
-### **Step 6: Enter Product Details**
-
-1. Select the product language (e.g., English).
-2. Fill : Product Name, Description, Specifications (materials, dimensions, etc.) & Tags (for filtering and search)
-3. Click Next.
-
-
-
-### **Step 7: Manage Albums & Upload Settings**
-
-1. Click Select albums to associate image collections.
-    *(You can manage these via Creative Asset → Merch Albums)*
-2. Remove any albums not required.
-   Optionally, enable Allow users to upload photos while customizing.
-3. Click Next.
-
-
-
-### **Step 8: Set Product Prices**
-
-1. View all added variants along with editable fields: SKU & Price
-2. Click the Edit icon next to each to set prices.
-3. After editing, click Save for each entry.
-4. Click Next.
-
-
-
-### **Step 9: Upload Mockup Images**
-
-1. Upload mockups or preview images.
-2. Ensure mockups visually represent the selected template.
-3. Click Next.
-
-
-
-### **Step 10: Final Preview and Save**
-
-1. Review the complete product setup, including: Product details, Variants, Pricing, Albums & Mockups
-2. If everything looks accurate, click Save.
-
-
-Your merchandise product is now ready for publishing and sale on the platform. If you need additional guidance or encounter issues during setup, please contact the support team at **support@ezycreate.com**.
+ 📧 support@ezycreate.com
