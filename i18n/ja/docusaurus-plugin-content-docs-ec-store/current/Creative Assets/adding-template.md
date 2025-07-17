@@ -81,7 +81,7 @@ slug: /ec-store/Creative Assets
 
 #### ステップ 1:
 
-* <https://admin.ezycreate.com/> にアクセス
+* (https://admin.ezycreate.com) にアクセス
 * ログインして \[Submit] をクリック
 
 #### ステップ 2:
@@ -105,7 +105,7 @@ slug: /ec-store/Creative Assets
 
 #### ステップ 1:
 
-* <https://www.photojaanic.com/admin/settings/ezycreate/templates> にアクセス
+* (https://www.photojaanic.com/admin/settings/ezycreate/templates) にアクセス
 
 アクセスできない場合は、サイト管理者にダッシュボード権限を依頼してください
 
