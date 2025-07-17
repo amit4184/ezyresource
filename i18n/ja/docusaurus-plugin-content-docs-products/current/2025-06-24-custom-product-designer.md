@@ -5,7 +5,7 @@ title: Custom Product Designer
 
 **バージョン 1.0**
 
- 📍 **プラットフォーム**:[ https://admin.ezycreate.com](<>)
+ 📍 **プラットフォーム**: (https://admin.ezycreate.com)[](<>)
 
 [
 ](<>) 📩 **フィードバック送信先**: feedback@ezycreate.com
