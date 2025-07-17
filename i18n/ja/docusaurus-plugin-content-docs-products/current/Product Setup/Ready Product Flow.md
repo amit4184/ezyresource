@@ -1,147 +1,119 @@
 ---
 title: Ready Product Flow
 ---
-**Creating a New Product in EzyCreate**
+## **SOP：EzyCreateで新しい製品を作成する方法**
 
-## **Overview**
+### **📘 重要用語（Key Terminologies）**
 
-This document outlines the step-by-step procedure to create a **Ready** product in **EzyCreate**, from the initial selection of a product blank to finalizing the product page. It includes definitions of essential terms, preconditions, and detailed execution steps for each phase of the process.
+* **製品ブランク（Product Blank ）**：
+   寸法や種類などの基本的な定義のみが含まれるベースアイテム（例：マグカップ、Tシャツ）。
+   例：テンプレートや販売情報が未設定の標準11ozマグカップ。
+* **製品（Product）**：
+   価格設定、eコマース用メタデータ、少なくとも1つのデザインテンプレートなど、販売に必要な情報をすべて含むマーケット向け製品。
+* **製品タイプ（Product Types）**：
 
-## **Key Terminologies**
+  * **カスタマイズ可能製品**：ユーザーがテキストや画像を追加してパーソナライズ可能。
+  * **Ready製品**：事前にデザインされた製品。画像アップロード機能の有無は任意。
+* **テンプレート（Template）**：
+   製品ブランクに適用される事前定義されたデザインレイアウト。
+* **テンプレートグループ（Template Group）**：
+   デザイン構造を共有するテンプレートのコレクション。バリエーションの整理に使用。
+* **バリアント（Variant）**：
+   デザイン、サイズ、色などの違いを持つ製品のバージョン。
+* **SKU（Stock Keeping Unit）**：
+   各バリアントに割り当てられた一意の識別子。
+* **Readyアルバム（Ready Album）**：
+   製品カスタマイズ用に事前アップロードされた画像コレクション。
 
-* **Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type.
-   *Example: A standard 11oz mug with no associated template or sales info.*
-* **Product**
-   A market-ready item that includes all selling attributes like pricing, eCommerce metadata, and at least one design template.
-* **Product Types**
+### **✅ 事前条件（Preconditions）**
 
+開始する前に以下を確認してください：
 
-* * **Customizable Product**: Users can personalize using the design tool (e.g., add text, images).
+* EzyAdmin にログイン済みであること
+* 製品作成・管理権限があること
+* 少なくとも1つの製品ブランクと公開済みテンプレートが存在すること
 
-  * **Ready Product**: Pre-designed product, may or may not support image uploads.
+### **🧭 手順：Ready製品の作成方法**
 
-* **Template**
-   A pre-defined design layout applied to a product blank.
-* **Template Group**
-   A collection of templates with a shared design structure used to organize variants.
-* **Variant**
-   A version of the product that differs by design, size, color, etc., within the same template group.
-* **SKU (Stock Keeping Unit)**
-   A unique identifier assigned to each variant.
-* **Ready Album**
-   A curated group of pre-uploaded images used in product customization.
+#### **▶ ステップ1：製品作成画面に移動**
 
+1. EzyAdmin にログイン
+2. 左側メニューから「Products」→「My Products」へ
+3. 「+ Create new product」をクリック
 
+#### **▶ ステップ2：製品ブランクの選択**
 
-## **Preconditions**
+1. Step 1 - Product Blank で「Select product blank」をクリック
+2. ベースアイテム（例：Standard Mug）を選択
+3. 名称、ID、サイズ、説明を確認
+4. 「Next」をクリック
 
-Before beginning, ensure the following:
+#### **▶ ステップ3：製品タイプの選択**
 
-* You are logged into[ EzyAdmin](https://admin.ezycreate.com).
-* You have the necessary permissions to create and manage products.
-* At least one Product Blank and one Published Template are available.
+1. 「Product Type」タブで「Ready product」を選択
+2. 「Next」をクリック
 
+#### **▶ ステップ4：テンプレートの選択**
 
+1. 「Select a template」をクリック
+2. 使用したいテンプレートを選択（表示されない場合は、テンプレートが公開されているか確認）
+3. 「Next」をクリック
 
-## **Procedure: How to Create a Ready Product**
+#### **▶ ステップ5：バリアントの追加**
 
-### **Step 1: Navigate to Product Creation**
+1. 「Product Variants」タブで「+ Add variants」をクリック
+2. 下記条件を満たしていることを確認：
 
-1. Log in to EzyAdmin.
-2. From the left sidebar, go to Products → My Products.
-3. Click + Create new product.
+   * 同じテンプレートグループ内のバリアント
+   * すべて視覚的に異なるデザイン
+   * 1つは「Set default」でデフォルトに設定
+3. ゴミ箱アイコンで不要なバリアントを削除
+4. 「Next」をクリック
 
+#### **▶ ステップ6：製品詳細の入力**
 
-### **Step 2: Select a Product Blank**
+1. 製品の言語を選択（例：英語）
+2. 以下を入力：
 
-1. Under Step 1 - Product Blank, click Select product blank.
-2. Choose a base item (e.g., Standard Mug).
-3. Preview details such as name, ID, size, description.
-4. Click Next.
+   * 製品名（Product Name）
+   * 説明（Description）
+   * 仕様（Specifications：素材・サイズなど）
+   * タグ（Tags：検索やフィルター用）
+3. 「Next」をクリック
 
+#### **▶ ステップ7：アルバムとアップロード設定**
 
+1. 「Select albums」をクリックし画像コレクションを関連付け
 
+   * Creative Asset → Ready Albums にて管理可能
+2. 不要なアルバムは削除
+3. 「Allow users to upload photos while customizing」を必要に応じて有効化
+4. 「Next」をクリック
 
+#### **▶ ステップ8：価格設定**
 
-### **Step 3: Choose Product Type**
+1. バリアント一覧が表示される
+2. 各バリアントの「Edit」アイコンをクリックし、SKUと価格を設定
+3. 各項目ごとに「Save」をクリック
+4. 「Next」をクリック
 
-1. In the Product Type tab, select:
-2. * Ready product
-3. Click Next.
+#### **▶ ステップ9：モックアップ画像のアップロード**
 
+1. 製品のプレビュー画像またはモックアップをアップロード
+2. モックアップは選択されたテンプレートを正確に表す必要があります
+3. 「Next」をクリック
 
+#### **▶ ステップ10：最終確認と保存**
 
-### **Step 4: Select Template**
+1. 以下すべてを確認：
 
-1. Click Select a template.
-2. Choose your desired template design.
-    *Note: If the template doesn’t appear, confirm it’s published.*
-3. Click Next.
+   * 製品情報
+   * バリアント
+   * 価格設定
+   * アルバム
+   * モックアップ
+2. 問題なければ「Save」をクリック
 
+✅ Ready製品が正常に設定され、公開準備が整いました。
 
-
-### **Step 5: Add Product Variants**
-
-1. In the Product Variants tab, click + Add variants.
-2. Ensure:
-3. * All variants are from the same template group.
-
-   * All are visually unique.
-
-   * One is marked as default using the Set default option.
-4. Use the trash icon to delete any unwanted variant.
-5. Click Next.
-
-
-
-### **Step 6: Enter Product Details**
-
-1. Select the product language (e.g., English).
-2. Fill in the following:
-3. * Product Name
-
-   * Description
-
-   * Specifications (materials, dimensions, etc.)
-
-   * Tags (for filtering and search)
-
-
-4. Click Next.
-
-
-
-### **Step 7: Manage Albums & Upload Settings**
-
-1. Click Select albums to associate image collections.
-    *(You can manage these via Creative Asset → Ready Albums)*
-2. Remove any albums not required.
-3. Optionally, enable Allow users to upload photos while customizing.
-4. Click Next.
-
-
-
-### **Step 8: Set Product Prices**
-
-1. View all added variants along with editable fields:SKU & Price
-2. Click the Edit icon next to each to set prices.
-3. After editing, click Save for each entry.
-4. Click Next.
-
-
-
-### **Step 9: Upload Mockup Images**
-
-1. Upload mockups or preview images.
-2. Ensure mockups visually represent the selected template.
-3. Click Next.
-
-
-
-### **Step 10: Final Preview and Save**
-
-* Review the complete product setup, including: **Product details, Variants, Pricing, Albums, Mockups**
-* If everything looks accurate, click **Save**.
-
-Your **Ready** product is now fully configured and ready for publishing on the platform. For assistance, please contact **support@ezycreate.com**.
+ 💬 ご不明点は support@ezycreate.com までお問い合わせください。
