@@ -1,218 +1,227 @@
 ---
 title: Custom Product Flow
 ---
-## **Creating a New Product in EzyCreate**
 
-## **Overview**
 
-This document outlines the complete procedure for creating a **Merchandise Product** and a **Customizable Product** in **EzyCreate**. It includes key terminologies, preconditions, and step-by-step instructions for each product type.
 
-**Key Terminologies**
+# **SOP：EzyCreateで新商品を作成する方法**
 
-* **🧱 Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does *not* include pricing, eCommerce configurations, templates, or designs.
-   ➤ *Example: A standard 11oz mug with no associated template or sales info.*
-* **📦 Product**
-   A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
-* **🔧 Product Types**
+📍 **プラットフォーム**:[ https://admin.ezycreate.com
+](https://admin.ezycreate.com) 📩 **サポートメール**: support@ezycreate.com
 
-  * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
-  * **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
-* **🎨 Template**
-  A design layout applied to a product blank.
-* **🗂️ Template Group**
-   A collection of templates with similar designs, used to organize variants.
-* **🎭 Variant**
-   A version of the product that varies by design, size, color, etc., within the same template group.
-* **🆔 SKU (Stock Keeping Unit)**
-   A unique identifier for each variant.
-* **🖼️ Merch Album**
-   A group of pre-uploaded images used in product customization.
 
-## **Preconditions**
 
-Before beginning product creation:
 
-* Log into[ **EzyAdmin**](https://admin.ezycreate.com).
-* Ensure you have the necessary permissions to create/manage products.
-* Ensure:
 
-  * At least one **product blank** exists.
-  * At least one **published template** is available.
+## **1. 概要**
 
-## **Procedure: How to Create a Merchandise Product**
+本ドキュメントでは、EzyCreateで**マーチャンダイズ商品**および**カスタマイズ商品**を作成するための手順を解説します。基本用語、前提条件、各商品タイプのステップバイステップ手順を含みます。
 
-### **Step 1: Navigate to Product Creation**
 
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
 
-### **Step 2: Select a Product Blank**
 
-* Under **Step 1 - Product Blank**, click **Select product blank**.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank details (name, ID, size, description).
-* Click **Next**.
 
-### **Step 3: Choose Product Type**
+## **2. 主な用語**
 
-* In the Product Type tab, select: **Merch product**
-* Click **Next**.
+**用語**
 
-### **Step 4: Select Template**
+**説明**
 
-* Click **Select a template**.
-* Choose a template design.
+🧱 **商品ブランク**
 
-🔔 *If your template does not appear, ensure it is published.*
+サイズや種類など基本情報のみを持つベースアイテム。価格・テンプレート・デザインは含まれません。
 
-* Click **Next**.
+例：テンプレート未設定の11ozマグカップ。
 
-### **Step 5: Add Product Variants**
+📦 **商品**
 
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the icon to remove a variant.
+販売可能な状態の商品。価格、eコマース情報、少なくとも1つのテンプレートを含む。
 
-⚠️ Important:
+🔧 **商品タイプ**
 
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
-* Click **Next**.
+\- カスタマイズ商品：ユーザーが画像・テキストを自由に編集可能
 
-### **Step 6: Enter Product Details**
+\- マーチャンダイズ商品：事前デザイン済み商品。画像アップロード可否は選択可能
 
-* Select the **product language** (e.g., English).
-* Fill in:
+🎨 **テンプレート**
 
-  * **Product Name**
-  * **Description**
-  * **Specifications** (materials, dimensions, etc.)
-  * **Tags** (used for filtering and search)
-* Click **Next**.
+商品ブランクに適用されるデザインレイアウト。
 
-### **Step 7: Manage Albums & Upload Settings**
+🗂️ **テンプレートグループ**
 
-* Click **Select albums** to associate image collections.
+同一テーマのテンプレートをまとめたグループ。サイズ違いの管理などに使用。
 
-💡 You can also manage merch albums from **Creative Asset → Merch Albums**.
+🎭 **バリアント**
 
-* Remove any undesired albums.
-* (Optional) Enable **"Allow users to upload photos while customizing"**.
-* Click **Next**.
+同一商品内でサイズ・色・デザインが異なるバージョン。
 
-### **Step 8: Set Product Prices**
+🆔 **SKU**
 
-* All added variants will be shown with editable:
+各バリアントに割り当てられる一意の識別コード。
 
-  * **SKU**
-  * **Price**
-* Click the icon for each entry to update pricing.
-* Click **Save** after updating each entry.
-* Click **Next**.
+🖼️ **Merch Album**
 
-### **Step 9: Upload Mockup Images**
+商品カスタマイズ用にあらかじめ登録された画像アルバム。
 
-* Upload visual previews/mockups.
 
-📷 *Ensure mockups accurately represent the template design.*
 
-* Click **Next**.
 
-### **Step 10: Final Preview and Save**
 
-* Review the following:
+## **3. 前提条件**
 
-  * **Product details**
-  * **Variants**
-  * **Pricing**
-  * **Albums**
-  * **Mockups**
-* If everything is correct, click **Save**.
+商品作成を始める前に、以下を確認してください：
 
-## **Procedure: How to Create a Customizable Product**
+* EzyAdminにログイン済み
 
-###  **Step 1: Navigate to Product Creation**
 
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
+* 商品作成・管理の権限がある
 
-### **Step 2: Select a Product Blank**
 
-* Under **Step 1 - Product Blank**, click **Select product blank**.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank (name, ID, size, description).
-* Click **Next**.
+* \*\*最低1つの「商品ブランク」\*\*が存在
 
-### **Step 3: Choose Product Type**
 
-* In the Product Type tab, select:
-   **Customizable product**
-* Click **Next**.
+* \*\*最低1つの「公開済テンプレート」\*\*が利用可能
 
-### **Step 4: Select Template**
 
-* Click **Select a template**.
-* Choose a template design.
 
-🔔 *Ensure the template is published if it doesn’t appear.*
 
-* Click **Next**.
 
-### **Step 5: Add Product Variants**
 
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the 🗑️ icon to remove a variant.
 
-⚠️ Important:
+## **4. 【マーチャンダイズ商品】作成手順**
 
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
-* Click **Next**.
+### **✅ Step 1：商品作成画面へ移動**
 
-### **Step 6: Enter Product Details**
+EzyAdminにログイン → 左メニューから「Products → My Products」→「＋ Create new product」をクリック。
 
-* Select the **product language** (e.g., English).
-* Fill in:
+### **✅ Step 2：商品ブランクを選択**
 
-  * **Product Name**
-  * **Description**
-  * **Specifications** (materials, dimensions, etc.)
-  * **Tags** (used for filtering and search)
-* Click **Next**.
+「Step 1 - Product Blank」セクションでブランクを選択（例：Standard Mug）
+ 詳細確認後、「Next」をクリック。
 
-### **Step 7: Set Product Prices**
+### **✅ Step 3：商品タイプを選択**
 
-* All variants will be shown with editable:
+「Merch product」を選択 → 「Next」。
 
-  * **SKU**
-  * **Price**
-* Click the icon to update each entry.
-* Click **Save**, then **Next**.
+### **✅ Step 4：テンプレートを選択**
 
-### **Step 8: Upload Mockup Images**
+「Select a template」をクリック → テンプレートを選択
+ ⚠️ テンプレートが表示されない場合、「公開済」か確認
+ →「Next」
 
-* Upload accurate visual mockups.
+### **✅ Step 5：バリアントを追加**
 
-📷 *Ensure mockups reflect the selected design properly.*
+「+ Add variants」をクリック
 
-* Click **Next**.
+* 同一テンプレートグループのデザインのみ追加可能
 
-### **Step 9: Final Preview and Save**
 
-* Review the following:
+* 1つを「Set default」でデフォルト指定
 
-  * **Product details**
-  * **Variants**
-  * **Pricing**
-  * **Albums**
-  * **Mockups**
 
-    Your merchandise product is now ready for publishing and sale on the platform. If you need additional guidance or encounter issues during setup, please contact the support team at **support@ezycreate.com**.
+* 不要なバリアントは🗑️で削除
+
+
+
+⚠️ 注意点：
+
+* すべて視覚的にユニークであること
+
+
+* 同一テンプレートグループに属すること
+
+
+* デフォルトが1つ設定されていること
+
+
+
+→「Next」
+
+### **✅ Step 6：商品詳細を入力**
+
+言語選択 → 商品名、説明、素材・寸法などの仕様、タグを入力
+ →「Next」
+
+### **✅ Step 7：アルバムとアップロード設定**
+
+「Select albums」でMerch Albumを関連付け
+ 💡 アルバムの管理：Creative Asset → Merch Albums からも可能
+ 「ユーザーによる画像アップロードを許可」にチェックを入れることも可能
+ →「Next」
+
+### **✅ Step 8：価格設定**
+
+追加された各バリアントについて、
+
+* SKU
+
+
+* 価格
+   ✏️アイコンで個別に編集 → 編集後「Save」 →「Next」
+
+
+
+### **✅ Step 9：モックアップ画像のアップロード**
+
+テンプレートを反映したモックアップ画像をアップロード
+ →「Next」
+
+### **✅ Step 10：最終確認と保存**
+
+以下項目を確認：商品詳細／バリアント／価格／アルバム／モックアップ
+ すべて確認後、「Save」をクリック
+
+
+
+
+
+## **5. 【カスタマイズ商品】作成手順**
+
+### **✅ Step 1～2：商品作成開始＆商品ブランク選択**
+
+※ マーチ商品と同様のステップです
+
+### **✅ Step 3：商品タイプを選択**
+
+「Customizable product」を選択 →「Next」
+
+### **✅ Step 4：テンプレートを選択**
+
+「Select a template」→ テンプレート選択（公開済であること）→「Next」
+
+### **✅ Step 5：バリアントを追加**
+
+（マーチ商品と同様）→「Next」
+
+### **✅ Step 6：商品詳細を入力**
+
+言語／商品名／説明／仕様／タグ → 入力 →「Next」
+
+### **✅ Step 7：価格設定**
+
+バリアントごとに SKU・価格 を✏️で入力 →「Save」→「Next」
+
+### **✅ Step 8：モックアップ画像アップロード**
+
+選択したテンプレートが反映されるよう正確な画像を使用 →「Next」
+
+### **✅ Step 9：最終確認と保存**
+
+以下内容を再確認：商品詳細／バリアント／価格／アルバム／モックアップ
+ → 問題なければ「Save」をクリック
+
+
+
+
+
+## **📦 商品の公開準備完了！**
+
+これでEzyCreate上でのカスタマイズ商品・マーチャンダイズ商品の登録が完了し、**販売可能な状態**となります。
+
+
+
+
+
+📩 **ヘルプが必要な場合は？**
+ いつでもサポートチームまでご連絡ください：
+ support@ezycreate.com
