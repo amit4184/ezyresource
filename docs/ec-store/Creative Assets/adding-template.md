@@ -128,8 +128,8 @@ slug: /ec-store/Creative Assets
 **Step 4:**
  To verify the addition:
 
-* Use the URL: 'https://www.photojaanic.com/templates?size=<product_code>'
-   Example: https://www.photojaanic.com/templates?size=120073
+* Use the URL: `https://www.photojaanic.com/templates?size=<product_code>`
+  Example: https://www.photojaanic.com/templates?size=120073
 * Click **Publish** on this page
 
 **Step 5:**
