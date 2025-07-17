@@ -129,7 +129,7 @@ const config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Resources',
+    //  title: 'Resources',
        logo: {
         alt: 'My Site Logo',
         src: 'img/ezycreatelogo.png',
