@@ -37,7 +37,7 @@ title: Calendar Designer
 
 ### **Navigation & Editing Tools**
 
-####  **Upload Photos**
+#### **Upload Photos**
 
 * Only JPG/JPEG formats are supported. Avoid **CMYK images** to prevent color issues.
 
@@ -86,7 +86,7 @@ title: Calendar Designer
 
 ### **Step 1: Login**
 
-Go to[ admin.ezycreate.com](https://admin.ezycreate.com) and login with valid credentials.
+Go to Ezyadmin and login with valid credentials.
 
 ### **Step 2: Go to EzyAdmin Dashboard**
 
