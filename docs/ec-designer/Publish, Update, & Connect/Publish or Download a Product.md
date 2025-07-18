@@ -141,6 +141,6 @@ Click on the **“Add”** button to create the product page
 
 Click on the **“View the Page”** link
 
-**Step 23**
+### **Step 23**
 
 The created page node link will open
