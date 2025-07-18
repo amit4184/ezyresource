@@ -3,8 +3,7 @@ title: Print Designer
 ---
 **How to Create a Print Product**
 
-
-📍Platform:[ https://admin.ezycreate.com ](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
+[](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
 
 ## **Glossary**
 
@@ -28,15 +27,11 @@ title: Print Designer
 * **Output Type**: Output file format generated post-order (JPEG or PDF).
 * **Min Pages / Max Pages**: Minimum and maximum number of pages a product can have.
 
-
-
-
-
 ## **Steps**
 
 ### **Step 1: Login**
 
-* Open:[ https://admin.ezycreate.com](https://admin.ezycreate.com)
+* Open: EC admin
 * Enter login details and submit.
 
 ### **Step 2: Navigate to "My Blanks"**
@@ -58,19 +53,12 @@ title: Print Designer
 * **Size**: e.g., 4x6, 5x7.
 * **Preview Type**:
 * * Photobooks: 3D
-
   * Mini book: 2D
-
   * Calendar: 2D
-
   * Canvas prints: 3D
-
   * Mounted prints: 3D
-
   * Frames: 3D
-
   * Mug: 3D
-
   * Prints: Image
 * **Min / Max Pages**: As per product specs.
 * Click **Next**.
@@ -81,15 +69,10 @@ title: Print Designer
 * Click Add Printable Surfaces
 * Enter all specs in inches:
 * * Surface Type: Choose from dropdown
-
   * Image Size: Printable output image size
-
   * Photo Width / Height
-
   * Bleed Area
-
   * Safe Area
-
   * Trim Area (enter corner radius if rounded corners)
 * Click Add.
 
