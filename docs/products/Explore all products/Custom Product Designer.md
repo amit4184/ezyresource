@@ -3,25 +3,21 @@ title: Custom Product Designer
 ---
 # **How to Create Custom Product Designer Template**
 
-**Version 1.0**
-
- 📍 Platform:[ https://admin.ezycreate.com
+**Version 1.0**[
 ](https://admin.ezycreate.com) 📩 Feedback Email: feedback@ezycreate.com
 
-## **📘 Introduction**
 
-EzyDesigner Template Creator empowers users to build custom, ready-to-use templates within the EzyDesigner platform. These templates come with pre-designed layouts, placeholders, fonts, and design assets which can be customized with personal content — no design experience needed.
 
-## **📚 Index**
+## **Index**
 
 1. How to Create a Template
 2. How to View Template in Designer
 3. How to Resize a Template in Template Designer
 
-## **🌟 Key Features**
+## **Key Features**
 
 * A pre-designed library for multiple occasions/events
-* Customization using text, images, cliparts, and backgrounds
+* Customization using text, images, clipart's, and backgrounds
 * Placeholder-based layout design
 * Add custom colors to background and text
 * Resize templates across products
@@ -30,7 +26,7 @@ EzyDesigner Template Creator empowers users to build custom, ready-to-use templa
 * Filter templates using tags and language
 * Publish & unpublish templates
 
-## **🧾 Glossary**
+## **Glossary**
 
 * **Photo Holder**: Empty frame to insert user image
 * **Tags**: Keywords like #birthday, #minimal to search templates
@@ -42,27 +38,29 @@ EzyDesigner Template Creator empowers users to build custom, ready-to-use templa
 
 # **How to Create a Template**
 
-### **🔐 Step 1: Login**
+### **Step 1: Login**
 
-Go to:[ https://admin.ezycreate.com
+
+Login to the admin panel with valid credentials.
+[
 ](https://admin.ezycreate.com) Enter your credentials and click **Submit**.
 
-### **🏠 Step 2: Dashboard Access**
+### **Step 2: Dashboard Access**
 
 Once logged in, you'll land on the welcome dashboard.
 
-### **📁 Step 3: Access Templates**
+### **Step 3: Access Templates**
 
 Click on **Templates** under the **Creative Asset** tab to view existing templates.
 
-### **➕ Step 4: Create a New Template Group**
+### **Step 4: Create a New Template Group**
 
 Click on **“Create New Group”**.
  This opens a blank template form. Once saved, you can resize this base template to other product sizes.
 
-📌 **Note**: All resized versions will be grouped under the original template for ease of editing/publishing.
+**Note**: All resized versions will be grouped under the original template for ease of editing/publishing.
 
-#### **📝 4a: Fill Template Details**
+#### **4a: Fill Template Details**
 
 * **Template Name** – Name that appears in the designer
 * **Products** – Select product type
@@ -71,48 +69,49 @@ Click on **“Create New Group”**.
 
 Click **Create** to launch the Template Creator in a new tab.
 
-#### **✍️ 4b: Edit the Template**
+#### **4b: Edit the Template**
 
 Click on any template group to edit
- Tap on the ✏️ icon to modify the design
+ Tap on the icon to modify the design
  Make edits → Save → Publish
 
 # **Template Creator Interface & Features**
 
-## **🧭 Navigation**
+## **Navigation**
 
 Template name and product type appear at the top left.
  For photobooks, use the **Add Pages** button at the bottom.
 
-### **📷 Upload Photos**
+### **Upload Photos**
 
 * Go to the **Photos** tab
 * Upload .jpg/.jpeg files
-   🚫 Avoid **CMYK** images to prevent color issues during conversion.
+   Avoid **CMYK** images to prevent color issues during conversion.
 
-### **🖼️ Photo Holders**
+### **Photo Holders**
 
 * Predefined frames (square, portrait, landscape)
 * Go to **Photo Holders** tab → Click red-highlighted box → Drag to workspace
 
-### **🎨 Backgrounds**
+### **Backgrounds**
 
 * Select from pre-uploaded .jpg backgrounds
 * Upload custom ones via admin section
-   📌 CMYK files not supported
+    CMYK files not supported
 
-### **🧩 Clipart**
+### **Clipart**
 
 * Go to **Clipart** tab → Click to apply
 * Only .png format with transparent background is allowed
 * Admins can upload new cliparts
 
-### **🔤 Add Text Fields**
+### **Add Text Fields**
 
 * Use the **Floating Text** or **Text** button
 * The placeholder 'Enter Your Text' won't render; enter any other content
 * Use formatting tools:
-* * Font size & style
+
+  * Font size & style
   * Bold / Italic
   * Alignment
   * Color options (preset only)
@@ -120,21 +119,21 @@ Template name and product type appear at the top left.
   * Layer order (Forward/Backward)
   * Delete
 
-### **📐 Work Area**
+### **Work Area**
 
 * Editable canvas with red handles to resize items
 * Auto-alignment gridlines appear when moving objects
 
-### **🛠️ Toolbar Functions**
+### **Toolbar Functions**
 
-* 🔒 **Lock/Unlock**: Secure an object’s position
-* 📑 **Duplicate**: Clone an element
-* 🔼 **Bring Forward / Send Back**: Arrange layers
-* ✂️ **Crop**: Trim photos
-* ➕ **Add Photo**: Drop image into placeholder
-* 🗑️ **Delete**: Remove photo/text holder
+* **Lock/Unlock**: Secure an object’s position
+* **Duplicate**: Clone an element
+* **Bring Forward / Send Back**: Arrange layers
+* **Crop**: Trim photos
+* **Add Photo**: Drop image into placeholder
+* **Delete**: Remove photo/text holder
 
-### **💾 Save & Preview**
+### **Save & Preview**
 
 * Click **Save** to store changes
 * Click **Preview** to see in 2D
@@ -142,7 +141,7 @@ Template name and product type appear at the top left.
 
 # **How to Resize a Template**
 
-## **🔁 Step-by-Step Resizing Process**
+## **Step-by-Step Resizing Process**
 
 1. Go to **Dashboard** → Click **Templates**
 2. Open a template or create a new one
@@ -153,8 +152,10 @@ Template name and product type appear at the top left.
 7. The resized template will appear grouped under the original template
 8. Publish it by clicking the **Publish** button
 9. Once published, the resized version becomes available to users under the same category as the base
-   🔔 Users will receive an overwrite warning before applying the template
+   Users will receive an overwrite warning before applying the template
 
-✅ You're now ready to create, customize, and publish templates across multiple product sizes using EzyDesigner!
+You're now ready to create, customize, and publish templates across multiple product sizes using EzyDesigner!
 
-If you have questions or encounter issues, reach out to: 📩 support@ezycreate.com
+If you have questions or encounter issues, reach out to:
+
+ 📩 support@ezycreate.com
