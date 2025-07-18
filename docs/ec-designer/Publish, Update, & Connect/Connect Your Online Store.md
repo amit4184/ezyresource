@@ -16,7 +16,7 @@ title: Connect Your Online Store
 
 **Step 1**
 
- Open the website link:[ https://admin.ezycreate.com](https://admin.ezycreate.com)
+ Open the website EC admin
 
 [
 ](https://admin.ezycreate.com/) Enter valid login details and click on the **Submit** button.
@@ -90,8 +90,8 @@ You will see a message: **“Added successfully to store”**.
 
 **Step 1**
 
- Open the website link:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com/) 
+ Open the admin
+ 
 
 Log in and click **Submit**.
 
