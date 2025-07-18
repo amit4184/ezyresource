@@ -8,47 +8,19 @@ Choose Product Blank (Print yourself or choose a Product Blank)
 ### **Index**
 
 1. **Glossary** – Key terms and definitions
-
-
 2. **Step 1** – Login to EzyCreate Admin
-
-
 3. **Step 2** – Access “My Blanks”
-
-
 4. **Step 3** – Add a New Product Blank
-
-
 5. **Step 4** – Enter Basic Product Details
-
-
 6. **Step 5** – Select Output Type
-
-
 7. **Step 6** – Add Printable Surface Specs
-
-
 8. **Step 7** – Add Printing Components
-
-
 9. **Step 8** – Add Designer Specs
-
-
 10. **Step 9** – Set Pricing
-
-
 11. **Step 10** – Pricing Notes
-
-
 12. **Step 11** – View Product in Designer
-
-
 13. **Step 12–14** – Upload & Edit Photo
-
-
 14. **Step 15–17** – Place and Download Test Order
-
-
 15. **Step 18–19** – Publish the Product
 
 ## **Glossary**
@@ -118,7 +90,7 @@ Maximum number of pages a product can have.
 
 ### **Step 1**
 
-Open the website link:[ https://admin.ezycreate.com/
+Open the website [
 ](https://admin.ezycreate.com/) Enter valid login details and click on the Submit button.
 
 ### **Step 2**
