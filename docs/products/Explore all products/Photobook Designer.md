@@ -1,115 +1,233 @@
 ---
 title: Photobook Designer
-sidebar_label: ""
+sidebar_label: EC Photobook Designer Tool
 ---
-## **EC Designer Overview**
+**How to Create a  Photobook Template in EzyDesigner (Easy Step-by-Step Guide)**
 
+📧 Need help? Email us at: **support@ezycreate.com**
 
+💬 Feedback? Send it to: **feedback@ezycreate.com**
 
+**What You’ll Learn**
 
-All-in-One Solution: From product creation to fulfillment
+This guide shows you how to:
 
+1. Log in to the Template Creator
+2. Make a new design template
+3. Edit, resize, and publish your template
+4. Add photos, text, backgrounds, and clipart
 
+### **Key Features of the EzyDesigner Template Creator**
 
+With EzyDesigner, you can:
 
+Use a library of **pre-designed templates** for various events (e.g., birthdays, weddings, holidays)
 
-### **Key Benefits**
+**Customize** layouts with text, images, and design elements
 
-**Drag-and-Drop Editor**
+**Drag and drop** from a set of predefined placeholders
 
-No-code design interface for end users
+Change **background colors** and **text colors**
 
-**Modular Product Designers**
+**Copy and resize** templates across different product sizes
 
-Choose from Photobook, Print, Calendar, and Custom Product designers
+**Publish** your designs so customers can use them
 
-**eCommerce Integration**
+**Edit** existing unpublished templates
 
-Connect with your webstore (e.g. Shopify, WooCommerce)
+**Preview** your design in a 2D view before going live
 
-**Template System**
+Use **filters** to find templates by name, occasion, language, or publish status
 
-Pre-design layouts for quick user customization
+## **Glossary of Key Terms**
 
-**SDK & Plugins**
+Here are some basic terms you'll see in this guide:
 
-Extend the tool via SDK, WordPress plugin, and APIs
+* **Photo Holder** An empty frame where users can drag and drop their own photos.
+* **Tags** Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
+* **Template Group** A collection of templates with the same design but resized for different product sizes.
+* **Template** A ready-to-use layout that includes photos, text fields, clipart, and background images.
+* **Text Field** An editable area where users can add or customize text within a design.
+* **Template Creator** The online design workspace where you create and customize templates.
+* **Template Object** Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
-**Analytics Dashboard**
+### **Before You Start**
 
-Track user activity, product performance, and orders
+**What is a Template?** A template is a pre-designed layout that helps your customers start designing quickly. It includes photo boxes, text areas, colors, and backgrounds — all ready to customize.
 
-### **Who Should Use EC Designer?**
+**Where does this template appear?** It shows up inside the **EzyDesigner** where customers can choose and personalize it.
 
-This platform is built for:
+## **Section I: How to Create a Template**
 
-*  **eCommerce Businesses** offering custom products
-* **Design Teams** who want control over templates and branding
-* **Developers** integrating personalization into their platforms
-* **Corporate Clients** setting up internal design + print portals
-* **Studios & Photographers** selling albums or prints
+ **Step 1: Login**
 
-### **How Does It Work?**
+* Go to: https://admin.ezycreate.com/
+* Enter your login details and click Submit
 
-Here’s a simplified flow of how EC Designer fits into your business:
+ **Step 2: Welcome Dashboard**
 
-mathematica
+* You'll land on the dashboard homepage
 
-Copy-edit
+**Step 3: View Templates**
 
-1. Register Account → 2. Choose Product Type → 3. Create Product Blank → 
-2. Design Templates → 5. Publish & Connect Store → 6. Accept Orders → 
-3. Track via Dashboard
+* Click on Templates to see existing template groups
 
-###  **EC Designer Modules**
+**Step 4: Create a New Template**
 
-Each module within EC Designer serves a specific type of product:
+* Click - Create New Group to start a blank template
+* A template group allows you to create one base design and resize it for different product sizes
 
-* **Photobook Designer** – Multi-page album layout & personalization
-* **Print Designer** – Single-page prints, posters, and merchandise
-* **Calendar Designer** – Monthly and yearly calendar customization
-* **Custom Product Designer** – Tailored to objects like mugs, T-shirts
-* **Webstore Setup** – Integrate with your frontend or third-party stores
+**Note : Resized templates will appear grouped under the original template**
 
-### **Core Concepts to Know**
+**Step 4a: Fill Template Details**
 
-**Product Blank**
+* Template Name: Display name in EzyDesigner
+* Products: Select from dropdown list
+* Occasion: Choose the event type
+* Tags: Add hashtags like #birthday, #travel
+* Click Create to begin designing (opens in a new tab)
+* Click Cancel to exit the form
 
-A base product layout with dimensions and safe zones
+**Step 4b: Open Template Creator**
 
-**Mask Image**
+* Template Creator will launch in a new tab for editing
 
-PNG used to define print-safe areas, cutouts, or shaped regions
+ **Editing an Existing Template**
 
-**Template**
+* Click the template group you want to edit
+* Click the edit icon next to the template
+* The template will open in a new tab
+* Publish your changes once done
 
-A pre-designed layout that users can customize
+**Edit Template Info**
 
-**Ready Flow vs Custom Flow**
+* Update template name, occasion, description
+* Option to disable the template if not in use
 
-Ready: templated shopping. Custom: full personalization
+## **Template Creator Features**
 
-**Library**
+ **Navigation Bar**
 
-A collection of backgrounds, layouts, and design assets
+* Shows template name and product name on the top-left corner
 
-**Page Layouts**
+**Add Pages (Photobooks Only)**
 
-Reusable page structures for multi-page products like photobooks
+* Use the "Add Pages" button to insert more pages
 
-### **Getting Support**
+**Upload Photos**
 
-Need help while getting started?
+* Go to Photos tab
+* Upload JPG/JPEG files only
+* Avoid CMYK images—they may cause color issues
 
-* Check our FAQs & Help
-* Watch Tutorial Videos
-*  Visit the Product Setup Guide
-* Reach out to Support
+**Add Photo Holders**
 
-### **What's Next?**
+* Click Photo Holders tab
+* Tap the red icon to place a photo frame (square/portrait/landscape)
 
-Once you’re familiar with the overview, we recommend you move on to:
+**Resize via Layouts**
 
-* **How to Register** – Create your first account
-* **Product Setup** – Start creating and launching your products
-* **Create Templates** – Build reusable layouts for end-users
+* Open Layout tab
+* Click a new size → Template opens in a new tab
+* Make corrections and save
+* Resized versions appear grouped under the base template
+
+**Publish Template**
+
+* Click publish icon next to the template
+
+**Unpublish Template**
+
+* Click settings → Select Unpublish
+
+**Add Backgrounds**
+
+* JPG format only
+* Click Background tab → Choose one or upload your own
+
+**Add Clipart**
+
+* PNG format (transparent)
+* Click Clipart tab → Pick a sticker
+
+**Add Text**
+
+* Click Floating Text or Text
+* Default label 'Enter Your text' won’t be printed
+* Formatting tools: Lock, Layer Order, Delete, Font Style, Alignment, Bold, Italic, Color, Background Color
+
+**Work Area**
+
+* Main design space with red dots to resize objects
+
+**Toolbar Functions**
+
+*  Lock/Unlock objects
+* Duplicate objects
+* Bring Forward / Send Back layers
+* Crop images
+* Add Photo Holder
+* Delete selected item
+
+**Save & Preview**
+
+* Click Save to store your work
+* Click Preview for 2D view
+* Click Close (always save before closing)
+
+**Gridlines**
+
+* Auto-aligns text and photo holders when moving
+
+## **Section II: How to Resize a Template in Template Creator**
+
+**Step 1: Access Dashboard**
+
+* Click Templates to view existing ones
+
+**Step 2: Open or Create a Template**
+
+* Start new or edit an existing one
+
+**Step 3: Design or Edit Template**
+
+* Complete your base layout
+* Click Layout tab to choose another product size
+
+**Step 4: Choose New Size**
+
+* Click on a new size → Opens in new tab
+
+**Step 5: Save the Resized Template**
+
+* Review pages and fix alignments if needed
+* Click Save
+
+**Step 6: View Resized Versions**
+
+* Resized templates appear under the main design
+* Can be edited or published
+
+**Step 7: Publish Resized Template**
+
+* Click Publish to make it live
+
+**Step 8: Apply in Designer**
+
+* Open product in Designer
+* A warning will show before applying the template (it will overwrite any existing design)
+* Click Proceed to apply
+
+## **Quick Summary**
+
+* **Start a design** → Go to **Dashboard** → Click **Create New Group**
+* **Add photos** → Use the **Photo Holders** tab
+* **Add text** → Use the **Text** tab
+* **Add background** → Go to the **Background** tab
+* **Resize for other products** → Open the **Layout** tab and select a size
+* **Preview before saving** → Click the **Preview** button (2D preview)
+* **Make it live** → Click Publish from the Dashboard
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
