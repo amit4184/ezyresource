@@ -27,27 +27,27 @@ Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empo
 
 **Description**
 
-💡 **Drag-and-Drop Editor -** No-code design interface for end users
+**Drag-and-Drop Editor -** No-code design interface for end users
 
-🧩 **Modular Product Designers -** Choose from Photobook, Print, Calendar, more
+**Modular Product Designers -** Choose from Photobook, Print, Calendar, more
 
-🛒 **eCommerce Integration -** Connect with your webstore 
+**eCommerce Integration -** Connect with your webstore 
 
-📐 **Template System -** Pre-design layouts for quick user customization
+**Template System -** Pre-design layouts for quick user customization
 
-🔌 **SDK & Plugins -** Extend the tool via SDK, WordPress plugin, and APIs
+**SDK & Plugins -** Extend the tool via SDK, WordPress plugin, and APIs
 
-📊 **Analytics Dashboard -** Track user activity, product performance, and orders
+**Analytics Dashboard -** Track user activity, product performance, and orders
 
 ## **Who Should Use EC Designer?**
 
 This platform is built for:
 
-* 🏪 **eCommerce Businesses** offering custom products
-* 🎨 **Design Teams** who want control over templates and branding
-* 🧑‍💻 **Developers** integrating personalization into their platforms
-* 🏢 **Corporate Clients** setting up internal design + print portals
-* 📸 **Studios & Photographers** selling albums or prints
+* **eCommerce Businesses** offering custom products
+* **Design Teams** who want control over templates and branding
+* **Developers** integrating personalization into their platforms
+* **Corporate Clients** setting up internal design + print portals
+* **Studios & Photographers** selling albums or prints
 
 ## **How Does It Work?**
 
@@ -57,11 +57,11 @@ Step 1 - Register Account →Step 2. Choose Product Type → Step 3. Create Prod
 
 Each module within EC Designer serves a specific type of product:
 
-* 📚 **Photobook Designer** – Multi-page album layout & personalization
-* 🖨️ **Print Designer** – Single-page prints, posters, and merchandise
-* 📅 **Calendar Designer** – Monthly and yearly calendar customization
-* 🧩 **Custom Product Designer** – Tailored to objects like mugs, T-shirts
-* 🛍️ **Webstore Setup** – Integrate with your frontend or third-party stores
+* **Photobook Designer** – Multi-page album layout & personalization
+* **Print Designer** – Single-page prints, posters, and merchandise
+* **Calendar Designer** – Monthly and yearly calendar customization
+* **Custom Product Designer** – Tailored to objects like mugs, T-shirts
+* **Webstore Setup** – Integrate with your frontend or third-party stores
 
 ## **Core Concepts to Know**
 
@@ -89,6 +89,6 @@ Need help while getting started? Connect - support@ezycreate.com
 
 Once you’re familiar with the overview, we recommend you move on to:
 
-* ✅ **How to Register** – Create your first account
-* 🛠️ **Product Setup** – Start creating and launching your products
-* 🧩 **Create Templates** – Build reusable layouts for end-users
+* **How to Register** – Create your first account
+* **Product Setup** – Start creating and launching your products
+* **Create Templates** – Build reusable layouts for end-users
