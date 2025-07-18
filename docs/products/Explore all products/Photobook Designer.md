@@ -1,124 +1,77 @@
 ---
 title: Photobook Designer
-sidebar_label: EC Photobook Designer Tool
+sidebar_label: ""
 ---
-
-
 ## **EC Designer Overview**
 
-Welcome to the EC Designer – a powerful tool within EzyDesigner SaaS that empowers businesses to create, customize, and sell personalized products effortlessly. This section provides a high-level overview of what EC Designer is, who it's for, and how you can start using it to scale your personalization and print-on-demand workflows.
+
+
+
+All-in-One Solution: From product creation to fulfillment
 
 
 
 
 
+### **Key Benefits**
 
-
-### **🔹 Key Benefits**
-
-**Feature**
-
-**Description**
-
-💡 **Drag-and-Drop Editor**
+**Drag-and-Drop Editor**
 
 No-code design interface for end users
 
-🧩 **Modular Product Designers**
+**Modular Product Designers**
 
 Choose from Photobook, Print, Calendar, and Custom Product designers
 
-🛒 **eCommerce Integration**
+**eCommerce Integration**
 
 Connect with your webstore (e.g. Shopify, WooCommerce)
 
-📐 **Template System**
+**Template System**
 
 Pre-design layouts for quick user customization
 
-🔌 **SDK & Plugins**
+**SDK & Plugins**
 
 Extend the tool via SDK, WordPress plugin, and APIs
 
-📊 **Analytics Dashboard**
+**Analytics Dashboard**
 
 Track user activity, product performance, and orders
 
-
-
-
-
-### **🔹 Who Should Use EC Designer?**
+### **Who Should Use EC Designer?**
 
 This platform is built for:
 
-* 🏪 **eCommerce Businesses** offering custom products
+*  **eCommerce Businesses** offering custom products
+* **Design Teams** who want control over templates and branding
+* **Developers** integrating personalization into their platforms
+* **Corporate Clients** setting up internal design + print portals
+* **Studios & Photographers** selling albums or prints
 
-
-* 🎨 **Design Teams** who want control over templates and branding
-
-
-* 🧑‍💻 **Developers** integrating personalization into their platforms
-
-
-* 🏢 **Corporate Clients** setting up internal design + print portals
-
-
-* 📸 **Studios & Photographers** selling albums or prints
-
-
-
-
-
-
-
-### **🔹 How Does It Work?**
+### **How Does It Work?**
 
 Here’s a simplified flow of how EC Designer fits into your business:
 
 mathematica
 
-CopyEdit
+Copy-edit
 
 1. Register Account → 2. Choose Product Type → 3. Create Product Blank → 
+2. Design Templates → 5. Publish & Connect Store → 6. Accept Orders → 
+3. Track via Dashboard
 
-4. Design Templates → 5. Publish & Connect Store → 6. Accept Orders → 
-
-7. Track via Dashboard
-
-
-
-
-
-### **🔹 EC Designer Modules**
+###  **EC Designer Modules**
 
 Each module within EC Designer serves a specific type of product:
 
-* 📚 **Photobook Designer** – Multi-page album layout & personalization
+* **Photobook Designer** – Multi-page album layout & personalization
+* **Print Designer** – Single-page prints, posters, and merchandise
+* **Calendar Designer** – Monthly and yearly calendar customization
+* **Custom Product Designer** – Tailored to objects like mugs, T-shirts
+* **Webstore Setup** – Integrate with your frontend or third-party stores
 
-
-* 🖨️ **Print Designer** – Single-page prints, posters, and merchandise
-
-
-* 📅 **Calendar Designer** – Monthly and yearly calendar customization
-
-
-* 🧩 **Custom Product Designer** – Tailored to objects like mugs, T-shirts
-
-
-* 🛍️ **Webstore Setup** – Integrate with your frontend or third-party stores
-
-
-
-
-
-
-
-### **🔹 Core Concepts to Know**
-
-**Concept**
-
-**Description**
+### **Core Concepts to Know**
 
 **Product Blank**
 
@@ -144,39 +97,19 @@ A collection of backgrounds, layouts, and design assets
 
 Reusable page structures for multi-page products like photobooks
 
-
-
-
-
-### **🔹 Getting Support**
+### **Getting Support**
 
 Need help while getting started?
 
-* 📄 Check our FAQs & Help
+* Check our FAQs & Help
+* Watch Tutorial Videos
+*  Visit the Product Setup Guide
+* Reach out to Support
 
-
-* 📹 Watch Tutorial Videos
-
-
-* 🛠️ Visit the Product Setup Guide
-
-
-* 💬 Reach out to Support
-
-
-
-
-
-
-
-### **🔹 What's Next?**
+### **What's Next?**
 
 Once you’re familiar with the overview, we recommend you move on to:
 
-* ✅ **How to Register** – Create your first account
-
-
-* 🛠️ **Product Setup** – Start creating and launching your products
-
-
-* 🧩 **Create Templates** – Build reusable layouts for end-users
+* **How to Register** – Create your first account
+* **Product Setup** – Start creating and launching your products
+* **Create Templates** – Build reusable layouts for end-users
