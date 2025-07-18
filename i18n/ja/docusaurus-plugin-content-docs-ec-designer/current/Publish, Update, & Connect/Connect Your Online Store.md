@@ -160,7 +160,7 @@ title: Connect Your Online Store
 テンプレートが商品ページの「テーマ選択ページ」に表示されます。
 
 **プレビュー確認**：
- <https://www.photojaanic.com/templates?size=120073>
+ (https://www.photojaanic.com/templates?size=120073)
 
 **本番公開**：
  [https://www.photojaanic.com/ezytemplates?size=120073
