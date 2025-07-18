@@ -5,7 +5,7 @@ sidebar_label: カレンダーデザイナー
 ## **EC カレンダーテンプレート作成方法**
 
 [](https://admin.ezycreate.com)[
-](https://admin.ezycreate.com) 📩 **フィードバック送付先**: feedback@ezycreate.com
+](https://admin.ezycreate.com) **フィードバック送付先**: feedback@ezycreate.com
 
 ## **目次**
 
@@ -17,7 +17,7 @@ sidebar_label: カレンダーデザイナー
 
 ## **セクション I：カレンダーテンプレートの機能**
 
-###  **主な機能**
+### **主な機能**
 
 * ダッシュボードからテンプレートにアクセス
 * 多言語イベントの追加対応
@@ -27,7 +27,7 @@ sidebar_label: カレンダーデザイナー
 * 未公開テンプレートの編集・プレビュー
 * テンプレート名、言語、公開状態などでフィルター可能
 
-###  **用語解説**
+### **用語解説**
 
 **用語**
 
@@ -220,6 +220,6 @@ sidebar_label: カレンダーデザイナー
 
 💬 お困りの際はお気軽にご連絡ください：
 
- 📩 **フィードバック**：feedback@ezycreate.com
+**フィードバック**：feedback@ezycreate.com
 
-📩 **サポート**：support@ezycreate.com
+**サポート**：support@ezycreate.com
