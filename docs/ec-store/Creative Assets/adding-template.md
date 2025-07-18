@@ -2,7 +2,7 @@
 title: Adding Tempalate
 slug: /ec-store/Creative Assets
 ---
-**Index**
+## **Index**
 
 1. Glossary
 2. How to Publish Single Template Groups to the Store
@@ -10,17 +10,17 @@ slug: /ec-store/Creative Assets
 4. How to Publish Multiple Template Groups to the Store(s)
 5. How to Add a Template to a Store Product
 
-## **✅ 1. Glossary**
+##  **Glossary**
 
 * **Template**: A set of ready-made designs consisting of photo holders, text fields, cliparts, backgrounds, etc., to help users create designs easily.
 * **Template Group**: A group of templates displayed on the dashboard, useful for managing large volumes of designs.
 * **Store**: A storefront or website where your templates are made available.
 * **Layouts**: A predefined set of photo holders used to speed up the design process in the editor.
 
-## **✅ 2. How to Publish Single Template Groups to the Store**
+## **2. How to Publish Single Template Groups to the Store**
 
 **Step 1:**
- Go to:[ https://admin.ezycreate.com/](https://admin.ezycreate.com/)
+ Go to admin[](https://admin.ezycreate.com/)
 
 * Enter your login credentials
 * Click the **Submit** button
@@ -35,7 +35,7 @@ slug: /ec-store/Creative Assets
 
 * Click the **Add** button next to the Template Group you want to publish
 
-💡 *Note: A Template Group organizes templates for easier management.*
+ *Note: A Template Group organizes templates for easier management.*
 
 **Step 4:**
 
@@ -43,15 +43,15 @@ slug: /ec-store/Creative Assets
 * Select the store(s) where you want to publish the template
 * Click the **Add** button
 
-💡 *Note: Once published, the templates will be available for use in the store's product configurator.*
+*Note: Once published, the templates will be available for use in the store's product configurator.*
 
 **Confirmation:**
  You will see the message: **"Added successfully to store"**
 
-## **✅ 3. How to Publish Selective Template(s) within a Template Group to the Store**
+## **3. How to Publish Selective Template(s) within a Template Group to the Store**
 
 **Step 1:**
- Go to:[ https://admin.ezycreate.com/](https://admin.ezycreate.com/)
+ Go to admin[](https://admin.ezycreate.com/)
 
 * Enter your login credentials
 * Click **Submit**
@@ -77,7 +77,7 @@ slug: /ec-store/Creative Assets
 **Confirmation:**
  You will see: **"Added successfully to store"**
 
-## **✅ 4. How to Publish Multiple Template Groups to the Store(s)**
+## **4. How to Publish Multiple Template Groups to the Store(s)**
 
 **Step 1:**
  Go to:[ https://admin.ezycreate.com/](https://admin.ezycreate.com/)
@@ -104,15 +104,15 @@ slug: /ec-store/Creative Assets
 **Confirmation:**
  You will see: **"Added successfully to store"**
 
-## **✅ 5. How to Add a Template to a Store Product**
+## **5. How to Add a Template to a Store Product**
 
-🔒 **Pre-requisite:** EzyCreate plugin must be installed and you must have access to the admin dashboard.
+**Pre-requisite:** EzyCreate plugin must be installed and you must have access to the admin dashboard.
 
 **Step 1:**
  Log in and access:
 [ https://www.photojaanic.com/admin/settings/ezycreate/templates](https://www.photojaanic.com/admin/settings/ezycreate/templates)
 
-💡 *If access is denied, request permissions from the site administrator.*
+*If access is denied, request permissions from the site administrator.*
 
 **Step 2:**
 
