@@ -5,7 +5,7 @@ title: Install SDK
 
 Welcome to the **Mobile SDK Integration Guide** for the **EzyCreate SaaS Platform**. This SDK enables seamless integration of store creation, product customization, and order processing features into your mobile app.
 
-## **🔐 Before You Begin**
+## **Before You Begin**
 
 To use the SDK, you must:
 
@@ -14,7 +14,7 @@ To use the SDK, you must:
 
 ## **Step 1: Register & Subscribe**
 
-* Visit[ **EzyCreate.com** ] (https://ezycreate.com)
+* Visit[ **EzyCreate.com** ](https://ezycreate.com)
 * Create an account and complete registration
 * Choose a subscription plan based on your usage
 
@@ -55,11 +55,11 @@ Choose the appropriate SDK for your platform:
 * **Android (Java/Kotlin)**: Download Android SDK (.aar)
 * **React Native**: npm install ezycreate-react-sdk (coming soon)
 
-⚠️ Always use the **Client ID** and **Secret Key** from your dashboard to initialize the SDK.
+Always use the **Client ID** and **Secret Key** from your dashboard to initialize the SDK.
 
-# **EzyCreate SDK – Android Integration (Quick Guide)**
+# **EC SDK – Android Integration (Quick Guide)**
 
-## **✅ Prerequisites**
+## **Prerequisites**
 
 * Android project with compileSdkVersion 34 or higher
 * .aar file of EzyCreate SDK (for local testing)
@@ -77,20 +77,20 @@ Place the .aar file in:
 
 `dependencies {`
 
-`    implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])`
+`implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])`
 
-`    implementation 'com.squareup.okhttp3:okhttp:4.10.0'`
+`implementation 'com.squareup.okhttp3:okhttp:4.10.0'`
 
-`    implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0'`
+`implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0'`
 
-`    implementation 'com.squareup.retrofit2:retrofit:2.9.0'`
+`implementation 'com.squareup.retrofit2:retrofit:2.9.0'`
 
-`    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+`implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
              }`
 
 ### **3. Update AndroidManifest.xml**
 
-Inside the `manifest `tag, add:
+Inside the `manifest`tag, add:
 
 `xmlns:tools="http://schemas.android.com/tools"`
 
@@ -102,41 +102,41 @@ Inside the `application` tag, add:
 
 `cd android && ./gradlew clean`
 
-## **⚙️ SDK Initialization (Kotlin Example)**
+## **SDK Initialization (Kotlin Example)**
 
 `val sdkConfig = SDKConfig(`
 
-`    sdkToken = "YOUR_SDK_TOKEN",`
+`sdkToken = "YOUR_SDK_TOKEN",`
 
-`    grantType = "client_credentials",`
+`grantType = "client_credentials",`
 
-`    bundleId = "com.yourproject",`
+`bundleId = "com.yourproject",`
 
-`    clientId = "YOUR_CLIENT_ID",`
+`clientId = "YOUR_CLIENT_ID",`
 
-`    clientSecretKey = "YOUR_CLIENT_SECRET",`
+`clientSecretKey = "YOUR_CLIENT_SECRET",`
 
-`    platform = "android",`
+`platform = "android",`
 
-`    redirectUrl = "YOUR_REDIRECT_URL",`
+`redirectUrl = "YOUR_REDIRECT_URL",`
 
-`    scope = "YOUR_SCOPE",`
+`scope = "YOUR_SCOPE",`
 
-`    baseUrl = "YOUR_BASE_URL",`
+`baseUrl = "YOUR_BASE_URL",`
 
-`    clientSecret = "YOUR_CLIENT_SECRET",`
+`clientSecret = "YOUR_CLIENT_SECRET",`
 
-`    userToken = "YOUR_USER_TOKEN",`
+`userToken = "YOUR_USER_TOKEN",`
 
-`    userId = "YOUR_USER_ID",`
+`userId = "YOUR_USER_ID",`
 
-`    toastEnabled = true`
+`toastEnabled = true`
 
 `)`
 
 EzycreateSDK.initialize(sdkConfig)
 
-## **📦 Usage Examples**
+## **Usage Examples**
 
 `val products = EzycreateSDK.getInstance().getProducts()`
 
@@ -154,15 +154,15 @@ In settings.gradle or project-level build.gradle:
 
 `allprojects {`
 
-`    repositories {`
+`repositories {`
 
-`        google()`
+`google()`
 
-`        mavenCentral()`
+`mavenCentral()`
 
-`        maven { url 'https://your-maven-url.com/repository' }`
+`maven { url 'https://your-maven-url.com/repository' }`
 
-`    }`
+`}`
 
 `}`
 
@@ -172,11 +172,11 @@ In build.gradle (app level):
 
 `dependencies {`
 
-`    implementation 'com.ezycreate:sdk:1.0.0' // Replace with actual version`
+`implementation 'com.ezycreate:sdk:1.0.0' // Replace with actual version`
 
 `}`
 
-## **💬 Need Help?**
+##  **Need Help?**
 
-* 📘 View the **Full SDK Documentation** (link)
-* 📧 Contact Support: **support@ezycreate.com**
+* View the **Full SDK Documentation** 
+* Contact Support: **support@ezycreate.com**
