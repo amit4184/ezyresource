@@ -4,7 +4,7 @@ title: Custom Product Flow
 # **SOP：ECで新商品を作成する方法**
 
 [
-](https://admin.ezycreate.com) 📩**サポートメール**: support@ezycreate.com
+](https://admin.ezycreate.com) **サポートメール**: support@ezycreate.com
 
 ## **1. 概要**
 
