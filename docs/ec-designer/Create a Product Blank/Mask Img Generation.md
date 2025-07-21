@@ -1,5 +1,5 @@
 ---
-title: Mask Img Generation
+title: Mask Image Generation
 ---
 **How to Generate a Mask Image or Background Image**
 
