@@ -67,6 +67,9 @@ The mask area set for design purposes in the designer.
 **Offset Value**
 Used to set the mask on the designer.
 
+**Fullspread**
+It refers to a photobook with full sheet having 2 page surface
+
 **Category**
 Organizes products under specific sections.
 
@@ -90,19 +93,27 @@ Maximum number of pages a product can have.
 
 ### **Step 1**
 
+![](/img/1.png)
+
 Open the website [
-](https://admin.ezycreate.com/) Enter valid login details and click on the Submit button.
+](https://admin.ezycreate.com/) Enter valid login details and click on the login button.
 
 ### **Step 2**
+
+![](/img/2.png)
 
 Click on **My Blanks**.
  It will display the list of defined product blanks.
 
 ### **Step 3**
 
+![](/img/3.png)
+
 To create a new product blank, click on the **Add** button.
 
 ### **Step 4**
+
+![](/img/4.png)
 
 **Product code**: Enter the unique product code.
 
@@ -147,6 +158,10 @@ Calendar – 2D
 
  Prints – Image
 
+**Book type** : This option is specific to photobooks only. Where user will have to select the book type for example : Full spread or split.
+
+![](/img/5.png "Examples of the Full spread or split photobooks")
+
 **Min pages**: Enter minimum page count.
 
 **Max pages**: Enter maximum page count. These details will be as per the product specs.
@@ -155,10 +170,14 @@ Click on the **Next** button to continue.
 
 ### **Step 5**
 
+![](/img/6.png)
+
 **Output type**: Select the output type for the product i.e., JPG / PDF
  Click on the **Add printable surfaces** button.
 
 ### **Step 6**
+
+![](/img/7.png)
 
 **Surface type**: Select from the drop-down.
 
@@ -179,6 +198,8 @@ Click on the **Next** button to continue.
 
 ### **Step 7**
 
+![](/img/8.png)
+
 **Printing components**: Add substrate, lamination, binding, cover, etc. for the product.
  If there is a new substrate or lamination, define it first under:
  **Attributes → Laminations** *(How to Add Attributes & Attribute Options)*
@@ -188,11 +209,16 @@ Click on the **Next** button to continue.
 
 ### **Step 8**
 
+![](/img/9.png)
+
 **App name**: Select from the drop-down i.e., if the product is an EzyDesigner or EzyPrints product.
 
 **Default template**: Choose a default template (if created via Template Creator), or select none.
 
 Click on **Add Designer Specs** button.
+
+
+![](/img/10.png)
 
 * **Surface type**: Select from the drop-down.
 * **Surface name**: Enter based on surface type.
@@ -208,21 +234,31 @@ Click on **Add Designer Specs** button.
 * **Orientation**: Select based on uploaded mask
 * **Mask offsets** (in inches): Enter top, bottom, left, and right offsets
 
-If the product is **Prints**, both portrait and landscape masks are required.
- Click on **Add**, then click **Next** to go to the pricing section.
+if the product is **Prints** : both orientations are compulsory for example portrait/landscape. so masks have to be added with both orientations. Otherwise the product will not be able to handle the, not added orientation. Once all the required details are entered then to save these details click on the **“Add”** button.
+
+![](/img/12.png)
+
+
+ then click **Next** to go to the pricing section.
 
 **Note**:
 
 * Portrait & landscape orientation: Both masks needed
 * Square orientation: Only square mask needed
-* Photobooks: Display mask must have safe area and cover labels
+* Photobooks: Display mask must have safe area and cover labels. for example: 
+
+  ![](/img/11.png "Example of cover display (Display mask should have these safe area markings.)")
 
 ### **Step 9**
+
+![](/img/13.png)
 
 **Price type: Single Qty Pricing**
 
 * Enter cost price and selling price values
 * Click **Add Price**, then **Save**
+
+![](/img/14.png)
 
 **Price type: Volume Pricing**
 
@@ -230,6 +266,8 @@ If the product is **Prints**, both portrait and landscape masks are required.
 * Enter cost price and selling price
 * Select **Combine set** checkbox if needed
 * Click **Add Price**, then **Save**
+
+![](/img/15.png)
 
 **Price type: Attribute Level Pricing**
 
@@ -247,37 +285,59 @@ If the product is **Prints**, both portrait and landscape masks are required.
 
 ### **Step 11**
 
+![](/img/16.png)
+
 Once the product is saved, go to the **Product Wizard List**.
 
- The created product will be displayed.
-
- Click on **View in Designer** to preview.
+ The created product will be displayed. 
 
 ### **Step 12**
+
+![](/img/17.png)
+
+Click on View in Designer to preview.
+
+![](/img/18.png)
 
 The designer will open the defined product.
 
 ### **Step 13**
 
+![](/img/19.png)
+
 Click on the **Upload Photo** button.
 
 ### **Step 14**
 
+![](/img/20.png)
+
 Click to select files or drag and drop photos into the uploader.
 
- Click Upload.
+![](/img/21.png)
+
+Click Upload button to upload the added photos.
+
+![](/img/22.png)
 
 Click on a photo to add it to the designer.
 
+![](/img/23.png)
+
 Click on the photo again to edit.
+
+![](/img/24.png)
 
 After editing, click on the Test Order button.
 
 **Step 15**
 
+![](/img/25.png)
+
 A message will display: Order placed successfully
 
  The Order tab will open, showing the recent order placed.
+
+![](/img/26.png)
 
  Click on View Order Details.
 
