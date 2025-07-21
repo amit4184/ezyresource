@@ -345,9 +345,15 @@ A message will display: Order placed successfully
 
 The order will be rendered by the renderer application.
 
+![](/img/27.png)
+
 Check the **Order Status**.
 
- Once the status shows **Rendered**, you can:
+ 
+
+![](/img/28.png)
+
+Once the status shows **Rendered**, you can:
 
 * Click **Download All** to download as a ZIP file
 * Or download images individually
@@ -355,6 +361,8 @@ Check the **Order Status**.
 **Note**: You can choose to download one or all images.
 
 ### **Step 17**
+
+![](/img/29.png)
 
 Choose a path to save the test order image.
 
@@ -368,6 +376,8 @@ The downloaded image can be printed or emailed.
 
 ### **Step 18**
 
+![](/img/31.png)
+
 Once the test order is passed and product is ready:
 
 Go to the **Product Blank Dashboard**
@@ -377,6 +387,8 @@ Click on **Product Setting**
 Click on **Publish**
 
 ### **Step 19**
+
+![](/img/32.png)
 
 The product status will update to **Publish**.
 
