@@ -28,12 +28,15 @@ const config = {
   defaultLocale: 'en',
   locales: ['en', 'ja'],
   localeConfigs: {
+     ja: {
+      label: '日本語',
+      htmlLang: 'ja',
+      path: 'ja',
+    },
     en: {
       label: 'English',
-    },
-    ja: {
-      label: '日本語',
-    },
+      htmlLang: 'en-US',
+    }
 
   },
 },
