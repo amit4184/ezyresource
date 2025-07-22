@@ -217,7 +217,6 @@ Click on the **Next** button to continue.
 
 Click on **Add Designer Specs** button.
 
-
 ![](/img/10.png)
 
 * **Surface type**: Select from the drop-down.
@@ -237,7 +236,6 @@ Click on **Add Designer Specs** button.
 if the product is **Prints** : both orientations are compulsory for example portrait/landscape. so masks have to be added with both orientations. Otherwise the product will not be able to handle the, not added orientation. Once all the required details are entered then to save these details click on the **“Add”** button.
 
 ![](/img/12.png)
-
 
  then click **Next** to go to the pricing section.
 
@@ -349,8 +347,6 @@ The order will be rendered by the renderer application.
 
 Check the **Order Status**.
 
- 
-
 ![](/img/28.png)
 
 Once the status shows **Rendered**, you can:
@@ -393,3 +389,188 @@ Click on **Publish**
 The product status will update to **Publish**.
 
  **Note**: Once a product and its templates are published, the product blank specs **cannot** be changed.
+
+
+
+
+# **Section III: How to Configure a Full Spread Photobook**
+
+
+
+
+
+## **To configure a Fullspread photobook with Non-Printable surfaces:**
+
+### **Step 1: Create a New Product Blank**
+
+* Click on the **“Add”** button.
+
+
+
+
+
+
+
+### **Step 2: Enter Required Details**
+
+* Select **Book Type** as: **“Full Spread”**
+
+
+
+
+
+
+
+### **Step 3: Configure Non-Printable Cover Front**
+
+* Select the **Surface Type**
+
+
+* Enter the **Image Width/Height** of a single page
+
+
+* For the **Rendered Image Type**: Select **Fullspread**
+
+
+   **Note**: This option is applicable for photobooks only.
+   While configuring a photobook, select the rendered image type as per the book type configured (e.g., Fullspread or Split).
+
+
+
+* Enter other required details such as:
+
+
+* * **Safe Area**
+
+
+
+  * **Bleed**
+
+
+
+  * **Trim Settings**
+
+
+* Click on the **“Add”** button.
+
+
+
+
+
+
+
+### **Step 4: Configure Inner Pages**
+
+* Select the **Surface Type**
+
+
+* Enter the **Image Width/Height** of a single page
+
+
+* For the **Rendered Image Type**: Select **Fullspread**
+
+
+   Note: Applicable only for photobooks.
+
+
+
+* Enter the other required details of **Safe area**, **Bleed**, and **Trim Settings**
+
+
+* Click on the **“Add”** button
+
+
+
+**Repeat the same steps** for the “Non-Printable” surfaces as well.
+
+
+
+
+
+### **Step 5: Proceed to Designer Specs**
+
+* Click on the **Next** button to continue
+
+
+* Click on the **“Add Designer Specs”** button
+
+
+
+
+
+
+
+### **Step 6: Set Designer Specs for Each Surface**
+
+#### **Front Cover Surface**
+
+* Set with **Full Spread Mask Images**
+
+
+
+#### **Non-Printable Front Surface**
+
+* Set with **Full Spread Mask Images**
+
+
+* Enter the **Left Offset** for this surface (e.g., single page size)
+
+
+
+#### **Preview**
+
+* Click on the **Preview** button
+
+
+* The preview should match the expected layout as shown in the reference screenshot
+
+
+
+
+
+
+
+#### **Inner Page Surface**
+
+* Set with **Full Spread Mask Images**
+
+
+
+#### **Non-Printable Back Surface**
+
+* Set with **Full Spread Mask Images**
+
+
+
+#### **Preview**
+
+* Click on the **Preview** button
+
+
+* The preview should match the expected layout as shown in the reference screenshot
+
+
+
+
+
+
+
+### **Step 7: Finalize Configuration**
+
+* Once all **Designer Specs** are added for each surface, click on the **Next** button
+
+
+* **Add Product Price**
+
+
+* Click on the **Save** button to save all changes
+
+
+
+
+
+
+
+### **Step 8: View Configured Photobook**
+
+Open the photobook in the **Designer** to view the fully configured Full Spread photobook.
