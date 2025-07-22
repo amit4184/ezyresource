@@ -55,7 +55,8 @@
   margin-top: 0;
   line-height: 1.2;
   text-align: center;
-  max-width: 600px;
+  max-width: 1000px;
+  white-space: nowrap;
 }
 
 .helpButton {
