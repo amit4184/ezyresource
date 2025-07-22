@@ -1,227 +1,225 @@
 ---
 title: Custom Product Designer
 ---
-**Creating a New Product in EzyCreate**
 
-## **1.  Overview**
 
-This document outlines the complete procedure for creating a Merchandise Product and a Customizable Product in EzyCreate. It includes key terminologies, preconditions, and step-by-step instructions for each product type.
 
-## **2.  Key Terminologies**
+# **How to Customize a Product in Designer**
 
-* **Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does *not* include pricing, eCommerce configurations, templates, or designs.
 
 
-   ➤ *Example: A standard 11oz mug with no associated template or sales info.*
 
-* **Product**
-   A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
-*  **Product Types**
 
-  **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
+## **Introduction**
 
-  **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
-* **Template**
-   A design layout applied to a product blank.
-* **Template Group**
-   A collection of templates with similar designs, used to organize variants.
-*  **Variant**
-   A version of the product that varies by design, size, color, etc., within the same template group.
-* **SKU (Stock Keeping Unit)**
-   A unique identifier for each variant.
-* **Merch Album**
-   A group of pre-uploaded images used in product customization.
+Ezydesigner Tool gives you the freedom to create and personalize products exactly how you envision them. With an intuitive drag-and-drop interface, you can add and edit text, upload/edit images, choose from pre-made templates and page layouts, adjust colors of fonts and front background colors, preview your design before ordering etc.
 
-## **3. Preconditions**
 
-Before beginning product creation:
 
-* Log into **EzyAdmin**.
-* Ensure you have the necessary permissions to create/manage products.
-* Ensure:
 
-  * At least one product blank exists.
-  * At least one published template is available.
 
-## **4. Procedure: How to Create a Merchandise Product**
+## **Step-by-Step Customization Guide**
 
-### **Step 1: Navigate to Product Creation**
+### **1. Open the Designer**
 
-* Log into EzyAdmin.
-* From the left sidebar, go to Products → My Products.
-* Click + Create new product.
+* Click and open the **Photo** tab.
 
-### **Step 2: Select a Product Blank**
 
-* Under Step 1 - Product Blank, click Select product blank.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank details (name, ID, size, description).
-* Click Next.
 
-### **Step 3: Choose Product Type**
 
-* In the Product Type tab, select: **Merch product**
-* Click **Next**.
 
-### **Step 4: Select Template**
 
-* Click Select a template.
-* Choose a template design.
 
-*If your template does not appear, ensure it is published.*
+### **2. Upload Photos**
 
-* Click Next.
+* Click on the **Upload Photo** button.
 
-### **Step 5: Add Product Variants**
 
-* In the Product Variants tab, click + Add variants.
-* Only designs from the same template group can be added.
-* Use "Set default" to mark one variant as default.
-* Use the icon to remove a variant.
+* Drag and drop photos directly or browse images from the device to add.
 
-Important:
 
-* All variants must be visually unique.
-* All variants must belong to the same template group.
-* One variant must be marked as default.
-* Click Next.
+* You can also add photos from your Google Drive.
 
-### **Step 6: Enter Product Details**
 
-* Select the product language (e.g., English).
-* Fill in:
+* The uploaded photos will then be displayed under the created albums.
 
-  * Product Name
-  * Description
-  * Specifications (materials, dimensions, etc.)
-  * Tags (used for filtering and search)
-* Click Next.
 
-### **Step 7: Manage Albums & Upload Settings**
+* You can also edit the album using the album edit button.
 
-* Click Select albums to associate image collections.
 
-You can also manage merch albums from Creative Asset → Merch Albums.
+* Click on the photo to add the photo to the designer.
 
-* Remove any undesired albums.
-* (Optional) Enable "Allow users to upload photos while customizing".
-* Click Next.
 
-### **Step 8: Set Product Prices**
 
-* All added variants will be shown with editable:
 
-  * SKU
-  * Price
-* Click the icon for each entry to update pricing.
-* Click Save after updating each entry.
-* Click Next.
 
-### **Step 9: Upload Mockup Images**
 
-* Upload visual previews/mockups.
 
- *Ensure mockups accurately represent the template design.*
+### **3. Use Page Layouts**
 
-* Click Next.
+* Open the **Page Layout** tab to display the list of ready layouts to be used for designer.
 
-### **Step 10: Final Preview and Save**
 
-* Review the following:
+* Click on any of the page layouts and it will get applied to the designer.
 
-  * Product details
-  * Variants
-  * Pricing
-  * Albums
-  * Mockups
-* If everything is correct, click Save.
 
-## **5. Procedure: How to Create a Customizable Product**
 
-###  **Step 1: Navigate to Product Creation**
 
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
 
-### **Step 2: Select a Product Blank**
 
-* Under **Step 1 - Product Blank**, click **Select product blank**.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank (name, ID, size, description).
-* Click **Next**.
 
-### **Step 3: Choose Product Type**
+### **4. Gridlines**
 
-* In the Product Type tab, select:
-   **Customizable product**
-* Click **Next**.
+* Gridlines are provided to align two or more photo holders, text fields etc.
 
-**Step 4: Select Template**
 
-* Click **Select a template**.
-* Choose a template design.
+* When the photo/text/clipart field is moved towards the other objects, the gridlines appear automatically to make alignment easier.
 
-*Ensure the template is published if it doesn’t appear.*
 
-* Click **Next**.
 
-### **Step 5: Add Product Variants**
 
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the icon to remove a variant.
 
-Important:
 
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
-* Click **Next**.
 
-### **Step 6: Enter Product Details**
+### **5. Apply Background**
 
-* Select the **product language** (e.g., English).
-* Fill in:
+* Click on the **Background** tab to display the available background images.
 
-  * **Product Name**
-  * **Description**
-  * **Specifications** (materials, dimensions, etc.)
-  * **Tags** (used for filtering and search)
-* Click **Next**.
 
-### **Step 7: Set Product Prices**
+* Select and click on any of the background images and it will get applied to the designer.
 
-* All variants will be shown with editable:
 
-  * **SKU**
-  * **Price**
-* Click the  icon to update each entry.
-* Click **Save**, then **Next**.
 
-### **Step 8: Upload Mockup Images**
 
-* Upload accurate visual mockups.
 
- *Ensure mockups reflect the selected design properly.*
 
-* Click Next.
 
-### **Step 9: Final Preview and Save**
+### **6. Designer Work Area**
 
-* Review the following:
+* The center part of the designer is a **work area**.
 
-  * Product details
-  * Variants
-  * Pricing
-  * Albums
-  * Mockups
-* If everything is correct, click Save.
 
-If you need help or would like to share feedback: 
+* The work area will contain a full image displayed when the designer is invoked for the first time.
 
-**Feedback**: feedback@ezycreate.com,
 
- **Support**: support@ezycreate.com
+* The **red dots** on the image are the handles that can be used to resize the image as required.
+
+
+
+
+
+
+
+## **Toolbar for Photo Editing**
+
+* **Duplicate**: Duplicate allows you to copy a selected photo.
+
+
+* **Bring Forward**: Photos or text can be arranged one above the other using the Bring Forward button.
+
+
+* **Send Back**: Works similar to Bring Forward and sends the photo/text holder behind.
+
+
+* **Crop**: Use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+
+
+* **Add Photo**: Allow to add a photo holder. You can select and drop an image on it.
+
+
+* **Delete**: Delete the selected photo holder.
+
+
+
+
+
+
+
+### **Stickers**
+
+* The added stickers can be resized, rotated as desired.
+
+
+
+
+
+
+
+## **Toolbar for Clipart Editing**
+
+* **Duplicate**: Duplicate allows you to copy a selected clipart.
+
+
+* **Bring Forward**: Clipart can be arranged one above the other using the Bring Forward button.
+
+
+* **Send Back**: Works similar to Bring Forward and sends the clipart behind.
+
+
+* **Crop**: Use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the clipart.
+
+
+* **Add Photo**: Allow to add a photo holder. You can select and drop an image on it.
+
+
+
+
+
+
+
+## **Add and Edit Text**
+
+* To add text, click on the **Text** tab.
+
+
+* Click on the **Add a Text Box** button.
+
+
+* Click within the added text field and type in the text or copy-paste ready text.
+
+
+* Use the **Text Edit Menu** to make changes to the added text.
+
+
+
+
+
+
+
+### **Text Editing Options**
+
+* **Delete**: Delete the selected text.
+
+
+* **Duplicate**: Duplicate allows you to copy a selected text.
+
+
+* **Bring Forward**: Text can be arranged one above the other using the Bring Forward button.
+
+
+* **Send Back**: Works similar to Bring Forward and sends the text behind.
+
+
+* **Font and Size**: Select the font and size for the text required. Currently, we have set a few pre-selected fonts.
+
+
+* **Font Text Color & Background**: Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
+
+
+* **Text Alignment**: Text alignment can be done using the above tool.
+
+
+* **Bold / Italic**: The text can be changed to bold or italic by toggling these buttons.
+
+
+
+
+
+
+
+## **Finalizing Your Design**
+
+* Once the designing is done, click on the **Save** button to save the design.
+
+
+* Click on the **Preview** button.
