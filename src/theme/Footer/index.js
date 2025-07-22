@@ -14,59 +14,24 @@ function Footer() {
 
   const footerContent = {
     en: {
-      supportTitle: "Not finding what you need? We're here to help!",
-    //  supportDescription: "We work around the clock to assist you. Drop us a message, our team will gladly get back to support you and answer your request!",
       supportButton: "Submit a request",
       helpTitle: "Not finding what you need? We're here to help!",
-      docs: "Docs",
-//      tutorial: "Tutorial",
       copyright: `Copyright © ${new Date().getFullYear()} Ezycreate`
     },
     ja: {
-      supportTitle: "お探しのものが見つかりませんか？お手伝いします！",
-    //  supportDescription: "私たちは24時間体制でサポートいたします。メッセージをお送りください。チームが喜んでサポートし、ご質問にお答えします！",
       supportButton: "リクエストを送信",
       helpTitle: "お探しのものが見つかりませんか？お手伝いします！",
-      docs: "ドキュメント",
-  //    tutorial: "チュートリアル",
       copyright: `Copyright © ${new Date().getFullYear()} Ezycreate`
     }
   };
 
   const content = isJapanese ? footerContent.ja : footerContent.en;
-  const langPrefix = isJapanese ? '/ja' : '';
 
   return (
     <footer className={styles.footer}>
-      {/* Main Footer Content */}
+      {/* Main Footer Content - Centered Help Section Only */}
       <div className={styles.footerContainer}>
-        <div className={styles.footerContent}>
-          <div className={styles.footerColumn}>
-            <h3 className={styles.footerTitle}>{content.docs}</h3>
-            <ul className={styles.footerLinks}>
-              <li>
-                <a href={`${langPrefix}/docs/intro`} className={styles.footerLink}>
-                  {content.tutorial}
-                </a>
-              </li>
-              <li>
-                <a href={`${langPrefix}/products/Explore%20all%20products/Photobook%20Designer`} className={styles.footerLink}>
-                  Products
-                </a>
-              </li>
-              <li>
-                <a href={`${langPrefix}/ec-designer/Get%20Started/Overview`} className={styles.footerLink}>
-                  EC Designer
-                </a>
-              </li>
-              <li>
-                <a href={`${langPrefix}/ec-store/How-To's/Products-Publishing`} className={styles.footerLink}>
-                  EC Store
-                </a>
-              </li>
-            </ul>
-          </div>
-
+        <div className={styles.centeredContent}>
           {/* Centered Help Section */}
           <div className={styles.helpSection}>
             <h2 className={styles.helpTitle}>{content.helpTitle}</h2>

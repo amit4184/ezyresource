@@ -11,52 +11,13 @@
   padding: 3rem 2rem 1.5rem;
 }
 
-.footerContent {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  gap: 2rem;
-  margin-bottom: 2rem;
-  align-items: start; /* Align both columns to top */
-}
-
-.footerColumn h3.footerTitle {
-  color: #ecf0f1;
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.footerLinks {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.footerLinks li {
-  margin-bottom: 0.5rem;
-}
-
-.footerLink {
-  color: #bdc3c7;
-  text-decoration: none;
-  font-size: 0.95rem;
-  transition: all 0.3s ease;
-  display: inline-flex;
+/* Centered Content Container */
+.centeredContent {
+  display: flex;
+  justify-content: center;
   align-items: center;
-  gap: 0.3rem;
-}
-
-.footerLink:hover {
-  color: #3498db;
-  text-decoration: none;
-  transform: translateX(2px);
-}
-
-.externalIcon {
-  font-size: 0.8rem;
-  opacity: 0.7;
+  margin-bottom: 2rem;
+  min-height: 200px;
 }
 
 .footerBottom {
@@ -72,17 +33,18 @@
   color: #95a5a6;
   font-size: 0.9rem;
   margin: 0;
+  text-align: center;
 }
 
-/* Help Section - No Box Background, Better Centered */
+/* Help Section - Perfectly Centered */
 .helpSection {
   text-align: center;
-  padding: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-start;
-  padding-left: 1rem;
+  justify-content: center;
+  max-width: 800px;
+  width: 100%;
 }
 
 .helpTitle {
@@ -92,8 +54,8 @@
   margin-bottom: 2rem;
   margin-top: 0;
   line-height: 1.2;
-  max-width: 600px;
   text-align: center;
+  max-width: 600px;
 }
 
 .helpButton {
@@ -160,9 +122,9 @@
     padding: 2rem 1rem 1rem;
   }
   
-  .footerContent {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
+  .centeredContent {
+    min-height: 150px;
+    margin-bottom: 1.5rem;
   }
   
   .helpTitle {
@@ -186,6 +148,10 @@
 }
 
 @media (max-width: 480px) {
+  .centeredContent {
+    min-height: 120px;
+  }
+  
   .helpTitle {
     font-size: 1.5rem;
     margin-bottom: 1rem;
@@ -199,5 +165,10 @@
   .socialIcon {
     width: 32px;
     height: 32px;
+  }
+  
+  .socialIcon svg {
+    width: 18px;
+    height: 18px;
   }
 }
