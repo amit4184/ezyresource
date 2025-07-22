@@ -50,20 +50,23 @@ Here are some basic terms you'll see in this guide:
 * **Template Creator** The online design workspace where you create and customize templates.
 * **Template Object** Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
-
-
 ## **Section I: How to Create a Template**
 
  **Step 1: Login**
 
-* Go to: https://admin.ezycreate.com/
-* Enter your login details and click Submit
+![](/img/1.png)
+
+* Open the website Enter valid login details and click on the login button.
 
  **Step 2: Welcome Dashboard**
+
+![](/img/ptc1.png)
 
 * You'll land on the dashboard homepage
 
 **Step 3: View Templates**
+
+![](/img/ptc2.png)
 
 * Click on Templates to see existing template groups
 
