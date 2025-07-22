@@ -73,7 +73,17 @@ Here are some basic terms you'll see in this guide:
 **Step 4: Create a New Template**
 
 * Click - Create New Group to start a blank template
-* A template group allows you to create one base design and resize it for different product sizes
+* 
+  The first step is the user has to create a blank template, design it and save it. 
+
+  A template group means after creating one template same template can be resized to other available size orientations which will be then displayed under this base template after reopening, creating a template group.
+
+  Note : An existing template design can be resized into multiple product sizes.  such template will show all the resized product sizes under it, grouping it for further reference, editing, publishing etc.
+
+
+
+
+
 
 **Note : Resized templates will appear grouped under the original template**
 
@@ -82,13 +92,19 @@ Here are some basic terms you'll see in this guide:
 * Template Name: Display name in EzyDesigner
 * Products: Select from dropdown list
 * Occasion: Choose the event type
-* Tags: Add hashtags like #birthday, #travel
+* Tags: Add hashtags like #birthday, #travel 
+
+
+
 * Click Create to begin designing (opens in a new tab)
 * Click Cancel to exit the form
 
 **Step 4b: Open Template Creator**
 
 * Template Creator will launch in a new tab for editing
+*  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+
+
 
 **Editing an Existing Template**
 
