@@ -73,47 +73,49 @@ Here are some basic terms you'll see in this guide:
 **Step 4: Create a New Template**
 
 * Click - Create New Group to start a blank template
-* 
-  The first step is the user has to create a blank template, design it and save it. 
+* ![](/img/ptc5.png)
+* The first step is the user has to create a blank template, design it and save it. 
 
   A template group means after creating one template same template can be resized to other available size orientations which will be then displayed under this base template after reopening, creating a template group.
 
   Note : An existing template design can be resized into multiple product sizes.  such template will show all the resized product sizes under it, grouping it for further reference, editing, publishing etc.
 
-
-
-
-
-
 **Note : Resized templates will appear grouped under the original template**
 
 **Step 4a: Fill Template Details**
+
+![](/img/ptc3.png)
 
 * Template Name: Display name in EzyDesigner
 * Products: Select from dropdown list
 * Occasion: Choose the event type
 * Tags: Add hashtags like #birthday, #travel 
-
-
-
 * Click Create to begin designing (opens in a new tab)
 * Click Cancel to exit the form
 
 **Step 4b: Open Template Creator**
 
+![](/img/ptc4.png)
+
 * Template Creator will launch in a new tab for editing
-*  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-
-
+* Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 
 **Editing an Existing Template**
 
+![](/img/ptc2.png)
+
 * Click the template group you want to edit
+* ![](/img/ptc6.png)
 * Click the edit icon next to the template
+* ![](/img/ptc4.png)
 * The template will open in a new tab
+
+  ![](/img/ptc7.png)
 * Publish your changes once done
 
 **Edit Template Info**
+
+![](/img/ptc8.png)
 
 * Update template name, occasion, description
 * Option to disable the template if not in use
@@ -122,13 +124,19 @@ Here are some basic terms you'll see in this guide:
 
  **Navigation Bar**
 
+![](/img/ptc9.png)
+
 * Shows template name and product name on the top-left corner
 
 **Add Pages (Photobooks Only)**
 
+![](/img/ptc10.png)
+
 * Use the "Add Pages" button to insert more pages
 
 **Upload Photos**
+
+![](/img/ptc11.png)
 
 * Go to Photos tab
 * Upload JPG/JPEG files only
@@ -136,17 +144,31 @@ Here are some basic terms you'll see in this guide:
 
 **Add Photo Holders**
 
+![](/img/ptc12.png)
+
 * Click Photo Holders tab
 * Tap the red icon to place a photo frame (square/portrait/landscape)
 
+  ![](/img/ptc13.png)
+
 **Resize via Layouts**
+
+![](/img/ptc14.png)
 
 * Open Layout tab
 * Click a new size → Template opens in a new tab
+
+  ![](/img/ptc15.png)
 * Make corrections and save
+
+  ![](/img/ptc16.png)
 * Resized versions appear grouped under the base template
 
+  ![](/img/ptc17.png)
+
 **Publish Template**
+
+![](/img/ptc18.png)
 
 * Click publish icon next to the template
 
