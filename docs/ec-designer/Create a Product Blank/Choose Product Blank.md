@@ -179,9 +179,6 @@ Click on the **Next** button to continue.
 
 ![](/img/7.png)
 
-
-
-
 * Select surface type: from the given drop-down.
 
 **Note : All specs and sizes to be entered are in inches.**
@@ -191,8 +188,6 @@ Click on the **Next** button to continue.
 * for product config : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
 * Rendered Image type : this options is applicable for photobook only. While configuring a photobook, select the rendered image type as per the book type configured ie. fullspread or split.
 * Safe area : Enter Safe area specs.
-
-
 * Bleed area :  Enter Bleed area specs.
 
 The bleed is the area to be trimmed off.
@@ -200,11 +195,6 @@ The bleed is the area to be trimmed off.
 * The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
 * Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
 * Click on the add button to save the entered details.
-
-
-
-
-
 
 ### **Step 7**
 
@@ -216,49 +206,17 @@ The bleed is the area to be trimmed off.
  **Options**: Select applicable options as per the selected substrate or lamination.
  Example: If ‘Artpaper’ is selected, choose lamination type such as ‘Matte’ or ‘Gloss’.
 
-
 Designer specs: *Please note designer specs need to be in inches.*
-
-
-
-
-
 
 ### **Step 8**
 
 ![](/img/9.png)
 
-
-
-
 * Select “App name” from the drop-down ie. if the  product is a **ezydesigner product** or **ezyprints product**. According to this selection the product will open in that respective designer.
 * Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
 * To add the designer specs click on the “Add designer specs” button.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](/img/10.png)
-
-
-
 
 * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
 * Surface name : Enter a surface name based on the surface type selected.
@@ -282,14 +240,7 @@ Offset - this is for the additional properties of the mask to be set in terms of
 * Once all the required details are entered then to save these details click on the “Add” button.
 * Click the “Next” button to go to the Pricing Section.
 
-
-
-
-
 ![](/img/12.png)
-
- 
-
 
 Note : 
 
@@ -297,34 +248,16 @@ Note : 
 2. In case of square orientation only square mask to be updated.
 3. In case of photobooks the “Display Mask image” should have the safe area marking, and the cover labels. ie. “Front/back” sides.
 
-
-
-
-
 * ![](/img/11.png "Example of cover display (Display mask should have these safe area markings.)")
 
 ### **Step 9**
 
 ![](/img/13.png)
 
-
-
-
 * Price type : Select Price type as single qty pricing.
 * Enter Cost price & Selling price values.
 
-
-
-
-
-
-
-
-
 ![](/img/14.png)
-
-
-
 
 * Price type : Select Price type as Volume Pricing. 
 
@@ -335,16 +268,6 @@ Note : in case of product to be ordered in bulk quantities the volume pricing op
 * Combine set : select the checkbox if the quantity sets are to be combined
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-
-
-
-
-
-
-
-
-
-
 
 ![](/img/15.png)
 
@@ -358,15 +281,9 @@ Note : in case of product to be ordered in bulk quantities the volume pricing op
   * Click on the add price button to save the details.
   * Click on save button to save the add product form.
 
-
-
-
-
 ### **Step 10**
 
 **Notes**:
-
-
 
 * Product having no attribute for such a product you'll can use single qty pricing.
 * Volume pricing is used for a product having min order qty. or to be ordered in bulk.
@@ -376,22 +293,13 @@ Note : in case of product to be ordered in bulk quantities the volume pricing op
 
 ![](/img/16.png)
 
-
 Once the product is saved, open the **product wizard** list and it will display the created product.
-
-
-
-
-
 
 ### **Step 12**
 
 ![](/img/17.png)
 
-
 Click on the “View in designer” button to preview the created product in the designer.
-
-
 
 ![](/img/18.png)
 
@@ -415,20 +323,11 @@ Click Upload button to upload the added photos.
 
 ![](/img/22.png)
 
-
 Once the photos are uploaded, click on the photo to add it to the designer.
-
-
 
 ![](/img/23.png)
 
-
 The photo edit menu will be displayed.
-
-
-
-
-
 
 ![](/img/24.png)
 
@@ -448,20 +347,7 @@ A message will display: Order placed successfully
 
 ### **Step 16**
 
-
-
-
 Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
-
-
-
-
-
-
-
-
-
-
 
 ![](/img/27.png)
 
@@ -475,29 +361,16 @@ Once the status shows **Rendered**, you can:
 * Orders can be downloaded using the “Download all” button or you can individually also download single images.
 * Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.
 
-
-
-
-
-
-
 ### **Step 17**
 
 ![](/img/29.png)
-
-
-
 
 * Select a path to save the test order image.
 * Click on the save button.
 * The image will get downloaded to the selected location.
 * If the order is downloaded using the  “Download all” button than a zip file will be downloaded. 
 
-
-
 Note -  downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
-
-
 
 ### **Step 18**
 
@@ -525,13 +398,19 @@ The product status will update to **Publish**.
 
 ### **Step 1: Create a New Product Blank**
 
+![](/img/pbfs1.png)
+
 * Click on the **“Add”** button.
 
 ### **Step 2: Enter Required Details**
 
+![](/img/pbfs2.png)
+
 * Select **Book Type** as: **“Full Spread”**
 
 ### **Step 3: Configure Non-Printable Cover Front**
+
+![](/img/pbfs3.png)
 
 * Select the **Surface Type**
 * Enter the **Image Width/Height** of a single page
@@ -548,6 +427,8 @@ The product status will update to **Publish**.
 
 ### **Step 4: Configure Inner Pages**
 
+![](/img/pbfs4.png)
+
 * Select the **Surface Type**
 * Enter the **Image Width/Height** of a single page
 * For the **Rendered Image Type**: Select **Fullspread**
@@ -556,48 +437,65 @@ The product status will update to **Publish**.
 * Enter the other required details of **Safe area**, **Bleed**, and **Trim Settings**
 * Click on the **“Add”** button
 
-**Repeat the same steps** for the “Non-Printable” surfaces as well.
-
 ### **Step 5: Proceed to Designer Specs**
 
+![](/img/pbfs5.png)
+
+**Repeat the same steps** for the back page “Non-Printable” surfaces as well.
+
 * Click on the **Next** button to continue
-* Click on the **“Add Designer Specs”** button
 
 ### **Step 6: Set Designer Specs for Each Surface**
 
+**Click on the “Add Designer Specs” button**
+
+![](/img/pbfs6.png)
+
 #### **Front Cover Surface**
+
+![](/img/pbfs7.png)
 
 * Set with **Full Spread Mask Images**
 
 #### **Non-Printable Front Surface**
 
+![](/img/pbfs8.png)
+
 * Set with **Full Spread Mask Images**
 * Enter the **Left Offset** for this surface (e.g., single page size)
+* Click on the **Preview** button.
 
-#### **Preview**
-
-* Click on the **Preview** button
+  ![](/img/pbfs9.png)
 * The preview should match the expected layout as shown in the reference screenshot
 
 #### **Inner Page Surface**
+
+![](/img/pbfs10.png)
 
 * Set with **Full Spread Mask Images**
 
 #### **Non-Printable Back Surface**
 
+![](/img/pbfs11.png)
+
 * Set with **Full Spread Mask Images**
-
-#### **Preview**
-
 * Click on the **Preview** button
+
+  ![](/img/pbfs12.png)
 * The preview should match the expected layout as shown in the reference screenshot
 
 ### **Step 7: Finalize Configuration**
 
+![](/img/pbfs13.png)
+
 * Once all **Designer Specs** are added for each surface, click on the **Next** button
+
+  ![](/img/pbfs14.png)
 * **Add Product Price**
 * Click on the **Save** button to save all changes
 
 ### **Step 8: View Configured Photobook**
+
+![](/img/pbfs15.png)
 
 Open the photobook in the **Designer** to view the fully configured Full Spread photobook.
