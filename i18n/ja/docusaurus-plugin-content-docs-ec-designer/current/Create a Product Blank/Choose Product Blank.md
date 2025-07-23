@@ -95,7 +95,11 @@ title: Choose Product Blank
 
    ![](/img/jpcpbf33.png)
 2. 「My Blanks（マイブランク）」をクリック
+
+   ![](/img/jpcpbf24.png)
 3. 「Add」ボタンで新規商品ブランクを作成
+
+   ![](/img/jpcpbf27.png)
 
 ### **ステップ 4：商品基本情報の入力**
 
