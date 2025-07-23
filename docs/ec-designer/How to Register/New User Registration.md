@@ -3,159 +3,322 @@ title: How to Register
 description: Customer relationship management content goes here.
 slug: /ec-designer
 ---
-### **Add a supplier / Ordering Flow Catalogue**
+# **ADD A SUPPLIER / ORDERING FLOW**
 
-**How to Do Supplier Registration on EzyCreate**
 
-Welcome! If you're a new supplier joining the EzyCreate platform, this simple guide will walk you through how to register and set up your supplier profile. No technical knowledge required!
 
-## **What is Supplier Registration?**
+## **Glossary**
 
-Supplier registration allows you to add your business to the EzyCreate Admin system. Once registered, you can upload products, receive orders, and manage logistics from your dashboard.
+* **Ready Product**
+   It refers to the product where customization is **not done**, as it is a **pre-stocked item**.
 
-## **Index**
 
-1. Glossary
-2. Register supplier
-3. Adding a supplier
-4. Adding products
-5. How to download orders
-6. “Preview” an item in an order
-7. Download the print-ready images
-8. Update the status
-9. Label download
-10. Logistics setup
-11. Order status: mark as shipped
-12. Switch language
-13. Orders via API
-14. Dashboards
-15. Translation glossary
-16. Supplier notification email format
-17. Key learnings from the document
+* **Personalized or Custom Products**
+   It refers to the product where **customization is done by the user**.
 
-### **Glossary**
 
-**Ready Product**
- Refers to a product where no customization is done. It is a pre-stocked item.
 
-**Personalized or Custom Products**
- Refers to a product where customization is done by the user before ordering.
 
-## **Register Supplier**
 
-1. Login to website
-2. Enter your username and password.
-3. On successful login, the following dashboard will be shown.
 
-## **Adding a Supplier**
 
-1. From the left navigation panel, click on Supplier.
-2. Click the “Add” button at the top-right corner to register a new supplier.
-3. Fill in the required details and click Save. You have now successfully registered a supplier.
+## **Step 1: Register Supplier**
 
-## **Adding Products**
+### **Login to EzyAdmin**
 
-1. Click Add Product to configure a new product.
-   Currently, 2 types of products can be configured: Ready Product & Personalized or Custom Products
+* Visit:[ https://admin.ezycreate.com
 
-To add products, please refer to the following guide:
- **\[EzyAdmin: Setting up a new product]**
+  ](https://admin.ezycreate.com)
+* Enter your **Username** and **Password** to log in.
 
-1. Once the products are configured and end-to-end testing is completed, they can be published.
-2. Published products are now visible to retailers, who can add them to their stores and allow customers to place orders.
 
-## **How to Download Orders**
 
-1. Orders placed with the supplier will appear under the Orders tab in your dashboard.
-2. A notification is sent to the supplier's registered email ID when a new order is received.
-3. The supplier can:
-   **Download** orders from the system & **Print** or **process** the orders
+### **Dashboard**
 
-##  **“Preview” an Item in an Order**
+* On successful login, you will see the **dashboard** screen.
 
-* Click **Preview** to view the customer’s **customized design**.
 
-## **Download the Print-Ready Images**
 
-* Click **Download** to get the **print-ready JPG images**.
-   All images will be in **.jpg** format.
 
-## **Update the Status**
 
-* The **status** of each item can be updated as the order progresses.
-* Once **Shipped**, you'll get an option to:
-* * Select the **logistic/courier partner**
-  * Add a **docket or AWB number**
 
-Once the order is ready and packed:
 
-* The **Label** and **Invoice/Delivery Note** can be **printed** and shipped with the order.
+## **Step 2: Add a Supplier**
 
-## **Label Download**
+### **2.1 Go to Supplier Tab**
 
-**Label Screenshot**
- PDF Format
+* From the **left navigation panel**, click on **Supplier**.
 
-**Logistics Setup**
 
-To assign orders to a **logistic partner**:
 
-* Go to the Logistics tab in your dashboard
-* Add or manage your shipping/logistic partners
+### **2.2 Register a New Supplier**
 
-## **Order Status: Mark as Shipped**
+* Click the Add button at the top-right corner to register a new supplier
 
-Once the order is shipped:
 
-* **Update the status** in the system to notify the customer
-   E.g., "Shipped", "Out for Delivery", etc.
+* Fill in the **supplier details**. 
 
-## **Switch Language**
 
-Click the **language dropdown** at the top-right corner to change to another language.
+* Click **Save**. You have now successfully **registered a supplier**.
 
-## **Orders via API**
 
-If the supplier uses an **automated workflow**:
 
-* Integration details will be added in the Supplier Integration Settings.
-* The order will be posted to the URL/API provided.
+
+
+
+
+## **Step 3: Adding Products**
+
+### **3.1 Add Product Type**
+
+* Click **Add Product** to configure a new product.
+
+
+* Currently, two types of products can be added:
+
+
+* * **Ready Product**
+
+
+
+  * **Personalized or Custom Product**
+
+
+
+### **3.2 Product Setup**
+
+* For detailed steps on how to set up a product, refer to:
+   **EzyAdmin: Setting up a new product**
+
+
+
+### **3.3 Test and Publish**
+
+* Once the products are configured and testing of end-to end flow done. This product is then published. Published products are now available to the retailer and they can add them to their store and allow customers to order them.
+
+
+
+
+
+
+
+
+
+## **Step 4: How to Download Orders**
+
+### **4.1 Order View**
+
+* Orders placed with the supplier will appear under the Orders tab in your dashboard. 
+
+
+
+### **4.2 Email Notification**
+
+* A notification will be sent to the supplier registered email id on the receipt of the order.
+
+
+
+
+
+### **4.3 Download & Process Order**
+
+* The supplier can download the orders from  the system, print or process the order..
+
+
+
+
+
+
+
+## **Step 5: Order Processing Actions**
+
+### **5.1 Preview Customized Item**
+
+* Click Preview to view the customer’s customized design.
+
+
+
+### **5.2 Download Print-ready Images**
+
+* Click Download to get the print-ready JPG images. The images are all in .jpg format.
+
+
+
+### **5.3 Update Order Status**
+
+* The status of each item can be updated as the progress .
+* On shipped you will get an option to select the logistic/courier  and add a docket or awb number.
+
+
+
+### **5.4 Print Label & Delivery Note**
+
+* Once the order is ready and packed, the label & Invoice/Delivery Note can be printed and shipped with the order.
+
+
+
+
+
+
+
+## **Step 6: Add Logistics Partner**
+
+### **6.1 Manage Logistics**
+
+* Add Logistics details so that you can assign your orders to a logistic partner.
+* Go to the Logistics tab in your dashboard to add or manage shipping partners.
+
+
+
+
+
+
+
+
+
+
+
+## **Step 7: Update Order Status**
+
+### **7.1 Mark Order as Shipped**
+
+* Once the order is shipped, the order status needs to be changed in the system as this will notify the customer about the order. e.g. Shipped etc.
+
+
+
+
+
+
+
+## **Step 8: Switch Language**
+
+### **8.1 Language Option**
+
+* Click the **dropdown menu** in the top-right corner to select a different **language**.
+
+
+
+
+
+
+
+## **Step 9: Orders Through API**
+
+### **9.1 API Integration Setup**
+
+* If the supplier has an automated workflow.  The supplier integration details will be added in the Supplier Integration Settings.
+
+
+
+
+
+### **9.2 Post Orders via API**
+
+* The order will then be posted to the URL/API from this settings.
 * An API will be provided to update the status.
-* Alternatively, the supplier can call your API to pull order data shown under the order screen.
 
-## **Dashboards**
 
-* Order Reports
-* Fulfilled Orders
-* Cancelled Orders Report
+
+### **9.3 Alternative Option**
+
+* supplier can call your API to pull data of the orders shown under the order screen.
+
+
+
+
+
+
+
+## **Step 10: Dashboards & Reports**
+
+* View **Order Fulfilled Reports**
+
+
+* View **Cancelled Orders Reports**
+
+
+
+
+
+
 
 ## **Translation Glossary**
 
-1. **Order** - 订单
-2. **Logistics** - 物流
-3. **Status** - 状态
-4. **Action** - 操作
-5. **Save** - 保存
-6. **View** - 查看
-7. **Label** - 运单
-8. **Note** - 送货单
-9. **Previous** - 上一页
+**Term**
 
-## **Supplier Notification Email Format**
+**Chinese (中文)**
 
-**Subject:** Order Confirmation – TYNK0003423
+Order
 
-**Dear Supplier**,
- We are pleased to inform you that your order has been successfully received. A notification has been sent to the registered email ID associated with your account.
+订单
 
-**Order Details:**
- **Order Number:** TYNK0003423
- **Order Date:** 27/06/2024
- **Delivery Address:** Japan
- **Items Ordered:** 4x6 Prints, Mini Book
+Logistics
+
+物流
+
+Status
+
+状态
+
+Action
+
+操作
+
+Save
+
+保存
+
+View
+
+查看
+
+Label
+
+运单
+
+Note
+
+送货单
+
+Previous
+
+上一页
+
+
+
+
+
+## **Email Format for Order Confirmation**
+
+Dear Supplier,
+
+We are pleased to inform you that your order has been successfully received. A notification has been sent to the registered email ID associated with your account.
+
+Order Details:
+
+Order Number: TYNK0003423  
+
+Order Date: 27/06/2024  
+
+Delivery Address: Japan  
+
+Items Ordered:
+
+\- 4x6 Prints  
+
+\- Mini Book  
 
 Please ensure that the items are dispatched as per the agreed timeline. If you have any questions or need further information, feel free to contact us at \[Your Contact Information].
 
 Thank you for your prompt attention to this order.
- **Best regards,**
- Ezycreate Team
+
+Best regards,  
+
+EzyCreate Team
+
+
+
+
+## Need Help?
+
+If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
