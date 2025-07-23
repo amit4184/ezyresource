@@ -3,298 +3,211 @@ title: Create a Product
 ---
 ## **SOP: Creating a New Product in EzyCreate**
 
-## **1. Overview**
+**Overview**
 
-This document outlines the complete procedure for creating a **Custom Product** and a **Customizable Product** in **EzyCreate**. It includes key terminologies, preconditions, and step-by-step instructions for each product type.
+This document outlines the steps to create a merchandise product in EzyCreate from start to finish. It includes definitions of key terminologies, preconditions, and a detailed, step-by-step process.
 
-**2. Key Terminologies**
+**Key Terminologies**
 
-* **🧱 Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does *not* include pricing, eCommerce configurations, templates, or designs.
-   ➤ *Example: A standard 11oz mug with no associated template or sales info.*
-  **📦 Product**
-   A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
-* **🔧 Product Types**
+**Product Blank:** A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does not include pricing, eCommerce configurations, templates, or designs.
 
+Example: A standard 11oz mug with no associated template or sales info.
 
-* * **Customizable Product**: End users can personalize using the design tool (e.g., add images, text).
+**Product:** A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
 
-  * **Custom Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
+**Product Types:**
 
+**Customizable Product:** End users can personalize this using the design tool (e.g., add images, text).
 
-* **🎨 Template**
-   A design layout applied to a product blank.
-* **🗂️ Template Group**
-   A collection of templates with similar designs, used to organize variants.
-* **🎭 Variant**
-   A version of the product that varies by design, size, color, etc., within the same template group.
-* **🆔 SKU (Stock Keeping Unit)**
-   A unique identifier for each variant.
-* **🖼️ Merch Album**
-   A group of pre-uploaded images used in product customization.
+**Merchandise Product:** Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
 
+**Template:** A design layout applied to a product blank.
 
+**Template Group:** A collection of templates with similar designs, used to organize variants.
 
-## **3.  Preconditions**
+**Variant**: A version of the product that varies by design, size, color, etc., within the same template group.
 
-Before beginning product creation:
+**SKU** (Stock Keeping Unit): A unique identifier for each variant.
 
-* Log into[ **EzyAdmin**](https://admin.ezycreate.com).
-* Ensure you have the necessary permissions to create/manage products.
-* Ensure:
+**Merch Album:** A group of pre-uploaded images used in product customization.
 
+**Preconditions**
 
-* * At least one **product blank** exists.
+* The user is logged into the EzyAdmin. ( https://admin.ezycreate.com )
+* The user has appropriate permissions to create/manage products.
+* At least one product blank and one published template must be available.
 
-  * At least one **published template** is available.
+## **How to Create a Merchandise Product**
 
+**Step 1: Navigate to Product Creation**
 
+* Log in to EzyAdmin.
+* In the left sidebar, go to Products → My Products.
+* Click + Create new product.
 
-## **4. Procedure: How to Create a Product**
+**Step 2: Select a Product Blank**
 
-### **Step 1: Navigate to Product Creation**
-
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
-
-
-
-### **Step 2: Select a Product Blank**
-
-* Under **Step 1 - Product Blank**, click **Select product blank**.
+* Under Step 1 - Product Blank, click Select product blank.
 * Choose a base item (e.g., Standard Mug).
-* Preview the product blank details (name, ID, size, description).
-* Click **Next**.
+* Preview the selected product blank (name, ID, size, description).
+* Click Next.
 
-
-
-### **Step 3: Choose Product Type**
-
-* In the Product Type tab, select: **custom product**
-* Click **Next**.
-
-
-
-### **Step 4: Select Template**
-
-* Click **Select a template**.
-* Choose a template design.
-
-🔔 *If your template does not appear, ensure it is published.*
-
-* Click **Next**.
-
-### **Step 5: Add Product Variants**
-
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the icon to remove a variant.
-
-
-
-⚠️ Important:
-
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
-* Click **Next**.
-
-
-
-### **Step 6: Enter Product Details**
-
-* Select the **product language** (e.g., English).
-* Fill in:
-* * **Product Name**
-
-  * **Description**
-
-  * **Specifications** (materials, dimensions, etc.)
-
-  * **Tags** (used for filtering and search)
-* Click **Next**.
-
-
-
-### **Step 7: Manage Albums & Upload Settings**
-
-* Click **Select albums** to associate image collections.
-
-💡 You can also manage albums from **Creative Asset → Custom Albums**.
-
-* Remove any undesired albums.
-* (Optional) Enable **"Allow users to upload photos while customizing"**.
-* Click **Next**.
-
-
-
-### **Step 8: Set Product Prices**
-
-* All added variants will be shown with editable:
-
-
-* * **SKU**
-
-  * **Price**
-* Click the ✏️ icon for each entry to update pricing.
-* Click **Save** after updating each entry.
-* Click **Next**.
-
-
-
-### **Step 9: Upload Mockup Images**
-
-* Upload visual previews/mockups.
-
-📷 *Ensure mockups accurately represent the template design.*
-
-* Click **Next**.
-
-
-
-### **Step 10: Final Preview and Save**
-
-* Review the following:
-* * **Product details**
-
-  * **Variants**
-
-  * **Pricing**
-
-  * **Albums**
-
-  * **Mockups**
-
-
-* If everything is correct, click **Save**.
-
-
-
-## **5. Procedure: How to Create a Customizable Product**
-
-###  **Step 1: Navigate to Product Creation**
-
-* Log into **EzyAdmin**.
-* From the left sidebar, go to **Products → My Products**.
-* Click **+ Create new product**.
-
-
-
-### **Step 2: Select a Product Blank**
-
-* Under **Step 1 - Product Blank**, click **Select product blank**.
-* Choose a base item (e.g., Standard Mug).
-* Preview the product blank (name, ID, size, description).
-* Click **Next**.
-
-
-
-### **Step 3: Choose Product Type**
+**Step 3: Choose Product Type**
 
 * In the Product Type tab, select:
-   **Customizable product**
-* Click **Next**.
-
-
+* Merch product
+* Click Next.
 
 **Step 4: Select Template**
 
-* Click **Select a template**.
+* Click Select a template.
 * Choose a template design.
+* Note: If your template does not appear, ensure it is published.
+* Click Next.
 
-🔔 *Ensure the template is published if it doesn’t appear.*
+**Step 5: Add Product Variants**
 
-* Click **Next**.
+* In the Product Variants tab:Click + Add variants.
+* Only designs from the same template group can be added.
+* Use the "Set default" option to mark one variant as the default.
+* Use the trash icon to remove a variant.
 
+Important:
 
+All variants must be visually unique.
 
-### **Step 5: Add Product Variants**
+All variants must belong to the same template group.
 
-* In the Product Variants tab, click **+ Add variants**.
-* Only designs from the **same template group** can be added.
-* Use **"Set default"** to mark one variant as default.
-* Use the 🗑️ icon to remove a variant.
+One variant must be marked as default.
 
-⚠️ Important:
+Click Next.
 
-* All variants must be visually unique.
-* All variants must belong to the **same template group**.
-* One variant **must be marked as default**.
+**Step 6: Enter Product Details**
 
-
-* Click **Next**.
-
-
-
-### **Step 6: Enter Product Details**
-
-* Select the **product language** (e.g., English).
+* Select the product language (e.g., English).
 * Fill in:
 
+Product Name
 
-* * **Product Name**
+Description 
 
-  * **Description**
+Specifications (materials, dimensions, etc.)
 
-  * **Specifications** (materials, dimensions, etc.)
+Tags (used for filtering and search)
 
-  * **Tags** (used for filtering and search)
-* Click **Next**.
+* Click Next.
 
+**Step 7: Manage Albums & Upload Settings**
 
+* Click Select albums to associate image collections. (You can also manage merch albums from Creative asset → merch albums)
+* Remove any undesired albums.
+* Optionally enable "Allow users to upload photos while customizing".
+* Click Next.
 
+**Step 8: Set Product Prices**
 
+* All added variants will be shown with editable: SKU & Price
+* Click the Edit icon for each to update pricing.
+* Click Save after updating each entry.
+* Click Next.
 
+**Step 9: Upload Mockup Images**
 
+* Upload visual previews/mockups.
+* Ensure the mockups visually represent the template accurately.
+* Click Next.
 
-### **Step 7: Set Product Prices**
+**Step 10: Final Preview and Save**
 
-* All variants will be shown with editable:
-* * **SKU**
+* Review all information:
+* Product details
+* Variants
+* Pricing
+* Albums
+* Mockups
 
-  * **Price**
-
-
-* Click the ✏️ icon to update each entry.
-* Click **Save**, then **Next**.
-
-
-
-
-
-
-
-### **Step 8: Upload Mockup Images**
-
-* Upload accurate visual mockups.
-
-📷 *Ensure mockups reflect the selected design properly.*
-
-* Click **Next**.
-
-
-
-### **Step 9: Final Preview and Save**
-
-* Review the following:
-* * **Product details**
-
-  * **Variants**
-
-  * **Pricing**
-
-  * **Albums**
-
-  * **Mockups**
-
-
-* If everything is correct, click **Save**.
+If everything is correct, click Save.
 
 
 
+## **How to Create a Customizable Product**
 
+**Step 1: Navigate to Product Creation**
+
+* Log in to EzyAdmin.
+* In the left sidebar, go to Products → My Products.
+* Click + Create new product.
+
+**Step 2: Select a Product Blank**
+
+* Under Step 1 - Product Blank, click Select product blank.
+* Choose a base item (e.g., Standard Mug).
+* Preview the selected product blank (name, ID, size, description).
+* Click Next.
+
+**Step 3: Choose Product Type**
+
+* In the Product Type tab, select:
+* Customizable product,
+* Click Next.
+
+**Step 4: Select Template**
+
+* Click Select a template.
+* Choose a template design.
+* Note: If your template does not appear, ensure it is published.
+* Click Next.
+
+**Step 5: Add Product Variants**
+
+* In the Product Variants tab:
+* Click + Add variants.
+* Only designs from the same template group can be added.
+* Use the "Set default" option to mark one variant as the default.
+* Use the trash icon to remove a variant.
+
+Important:
+
+* All variants must be visually unique.
+* All variants must belong to the same template group.
+* One variant must be marked as default.
+* Click Next.
+
+Step 6: Enter Product Details
+
+* Select the product language (e.g., English).
+* Fill in:
+* Product Name
+* Description 
+* Specifications (materials, dimensions, etc.)
+* Tags (used for filtering and search)
+* Click Next.
+
+**Step 7: Set Product Prices**
+
+* All added variants will be shown with editable:
+* SKU
+* Price
+* Click the Edit icon for each to update pricing.
+* Click Save after updating each entry.
+* Click Next.
+
+**Step 8: Upload Mockup Images**
+
+* Upload visual previews/mockups.
+* Ensure the mockups visually represent the template accurately.
+* Click Next.
+
+**Step 9: Final Preview and Save**
+
+* Review all information:
+* Product details
+* Variants
+* Pricing
+* Albums
+* Mockups
+
+If everything is correct, click Save.
 
 
 
