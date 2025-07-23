@@ -103,6 +103,8 @@ title: Choose Product Blank
 
 ### **ステップ 4：商品基本情報の入力**
 
+![](/img/jpcpbf6.png)
+
 * 商品コード / SKU ID の入力（ユニークな値）
 * 商品種別、カテゴリ、サブカテゴリの選択
 * 商品タイトル、説明（200文字以内）
@@ -114,7 +116,11 @@ title: Choose Product Blank
 
 ### **ステップ 5–6：出力タイプと印刷面の仕様設定**
 
+![](/img/jpcpbf31.png)
+
 * 出力タイプ（PDFまたはJPG）を選択
+
+  ![](/img/jpcpbf28.png)
 * 「Add Printable Surface」から以下を入力：
 
   * 表面タイプの選択
@@ -126,14 +132,22 @@ title: Choose Product Blank
 
 ### **ステップ 7：印刷コンポーネントの追加**
 
+![](/img/jpcpbf3.png)
+
+![](/img/jpcpbf12.png)
+
 * 素材（Substrate）、ラミネーション、バインディングなどを追加
 * 属性が新しい場合は「Attributes」で定義
 * 必要に応じてオプションを選択（例：アートペーパー＋マットラミネーション）
 
 ### **ステップ 8：デザイナー仕様の設定**
 
+![](/img/jpcpbf11.png)
+
 * App名（EzyDesigner / EzyPrints）を選択
 * デフォルトテンプレート（必要な場合）を選択
+
+  ![](/img/jpcpbf17.png)
 * 「Add Designer Specs」で以下を入力：
 
   * 表面タイプ、名前
@@ -145,6 +159,8 @@ title: Choose Product Blank
 →「Add」→「Next」クリック
 
 ### **ステップ 9–10：価格の設定**
+
+
 
 * 単価、ボリューム価格、属性レベルのいずれかの価格タイプを選択
 * 最小数量、仕入れ価格、販売価格を設定
