@@ -144,7 +144,7 @@ const config = {
         //  sidebarId: 'tutorialSidebar',
          // position: 'left',
         //},
-        { to: '/products/Explore%20all%20products/Photobook%20Designer', label: 'Products', position: 'left' },
+        { to: '/products/explore-all-products/photobook-designer', label: 'Products', position: 'left' },
         { to: '/ec-designer/Get%20Started/Overview', label: 'EC Designer', position: 'left' },
         { to: "/ec-store/How-To's/Products-Publishing", label: 'EC Store', position: 'left' },
        // { to: '/ec-dropship', label: 'EC Dropship', position: 'left' },

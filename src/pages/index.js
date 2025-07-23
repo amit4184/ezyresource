@@ -9,9 +9,9 @@ export default function Home() {
 
   // Redirect Japanese users to Japanese version
   if (i18n.currentLocale === 'ja') {
-    return <Redirect to="/ja/products/Explore%20all%20products/Photobook%20Designer" />;
+    return <Redirect to="/ja/products/explore-all-products/photobook-designer" />;
   }
 
   // Default redirect for other languages
-  return <Redirect to="/products/Explore%20all%20products/Photobook%20Designer" />;
+  return <Redirect to="/products/explore-all-products/photobook-designer" />;
 }

@@ -5,20 +5,20 @@ export default {
       type: 'category',
       label: 'Explore all Products',
       items: [
-        'Explore all products/Photobook Designer',
-        'Explore all products/Print Designer',
-        'Explore all products/Calendar Designer',
-        'Explore all products/Custom Product Designer',
-        'Explore all products/Webstore',
+        'explore-all-products/photobook-designer',
+        'explore-all-products/print-designer',
+        'explore-all-products/calendar-designer',
+        'explore-all-products/custom-product-designer',
+        'explore-all-products/webstore',
       ],
     },
     {
       type: 'category',
       label: 'Product Setup',
       items: [
-        'Product Setup/Create a Product',
-        'Product Setup/Ready Product Flow',
-        'Product Setup/Custom Product Flow',
+        'product-setup/create-a-product',
+        'product-setup/ready-product-flow',
+        'product-setup/custom-product-flow',
       ],
     },
          

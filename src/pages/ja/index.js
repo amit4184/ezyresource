@@ -33,7 +33,7 @@ export default function JapaneseHome() {
               <h3>Tutorial</h3>
               <ul>
                 <li><a href="/ja/docs/intro">チュートリアル</a></li>
-                <li><a href="/ja/products/Explore%20all%20products/Photobook%20Designer">製品</a></li>
+                <li><a href="/ja/products/explore-all-products/photobook-designer">製品</a></li>
                 <li><a href="/ja/ec-designer/Get%20Started/Overview">EC Designer</a></li>
                 <li><a href="/ja/ec-store/How-To's/Products-Publishing">EC Store</a></li>
               </ul>
