@@ -179,22 +179,32 @@ Click on the **Next** button to continue.
 
 ![](/img/7.png)
 
-**Surface type**: Select from the drop-down.
 
-**Note**: All specs and sizes must be entered in inches.
 
-**Image size**: Enter image size specs. This image size is the printable image size of the product.
- Note: As per the image width & height and photo width & height entered, the photo holder will be displayed in the designer.
- *Specs for image width & height, photo width & height, and mask offsets are compulsory.*
 
-**Bleed area**: Enter bleed area specs.
- *The bleed is the area to be trimmed off to prevent a small white gap on the edge.*
+* Select surface type: from the given drop-down.
 
-**Safe area**: Enter safe area specs.
+**Note : All specs and sizes to be entered are in inches.**
 
-**Trim area**: Enter trim area specs. (Corner radius only if the product has rounded corners, e.g., magnets)
+* Image size : Enter image size specs .This image size is the printable image size of the product. Printable output image size.
+  Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.
+* for product config : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+* Rendered Image type : this options is applicable for photobook only. While configuring a photobook, select the rendered image type as per the book type configured ie. fullspread or split.
+* Safe area : Enter Safe area specs.
 
- Click on the **Add** button to save the entered details.
+
+* Bleed area :  Enter Bleed area specs.
+
+The bleed is the area to be trimmed off.
+
+* The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
+* Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
+* Click on the add button to save the entered details.
+
+
+
+
+
 
 ### **Step 7**
 
@@ -202,98 +212,186 @@ Click on the **Next** button to continue.
 
 **Printing components**: Add substrate, lamination, binding, cover, etc. for the product.
  If there is a new substrate or lamination, define it first under:
- **Attributes → Laminations** *(How to Add Attributes & Attribute Options)*
+ **Attributes → Laminations** *[(How to Add Attributes & Attribute Options)](https://resources.ezycreate.com/ec-designer/Advanced%20Setup/Set%20Product%20Attributes)*
  **Options**: Select applicable options as per the selected substrate or lamination.
  Example: If ‘Artpaper’ is selected, choose lamination type such as ‘Matte’ or ‘Gloss’.
- Designer specs must be in inches.
+
+
+Designer specs: *Please note designer specs need to be in inches.*
+
+
+
+
+
 
 ### **Step 8**
 
 ![](/img/9.png)
 
-**App name**: Select from the drop-down i.e., if the product is an EzyDesigner or EzyPrints product.
 
-**Default template**: Choose a default template (if created via Template Creator), or select none.
 
-Click on **Add Designer Specs** button.
+
+* Select “App name” from the drop-down ie. if the  product is a **ezydesigner product** or **ezyprints product**. According to this selection the product will open in that respective designer.
+* Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
+* To add the designer specs click on the “Add designer specs” button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![](/img/10.png)
 
-* **Surface type**: Select from the drop-down.
-* **Surface name**: Enter based on surface type.
-* **Display mask image**: Upload the display mask image (.png format only).
 
-**Note**:
 
-* Two images required: Display mask and Clippath mask.
-* Product specs and both images must match.
-* Photobooks must have safe area and cover labels (e.g., Front/Back).
-* **Display mask image width**: Enter width in inches
-* **Display mask image height**: Enter height in inches *(no fixed size—depends on specs*
-* **Orientation**: Select based on uploaded mask
-* **Mask offsets** (in inches): Enter top, bottom, left, and right offsets
 
-if the product is **Prints** : both orientations are compulsory for example portrait/landscape. so masks have to be added with both orientations. Otherwise the product will not be able to handle the, not added orientation. Once all the required details are entered then to save these details click on the **“Add”** button.
+* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+* Surface name : Enter a surface name based on the surface type selected.
+* Display mask image : Select and upload the Display mask image of the product.
+
+**Note :**
+
+*  **The mask image file format should be in .png**
+* **To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.**
+* **The product specs and both the mask images specs need to be maintained the same.**
+* **For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.**
+* Display mask image width : Enter Display mask image width in inches.
+* Display mask image height : Enter Display mask image height in inches.
+* There is no recommended size as such as it is dependent on the product specs.
+* Orientation : select orientation for  the added images as per the uploaded mask.
+* Enter Mask offsets (in inches) : Top offset, Bottom offset, Left offset, Right 
+
+Offset - this is for the additional properties of the mask to be set in terms of the offsets.
+
+* if the product is prints : both orientations are compulsory ie. portrait/landscape. so masks have to be added with both orientations. Otherwise the product will not be able to handle the not added orientation.
+* Once all the required details are entered then to save these details click on the “Add” button.
+* Click the “Next” button to go to the Pricing Section.
+
+
+
+
 
 ![](/img/12.png)
 
- then click **Next** to go to the pricing section.
+ 
 
-**Note**:
 
-* Portrait & landscape orientation: Both masks needed
-* Square orientation: Only square mask needed
-* Photobooks: Display mask must have safe area and cover labels. for example: 
+Note : 
 
-  ![](/img/11.png "Example of cover display (Display mask should have these safe area markings.)")
+1. In case of products accepting both landscape & portrait orientation, both orientation masks have to be added.
+2. In case of square orientation only square mask to be updated.
+3. In case of photobooks the “Display Mask image” should have the safe area marking, and the cover labels. ie. “Front/back” sides.
+
+
+
+
+
+* ![](/img/11.png "Example of cover display (Display mask should have these safe area markings.)")
 
 ### **Step 9**
 
 ![](/img/13.png)
 
-**Price type: Single Qty Pricing**
 
-* Enter cost price and selling price values
-* Click **Add Price**, then **Save**
+
+
+* Price type : Select Price type as single qty pricing.
+* Enter Cost price & Selling price values.
+
+
+
+
+
+
+
+
 
 ![](/img/14.png)
 
-**Price type: Volume Pricing**
 
-* Enter minimum quantity
-* Enter cost price and selling price
-* Select **Combine set** checkbox if needed
-* Click **Add Price**, then **Save**
+
+
+* Price type : Select Price type as Volume Pricing. 
+
+Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+
+* Min quantity : enter min quantity.
+* Cost price : enter Cost price & Selling price
+* Combine set : select the checkbox if the quantity sets are to be combined
+* Click on the add price button to save the details.
+* Click on save button to save the add product form.
+
+
+
+
+
+
+
+
+
+
 
 ![](/img/15.png)
 
 **Price type: Attribute Level Pricing**
 
-* For products with multiple attributes
-* Set pricing for each attribute individually
-* Click **Add Price**, then **Save**
+* Price type : Select Price type as Attribute level pricing 
+* Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.
+
+  * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
+  * Select & set pricing for each attribute individually.
+  * Click on the add price button to save the details.
+  * Click on save button to save the add product form.
+
+
+
+
 
 ### **Step 10**
 
 **Notes**:
 
-* Use single qty pricing for products without attributes
-* Use volume pricing for products ordered in bulk
-* Use attribute-level pricing for products where pricing varies by attribute
+
+
+* Product having no attribute for such a product you'll can use single qty pricing.
+* Volume pricing is used for a product having min order qty. or to be ordered in bulk.
+* Product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
 
 ### **Step 11**
 
 ![](/img/16.png)
 
-Once the product is saved, go to the **Product Wizard List**.
 
- The created product will be displayed. 
+Once the product is saved, open the **product wizard** list and it will display the created product.
+
+
+
+
+
 
 ### **Step 12**
 
 ![](/img/17.png)
 
-Click on View in Designer to preview.
+
+Click on the “View in designer” button to preview the created product in the designer.
+
+
 
 ![](/img/18.png)
 
@@ -317,11 +415,20 @@ Click Upload button to upload the added photos.
 
 ![](/img/22.png)
 
-Click on a photo to add it to the designer.
+
+Once the photos are uploaded, click on the photo to add it to the designer.
+
+
 
 ![](/img/23.png)
 
-Click on the photo again to edit.
+
+The photo edit menu will be displayed.
+
+
+
+
+
 
 ![](/img/24.png)
 
@@ -341,7 +448,20 @@ A message will display: Order placed successfully
 
 ### **Step 16**
 
-The order will be rendered by the renderer application.
+
+
+
+Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+
+
+
+
+
+
+
+
+
+
 
 ![](/img/27.png)
 
@@ -352,23 +472,32 @@ Check the **Order Status**.
 Once the status shows **Rendered**, you can:
 
 * Click **Download All** to download as a ZIP file
-* Or download images individually
+* Orders can be downloaded using the “Download all” button or you can individually also download single images.
+* Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.
 
-**Note**: You can choose to download one or all images.
+
+
+
+
+
 
 ### **Step 17**
 
 ![](/img/29.png)
 
-Choose a path to save the test order image.
 
-Click **Save**.
 
-The image will be downloaded to the selected location.
 
- If using **Download All**, a ZIP file will be downloaded.
+* Select a path to save the test order image.
+* Click on the save button.
+* The image will get downloaded to the selected location.
+* If the order is downloaded using the  “Download all” button than a zip file will be downloaded. 
 
-The downloaded image can be printed or emailed.
+
+
+Note -  downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
+
+
 
 ### **Step 18**
 
@@ -390,115 +519,49 @@ The product status will update to **Publish**.
 
  **Note**: Once a product and its templates are published, the product blank specs **cannot** be changed.
 
-
-
-
 # **Section III: How to Configure a Full Spread Photobook**
 
-
-
-
-
-## **To configure a Fullspread photobook with Non-Printable surfaces:**
+## **To configure a Full spread photobook with Non-Printable surfaces:**
 
 ### **Step 1: Create a New Product Blank**
 
 * Click on the **“Add”** button.
 
-
-
-
-
-
-
 ### **Step 2: Enter Required Details**
 
 * Select **Book Type** as: **“Full Spread”**
 
-
-
-
-
-
-
 ### **Step 3: Configure Non-Printable Cover Front**
 
 * Select the **Surface Type**
-
-
 * Enter the **Image Width/Height** of a single page
-
-
 * For the **Rendered Image Type**: Select **Fullspread**
-
 
    **Note**: This option is applicable for photobooks only.
    While configuring a photobook, select the rendered image type as per the book type configured (e.g., Fullspread or Split).
-
-
-
 * Enter other required details such as:
 
-
-* * **Safe Area**
-
-
-
+  * **Safe Area**
   * **Bleed**
-
-
-
   * **Trim Settings**
-
-
 * Click on the **“Add”** button.
-
-
-
-
-
-
 
 ### **Step 4: Configure Inner Pages**
 
 * Select the **Surface Type**
-
-
 * Enter the **Image Width/Height** of a single page
-
-
 * For the **Rendered Image Type**: Select **Fullspread**
 
-
    Note: Applicable only for photobooks.
-
-
-
 * Enter the other required details of **Safe area**, **Bleed**, and **Trim Settings**
-
-
 * Click on the **“Add”** button
 
-
-
 **Repeat the same steps** for the “Non-Printable” surfaces as well.
-
-
-
-
 
 ### **Step 5: Proceed to Designer Specs**
 
 * Click on the **Next** button to continue
-
-
 * Click on the **“Add Designer Specs”** button
-
-
-
-
-
-
 
 ### **Step 6: Set Designer Specs for Each Surface**
 
@@ -506,70 +569,34 @@ The product status will update to **Publish**.
 
 * Set with **Full Spread Mask Images**
 
-
-
 #### **Non-Printable Front Surface**
 
 * Set with **Full Spread Mask Images**
-
-
 * Enter the **Left Offset** for this surface (e.g., single page size)
-
-
 
 #### **Preview**
 
 * Click on the **Preview** button
-
-
 * The preview should match the expected layout as shown in the reference screenshot
-
-
-
-
-
-
 
 #### **Inner Page Surface**
 
 * Set with **Full Spread Mask Images**
 
-
-
 #### **Non-Printable Back Surface**
 
 * Set with **Full Spread Mask Images**
 
-
-
 #### **Preview**
 
 * Click on the **Preview** button
-
-
 * The preview should match the expected layout as shown in the reference screenshot
-
-
-
-
-
-
 
 ### **Step 7: Finalize Configuration**
 
 * Once all **Designer Specs** are added for each surface, click on the **Next** button
-
-
 * **Add Product Price**
-
-
 * Click on the **Save** button to save all changes
-
-
-
-
-
-
 
 ### **Step 8: View Configured Photobook**
 
