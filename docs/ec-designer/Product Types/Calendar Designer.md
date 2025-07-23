@@ -45,25 +45,63 @@ Calendar Template Creator allows users to easily design custom calendar template
 
 ### **Photo Holder**
 
-* A **photo holder** is a predefined frame (square, portrait, or landscape) for user-uploaded photos.
-* **Image placeholder** is a dummy image used for design ease and speed.
-* Add image holders via the **Photo Holders** tab.
+* Photo holders is a frame for holding the photo. These are predefined ratios for the holders, having square,portrait and landscape orientations.
+* Image placeholder is a dummy image created in different ratios and orientations for easy and fast designing.
+* Photo Holders- Click on Photo Holders, and it shows an image holder creator, Now click on it, and it will create an image holder on the designer. 
+
+
+
+
+
+
+
 
 ### **Background**
 
-* Backgrounds are images placed behind the main photos.
-* Only .jpg formats are supported.
-* Apply by clicking any background image from the **Background** tab.
+* Backgrounds are images that are placed behind the main photos.These are selected backgrounds we currently offer.
+* You can add your own backgrounds from the admin section.
+
+  *NOTE - The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.*
+
+
 
 ### **Clipart**
 
-* Clipart are .png transparent images used to enhance templates.
-* Add via the **Clipart** tab.
+* Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+* Clipart are stickers that can be used to enhance your templates.
+* You can add your own cliparts from the admin section. The file formats for cliparts are png and are transparent images.
+* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+
+
+
+
 
 ### **Text**
 
-* Add text via the **Floating Text** option.
-* **Note**: Emojis are not supported. Default text ('Enter Your text') won’t render if unchanged.
+* Text: You can add text, but emojis are currently not supported.
+* Click on the “Floating text” option to add a text field in the designer.
+* Click on text to add a text field on the designer. 
+* Note - The default label on the text field ie. 'Enter Your text' will not be rendered if not edited. Any other text will be rendered and printed on the product. Eg. if a text field is added and no editing is done for it. Then it will not get rendered.
+
+  **Text Options:**
+*  Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox. Font style & size selection. Font alignment option, Bold/Italics option and also the text color/text background color option. 
+* The Center part of the designer is a work area.
+* The work area will contain an image holder and date pad displayed when the designer is invoked for the first time.
+* The red dots on the image are the handles that can be used to resize the image and date pad as required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### **Text Options:**
 
@@ -130,19 +168,52 @@ Calendar Template Creator allows users to easily design custom calendar template
 
 ### **Holiday List**
 
-* View fixed and non-fixed holidays.
-* **Default (Fixed)**: Same date every year (e.g., New Year).
-* **Non-Fixed**: Vary every year (e.g., Holi, Diwali).
+* **Default (Fixed Holidays):**
+  Fixed holidays fall on the same date every year like New Year, Independence Day etc.
+* **Non-Fixed Holidays:**
+  Non-fixed or movable holidays do not have a set date each year. Examples include: Holi Diwali etc
+* Click on default to view all fixed/ default holiday list 
+
+
+
+
 
 ### **Date Style & Design**
 
-* Modify **date pad design**, **font**, and **text color**.
+* Date Style - It includes all the options to modify the date pad style, such as date pad design, font, and text color
+* Date design - A Date Pad Style is the way dates and weekday names are displayed in calendars. You can select your predefined date pad style.
+* This feature allows users to dynamically modify the dimensions to fit different designs or user preferences.
+* This feature allows users to dynamically modify the dimensions of the date pad by adjusting the width and height according to their requirements.
+* *NOTE- The set width and height will be applied to the date pad across all pages*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### **Typography Options:**
 
-* Font dropdown
-* Font size (+/-)
-* Color picker (Apply to update all months)
+* Typography: You can select your preferred font for the date pad by clicking on the dropdown button and choosing a font style.
+* You can adjust the font size by clicking on the “+” and “-” buttons.
+* Click on the color picker to display all the available color options. Select any color and click the Apply button. This option allows you to change only the color of the dates on the date pad.
+*  Choose all your preferred options and click the apply button. The date pad for all months will be updated according to your selection.
+
+
+
+
+
+
+
+
 
 ## **Section II: How to Create a Template**
 
