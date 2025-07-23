@@ -1,104 +1,132 @@
 ---
 title: Ready Product Flow
 ---
-## **Creating a New Product in EzyCreate**
+# 
+**How to create a Ready Product & Add to a Store**
 
-## **Overview**
 
-This document outlines the step-by-step procedure to create a **Ready** product in **EzyCreate**, from the initial selection of a product blank to finalizing the product page. It includes definitions of essential terms, preconditions, and detailed execution steps for each phase of the process.
 
-## **Key Terminologies**
+### **Step 1:** Open “My Products” tab and click on “create new product” button.
 
-* **Product Blank**
-   A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type.
-   *Example: A standard 11oz mug with no associated template or sales info.*
-* **Product**
-   A market-ready item that includes all selling attributes like pricing, eCommerce metadata, and at least one design template.
-* **Product Types**
+* My products allow you to create products on website with content, images, similar to a product page on website.
 
-  * **Customizable Product**: Users can personalize using the design tool (e.g., add text, images).
-  * **Ready Product**: Pre-designed product, may or may not support image uploads.
-* **Template**
-   A pre-defined design layout applied to a product blank.
-* **Template Group**
-   A collection of templates with a shared design structure used to organize variants.
-* **Variant**
-   A version of the product that differs by design, size, color, etc., within the same template group.
-* **SKU (Stock Keeping Unit)**
-   A unique identifier assigned to each variant.
-* **Ready Album**
-   A curated group of pre-uploaded images used in product customization.
 
-## **Preconditions**
 
-Before beginning, ensure the following:
+### **Step 2: Click on the “Select product blank” option.**
 
-* You are logged into[ EzyAdmin](https://admin.ezycreate.com/).
-* You have the necessary permissions to create and manage products.
-* At least one Product Blank and one Published Template are available.
+* Click on the next button to continue.
 
-## **Procedure: How to Create a Ready Product**
 
-### **Step 1: Navigate to Product Creation**
 
-1. Log in to EzyAdmin.
-2. From the left sidebar, go to Products → My Products.
-3. Click + Create new product.
 
-### **Step 2: Select a Product Blank**
 
-1. Under Step 1 - Product Blank, click Select product blank.
-2. Choose a base item (e.g., Standard Mug).
-3. Preview details such as name, ID, size, description.
-4. Click Next.
+### **Step 3: Select a product from the list of product blanks.**
 
-### **Step 3: Choose Product Type**
+* As per the product type, select the “Ready Product” option.
+* Click on the next button to continue.
 
-1. In the Product Type tab, select: Ready product
-2. Click Next.
 
-### **Step 4: Select Template**
 
-1. Click Select a template.
-2. Choose your desired template design. *Note: If the template doesn’t appear, confirm it’s published.*
-3. Click Next.
 
-### **Step 5: Add Product Variants**
 
-1. In the Product Variants tab, click + Add variants.
-2. Ensure: All variants are from the same template group., All are visually unique & One is marked as default using the Set default option.
-3. Use the trash icon to delete any unwanted variant.
-4. Click Next.
+### **Step 4: Select a template for the product.**
 
-### **Step 6: Enter Product Details**
+* *Note: If the product template is already created and published, then it will appear here. You can also click on “Create new template” button to create one.*
+* If you want to know how to create a template please refer:
+  EzyDesigner Template Creator
 
-1. Select the product language (e.g., English).
-2. Fill in the following: Product Name, Description, Specifications (materials, dimensions, etc.) & Tags (for filtering and search)
-3. Click Next.
 
-### **Step 7: Manage Albums & Upload Settings**
 
-1. Click Select albums to associate image collections. *(You can manage these via Creative Asset → Ready Albums)*
-2. Remove any albums not required.
-3. Optionally, enable Allow users to upload photos while customizing.
-4. Click Next.
 
-### **Step 8: Set Product Prices**
 
-1. View all added variants along with editable fields: SKU & Price
-2. Click the Edit icon next to each to set prices.
-3. After editing, click Save for each entry.
-4. Click Next.
+### **Step 5: Once the template is selected.**
 
-### **Step 9: Upload Mockup Images**
+* Click on the next button to continue.
 
-1. Upload mockups or preview images.
-2. Ensure mockups visually represent the selected template.
-3. Click Next.
 
-### **Step 10: Final Preview and Save**
 
-1. Review the complete product setup, including: Product details, Variants, Pricing, Albums & Mockups
-2. If everything looks accurate, click Save.
 
-Your Ready product is now fully configured and ready for publishing on the platform. For assistance, please contact support@ezycreate.com
+
+### **Step 6: If the template has other size variants (similar product blanks) created, then you can add variants here using the “Add variants” button.**
+
+* It refers to the multiple sizes for the same product.
+* Click on the next button to continue.
+
+
+
+
+
+### **Step 7: Enter all the required details given here to be displayed on the product page.**
+
+* Click on the next button to continue.
+
+
+
+
+
+### **Step 8: Click on the button under actions to update the SKU ID for the product.**
+
+* Click on the next button to continue.
+
+
+
+
+
+### **Step 9: On the “Print files” step, click on the “Select print ready files” button.**
+
+* It will display the orders placed for this product. Only orders whose status is rendered will be displayed here.
+* If no orders were placed for this product then it will not show any orders here and you can place an order for your product by using the “Place a new order” button.
+* Once you click on the “Place a new order” button, it will open the product designer in a new tab and you can create and place your order.
+* Once the order status is updated to “rendered,” click the refresh button here and your order will get displayed here.
+* To view your order images click on the “view order images” button.
+* Once you have viewed your order you can then select your order and click on the save button.
+
+
+
+
+
+### **Step 10: Click on the “Next” button to continue.**
+
+
+
+
+
+### **Step 11: To upload the ready product mockup images click on the “Upload Product Mockup” button.**
+
+* Click on the "choose files” button.
+* Choose image files from your device.
+* Note: Only PNG or JPEG image files are allowed for upload.
+
+
+
+
+
+### **Step 12: Once the images are uploaded.**
+
+* Click on the “Next” button to continue.
+
+
+
+
+
+### **Step 13: Preview the page mockup and once all details are verified.**
+
+* Click on the save button to save the product.
+* The product will get added to the dashboard.
+
+
+
+
+
+### **Step 14:** To publish the product to store click on the publish button.
+
+## 
+
+
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
