@@ -1,5 +1,6 @@
 ---
-title: Mask Img Generation
+title: DIY：マスク画像生成
+sidebar_label: Mask Image Generation
 ---
 # **マスク画像または背景画像の作成方法**
 
