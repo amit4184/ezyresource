@@ -1,5 +1,6 @@
 ---
-title: WordPress Plugin Setup
+title: WordPressプラグイン設定
+sidebar_label: WordPress Plugin Setup
 ---
 ### **ECプラグインインストールガイド**
 
