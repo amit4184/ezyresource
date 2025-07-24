@@ -1,5 +1,6 @@
 ---
-title: Product Conversion Rate
+title: 製品コンバージョン率
+sidebar_label: Product Conversion Rate
 ---
 **商品コンバージョン率ダッシュボード**
 
