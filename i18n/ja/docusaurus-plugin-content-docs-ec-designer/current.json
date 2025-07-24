@@ -1,54 +1,58 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "最新",
     "description": "The label for version current"
   },
   "sidebar.ec-designerSidebar.category.Get started": {
-    "message": "Get started",
+    "message": "はじめに",
     "description": "The label for category Get started in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.How to Register": {
-    "message": "How to Register",
+    "message": "登録方法",
     "description": "The label for category How to Register in sidebar ec-designerSidebar"
   },
+  "sidebar.ec-designerSidebar.category.How-To's": {
+    "message": "使い方",
+    "description": "The label for category How-To's in sidebar ec-designerSidebar"
+  },
   "sidebar.ec-designerSidebar.category.Product Types": {
-    "message": "Product Types",
+    "message": "商品タイプ",
     "description": "The label for category Product Types in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Product Setup": {
-    "message": "Product Setup",
+    "message": "商品設定",
     "description": "The label for category Product Setup in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Create a Product Blank": {
-    "message": "Create a Product Blank",
+    "message": "商品ブランクの作成",
     "description": "The label for category Create a Product Blank in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Publish, Update, & Connect": {
-    "message": "Publish, Update, & Connect",
+    "message": "公開・更新・接続",
     "description": "The label for category Publish, Update, & Connect in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Creative Assets": {
-    "message": "Creative Assets",
+    "message": "クリエイティブアセット",
     "description": "The label for category Creative Assets in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Advanced Setup": {
-    "message": "Advanced Setup",
+    "message": "高度な設定",
     "description": "The label for category Advanced Setup in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Dashboards & Analytics": {
-    "message": "Dashboards & Analytics",
+    "message": "ダッシュボード・分析",
     "description": "The label for category Dashboards & Analytics in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Plugins & Integrations": {
-    "message": "Plugins & Integrations",
+    "message": "プラグイン・統合",
     "description": "The label for category Plugins & Integrations in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.FAQs & Help": {
-    "message": "FAQs & Help",
+    "message": "FAQ・ヘルプ",
     "description": "The label for category FAQs & Help in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Ordering Flows": {
-    "message": "Ordering Flows",
+    "message": "注文フロー",
     "description": "The label for category Ordering Flows in sidebar ec-designerSidebar"
   }
 }
