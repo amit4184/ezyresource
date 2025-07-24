@@ -1,5 +1,6 @@
 ---
-title: Install SDK
+title: SDKのインストール
+sidebar_label: Install SDK
 ---
 ## **インストール手順** 
 
