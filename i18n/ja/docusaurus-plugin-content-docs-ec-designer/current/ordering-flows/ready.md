@@ -1,5 +1,6 @@
 ---
-title: Ready
+title: 既製品
+sidebar_label: Ready
 ---
 ## **SOP：ECで新しい製品を作成する方法**
 
