@@ -1,5 +1,6 @@
 ---
-title: Product Publishing
+title: 製品の公開
+sidebar_label: Product Publishing
 ---
 # **How to Create a Product and Add It to a Store**
 
