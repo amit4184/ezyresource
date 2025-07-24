@@ -1,5 +1,6 @@
 ---
-title: Platform Engagement Dashboard
+title: プラットフォームエンゲージメントダッシュボード
+sidebar_label: Platform Engagement Dashboard
 ---
 ## **EC ダッシュボード標準操作手順（SOP）**
 
