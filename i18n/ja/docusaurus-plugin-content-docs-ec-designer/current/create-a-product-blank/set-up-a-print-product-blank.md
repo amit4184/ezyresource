@@ -1,5 +1,6 @@
 ---
-title: Set Up a Print Product Blank 
+title: プリント商品ブランクの設定
+sidebar_label: Set Up a Print Product Blank
 ---
 
 ## **プリント製品の作成方法**
