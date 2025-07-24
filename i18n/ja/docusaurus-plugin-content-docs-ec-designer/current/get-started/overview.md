@@ -1,6 +1,6 @@
 ---
 title: 概要
-sidebar_label: Get Ready
+sidebar_label: ""
 ---
 ## **ECデザイナー概要**
 
