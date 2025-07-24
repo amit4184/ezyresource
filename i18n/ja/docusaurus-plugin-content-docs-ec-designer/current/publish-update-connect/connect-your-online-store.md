@@ -1,5 +1,6 @@
 ---
-title: Connect Your Online Store
+title: オンラインストアに接続
+sidebar_label: Connect Your Online Store
 ---
 # **テンプレート公開ガイド**
 
