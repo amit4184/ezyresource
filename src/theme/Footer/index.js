@@ -21,7 +21,7 @@ function Footer() {
     ja: {
       supportButton: "リクエストを送信",
       helpTitle: "お探しのものが見つかりませんか？お手伝いします！",
-      copyright: `Copyright © ${new Date().getFullYear()} Ezycreate`
+      copyright: `著作権 © ${new Date().getFullYear()} Ezycreate`
     }
   };
 
