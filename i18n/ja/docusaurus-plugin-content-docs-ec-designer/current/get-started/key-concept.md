@@ -1,5 +1,6 @@
 ---
-title: Key Concept
+title: 主要な概念
+sidebar_label: Key Concept
 ---
 ## **EC 基本概念**
 
