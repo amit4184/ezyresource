@@ -1,5 +1,6 @@
 ---
-title: New Customer Sales Dashboard
+title: 新規顧客販売ダッシュボード
+sidebar_label: New Customer Sales Dashboard
 ---
 **新規顧客売上ダッシュボード**
 
