@@ -1,5 +1,6 @@
 ---
-title: Set Up a Photobook Product Blank 
+title: フォトブック商品ブランクの設定です。
+sidebar_label: Set Up a Photobook Product Blank
 ---
 ## **商品ブランクの作成方法**
 
