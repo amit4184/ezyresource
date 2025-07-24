@@ -1,5 +1,6 @@
 ---
-title: Update Product Status
+title: 製品ステータスの更新
+sidebar_label: Update Product Status
 ---
 #  **商品ステータスの更新方法**
 
