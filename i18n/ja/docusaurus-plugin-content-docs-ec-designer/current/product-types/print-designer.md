@@ -1,5 +1,6 @@
 ---
-title: Print Designer
+title: プリントデザイナ
+sidebar_label: Print Designer
 ---
 ## **プリント製品の作成方法**
 
