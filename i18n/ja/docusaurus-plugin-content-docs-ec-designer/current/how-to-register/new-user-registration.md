@@ -1,7 +1,8 @@
 ---
-title: How to Register
+title: 登録方法
 description: Customer relationship management content goes here.
 slug: /ec-designer
+sidebar_label: "How to Register "
 ---
 # **ECでのサプライヤー登録方法**
 
