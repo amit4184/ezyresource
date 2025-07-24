@@ -1,6 +1,6 @@
 ---
 title: 概要
-sidebar_label: ""
+sidebar_label: 概要
 ---
 ## **ECデザイナー概要**
 
