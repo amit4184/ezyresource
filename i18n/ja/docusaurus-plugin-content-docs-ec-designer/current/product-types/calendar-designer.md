@@ -1,5 +1,6 @@
 ---
-title: Calendar Designer
+title: カレンダーデザイナー
+sidebar_label: "Calendar Designer "
 ---
 ##  **EzyDesigner カレンダーテンプレート作成方法**
 
