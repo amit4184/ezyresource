@@ -4,14 +4,14 @@ export default {
       type: 'category',
       label: "How-To's",
       items: [
-        "How-To's/Products-Publishing",
+        "how-to/Products-Publishing",
       ],
     },
     {
       type: 'category',
       label: 'Creative Assets',
       items: [
-        'Creative Assets/adding-template',
+        'creative-assets/adding-template',
       ],
     },
   ],

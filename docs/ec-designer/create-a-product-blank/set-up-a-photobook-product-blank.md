@@ -1,5 +1,5 @@
 ---
-title: Choose Product Blank
+title: Set Up a Photobook Product Blank 
 ---
 ### How to Create a Product Blank
 

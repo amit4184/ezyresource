@@ -18,13 +18,20 @@ export default {
     },
     {
       type: 'category',
+      label: "How-To's",
+      items: [
+        "how-to/products-publishing",
+      ],
+    },
+    {
+      type: 'category',
       label: 'Product Types',
       items: [
        'product-types/photobook-designer',
         'product-types/print-designer',
         'product-types/calendar-designer',
         'product-types/custom-product-designer',
-        'product-types/webstore',
+    //    'product-types/webstore',
       ],
     },
     {
@@ -40,7 +47,10 @@ export default {
       type: 'category',
       label: 'Create a Product Blank',
       items: [
-      'create-a-product-blank/choose-product-blank',
+      'create-a-product-blank/set-up-a-photobook-product-blank',
+      'create-a-product-blank/set-up-a-print-product-blank',
+      'create-a-product-blank/set-up-a-decor-product-blank',
+      'create-a-product-blank/set-up-a-calander-product-blank',
         'create-a-product-blank/mask-img-generation',
       ],
     },
@@ -57,6 +67,7 @@ export default {
       type: 'category',
       label: 'Creative Assets',
       items: [
+       'creative-assets/adding-template',
        'creative-assets/create-page-layouts',
         'creative-assets/customize-backgrounds',
         'creative-assets/clipart-management',
@@ -66,9 +77,10 @@ export default {
       type: 'category',
       label: 'Advanced Setup',
       items: [
+       'advanced-setup/3d-preview',
        'advanced-setup/define-product-categories',
         'advanced-setup/set-product-attributes',
-        'advanced-setup/ui-skinning',
+       // 'advanced-setup/ui-skinning',
       ],
     },
     {

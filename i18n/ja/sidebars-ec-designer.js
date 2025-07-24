@@ -16,6 +16,14 @@ export default {
         'how-to-register/new-user-registration',
       ],
     },
+     {
+      type: 'category',
+      label: "使い方",
+      items: [
+        "how-to/products-publishing",
+      ],
+    },
+	  
     {
       type: 'category',
       label: '製品タイプ',
@@ -24,7 +32,7 @@ export default {
         'product-types/print-designer',
         'product-types/calendar-designer',
         'product-types/custom-product-designer',
-        'product-types/webstore',
+//        'product-types/webstore',
       ],
     },
     {
@@ -39,8 +47,11 @@ export default {
     {
       type: 'category',
       label: '製品テンプレートの作成',
-      items: [
-        'create-a-product-blank/choose-product-blank',
+     items: [
+      'create-a-product-blank/set-up-a-photobook-product-blank',
+      'create-a-product-blank/set-up-a-print-product-blank',
+      'create-a-product-blank/set-up-a-decor-product-blank',
+      'create-a-product-blank/set-up-a-calander-product-blank',
         'create-a-product-blank/mask-img-generation',
       ],
     },
@@ -57,7 +68,8 @@ export default {
       type: 'category',
       label: 'クリエイティブアセット',
       items: [
-        'creative-assets/create-page-layouts',
+        'creative-assets/adding-template',
+	'creative-assets/create-page-layouts',
         'creative-assets/customize-backgrounds',
         'creative-assets/clipart-management',
       ],
@@ -66,9 +78,10 @@ export default {
       type: 'category',
       label: '高度な設定',
       items: [
+	'advanced-setup/3d-preview',      
         'advanced-setup/define-product-categories',
         'advanced-setup/set-product-attributes',
-        'advanced-setup/ui-skinning',
+//        'advanced-setup/ui-skinning',
       ],
     },
     {

@@ -1,5 +1,5 @@
 ---
-title: Choose Product Blank
+title: Set Up a Photobook Product Blank 
 ---
 ## **商品ブランクの作成方法**
 
