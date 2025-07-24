@@ -1,5 +1,6 @@
 ---
-title: Set Product Attributes
+title: 製品属性の設定
+sidebar_label: Set Product Attributes
 ---
 #### 背景画像の追加方法とテンプレートでの使用方法」の日本語翻訳です（意味を変えず、丁寧に訳しています）：
 
