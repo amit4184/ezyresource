@@ -1,5 +1,6 @@
 ---
-title: Product Orders Dashboard
+title: 製品注文ダッシュボード
+sidebar_label: Product Orders Dashboard
 ---
 **商品注文ダッシュボード**
 
