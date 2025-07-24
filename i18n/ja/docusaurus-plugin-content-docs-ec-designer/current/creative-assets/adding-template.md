@@ -1,6 +1,7 @@
 ---
-title: Adding Tempalate
+title: Adding Tempalateテンプレートの追加
 slug: /ec-store/Creative Assets
+sidebar_label: "Adding Template "
 ---
 ## **Index**
 
