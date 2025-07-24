@@ -1,5 +1,6 @@
 ---
-title: Publish a Product
+title: 製品を公開する
+sidebar_label: Publish a Product
 ---
 # **商品の作成とストアへの追加方法**
 
