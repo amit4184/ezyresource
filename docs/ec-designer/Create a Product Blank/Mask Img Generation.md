@@ -1,7 +1,7 @@
 ---
 title: Mask Image Generation
 ---
-**How to Generate a Mask Image or Background Image**
+## **How to Generate a Mask Image or Background Image**
 
 ### **Step 1**
 
@@ -15,28 +15,26 @@ Click on "Create New".
 
 In the new document window:
 
-* Set Width and Height in inches
-* Set Resolution to 300 DPI
-* Choose Color Mode: RGB Color
+* Enter sizes in inches width + Height ,Keep Resolution 300 dpi,color mode to RGB Color
 
-**Step 4**
+## **Step 4**
 
-Click on "Create" to open the artboard.
+After all is done, Click on "Create" to open the artboard.
 
-**Step 5**
+## **Step 5**
 
 A white artboard will appear with a locked background.
  Make sure the Layers panel is visible on the right side of Photoshop.
 
-### **Step 6**
+## **Step 6**
 
 Click on the Adjustment Layer icon (half-filled circle).
 
-### **Step 7**
+## **Step 7**
 
 Select "Solid Color" from the adjustment layer options.
 
-### **Step 8**
+## **Step 8**
 
 Choose black color:
 
@@ -45,25 +43,31 @@ Choose black color:
 
 
 
-### **Step 9**
+## **Step 9**
 
 Turn off the Background layer (click the eye icon).
 
-### **Step 10**
+## **Step 10**
 
 Go to File → Save a Copy.
 
-**Step 11**
+## **Step 11**
 
-In the Save As Type dropdown, select PNG format.
+Click on "save as Type.
 
-### **Step 12**
+## **Step 12**
 
-Click Save to export the image.
- This saves your mask image with a black overlay and no background.
+Select PNG option- press Save, image exported. This saves your mask image with a black overlay and no background.
 
 ### **To Export Transparent Background PNG:**
 
 * Turn off all layers including the background.
 * A transparent artboard will appear.
-* Repeat Step 10 & 11 to save as PNG with transparency.
+*  Repeat the same process for exporting as above. 
+
+
+
+
+## Need Help?
+
+If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
