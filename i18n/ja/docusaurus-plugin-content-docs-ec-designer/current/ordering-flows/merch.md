@@ -1,5 +1,6 @@
 ---
-title: Merch
+title: マーチ
+sidebar_label: Merch
 ---
 ## **ECでマーチャンダイズ製品を作成する方法**
 
