@@ -1,5 +1,6 @@
 ---
-title: Customize
+title: カスタマイズ
+sidebar_label: Customize
 ---
 # **SOP：ECで新商品を作成する方法**
 
