@@ -24,28 +24,46 @@ title: Custom Product Designer
 
 ### **2. Upload Photos**
 
+![](/img/htcpdr26.png)
+
 * Click on the **Upload Photo** button.
+
+  ![](/img/htcpdr8.png)
 * Drag and drop photos directly or browse from your device to add.
 * You can also add photos from your Google Drive.
 * The uploaded photos will appear under created albums.
 * Use the **album edit** button to edit album details.
+
+  ![](/img/htcpdr14.png)
 * Click on a photo to add it to the design area.
 
 ### **3. Apply Page Layouts**
 
+![](/img/htcpdr15.png)
+
 * Open the **Page Layout** tab to see available ready-made layouts.
+
+  ![](/img/htcpdr20.png)
 * Click on any layout to apply it to your design.
 
 ### **4. Use Gridlines for Alignment**
+
+![](/img/htcpdr6.png)
 
 * Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text/clipart field is moved in towards the other photo holder/text/clipart objects. The gridlines appear automatically to make it easier to align with other objects.
 
 ### **5. Set Background**
 
+![](/img/htcpdr19.png)
+
 * Click on the background tab to display the available background images.
+
+  ![](/img/htcpdr27.png)
 * Select and click on any of the background images and it will get applied to the designer.
 
 ### **6. Work Area Overview**
+
+![](/img/htcpdr28.png)
 
 * The Center part of the designer is a work area.
 * The work area will contain a full image displayed when the designer is invoked for the first time.
@@ -53,6 +71,8 @@ title: Custom Product Designer
 * **Red dots** on the image are resize handles you can use to adjust the image size.
 
 ### **7. Toolbar for Photo Editing**
+
+![](/img/htcpdr3.png)
 
 * **Duplicate:** Creates a copy of the selected photo.
 * **Bring Forward:** Photos or text can be arranged one above the other using the Bring Forward button.
@@ -64,7 +84,11 @@ title: Custom Product Designer
 
 ### **8. Toolbar for Clipart Editing**
 
+![](/img/htcpdr18.png)
+
 * Stickers : The added stickers can be resized, rotated as desired
+
+  ![](/img/htcpdr3.png)
 * **Duplicate:** Creates a copy of the selected clipart.
 * **Bring Forward:**     Clipart can be arranged one above the other using the Bring                      Forward button.
 * **Send Back:** Works similar to Bring Forward and sends the clipart behind.
@@ -73,12 +97,16 @@ title: Custom Product Designer
 
 ### **9. Add and Edit Text**
 
+![](/img/htcpdr24.png)
+
 * To add a text click on the text tab.
 * Click on the add a text box button.
 * Click within the added text field and type in the text. or copy paste a ready text.
 * Use the text edit menu to make changes to the added text.
 
 ### **10. Text Editing Tools**
+
+![](/img/htcpdr21.png)
 
 * **Delete:** Removes the selected text field.
 * **Duplicate:** Copies the selected text.
@@ -91,5 +119,9 @@ title: Custom Product Designer
 
 ### **11. Final Steps**
 
+![](/img/htcpdr16.png)
+
 * Once the designing is done click on the save button to save the design.
 * Click on the preview button.
+
+  ![](/img/htcpdr5.png)
