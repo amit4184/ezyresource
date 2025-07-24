@@ -15,7 +15,7 @@ export default function JapaneseHome() {
         <section className={styles.section}>
           <h2>Products</h2>
           <div className={styles.productGrid}>
-            <a href="/ja/ec-designer/Get%20Started/Overview" className={styles.productCard}>
+            <a href="/ja/ec-designer/get-started/overview" className={styles.productCard}>
               <h3>EC Designer</h3>
             </a>
             <a href="/ja/ec-store/How-To's/Products-Publishing" className={styles.productCard}>
@@ -33,9 +33,9 @@ export default function JapaneseHome() {
               <h3>Tutorial</h3>
               <ul>
                 <li><a href="/ja/docs/intro">チュートリアル</a></li>
-                <li><a href="/ja/products/explore-all-products/photobook-designer">製品</a></li>
-                <li><a href="/ja/ec-designer/Get%20Started/Overview">EC Designer</a></li>
-                <li><a href="/ja/ec-store/How-To's/Products-Publishing">EC Store</a></li>
+            //    <li><a href="/ja/products/explore-all-products/photobook-designer">製品</a></li>
+                <li><a href="/ja/ec-designer/get-started/overview">EC Designer</a></li>
+//                <li><a href="/ja/ec-store/How-To's/Products-Publishing">EC Store</a></li>
               </ul>
             </div>
             <div>

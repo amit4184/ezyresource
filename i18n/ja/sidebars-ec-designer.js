@@ -57,28 +57,28 @@ export default {
       type: 'category',
       label: 'クリエイティブアセット',
       items: [
-        'creative-assets/Create Page Layouts',
-        'creative-assets/Customize Backgrounds',
-        'creative-assets/Clipart Management',
+        'creative-assets/create-page-layouts',
+        'creative-assets/customize-backgrounds',
+        'creative-assets/clipart-management',
       ],
     },
     {
       type: 'category',
       label: '高度な設定',
       items: [
-        'Advanced Setup/Define Product Categories',
-        'Advanced Setup/Set Product Attributes',
-        'Advanced Setup/UI Skinning (Look & Feel Customization)',
+        'advanced-setup/define-product-categories',
+        'advanced-setup/set-product-attributes',
+        'advanced-setup/ui-skinning',
       ],
     },
     {
       type: 'category',
       label: 'ダッシュボード・分析',
       items: [
-        'Dashboards & Analytics/Platform Engagement Dashboard',
-        'Dashboards & Analytics/Product Conversion Rate',
-        'Dashboards & Analytics/Product Orders Dashboard',
-        'Dashboards & Analytics/New Customer Sales Dashboard',
+        'dashboards-analytics/platform-engagement-dashboard',
+        'dashboards-analytics/product-conversion-rate',
+        'dashboards-analytics/product-orders-dashboard',
+        'dashboards-analytics/customer-sales-dashboard',
       ],
     },
     {
