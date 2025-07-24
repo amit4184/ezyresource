@@ -1,5 +1,6 @@
 ---
-title: Clipart Management
+title: クリップアート管理
+sidebar_label: Clipart Management
 ---
 #### クリップアートの追加方法とテンプレートでの使用方法」の日本語翻訳です（意味は変更していません
 
