@@ -1,5 +1,6 @@
 ---
-title: Ready Product Flow
+title: 既製品フロー
+sidebar_label: "Ready Product Flow "
 ---
 ## **SOP：ECで新しい製品を作成する方法**
 
