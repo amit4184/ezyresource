@@ -1,6 +1,6 @@
 ---
 title: 製品属性の設定
-sidebar_label: Set Product Attributes
+sidebar_label: 製品属性の設定
 ---
 **背景画像を追加し、テンプレートで使用する方法**
 
