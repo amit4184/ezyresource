@@ -1,6 +1,6 @@
 ---
 title: ページレイアウトの作成
-sidebar_label: Create Page Layouts
+sidebar_label: ページレイアウトの作成
 ---
 ### **ページレイアウトの作成方法**
 
