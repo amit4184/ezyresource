@@ -1,6 +1,6 @@
 ---
 title: マーチ製品フロー
-sidebar_label: Merch Product Flow
+sidebar_label: マーチ製品フロー
 ---
 ## **ECでマーチャンダイズ製品を作成する方法**
 
