@@ -1,6 +1,6 @@
 ---
 title: 製品を作成
-sidebar_label: Create a Product
+sidebar_label: 製品を作成
 ---
 # **プロダクトブランクの作成方法**
 
