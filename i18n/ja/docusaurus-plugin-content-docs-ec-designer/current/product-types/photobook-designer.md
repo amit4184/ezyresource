@@ -1,5 +1,6 @@
 ---
-title: Photobook Designer
+title: フォトブックデザイナー
+sidebar_label: フォトブックデザイナー
 ---
 
 **EzyDesignerでフォトブックテンプレートを作成する方法（簡単ステップガイド）**
