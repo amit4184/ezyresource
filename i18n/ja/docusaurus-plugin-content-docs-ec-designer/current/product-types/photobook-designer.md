@@ -1,6 +1,6 @@
 ---
 title: フォトブックデザイナー
-sidebar_label: Photobook Designer
+sidebar_label: フォトブックデザイナー
 ---
 ## **フォトブックデザイナ**
 
