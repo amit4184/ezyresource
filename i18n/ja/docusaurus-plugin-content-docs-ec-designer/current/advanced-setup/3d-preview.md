@@ -1,5 +1,5 @@
 ---
 title: 3Dプレビュー
-sidebar_label: 3D Preview
+sidebar_label: 3Dプレビュー
 ---
 3Dプレビュー
