@@ -1,6 +1,6 @@
 ---
 title: 製品カテゴリーの定義
-sidebar_label: "Define Product Categories "
+sidebar_label: 製品カテゴリーの定義
 ---
 ### こちらは「
 
