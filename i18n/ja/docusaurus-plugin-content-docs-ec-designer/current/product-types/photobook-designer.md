@@ -199,6 +199,72 @@ title: Photobook Designer
   * Cancel - Click on the cancel button to cancel the template form
 
   Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
+
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
+
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 * **テンプレート名** – テンプレート名を入力します。このテンプレート名は EzyDesigner 上に表示されます。
 
   **製品（Products）** – プルダウンリストから製品を選択します。
@@ -247,69 +313,137 @@ title: Photobook Designer
 
 
 * ![](/img/ptc4.png)
-* The template will open in a new tab
+* テンプレートは新しいタブで開きます。
+
+
 
   ![](/img/ptc7.png)
-* Publish the changes to your stores
+* 変更内容をストアに公開します。
 
-**Edit Template Info**
+
+
+**テンプレート情報を編集**
+
+
 
 ![](/img/ptc8.png)
 
-* Product details like template name, description, occasion ,disable a template.
-* Option to disable the template if not in use
+* **テンプレート名、説明、イベントなどの製品詳細を編集可能。**
 
-## **Template Creator Features**
+  **使用しない場合はテンプレートを無効化するオプションがあります。**
 
- **Navigation Bar**
+
+
+### **テンプレートクリエイターの機能**
+
+
+
+**ナビゲーションバー**
+
+
 
 ![](/img/ptc9.png)
 
-* The template name and product name is displayed at the left top corner.
+* テンプレート名と製品名は左上の角に表示されます。
 
-**Add Pages (Photobooks Only)**
+
+
+**ページを追加（フォトブックのみ）**
+
+
 
 ![](/img/ptc10.png)
 
-* For photobook products additional pages can be added using the “Add Pages” button at the bottom of the template designer.
+* フォトブック製品では、テンプレートデザイナー下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
 
-**Upload Photos**
+
+
+**写真をアップロード**
+
 
 ![](/img/ptc11.png)
 
-* Click on the Photos tab to add your own photos, this can be used as a pre designed template. Supported file type is jpg/jpeg.
-* **PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.**
-* Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+* **「写真」タブをクリックして、自分の写真を追加します。**
 
-**Add Photo Holders**
+  これらは事前デザイン済みテンプレートとして使用できます。
+
+  **対応ファイル形式：jpg / jpeg**
+* **注意：CMYK 画像は使用しないでください。**
+
+  アップロードされた場合、通常の JPG に変換され、この過程で色が正しく再現されない可能性があります。また、プリンターのプロファイルにも依存します。
+
+  **イメージフォトホルダー**は、スクエア・ポートレート・ランドスケープなどの標準サイズで用意されたプレースホルダーフレームで、簡単かつ迅速なデザイン作成を可能にします。
+
+
+
+
+
+
+
+
+
+**フォトホルダーを追加**
 
 ![](/img/ptc12.png)
 
-* Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
-*
+**フォトホルダー –** 「フォトホルダー」をクリックすると、画像ホルダー作成ツール（赤枠でハイライト）が表示されます。
+
+次にそれをクリックすると、デザイナー上に画像ホルダーが作成されます。
+
+
+
 * ![](/img/ptc13.png)
 
-**Resize via Layouts**
+**レイアウトでリサイズ**
+
+
 
 ![](/img/ptc14.png)
 
-**Layout:**
+**レイアウト：**
 
-* Layouts tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the layout tab, select any of the desired product size and click on it.
+「レイアウト」タブには、テンプレートをリサイズできる製品サイズの一覧が表示されます。
 
-   It will open in a new tab, the user then can save the template in that selected size.
+ユーザーがデザイン済みテンプレートをリサイズしたい場合は、**「レイアウト」タブを開き、希望する製品サイズを選択してクリックします。**
 
-  Note : 
+新しいタブで開き、その選択したサイズでテンプレートを保存できます。
 
-  * **The resized template should be saved after it is loaded.**
-  * **The resized template needs to be verified for any corrections in the template object alignments before saving.**
+
+
+
+**注意：**
+
+* リサイズされたテンプレートは、読み込まれた後に必ず保存する必要があります。
+
+* 保存する前に、テンプレートオブジェクトの配置に不備がないか確認してください
+
+
+
+
+
+
+
+
+
+
 *
 * ![](/img/ptc15.png)
-* Make corrections and save
+* 修正して保存
+
+
 
   ![](/img/ptc16.png)
-* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
-* Click on the option beside the template to publish the template.
+* **テンプレートをクリックして開きます。**
+
+  ダッシュボードでは、リサイズされたバージョンが元のテンプレートの下にグループ化されて表示されます。
+* **テンプレートの横にあるオプションをクリックして、テンプレートを公開します。**
+
+
+
+
+
+
+
 * ![](/img/ptc17.png)
 
 **Publish Template**
