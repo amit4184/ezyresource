@@ -2,7 +2,6 @@
 title: フォトブックデザイナー
 sidebar_label: フォトブックデザイナー
 ---
-
 **EzyDesignerでフォトブックテンプレートを作成する方法（簡単ステップガイド）**
 
 **📧 サポートが必要ですか？ support@ezycreate.com までメールしてください**
@@ -14,160 +13,67 @@ sidebar_label: フォトブックデザイナー
  EzyDesigner テンプレートクリエイターは、ユーザーが EzyDesigner で使用できるカスタムテンプレートを作成できるツールです。これらのテンプレートには、事前にデザインされたレイアウト、フォント、カラーが含まれており、ユーザーは自分のテキストや画像、その他のデザイン要素で簡単にカスタマイズできます。
  これにより、デザイン経験がなくても、プロフェッショナルな仕上がりのパーソナライズギフトを作成することが可能です。
 
-
-
-
-
 **EzyDesigner テンプレートクリエイターが提供する機能：**
 
-
-
 * さまざまなイベントやシーンに対応した事前デザイン済みテンプレートのライブラリ
-
-
 * テキスト、画像、その他のデザイン要素を使ってテンプレートをカスタマイズ
-
-
 * 事前定義されたプレースホルダーを使ったデザイン
-
-
 * 背景色やテキストカラーの追加
-
-
 * 異なる商品やサイズ間でのテンプレートのコピー
-
-
 * テンプレートの公開
-
-
 * 未公開テンプレートの編集
-
-
 * 2D ビューでのデザインプレビュー
-
-
 * テンプレート名・イベント・言語・公開状況でのフィルタ検索
-
-
-
-
-
-
 
 **EzyDesigner テンプレートクリエイターの主な特長：**
  EzyDesigner では、以下が可能です：
 
 * 各種イベント（誕生日、結婚式、ホリデーなど）用の事前デザインテンプレートを利用
-
-
 * テキスト、画像、デザイン要素でレイアウトをカスタマイズ
-
-
 * プレースホルダーをドラッグ＆ドロップ
-
-
 * 背景色やテキスト色を変更
-
-
 * 異なる商品サイズ間でテンプレートをコピー＆リサイズ
-
-
 * 顧客が使用できるようデザインを公開
-
-
 * 未公開テンプレートの編集
-
-
 * 公開前に 2D ビューでデザインをプレビュー
-
-
 * 名前、イベント、言語、公開状況でテンプレートを検索
-
-
-
-
-
-
 
 **用語集：**
 
 * **フォトホルダー（Photo Holder）：** ユーザーが自分の写真をドラッグ＆ドロップできる空のフレーム。
-
-
 * **タグ（Tags）：** #birthday、#travel、#newyear などのハッシュタグでテンプレートを簡単にフィルタリング可能。
-
-
 * **テンプレートグループ（Template Group）：** 同一デザインで異なる商品サイズに調整されたテンプレートのコレクション。
-
-
 * **テンプレート（Template）：** 写真、テキストフィールド、クリップアート、背景画像を含むすぐに使えるレイアウト。
-
-
 * **テキストフィールド（Text Field）：** ユーザーがデザイン内でテキストを追加・編集できるエリア。
-
-
 * **テンプレートクリエイター（Template Creator）：** テンプレートを作成・カスタマイズするオンラインデザインワークスペース。
-
-
 
 **テンプレートオブジェクト（Template Object）：** テンプレート内で使用されるデザイン要素（フォトホルダー、テキストフィールド、クリップアート、背景など）。
 
-
-
-
-## 
 セクション I：テンプレートの作成方法
-
-
 
 **ステップ 1：**ログイン
 
-
-![](/img/1.png)
+![](/img/jpcpbf33.png)
 
 * ウェブサイトのリンクを開きます ADmin
 
   有効なログイン情報を入力し、送信ボタンをクリックしてください
 
-
 **ステップ 2：ウェルカムダッシュボード**
 
-
-![](/img/ptc1.png)
-
-*  ようこそダッシュボードが表示されます
+![](/img/jphtcet42.png)
 
 
 
-
+* ようこそダッシュボードが表示されます
 
 **ステップ 3：**現在のテンプレートのダッシュボード
 
-
-
-
-
-![](/img/ptc2.png)
+![](/img/jphtcet40.png)
 
 * テンプレートをクリックすると、既存のテンプレートのリストが読み込まれます。
-
-
-
-
-*
-
-
-**ステップ 4：**新しいテンプレートを作成する
-
-
-
-
-
-*  「新しいグループを作成」ボタンをクリックして、新しい空白のテンプレートを作成します。
-
-
-
-
+* **ステップ 4：**新しいテンプレートを作成する
+* 「新しいグループを作成」ボタンをクリックして、新しい空白のテンプレートを作成します。
 * ![](/img/ptc5.png)
 * 最初のステップは、ユーザーが空のテンプレートを作成し、デザインして保存することです。
 * テンプレートグループとは、1つのテンプレートを作成した後、同じテンプ
@@ -176,8 +82,7 @@ sidebar_label: フォトブックデザイナー
 
   **ステップ5  フォームが表示されます。詳細を入力してください。**
 
-
-
+  ![](/img/jphtcet58.png)
 
   * テンプレート名 - テンプレート名を入力します。このテンプレート名はezydesignerに表示されます。
   * 商品 - 商品ドロップダウンリストから商品を選択します。
@@ -189,47 +94,31 @@ sidebar_label: フォトブックデザイナー
   * 作成 - 作成ボタンをクリックすると、新しいタブでテンプレートが開きます。
   * キャンセル - キャンセルボタンをクリックすると、テンプレートフォームがキャンセルされます。
 
-
-
   **ステップ6**
 
+![](/img/jphtcet24.png)
 
-  作成 - 作成ボタンをクリックしてテンプレートを作成します。テンプレートが作成され、テンプレート作成ツールが新しいタブで開きます。
-
+* 作成 - 作成ボタンをクリックしてテンプレートを作成します。テンプレートが作成され、テンプレート作成ツールが新しいタブで開きます。
 
   既存のテンプレートの編集
 
-
   編集するテンプレート グループをクリックします。
-
 
   **ステップ7**
 
   既存のテンプレートを編集するにはアイコンをクリックします
 
-
   テンプレートは新しいタブで開きます
-
 
   **ステップ8**
 
-
   変更をストアに公開する
 
-
   **ステップ9**
-
-
 
   テンプレートの詳細を編集する
 
   テンプレート名、説明、機会、テンプレートの無効化などの製品の詳細。
-
-
-
-
-
-
 
   **テンプレート作成機能**
 
@@ -409,208 +298,6 @@ sidebar_label: フォトブックデザイナー
 
   **テンプレートが適用されます。**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](/img/ptc3.png)
 
 * * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
@@ -624,83 +311,11 @@ sidebar_label: フォトブックデザイナー
   * Cancel - Click on the cancel button to cancel the template form
 
   Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+
+  * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
   * Products - Select a product from the product dropdown list
   * Occasions - Select an occasion from the occasion dropdown list
   * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
-
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
-
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
-
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 * **テンプレート名** – テンプレート名を入力します。このテンプレート名は EzyDesigner 上に表示されます。
 
   **製品（Products）** – プルダウンリストから製品を選択します。
@@ -719,48 +334,28 @@ sidebar_label: フォトブックデザイナー
 
     **作成（Create）** – 「作成」ボタンをクリックするとテンプレートが作成され、テンプレートクリエイターが新しいタブで開きます。
 
-
-
-
 **ステップ 4b：テンプレートクリエイターを開く**
 
-
-
 ![](/img/ptc4.png)
-
 
 **テンプレートクリエイターは編集用に新しいタブで起動します。**
 
 **作成（Create）** – 「作成」ボタンをクリックするとテンプレートが作成され、テンプレートクリエイターが新しいタブで開きます。
 
-
-
 **既存テンプレートの編集**
-
-
 
 ![](/img/ptc2.png)
 
 * 編集したいテンプレートグループをクリックします。
-
-
 * ![](/img/ptc6.png)
 * テンプレートの横にある編集アイコンをクリックします。
-
-
 * ![](/img/ptc4.png)
 * テンプレートは新しいタブで開きます。
-
-
 
   ![](/img/ptc7.png)
 * 変更内容をストアに公開します。
 
-
-
 **テンプレート情報を編集**
-
-
 
 ![](/img/ptc8.png)
 
@@ -768,34 +363,21 @@ sidebar_label: フォトブックデザイナー
 
   **使用しない場合はテンプレートを無効化するオプションがあります。**
 
-
-
 ### **テンプレートクリエイターの機能**
 
-
-
 **ナビゲーションバー**
-
-
 
 ![](/img/ptc9.png)
 
 * テンプレート名と製品名は左上の角に表示されます。
 
-
-
 **ページを追加（フォトブックのみ）**
-
-
 
 ![](/img/ptc10.png)
 
 * フォトブック製品では、テンプレートデザイナー下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
 
-
-
 **写真をアップロード**
-
 
 ![](/img/ptc11.png)
 
@@ -810,14 +392,6 @@ sidebar_label: フォトブックデザイナー
 
   **イメージフォトホルダー**は、スクエア・ポートレート・ランドスケープなどの標準サイズで用意されたプレースホルダーフレームで、簡単かつ迅速なデザイン作成を可能にします。
 
-
-
-
-
-
-
-
-
 **フォトホルダーを追加**
 
 ![](/img/ptc12.png)
@@ -826,13 +400,9 @@ sidebar_label: フォトブックデザイナー
 
 次にそれをクリックすると、デザイナー上に画像ホルダーが作成されます。
 
-
-
 * ![](/img/ptc13.png)
 
 **レイアウトでリサイズ**
-
-
 
 ![](/img/ptc14.png)
 
@@ -844,42 +414,19 @@ sidebar_label: フォトブックデザイナー
 
 新しいタブで開き、その選択したサイズでテンプレートを保存できます。
 
-
-
-
 **注意：**
 
 * リサイズされたテンプレートは、読み込まれた後に必ず保存する必要があります。
-
 * 保存する前に、テンプレートオブジェクトの配置に不備がないか確認してください
-
-
-
-
-
-
-
-
-
-
 *
 * ![](/img/ptc15.png)
 * 修正して保存
-
-
 
   ![](/img/ptc16.png)
 * **テンプレートをクリックして開きます。**
 
   ダッシュボードでは、リサイズされたバージョンが元のテンプレートの下にグループ化されて表示されます。
 * **テンプレートの横にあるオプションをクリックして、テンプレートを公開します。**
-
-
-
-
-
-
-
 * ![](/img/ptc17.png)
 
 **Publish Template**
