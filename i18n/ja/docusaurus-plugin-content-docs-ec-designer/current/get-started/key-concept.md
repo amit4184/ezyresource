@@ -1,6 +1,6 @@
 ---
 title: 主要な概念
-sidebar_label: Key Concept
+sidebar_label: 主要な概念
 ---
 ## **EC 基本概念**
 
