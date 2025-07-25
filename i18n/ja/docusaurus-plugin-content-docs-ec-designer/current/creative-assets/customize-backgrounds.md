@@ -1,6 +1,6 @@
 ---
 title: 背景のカスタマイズ
-sidebar_label: Customize Backgrounds
+sidebar_label: 背景のカスタマイズ
 ---
 
 
