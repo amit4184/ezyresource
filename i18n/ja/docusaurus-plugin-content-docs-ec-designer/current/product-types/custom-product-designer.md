@@ -1,6 +1,6 @@
 ---
 title: カスタム製品デザイナー
-sidebar_label: Custom Product Designer
+sidebar_label: カスタム製品デザイナー
 ---
 ## **カスタム商品デザイナーテンプレートの作成方法**
 
