@@ -1,216 +1,544 @@
 ---
-title: フォトブックデザイナー
-sidebar_label: フォトブックデザイナー
+title: Photobook Designer
 ---
-## **フォトブックデザイナ**
+**How to Create a  Photobook Template in EzyDesigner (Easy Step-by-Step Guide)**
 
-**EzyDesignerでフォトブックテンプレートを作成する方法**[
-](https://admin.ezycreate.com/dashboard/welcome)
+📧 Need help? Email us at: **support@ezycreate.com**
 
-**サポート連絡先**: support@ezycreate.com
+💬 Feedback? Send it to: **feedback@ezycreate.com**
 
 
- **フィードバック送信先**: feedback@ezycreate.com
 
-### **このガイドで学べること**
 
-* へのログイン方法
+**Introduction:**
 
-  * Template Creator
-* 新しいテンプレートの作成
-* テンプレートの編集・リサイズ・公開
-* 写真、テキスト、背景、クリップアートの追加方法
+EzyDesigner template creator allows users to create custom templates that can be used with the Ezydesigner. These templates typically include pre-designed layouts, fonts, and colors that users can customize with their own text, images, and other design elements. 
 
-###  **の主な機能**
+This makes it easy for users to create professional-looking personalized gifts without having any design experience.
 
-*  誕生日・結婚式・祝日などのイベント向けテンプレートライブラリを活用
-* テキストや画像、デザイン要素を使ってレイアウトを自由にカスタマイズ
-* プレースホルダーからドラッグ＆ドロップで配置
-* 背景色や文字色の変更
-* テンプレートを異なる商品サイズにコピー＆リサイズ
-* デザインを公開し、お客様が利用可能に
-* 未公開テンプレートの編集
-* 公開前に2Dビューでデザインをプレビュー
-* 名前・イベント・言語・公開ステータスでテンプレートを検索可能
 
-### **用語解説**
 
-**用語**
 
-**意味**
 
-顧客が写真をドラッグ＆ドロップできる空のフレーム
 
-**タグ**
 
-\#birthday、#travelなど、テンプレート検索用のハッシュタグ
+**Features that EzyDesigner Template creator offers:**
 
-**Template Group**
 
-同じデザインでサイズ違いのテンプレートをまとめたグループ
+* A library of pre-designed templates for different occasions and events
+* Customize templates with text, images, and other design elements for different occasions and events.
+* Design by selecting predefined place holders.
+* Add background color and color to text.
+* Copy templates across different products and sizes.
+* Publish a template.
+* Edit an existing template that is unpublished.
+* Preview the design in 2D view.
 
-**テンプレート**
+A filter option to search the template Template name occasions wise, language wise,published.
 
-写真・テキスト・背景・クリップアートなどが含まれるデザインレイアウト
 
-**Text Field**
 
-顧客が自由に編集できるテキスト入力エリア
+### **Key Features of the EzyDesigner Template Creator**
 
-**Template Creator**
+With EzyDesigner, you can:
 
-テンプレート作成・編集用のオンラインデザインエディタ
+Use a library of **pre-designed templates** for various events (e.g., birthdays, weddings, holidays)
 
-**Template Object**
+**Customize** layouts with text, images, and design elements
 
-写真フレーム・テキスト・背景・クリップアートなど、テンプレート内のデザイン要素
+**Drag and drop** from a set of predefined placeholders
 
-## **セクション I：テンプレートの作成方法**
+Change **background colors** and **text colors**
 
-### **Step 1: ログイン**
+**Copy and resize** templates across different product sizes
 
-[にアクセス](https://admin.ezycreate.com)
+**Publish** your designs so customers can use them
 
-[](https://admin.ezycreate.com)
- ログイン情報を入力 → **Submit**をクリック
+**Edit** existing unpublished templates
 
-### **Step 2: ダッシュボードへ移動**
+**Preview** your design in a 2D view before going live
 
-ログイン後、ダッシュボードのホーム画面が表示されます
+Use **filters** to find templates by name, occasion, language, or publish status
 
-### **Step 3: テンプレート一覧を表示**
+## **Glossary of Key Terms**
 
-メニューの「**Templates**」をクリック
+Here are some basic terms you'll see in this guide:
 
-### **Step 4: 新しいテンプレートの作成**
+* **Photo Holder** An empty frame where users can drag and drop their own photos.
+* **Tags** Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
+* **Template Group** A collection of templates with the same design but resized for different product sizes.
+* **Template** A ready-to-use layout that includes photos, text fields, clipart, and background images.
+* **Text Field** An editable area where users can add or customize text within a design.
+* **Template Creator** The online design workspace where you create and customize templates.
+* **Template Object** Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
 
-をクリックして空のテンプレートを開始
+## **Section I: How to Create a Template**
 
-**ヒント：** リサイズされたテンプレートは元のテンプレートのグループ内にまとめて表示されます
+ **Step 1: Login**
 
-#### **Step 4a: テンプレート詳細の入力**
+![](/img/1.png)
 
-* **Template Name**：テンプレートの表示名
-* **Products**：対象商品の選択
-* **Occasion**：イベント種別の選択
-* **Tags**：#birthday や #travel などのタグを追加
+* Open the website Enter valid login details and click on the login button.
 
-「**Create**」をクリック → デザイン編集画面が新しいタブで開きます
+ **Step 2: Welcome Dashboard**
 
-#### **Step 4b: Template Creator を開く**
+![](/img/ptc1.png)
 
-テンプレートエディタが別タブで起動します
+* You'll land on the dashboard homepage
 
-## **既存テンプレートの編集**
+**Step 3: View Templates Dashboard of current templates**
 
-* 編集したいテンプレートグループをクリック
-* 編集したいテンプレートの **鉛筆アイコン** をクリック
-* 編集後は **Publish** をクリックして公開
 
-### **テンプレート情報の編集**
 
-* テンプレート名、イベント、説明の更新
-* 使用しない場合は無効化も可能
+![](/img/ptc2.png)
 
-##  **画面の各機能**
+* Click on Templates to load the list of existing templates
 
-### **ナビゲーションバー**
 
-左上にテンプレート名と商品名が表示されます
 
-### **ページ追加（フォトブックのみ）**
+**Step 4: Create a New Template**
 
-ボタンでページを追加
+* Click the “Create new group” button to create blank new templates. 
 
-### **写真のアップロード**
 
-タブ → JPG/JPEG形式のみ対応
- **CMYK画像は非推奨**（色ずれの可能性）
+* ![](/img/ptc5.png)
+* The first step is the user has to create a blank template, design it and save it. 
 
-### **（写真枠）の追加**
+  A template group means after creating one template same template can be resized to other available size orientations which will be then displayed under this base template after reopening, creating a template group.
 
-タブ → 赤いアイコンで枠を配置（正方形／縦／横）
+  Note : An existing template design can be resized into multiple product sizes.  such template will show all the resized product sizes under it, grouping it for further reference, editing, publishing etc.
 
-###  **レイアウト変更・サイズリサイズ**
+**Note : Resized templates will appear grouped under the original template**
 
-タブ → サイズ選択 → 別タブで新サイズのテンプレートが開く
- 調整後 **保存**
+**Step 4a: Fill Template Details**
 
-### **背景の追加**
+![](/img/ptc3.png)
 
-タブ → 画像を選択／アップロード（JPG形式）
+* 
+  * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+  * Products - Select a product from the product dropdown list
+  * Occasions - Select an occasion from the occasion dropdown list
+  * Tags: add the #tags 
 
-###  **クリップアートの追加**
+  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
 
-タブ → PNG（透過）ステッカーを選択
+  * Create - Click on the create button to open the template in the new tab.
+  * Cancel - Click on the cancel button to cancel the template form
 
-###  **テキスト追加**
+  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 
-またはを選択
- は印刷されません
 
-**テキスト編集機能：**
- ロック、レイヤー順、削除、フォント、整列、太字、斜体、カラー、背景色 など
 
-### **作業エリア**
 
-赤い点でサイズ変更可能
 
-### **ツールバー機能**
 
-* ロック／解除
-* 複製
-* 前面へ / 背面へ
-* 画像切り抜き
-* Photo Holder追加
-* 削除
+**Step 4b: Open Template Creator**
 
-### **保存 & プレビュー**
+![](/img/ptc4.png)
 
-* **Save**：保存
-* **Preview**：2Dプレビュー
-* **Close**：閉じる前に必ず保存
+* Template Creator will launch in a new tab for editing
+* Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 
-### **ガイドライン**
+**Editing an Existing Template**
 
-テキストや写真枠を自動整列
+![](/img/ptc2.png)
 
-## **セクション II：テンプレートをリサイズする方法**
+*  Click on the Template Group that you want to edit.
 
-**Step 1**：ダッシュボードから「Templates」をクリック
 
- **Step 2**：新規または既存テンプレートを開く
+* ![](/img/ptc6.png)
+* Click the edit icon next to the template
+* ![](/img/ptc4.png)
+* The template will open in a new tab
 
- **Step 3**：ベーステンプレートを完成させる
+  ![](/img/ptc7.png)
+*  Publish the changes to your stores
 
- **Step 4**：「Layout」タブ → 新しいサイズを選択
 
- **Step 5**：新タブで開いたテンプレートを調整して保存
 
- **Step 6**：リサイズ済みテンプレートはグループ内に表示
+**Edit Template Info**
 
- **Step 7**：公開するには をクリック
+![](/img/ptc8.png)
 
- **Step 8**：で使用するには → 適用時に上書き警告あり → をクリック
+* Product details like template name, description, occasion ,disable a template.
 
-## **クイックまとめ**
 
-デザイン開始 → ダッシュボード → 「Create New Group」
+* Option to disable the template if not in use
 
- 写真を追加 → タブ
+## **Template Creator Features**
 
- テキストを追加 → タブ
+ **Navigation Bar**
 
- 背景を追加 → タブ
+![](/img/ptc9.png)
 
- 別商品サイズにリサイズ → タブ
+* The template name and product name is displayed at the left top corner.
 
- 保存前にプレビュー → ボタン
 
- 公開 → ダッシュボードで クリック
 
- **困ったときは？**
+**Add Pages (Photobooks Only)**
 
- サポート：support@ezycreate.com
+![](/img/ptc10.png)
 
- フィードバック：feedback@ezycreate.com
+* For photobook products additional pages can be added using the “Add Pages” button at the bottom of the template designer.
+
+
+
+**Upload Photos**
+
+![](/img/ptc11.png)
+
+* Click on the Photos tab to add your own photos, this can be used as a pre designed template. Supported file type is jpg/jpeg.
+* **PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.**
+* Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+
+
+
+
+
+
+
+
+**Add Photo Holders**
+
+![](/img/ptc12.png)
+
+* Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
+
+
+* 
+* ![](/img/ptc13.png)
+
+**Resize via Layouts**
+
+![](/img/ptc14.png)
+
+
+**Layout:**
+
+* Layouts tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the layout tab, select any of the desired product size and click on it.
+
+
+   It will open in a new tab, the user then can save the template in that selected size.
+
+
+  Note : 
+
+  * **The resized template should be saved after it is loaded.**
+  * **The resized template needs to be verified for any corrections in the template object alignments before saving.**
+* 
+
+* ![](/img/ptc15.png)
+* Make corrections and save
+
+  ![](/img/ptc16.png)
+* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+* Click on the option beside the template to publish the template.
+
+
+
+
+* ![](/img/ptc17.png)
+
+**Publish Template**
+
+![](/img/ptc18.png)
+
+* The then saved template/template’s will be shown under the main template used for resizing.
+* The template will display the resized sizes under it.
+
+
+
+
+
+
+
+
+
+
+
+
+**Unpublish Template**
+
+* To unpublish a published template click on the setting button beside the template and select and click on the “Unpublish” button. a product can be published without a template.
+
+
+
+
+
+
+**Add Backgrounds**
+
+* Backgrounds are images that are placed behind the main photos.These are selected backgrounds we currently offer.
+* You can add your own backgrounds from the admin section.
+
+  **The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.**
+
+* Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+
+
+
+
+**Add Clipart**
+
+* Clipart are stickers that can be used to enhance your templates. You can add your own cliparts from the admin section. The file formats for cliparts are .png and are transparent images.
+* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+
+
+
+
+
+
+**Add Text**
+
+* You can add text in the text field, except for emoji that are currently unsupported.(emojis will be ignored is used). Click on Floating text to add a text field.
+* Click on text to add a text field on the designer. 
+
+  Note - the default text field label ie. 'Enter Your text' will not be rendered. Any other text will be rendered and printed on the product.
+
+
+**Text Options:** 
+
+* Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox.
+
+
+  **Font style & size selection.**
+*  Font alignment option, Bold/Italics option and also the text color/text background color option.
+
+
+
+
+**Center part of the designer is a work area.**
+
+* The work area will contain a full image displayed when the designer is invoked for the first time.
+* The red dots on the image are the handles that can be used to resize the image as required.
+
+
+
+
+
+### **Toolbar for Photo Editing**
+
+* **Lock / Unlock** –
+  this feature allows the user to lock/unlock any object in the design area.
+* **Duplicate** – 
+  allows you to copy a selected photo.
+* **Bring Forward** – 
+  Photos or text can be arranged one above the other using the Bring Forward button.
+* **Send Back** – 
+  Works similar to Bring Forward and sends the photo/text holder behind.
+* **Crop** – 
+  use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+* **Add Photo** – 
+  Allow to add a photo holder.you can select and drop an image on it.
+* **Delete** – Deletes selected photo holder
+
+### **Text Editing Tools**
+
+* **Duplicate** – 
+   Duplicate allows you to copy a selected photo.
+* **Font & Size** – 
+
+  Select the font and size for the text required.Currently we have set a few pre selected fonts.
+
+  Fonts can be enabled from the admin section.
+* **Font Color & Background** – 
+  Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
+* **Alignment** – 
+  Text alignment can be done using the above tool.
+* **Bold / Italic** – 
+  The text can be changed to bold or Italic by toggling these buttons.
+
+### **Save / Preview / Close**
+
+* **Save** – To save the designed template
+* **Preview** – 
+  Click on preview to view the template on the product, currently only 2D preview is available.
+* **Close** – 
+
+  Close will close the template and redirect back to the admin website.
+
+  (always save before closing)
+
+### **Gridlines**
+
+* Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text field is moved in towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
+
+
+
+
+
+
+
+
+
+
+
+
+## **Section II: How to Resize a Template in Template Creator**
+
+**Step 1: Access Dashboard**
+
+* Click Templates to view existing ones
+
+**Step 2: Open or Create a Template**
+
+* Start new or edit an existing one
+
+**Step 3: Design or Edit Template**
+
+* Complete your base layout
+* Click Layout tab to choose another product size
+
+**Step 4: Choose New Size**
+
+* Click on a new size → Opens in new tab
+
+**Step 5: Save the Resized Template**
+
+* Review pages and fix alignments if needed
+* Click Save
+
+**Step 6: View Resized Versions**
+
+* Resized templates appear under the main design
+* Can be edited or published
+
+**Step 7: Publish Resized Template**
+
+* Click Publish to make it live
+
+**Step 8: Apply in Designer**
+
+* Open product in Designer
+* A warning will show before applying the template (it will overwrite any existing design)
+* Click Proceed to apply
+
+### **Section III How Create a Fullspread Photobook in Template Creator**
+
+### **Navigation Menus**
+
+* The template name and product name are displayed at the **top-left corner**.
+* For **Photobook products**, additional pages can be added using the **“Add Pages”** button at the bottom of the template designer.
+
+### **Upload Photos**
+
+* Click on the **Photos** tab to add your own photos. This can be used as a **pre-designed template**.
+* **Supported file type**: .jpg / .jpeg
+* PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.
+
+### **Photo Holder**
+
+* Photo holder is a frame for holding the photo. These are predefined ratios for the holders, having square,portrait and landscape orientations.
+
+**To Add a Photo Holder:**
+
+Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+
+Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
+
+### **Layout**
+
+Layouts tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the layout tab, select any of the desired product size and click on it.
+
+ It will open in a new tab, the user then can save the template in that selected size.
+
+Note : 
+
+* **The resized template should be saved after it is loaded.**
+* **The resized template needs to be verified for any corrections in the template object alignments before saving.**
+
+Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+
+Click on the option beside the template to publish the template.
+
+The then saved template/template’s will be shown under the main template used for resizing.
+
+The template will display the resized sizes under it.
+
+To unpublish a published template click on the setting button beside the template and select and click on the “Unpublish” button. Product can be published without a template.
+
+### **Background**
+
+Backgrounds are images that are placed behind the main photos.These are selected backgrounds we currently offer.
+
+You can add your own backgrounds from the admin section.
+
+**Supported format**: .jpg
+ **Important**: The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.
+
+Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+
+ You can also choose to apply the background to the left page, right page, or both pages using the available options. 
+
+On a single sheet, you can either apply two different backgrounds.one for each page or use a single background across the whole sheet.
+
+This gives you the flexibility to create more beautiful and creative designs based on your style.
+
+### **Clipart**
+
+* Clipart are stickers that can be used to enhance your templates.
+* You can add your own cliparts from the admin section. The file formats for cliparts are .png and are transparent images.
+* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+
+### **Text**
+
+* You can add text in the text field, except for emoji that are currently unsupported.(emojis will be ignored is used)
+* Click on Floating text to add a text field.
+* Click on text to add a text field on the designer. 
+* Note - the default text field label ie. 'Enter Your text' will not be rendered. Any other text will be rendered and printed on the product.
+* The Center part of the designer is a work area. The work area will contain a full image displayed when the designer is invoked for the first time. The red dots on the image are the handles that can be used to resize the image as required.
+
+**Text Options:**
+
+* Text Options: Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox. Font style & size selection. Font alignment option, Bold/Italics option and also the text color/text background color option.
+
+### **Toolbar for Photo Editing**
+
+* **Lock / Unlock** –
+  this feature allows the user to lock/unlock any object in the design area.
+* **Duplicate** – 
+  allows you to copy a selected photo.
+* **Bring Forward** – 
+  Photos or text can be arranged one above the other using the Bring Forward button.
+* **Send Back** – 
+  Works similar to Bring Forward and sends the photo/text holder behind.
+* **Crop** – 
+  use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+* **Add Photo** – 
+  Allow to add a photo holder.you can select and drop an image on it.
+* **Delete** – Deletes selected photo holder
+
+### **Text Editing Tools**
+
+* **Duplicate** – 
+   Duplicate allows you to copy a selected photo.
+* **Font & Size** – 
+
+  Select the font and size for the text required.Currently we have set a few pre selected fonts.
+
+  Fonts can be enabled from the admin section.
+* **Font Color & Background** – 
+  Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
+* **Alignment** – 
+  Text alignment can be done using the above tool.
+* **Bold / Italic** – 
+  The text can be changed to bold or Italic by toggling these buttons.
+
+### **Save / Preview / Close**
+
+* **Save** – To save the designed template
+* **Preview** – 
+  Click on preview to view the template on the product, currently only 2D preview is available.
+* **Close** – 
+
+  Close will close the template and redirect back to the admin website.
+
+  (always save before closing)
+
+### **Gridlines**
+
+* Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text field is moved in towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
