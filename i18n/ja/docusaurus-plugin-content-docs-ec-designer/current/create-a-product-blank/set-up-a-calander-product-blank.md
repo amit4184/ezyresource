@@ -1,5 +1,5 @@
 ---
 title: カレンダー商品ブランクの設定
-sidebar_label: Set Up a Calander Product Blank
+sidebar_label: カレンダー商品ブランクの設定
 ---
 カレンダー商品ブランクの設定
