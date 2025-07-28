@@ -2,207 +2,127 @@
 title: カスタム製品デザイナー
 sidebar_label: カスタム製品デザイナー
 ---
-## **カスタム商品デザイナーテンプレートの作成方法**
+## **How to Customize a Product in Designer**
 
-**バージョン 1.0**
+### **Introduction**
 
- [](https://admin.ezycreate.com)
+**Ezydesigner Tool** gives you the freedom to create and personalize products exactly how you envision them.
+ With an intuitive drag-and-drop interface, you can:
 
-[
-](https://admin.ezycreate.com) **フィードバック送信先**: feedback@ezycreate.com
+* Add and edit text
+* Upload/edit images
+* Choose from pre-made templates and page layouts
+* Adjust font and background colors
+* Preview your design before ordering, etc.
 
+### **Step-by-Step Guide to Using the Designer**
 
+### **1. Open the Designer**
 
-### **インデックス**
+![](/img/step-1-cpd.png)
 
-1. テンプレートの作成方法
-2. デザイナーでテンプレートを表示する方法
-3. テンプレートを別サイズにリサイズする方法
+* Click and open the **Photo** tab.
 
-###  **主な機能**
+### **2. Upload Photos**
 
-* 複数イベント・用途に対応したテンプレートライブラリ
-* テキスト、画像、クリップアート、背景のカスタマイズ
-* プレースホルダーを使ったレイアウト設計
-* 背景色・文字色のカスタム対応
-* 商品ごとのテンプレートサイズリサイズ
-* 公開前に2Dプレビュー可能
-* 未公開テンプレートの編集
-* タグ・言語によるテンプレートフィルター
-* テンプレートの公開・非公開管理
+![](/img/htcpdr26.png)
 
-### **用語集**
+* Click on the **Upload Photo** button.
 
-**用語**
+  ![](/img/htcpdr8.png)
+* Drag and drop photos directly or browse from your device to add.
+* You can also add photos from your Google Drive.
+* The uploaded photos will appear under created albums.
+* Use the **album edit** button to edit album details.
 
-**説明**
+  ![](/img/htcpdr14.png)
+* Click on a photo to add it to the design area.
 
-**Photo Holder**
+### **3. Apply Page Layouts**
 
-ユーザーが写真を挿入できる空のフレーム
+![](/img/htcpdr15.png)
 
-**Tags（タグ）**
+* Open the **Page Layout** tab to see available ready-made layouts.
 
-\#birthday や #minimal など、テンプレート検索用のキーワード
+  ![](/img/htcpdr20.png)
+* Click on any layout to apply it to your design.
 
-**Template Groups**
+### **4. Use Gridlines for Alignment**
 
-同じデザインの異なるサイズをまとめるカテゴリ
+![](/img/htcpdr6.png)
 
-**Template**
+* Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text/clipart field is moved in towards the other photo holder/text/clipart objects. The gridlines appear automatically to make it easier to align with other objects.
 
-写真・テキストなどが含まれた事前設定済みのデザインレイアウト
+### **5. Set Background**
 
-**Text Field**
+![](/img/htcpdr19.png)
 
-ユーザーが編集できるテキスト入力エリア
+* Click on the background tab to display the available background images.
 
-**Template Creator**
+  ![](/img/htcpdr27.png)
+* Select and click on any of the background images and it will get applied to the designer.
 
-テンプレートを作成・編集するデザインインターフェース
+### **6. Work Area Overview**
 
-**Template Object**
+![](/img/htcpdr28.png)
 
-テンプレート内で使われる要素（写真枠、テキスト、背景など）
+* The Center part of the designer is a work area.
+* The work area will contain a full image displayed when the designer is invoked for the first time.
+* The red dots on the image are the handles that can be used to resize the image as required.
+* **Red dots** on the image are resize handles you can use to adjust the image size.
 
-## **テンプレートの作成方法**
+### **7. Toolbar for Photo Editing**
 
-###  **Step 1: ログイン**
+![](/img/htcpdr3.png)
 
-\[にアクセス]
- ログイン情報を入力 → 「**Submit**」をクリック
+* **Duplicate:** Creates a copy of the selected photo.
+* **Bring Forward:** Photos or text can be arranged one above the other using the Bring Forward button.
+* **Send Back:**Works similar to Bring Forward and sends the photo/text holder behind.
+* **Crop:** use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+* **Add Photo:** Allow to add a photo holder.you can select and drop an image on it.
+* **Delete:** Delete the selected photo holder.
+* **Resize & Rotate:** You can resize and rotate added stickers as desired.
 
-### **Step 2: ダッシュボード**
+### **8. Toolbar for Clipart Editing**
 
-ログイン後、ダッシュボードが表示されます
+![](/img/htcpdr18.png)
 
-### **Step 3: テンプレートへ移動**
+* Stickers : The added stickers can be resized, rotated as desired
 
-左メニューの「**Creative Asset > Templates**」をクリック
+  ![](/img/htcpdr3.png)
+* **Duplicate:** Creates a copy of the selected clipart.
+* **Bring Forward:**     Clipart can be arranged one above the other using the Bring                      Forward button.
+* **Send Back:** Works similar to Bring Forward and sends the clipart behind.
+* **Crop:**  use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the clipart.
+* **Add Photo:**  Allow to add a photo holder.you can select and drop an image on it.
 
-###  **Step 4: 新しいテンプレートグループの作成**
+### **9. Add and Edit Text**
 
-をクリック
- → 空のテンプレートフォームが開きます。保存後、このテンプレートは他のサイズにもリサイズ可能です。
+![](/img/htcpdr24.png)
 
- **補足**：リサイズしたテンプレートは、元のテンプレートと同じグループとしてまとめて管理できます。
+* To add a text click on the text tab.
+* Click on the add a text box button.
+* Click within the added text field and type in the text. or copy paste a ready text.
+* Use the text edit menu to make changes to the added text.
 
-#### **Step 4a: テンプレート情報を入力**
+### **10. Text Editing Tools**
 
-* **Template Name**：デザイナー内で表示される名前
-* **Products**：対象商品を選択
-* **Occasions**：イベント種類を選択
-* **Tags**：#birthday や #wedding などのタグを追加
+![](/img/htcpdr21.png)
 
-をクリック → が新しいタブで開きます
+* **Delete:** Removes the selected text field.
+* **Duplicate:** Copies the selected text.
+* **Bring Forward:** Moves the text above other elements.
+* **Send Back:** Sends the text behind other items.
+* **Font & Size:** Choose from available font options and set the font size.
+* **Text Color & Background:** Select from pre-set text and background color options. (Custom color picker is coming in the next version.)
+* **Text Alignment:** Align text left, center, or right.
+* **Bold/Italic:** The text can be changed to bold or Italic by toggling these buttons
 
-#### **Step 4b: テンプレートを編集**
+### **11. Final Steps**
 
-* 編集したいテンプレートグループをクリック
-* アイコンをクリックしてテンプレートを編集
-* 編集 → 保存 → 公開で完了
+![](/img/htcpdr16.png)
 
-##  **のインターフェース & 機能**
+* Once the designing is done click on the save button to save the design.
+* Click on the preview button.
 
-### **ナビゲーション**
-
-左上にテンプレート名と商品タイプが表示されます
- フォトブックの場合、ボタンでページを追加可能
-
-###  **写真のアップロード**
-
-* タブを開く
-* JPG/JPEG形式の画像をアップロード
-    **CMYK形式の画像は避けてください（色不具合の原因）**
-
-### **写真枠**
-
-* タブ → 赤枠ボタンをクリック → ワークスペースに配置
-
-### **背景画像**
-
-* 事前にアップロードされた背景（JPG）を選択
-* 管理画面から独自の背景をアップロード可能
-    **CMYK画像はサポート外です**
-
-### **クリップアート**
-
-* タブ → 選択して挿入
-* **PNG形式（透過）** のみ対応
-* 新しいクリップアートは管理画面からアップロード可能
-
-### **テキストフィールド追加**
-
-* または ボタンで追加
-  は印刷されません。任意の内容に置き換えてください。
-
-**フォーマット設定：**
-
-* フォントサイズ・スタイル
-* 太字・斜体
-* 文字揃え
-* 色の変更（プリセットから選択）
-* ロック・レイヤー順・削除
-
-### **作業エリア**
-
-* 赤いハンドルでオブジェクトサイズ調整可能
-* オブジェクト移動時に自動でガイドライン表示
-
-## **ツールバー機能**
-
-**機能**
-
-**説明**
-
- Lock/Unlock
-
-オブジェクトの位置を固定／解除
-
-Duplicate
-
-オブジェクトの複製
-
-
-
-前面・背面のレイヤー順
-
-Crop
-
-画像のトリミング
-
- Add Photo
-
-プレースホルダーに画像を追加
-
-Delete
-
-要素の削除
-
-### **保存 & プレビュー**
-
-* **Save**：変更を保存
-* **Preview**：2Dビューで表示確認
-* **Close**：終了（必ず保存してから閉じてください）
-
-## **2️⃣ テンプレートのリサイズ方法（別商品サイズに展開）**
-
-### **リサイズの手順**
-
-1. ダッシュボードで「**Templates**」をクリック
-2. 新規作成または既存テンプレートを開く
-3. **Template Creator**内で「**Layout**」タブを開く
-4. 別サイズを選択 → 新しいタブで開く
-5. 必要に応じて編集・調整
-6. **Save**をクリックして保存
-7. 元のテンプレートグループにリサイズ版が追加される
-8. **Publish**をクリックで公開
-9. デザイナーで使用時、上書き警告が表示され「Proceed」で適用可能
-
-## **これで完了！**
-
-テンプレートの作成、カスタマイズ、サイズ展開、公開までの一連の流れがマスターできました 
-
- 不明点やトラブルがあれば、いつでも以下までご連絡ください：
-
-📩 **サポート窓口**: support@ezycreate.com
+  ![](/img/htcpdr5.png)
