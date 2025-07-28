@@ -110,15 +110,15 @@ export default {
       'faqs-help/frequently-asked-questions-list',
       ],
     },
-     {
-      type: 'category',
-      label: 'Ordering Flows',
-      items: [
-       'ordering-flows/ready',
-        'ordering-flows/merch',
-        'ordering-flows/customize',
-      ],
-    },
+  //   {
+    //  type: 'category',
+     // label: 'Ordering Flows',
+     // items: [
+      // 'ordering-flows/ready',
+       // 'ordering-flows/merch',
+       // 'ordering-flows/customize',
+      //],
+    // },
   ],
 };
 
