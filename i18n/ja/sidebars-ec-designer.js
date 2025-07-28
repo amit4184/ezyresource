@@ -110,14 +110,14 @@ export default {
         'faqs-help/frequently-asked-questions-list',
       ],
     },
-    {
-      type: 'category',
-      label: '注文フロー',
-      items: [
-        'ordering-flows/ready',
-        'ordering-flows/merch',
-        'ordering-flows/customize',
-      ],
-    },
+    //{
+    //  type: 'category',
+     // label: '注文フロー',
+      //items: [
+       // 'ordering-flows/ready',
+       // 'ordering-flows/merch',
+       // 'ordering-flows/customize',
+     // ],
+   // },
   ],
 };
