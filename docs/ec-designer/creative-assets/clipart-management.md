@@ -1,7 +1,25 @@
 ---
 title: Clipart Management
 ---
-# **How to Add Clipart**
+# **Introduction:**
+
+The Ezyadmin is a cloud based product management portal for your
+
+products. The Ezydesigner makes use of creative assets like cliparts and backgrounds that can be used while designing your personalized products.
+
+The creative assets currently are of two types
+
+Cliparts and backgrounds.
+
+Clipart can be a great way to add personality and flair to your personalized products. It can be used to create custom designs that are unique to your brand or customer. 
+
+They gives customers the freedom to create truly unique designs. You could also provide a library of free clipart that customers can use.
+
+# 
+
+
+
+**How to Add Clipart**
 
 **Index**
 
@@ -15,8 +33,6 @@ title: Clipart Management
 8. Create Template Using Cliparts
 9. Template Creator Tab
 10. Use Added Clipart in Template
-
-
 
 ## **Login to Ezyadmin**
 
@@ -64,7 +80,7 @@ title: Clipart Management
 * **Next:** It will show the next listed clipart view
 * **Previous:** It will show the previous listed clipart view
 
-## **Create Template Using Cliparts**
+## **Create Template Using ClipArt's**
 
 * Click on **Templates** to load the list of existing templates
 * Click the **“Create”** button to create blank new templates.
