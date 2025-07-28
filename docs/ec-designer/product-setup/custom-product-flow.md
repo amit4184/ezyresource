@@ -1,7 +1,52 @@
 ---
 title: Merch Product Flow
 ---
-## **How to Create a Merchandise Product**
+## **Overview**
+
+This document outlines the steps to create a merchandise product in EzyCreate from start to finish. It includes definitions of key terminologies, preconditions, and a detailed, step-by-step process.
+
+##  **Key Terminologies**
+
+* **Product Blank**: A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does **not** include pricing, eCommerce configurations, templates, or designs.
+* * Example: A standard 11oz mug with no associated template or sales info.
+
+
+* **Product**: A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
+
+
+* **Product Types**:
+* * **Customizable Product**: End users can personalize this using the design tool (e.g., add images, text).
+
+  * **Merchandise Product**: Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
+
+
+* **Template**: A design layout applied to a product blank.
+
+
+* **Template Group**: A collection of templates with similar designs, used to organize variants.
+
+
+* **Variant**: A version of the product that varies by design, size, color, etc., within the same template group.
+
+
+* **SKU (Stock Keeping Unit)**: A unique identifier for each variant.
+
+
+* **Merch Album**: A group of pre-uploaded images used in product customization.
+
+
+
+### **3. Preconditions**
+
+* The user is logged into the EzyAdmin. 
+* The user has appropriate permissions to create/manage products.
+* At least one product blank and one published template must be available.
+
+## 
+
+
+
+# **How to Create a Merchandise Product**
 
 **Step 1: Navigate to Product Creation**
 
@@ -92,11 +137,6 @@ Tags (used for filtering and search)
 
 If everything is correct, click Save.
 
-
-
-
-
-
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
+If you're stuck, don’t worry — just email us at support@ezycreate.com
