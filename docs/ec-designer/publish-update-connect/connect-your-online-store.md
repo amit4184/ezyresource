@@ -1,161 +1,211 @@
 ---
 title: Connect Your Online Store
 ---
-**Template Publishing Guide**
+**Section**
 
-### **Glossary**
+1. Glossary
 
-* **Template**:
-   A set of ready designs consisting of photo holders, text fields, cliparts, backgrounds, etc., to help users easily create personalized designs.
-* **Template Group**:
-   A collection of templates organized together for easier management and access.
-* **Store**:
-   A web storefront where published products and templates appear for end users.
-* **Layouts**:
-   Predefined sets of photo holders to simplify and accelerate the design process.
+2. How to publish Single Template Groups to the Store
 
-**Step 1**
+3. How to publish Selective Template(s) within a Template Group to Store
 
- Open the website EC admin
+4. How to Publish Multiple Template Groups to the Store(s)
 
-[
-](https://admin.ezycreate.com/) Enter valid login details and click on the **Submit** button.
+5. How to add a Template to a Store Product
 
-**Step 2**
 
- From the dashboard, go to:
 
- **Creative Assets → Templates**
 
- Click on **“Ezycreate Templates”**.
 
- It will display the list of template groups.
+##  **Glossary**
 
-**Step 3**
+* **Template**
+   It is a set of ready design consisting of photo holders, text field, cliparts, backgrounds etc. to facilitate users to use ready-made designs for designing purposes.
 
- Click on the **“Add”** button next to the single **Template Group** you want to publish to the store.
 
-**Note**:
+* **Template Group**
+   Group of templates displayed on dashboard.
+
+
+* **Store**
+   Once a product is published to a store, it will appear in that particular store.
+   A website store is where businesses or individuals can sell products or services to customers over the internet.
+
+
+* **Layouts**
+   It is a set of photo holders to be applied on the designer to fasten the process of designing.
+
+
+
+
+
+
+
+# **2. How to Publish Single Template Groups to the Store**
+
+1. Open the website link: Admin page
+    Enter valid login details and click on **Submit** button.
+
+
+2. From the dashboard, click on:
+    **Creative Assets > Templates**
+    Click on **“Ezycreate templates”**
+    It will display the list of templates.
+
+
+3. Click on the **“Add”** button of a single **Template Group** that you want to publish to the store.
+
+
+
+**Note:**
  A Template Group is a way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
 
-**Step 4**
+1. Once clicked on the **“Add”** button, a pop-up will display all the listed stores.
 
- A pop-up will appear with a list of all available stores.
 
-**Note**:
- Each store refers to a website (or storefront) where your templates can be used. Select one or more stores to publish the templates.
 
-Select the stores and click the **“Add”** button.
+**Note:**
+ Each store refers to a website (or storefront) where your templates can be used.
+ Select one or more stores from the list to publish the templates.
 
-**Note**:
- Publishing will make the templates available in the store's configuration page. The configurator can then assign the templates to website products. They will appear on the template selection page of the product.
+* Select the stores and click on the **“Add”** button.
 
-You will see a message: **“Added successfully to store”**.
 
-## **How to Publish Selective Template(s) within a Template Group to the Store**
 
-**Step 1**
+**Note:**
+ “Publish” will make the templates available on the selected website store configuration page, from where the configurator can assign these templates to products.
+ These will then be displayed under the template selection page for that product.
 
- Open the website link:[ https://admin.ezycreate.com
-](https://admin.ezycreate.com/) Log in and click **Submit**.
+✅ Once the Template Group is added to store(s), you will get a message:
+ **“Added successfully to store”**
 
-**Step 2**
 
- From the dashboard, go to:
 
- **Creative Assets → Templates**
 
- Click on **“Ezycreate Templates”**.
 
- The list of template groups will be displayed.
+# **3. How to Publish Selective Template(s) within a Template Group to the Store**
 
-**Step 3**
+1. Open the website link: Admin
+   [
+   ](https://admin.ezycreate.com/) Enter valid login details and click on **Submit** button.
 
- Select the Template Group whose templates you want to publish.
 
- Click on the group to view the individual templates.
+2. From the dashboard, click on:
+    **Creative Assets > Templates**
+    Click on **“Ezycreate templates”**
+    It will display the list of templates.
 
-Select the specific Template(s) using the checkboxes.
- Click on the **“Add to Store”** button.
 
-**Step 4**
+3. Select a Template Group whose templates you want to publish to the store.
+    Click on the Template Group to open and view the Templates within that group.
 
- A pop-up will appear with the list of stores.
 
-Select the desired store(s) and click **“Add”**.
 
-You will see a message: **“Added successfully to store”**.
+* Select the individual Template(s) by clicking on the checkboxes beside them.
 
-## **How to Publish Multiple Template Groups to the Store**
 
-**Step 1**
+* Once selected, click on the **“Add to Store”** button.
 
- Open the admin
- 
 
-Log in and click **Submit**.
 
-**Step 2**
+1. A pop-up will display the list of store(s).
 
- Navigate to:
- **Creative Assets → Templates → Ezycreate Templates**
 
-**Step 3**
 
- Select multiple Template Groups using the checkboxes.
- Click on the **“Add”** button.
+* Select the desired store(s) and click on the **“Add”** button.
 
-**Step 4**
 
- A pop-up will appear with the store(s) listed.
- Select the store(s) and click **“Add”**.
 
-You will see a message: **“Added successfully to store”**.
+✅ Once the Template is added to store(s), you will get a message:
+ **“Added successfully to store”**
 
-## **How to Add a Template to a Store Product**
 
-**Pre-requisite**:
- Ezycreate plugin module must be installed.
 
-**Step 1**
 
- Log in to the website.
 
- Ensure you have access to the **Ezycreate Dashboard**.
+# **4. How to Publish Multiple Template Groups to the Store**
 
-**Step 2**
+1. Open the website link: Admin page
+    Enter valid login details and click on **Submit** button.
 
- Go to:[ https://www.photojaanic.com/admin/settings/ezycreate/templates](https://www.photojaanic.com/admin/settings/ezycreate/templates)
 
-**Note**:
- If access is denied, contact your site administrator for dashboard permissions.
+2. From the dashboard, click on:
+    **Creative Assets > Templates**
+    Click on **“Ezycreate templates”**
+    It will display the list of templates.
 
-The list will display only **published templates** (not yet added to the website).
 
-**Step 3**
+3. Select the Template Groups that you want to publish to the store by clicking on the checkboxes.
 
- Enter the **Product ID** to filter specific templates.
 
- Click on the **Apply Filter** button.
 
-**Step 4**
+* Click on the **“Add”** button.
 
- All templates related to the filtered product will be shown.
 
-* To select all: check **“Select All”** → click **“Add Bulk”**
-* To select individual templates: check box beside template → click **“Add”**
 
-**Step 5**
+1. A pop-up will display the list of store(s).
 
- Once added, templates will appear on the product’s **Theme Selection Page** on the store.
 
-To preview:
- 👉[ https://www.photojaanic.com/templates?size=120073](https://www.photojaanic.com/templates?size=120073)
 
-To make it live:
-[👉 https://www.photojaanic.com/ezytemplates?size=120073](https://www.photojaanic.com/ezytemplates?size=120073)
- Click **Publish**.
+* Select the desired store(s) and click on the **“Add”** button.
 
-**Step 6**
 
- Once published, the template will be visible to users on their respective theme pages.
+
+✅ Once the Template Groups are added to store(s), you will get a message:
+ **“Added successfully to store”**
+
+
+
+
+
+# **5. How to Add a Template to a Store Product**
+
+**Pre-requisites:**
+ The EzyCreate plugin module needs to be installed.
+
+1. Log in to the website and ensure you have access to the EzyCreate dashboard.
+
+
+2. Open the link:
+    🔗[ https://www.photojaanic.com/admin/settings/ezycreate/templates
+
+   ](https://www.photojaanic.com/admin/settings/ezycreate/templates)
+
+**Note:**
+ If you cannot access the link, contact your site administrator to request dashboard permissions.
+
+* It will display the list of published templates.
+   (Only published templates are shown, not added to the website yet.)
+
+
+
+1. Enter Product ID to filter a specific product template and click on the **“Apply filter”** button.
+
+
+2. All templates of the filtered product will be displayed:
+
+
+
+* To select all templates, click the **“Select All”** checkbox and then click **“Add bulk”**
+
+
+* To select a specific template, check the box beside it and click **“Add”**
+
+
+
+1. Once a template is added, it will appear on the theme selection page for that product.
+
+
+
+To view the template page, use this test link:
+ 🔗[ https://www.photojaanic.com/templates?size=(enter](<https://www.photojaanic.com/templates?size=(enter>) the product code here)
+ e.g.,[ https://www.photojaanic.com/templates?size=120073](https://www.photojaanic.com/templates?size=120073)
+
+* Click on **“Publish”** on this page to make it live for customers.
+
+
+
+Live link for users to view:
+ 🔗[ https://www.photojaanic.com/ezytemplates?size=120073](https://www.photojaanic.com/ezytemplates?size=120073)
+
+1. Once published, the template will be visible to users on their respective theme page.
