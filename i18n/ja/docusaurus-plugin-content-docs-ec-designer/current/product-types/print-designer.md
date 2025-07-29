@@ -95,35 +95,69 @@ EC管理画面を開く
 
 
 
-### **Step 4: Set Output Type & Printable Surface**
+### 
+**ステップ 4：出力形式と印刷可能な面を設定する**
+
+
 
 ![](/img/6.png)
 
-* Output Type: JPEG or PDF
-* Click Add Printable Surfaces
+*  **出力形式**：JPEG または PDF
 
-  ![](/img/ppb1.png)
-* Enter all specs in inches:
+  **「印刷可能な面を追加」をクリックします**
 
-  * Surface Type: Choose from dropdown
-  * Image Size: Printable output image size
-  * Photo Width / Height
-  * Bleed Area
-  * Safe Area
-  * Trim Area (enter corner radius if rounded corners)
-* Click Add.
 
-### Step 5: Add **Printing Components**
+* ![](/img/ppb1.png)
+
+
+
+
+すべての仕様をインチ単位で入力してください：
+
+* サーフェスタイプ：ドロップダウンから選択します
+
+
+* 画像サイズ：印刷用の出力画像サイズ
+
+
+* 写真の幅 / 高さ
+
+
+* 塗り足しエリア（ブリード）
+
+
+* セーフエリア
+
+
+* トリムエリア（角丸の場合は角の半径も入力）
+
+
+
+「追加」ボタンをクリックします。
+
+
+
+### 
+**ステップ 5：印刷コンポーネントを追加する**
+
+
 
 ![](/img/8.png)
 
 ![](/img/ppb2.png)
 
-* Define Substrate, Lamination, Binding, Cover etc.
-* If needed, add new attributes under Admin > Attributes > Laminations
-* Select and set corresponding options for lamination/substrate.
+*  用紙（サブストレート）、ラミネート、製本、カバーなどを定義します。
 
-### **Step 6: Designer Specs**
+* 必要に応じて、**管理 > 属性 > ラミネート** の下で新しい属性を追加します。
+
+* ラミネートや用紙に対応するオプションを選択して設定します。
+
+
+
+### 
+ステップ 6：デザイナー仕様の設定
+
+
 
 ![](/img/9.png)
 
