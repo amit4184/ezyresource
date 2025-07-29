@@ -1,7 +1,7 @@
 ---
 title: 3D Preview
 ---
-![]()
+![](<>)
 
 ## **How to Add 3D Preview**
 
@@ -25,7 +25,9 @@ title: 3D Preview
 **Dashboard of configured products**
  Click on the product to load a list of existing products.
 
-![](/img/image1.png)
+
+
+![](/img/17.png)
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
