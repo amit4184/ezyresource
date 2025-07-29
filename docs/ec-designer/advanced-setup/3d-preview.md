@@ -25,13 +25,13 @@ title: 3D Preview
 **Dashboard of configured products**
  Click on the product to load a list of existing products.
 
-
-
 ![](/img/17.png)
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
-![](/img/image5.png)
+
+
+![](/img/3d-k.png)
 
 ### **3D preview form will be displayed:**
 
