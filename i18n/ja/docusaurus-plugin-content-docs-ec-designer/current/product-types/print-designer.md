@@ -2,48 +2,108 @@
 title: プリントデザイナ
 sidebar_label: プリントデザイナ
 ---
-**How to Create a Print Product**
 
-[](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
 
-## **Glossary**
 
-* **Product Blank**: A basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
-* **Product Code**: A unique code required for every product definition.
-* **SKU ID**: A unique ID assigned to each product or product variant in the product fulfillment process.
-* **Safe Area**: An outline marking on the product designer indicating the area that may get cropped/cut during fulfillment.
-* **Bleed Area**: A portion of a design that extends beyond the final trim size to prevent white edges.
-* **Trim Area**: The space around the product where excess material is cut away.
-* **Substrate / Attributes**: The paper or material used for a product (e.g., Artpaper, Silky, Lustre).
-* **Lamination**: A surface layer added to enhance durability or visual appeal.
-* **Image Size**: Size of the image used in the designer.
-* **Photo Width**: The size of the photo set to fill the designer area.
-* **Binding**: The process to attach pages and create a book structure.
-* **Display Mask Image**: An overlay mask displayed in the designer.
-* **Clippath Mask Image**: The mask area used for designing.
-* **Offset Value**: Used to set mask position in the designer.
-* **Category / Sub Category**: Used to organize products under specific sections.
-* **App Name**: Type of designer used (e.g., prints designer, photobook designer).
-* **Printable Surfaces**: Designer surface where designing is done.
-* **Output Type**: Output file format generated post-order (JPEG or PDF).
-* **Min Pages / Max Pages**: Minimum and maximum number of pages a product can have.
+### **印刷製品の作成方法**
 
-## **Steps**
+📩 フィードバック用メール: feedback@ezycreate.com
 
-### **Step 1: Login**
+### **用語集**
+
+* **製品ブランク**：視覚やテンプレートを追加する前に、デザインおよび注文システムで製品の動作を定義するための基本設定。
+
+
+* **製品コード**：すべての製品を定義するために必要な一意のコード。
+
+
+* **SKU ID**：製品またはバリアントごとに割り当てられる一意の識別番号（フルフィルメント時に使用）。
+
+
+* **セーフエリア**：フルフィルメント時に切り取られる可能性のある領域を示す、デザイナー上のアウトライン。
+
+
+* **塗り足しエリア（ブリード）**：仕上がりサイズを超えてデザインが広がる領域。白フチを防ぐ目的で使用。
+
+
+* **トリムエリア**：余分な素材が切り取られる仕上がりの周辺部分。
+
+
+* **用紙/属性**：製品に使用される用紙や素材（例：アートペーパー、シルキー、ラスター）。
+
+
+* **ラミネート**：耐久性や見た目を向上させるための表面加工。
+
+
+* **画像サイズ**：デザイナー内で使用する画像のサイズ。
+
+
+* **写真の幅**：デザイナーの範囲に合わせて設定された写真のサイズ。
+
+
+* **製本**：ページをまとめて製品として仕上げる工程。
+
+
+* **ディスプレイマスク画像**：デザイナー内で表示されるオーバーレイマスク。
+
+
+* **クリップパスマスク画像**：デザイン作成時に使用されるマスク領域。
+
+
+* **オフセット値**：マスク位置をデザイナー内で調整するために使用。
+
+
+* **カテゴリ/サブカテゴリ**：製品を特定のセクションに分類するために使用。
+
+
+* **アプリ名**：使用するデザイナーの種類（例：プリントデザイナー、フォトブックデザイナー）。
+
+
+* **印刷可能な面**：デザインが行われるデザイナーの領域。
+
+
+* **出力形式**：注文後に生成されるファイル形式（JPEG または PDF）。
+
+
+* **最小ページ数 / 最大ページ数**：製品が持つことのできる最小・最大ページ数。
+
+
+
+
+
+
+## 
+ステップ
+
+
+ステップ 1：ログイン
+
+
 
 ![](/img/1.png)
 
-* Open: EC admin
-* Enter login details and submit.
 
-### **Step 2: Navigate to "My Blanks"**
+EC管理画面を開く
+
+ログイン情報を入力し、「送信」ボタンをクリックします
+
+
+
+### 
+ステップ 2：「マイブランク」へ移動
+
+
 
 ![](/img/2.png)
 
-* Click on **My Blanks** to see defined product blanks.
+* 「マイブランク」をクリックして、定義済みの製品ブランクを表示します。
 
-### **Step 3: Create a New Product Blank**
+
+
+### 
+ステップ 3：新しい製品ブランクを作成する
+
+
 
 ![](/img/3.png)
 
