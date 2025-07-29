@@ -2,40 +2,57 @@
 title: カスタム製品デザイナー
 sidebar_label: カスタム製品デザイナー
 ---
-## **How to Customize a Product in Designer**
+**EzyDesignerツール**を使えば、思い通りに製品を作成・カスタマイズできます。
+ 直感的なドラッグ＆ドロップインターフェースで、次のような操作が可能です：
 
-### **Introduction**
+* テキストの追加・編集
 
-**Ezydesigner Tool** gives you the freedom to create and personalize products exactly how you envision them.
- With an intuitive drag-and-drop interface, you can:
+* 画像のアップロード・編集
 
-* Add and edit text
-* Upload/edit images
-* Choose from pre-made templates and page layouts
-* Adjust font and background colors
-* Preview your design before ordering, etc.
+* あらかじめ用意されたテンプレートやページレイアウトの選択
 
-### **Step-by-Step Guide to Using the Designer**
+* フォントや背景色の調整
 
-### **1. Open the Designer**
+* 注文前のデザインプレビュー表示 など
+
+
+
+### **デザイナー使用のステップバイステップガイド**
+
+## 
+
+
+### **1.** デザイナーを開く
+
+
 
 ![](/img/step-1-cpd.png)
 
-* Click and open the **Photo** tab.
+「写真」タブをクリックして開きます。
 
-### **2. Upload Photos**
+
+
+### **2.** 写真をアップロードします。
+
+
 
 ![](/img/htcpdr26.png)
 
-* Click on the **Upload Photo** button.
+*  「写真をアップロード」ボタンをクリックします。
+
+
 
   ![](/img/htcpdr8.png)
-* Drag and drop photos directly or browse from your device to add.
-* You can also add photos from your Google Drive.
-* The uploaded photos will appear under created albums.
-* Use the **album edit** button to edit album details.
+*
 
-  ![](/img/htcpdr14.png)
+写真をドラッグ＆ドロップするか、お使いのデバイスから参照して追加します。
+ Googleドライブから写真を追加することもできます。
+ アップロードされた写真は、作成されたアルバム内に表示されます。
+ アルバム編集ボタンを使用して、アルバムの詳細を編集できます。
+
+
+
+* ![](/img/htcpdr14.png)
 * Click on a photo to add it to the design area.
 
 ### **3. Apply Page Layouts**
