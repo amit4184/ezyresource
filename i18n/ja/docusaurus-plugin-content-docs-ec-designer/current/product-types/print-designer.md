@@ -163,22 +163,50 @@ EC管理画面を開く
 
 ![](/img/10.png)
 
-* All specs in inches.
-* App Name: Select ezyprints product.
-* Default Template: Optional customized template.
-* Click Add Designer Specs
-* Surface Type / Name: Select and name
-* Display Mask Image: PNG format only
-* Clippath Mask Image: PNG format only
-* Display Mask Dimensions: Width and Height in inches
-* Orientation: Select accordingly
-* Mask Offsets: Top, Bottom, Left, Right (in inches)
-* Important: Add both orientations (Portrait/Landscape) for print products
-* In case of square orientation only square mask to be updated.
-* ![](/img/ppb3.png)
-* Click Add, then Next
+* 
+  すべての仕様はインチ単位で入力してください。
 
-### **Step 7: Pricing**
+  * アプリ名：ezyprints製品を選択します
+
+
+  * デフォルトテンプレート：カスタマイズされたテンプレート（任意）
+
+
+  * 「デザイナー仕様を追加」をクリックします
+
+
+  * サーフェスタイプ / 名前：選択し、名前を入力します
+
+
+  * 表示マスク画像：PNG形式のみ
+
+
+  * クリップパスマスク画像：PNG形式のみ
+
+
+  * 表示マスクのサイズ：幅と高さをインチで入力します
+
+
+  * 向き：該当する向きを選択します
+
+
+  * マスクのオフセット：上・下・左・右（すべてインチ単位）
+
+
+
+  ⚠️ 重要：印刷製品には、縦向きと横向きの両方の向きを追加してください。
+   正方形の場合は、正方形マスクのみを更新してください。
+
+
+* ![](/img/ppb3.png)
+* 「追加」をクリックし、その後「次へ」をクリックします。
+
+
+
+### 
+ステップ 7：価格設定
+
+
 
 #### **Option 1: Single Quantity Pricing**
 
