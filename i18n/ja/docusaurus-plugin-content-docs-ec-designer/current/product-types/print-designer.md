@@ -204,76 +204,138 @@ EC管理画面を開く
 
 
 ### 
-ステップ 7：価格設定
+**ステップ 7：価格設定**
 
 
 
-#### **Option 1: Single Quantity Pricing**
+
+**オプション 1：単品価格設定（シングルクオリティ）**
+
+#### 
+
+
 
 ![](/img/13.png)
 
-* Price Type: Single Qty
-* Cost Price / Selling Price
-* Click Add Price, then Save
+*  **価格タイプ**：単品価格（シングル数量）
 
-#### **Option 2: Volume Pricing**
+
+* **原価 / 販売価格** を入力します
+
+
+* **「価格を追加」をクリックし、「保存」をクリックします。**
+
+
+
+
+#### 
+オプション 2：ボリューム価格設定（数量別価格）
+
+
 
 ![](/img/14.png)
 
-* Min Quantity
-* Cost / Selling Price
-* Combine Set (if required)
-* Click Add Price, then Save
+*  **最小数量** を入力します
 
-#### **Option 3: Attribute Level Pricing**
+
+* **原価 / 販売価格** を入力します
+
+
+* **セットをまとめる（必要な場合）** を選択します
+
+
+* **「価格を追加」をクリックし、「保存」をクリックします。**
+
+
+
+#### 
+オプション 3：属性レベルでの価格設定
+
+
 
 ![](/img/15.png)
 
-* Set pricing for each attribute (e.g., substrate)
-* Click Add Price, then Save
+* 
+  各属性（例：用紙）ごとに価格を設定します
+   **「価格を追加」** をクリックし、**「保存」** をクリックします
 
-Note:
+  **注意：**
 
-* No attribute: Use Single Qty
-* Bulk orders: Use Volume Pricing
-* Attribute-specific rates: Use Attribute Pricing
+  * 属性がない場合：**単品価格（Single Qty）** を使用
 
-### **Step 8: View Created Product**
+
+  * 大量注文の場合：**ボリューム価格（Volume Pricing）** を使用
+
+
+  * 属性ごとの料金がある場合：**属性価格（Attribute Pricing）** を使用
+
+
+
+
+
+### 
+**ステップ 8：作成した製品を確認する**
+
+
 
 ![](/img/ppb5.png)
 
-* Go to Product Wizard List
-* Click View in Designer
+*  **製品ウィザード一覧**に移動します
 
-### **Step 9: Upload & Edit Photos**
 
-* Click Add Photo
+* \*\*「デザイナーで表示」\*\*をクリックします
+
+
+
+### 
+ステップ **9:** 写真のアップロードと編集
+
+
+
+* \*\*「写真を追加」\*\*をクリックします。
+
+
 
   ![](/img/ppb6.png)
-* Upload via Upload Photos
+* \*\*「写真をアップロード」\*\*からアップロードします。
+
+
 
   ![](/img/ppb7.png)
-* Select files or drag-and-drop
+* ファイルを選択するか、ドラッグ＆ドロップで追加します。
+
 
   ![](/img/20.png)
-* Click Upload
+* \*\*「アップロード」\*\*をクリックします。
+
 
   ![](/img/21.png)
-* Select uploaded photo to open in designer
+* アップロードした写真を選択して、デザイナーで開きます。
+
 
   ![](/img/ppb8.png)
-* Photo preview will be displayed, now click on the photo to edit
+* 写真のプレビューが表示されます。編集するには、写真をクリックしてください。
+
 * ![](/img/ppb9.png)
-* The photo edit menu will be displayed.
+* 写真編集メニューが表示されます。
+
 
   ![](/img/ppb10.png)
-* Click on the crop button to crop the image if required.
+* 必要に応じて画像をトリミングするには、\*\*「トリミングボタン」\*\*をクリックします。
+
 
   ![](/img/ppb11.png)
-* Increase the photo quantity if required
-* Once the editing is done click on the “Test Order” button.
+*  必要に応じて写真の数量を増やします。
 
-### **Step 10: Confirm Test Order**
+
+* 編集が完了したら、\*\*「テスト注文」\*\*ボタンをクリックします。
+
+
+
+### 
+ステップ **10:** テスト注文の確認
+
+
 
 ![](/img/25.png)
 
