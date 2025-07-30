@@ -15,3 +15,10 @@ title: Product Conversion Rate
 
 * Projects: Number of projects created
 * Product Conversion %: Conversion rate of projects to orders
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
