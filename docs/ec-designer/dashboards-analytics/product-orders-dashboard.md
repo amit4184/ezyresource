@@ -30,3 +30,10 @@ title: Product Orders Dashboard
 * **Product Sale (Gross Sale)**:
    Gross Sale = product_sale (MRP)  *quantity + discount*
    (Exclusive of tax & shipping. Currency: Rs.)*
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
