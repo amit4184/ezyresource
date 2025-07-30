@@ -15,10 +15,6 @@ Clipart can be a great way to add personality and flair to your personalized pro
 
 They gives customers the freedom to create truly unique designs. You could also provide a library of free clipart that customers can use.
 
-# 
-
-
-
 **How to Add Clipart**
 
 **Index**
@@ -64,7 +60,8 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 * Click on **edit symbol** to edit the added clipart.
 * *Edit form will open*
-* * **Display name:** Edit the display name
+
+  * **Display name:** Edit the display name
   * **Image:** Click on **Choose file** and re-upload/change clipart image
   * **Public:** Enable/disable
   * **Status:** Click on the slider button to change the status of the clipart. This allows the user to enable or disable a clipart.
@@ -103,3 +100,10 @@ They gives customers the freedom to create truly unique designs. You could also 
    *Will show all the added clipart*
 * The clipart added successfully in template creator
    *Can use it to create template/design*
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
