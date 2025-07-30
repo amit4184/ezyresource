@@ -44,3 +44,10 @@ Description: Shows sales data for customers who placed their first orders in the
 
 Average Sale: Average of first purchase values
  *(Currency in Rs.)*
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
