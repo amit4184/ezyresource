@@ -1,10 +1,9 @@
 ---
-title: Set Up a Print Product Blank 
+title: Set Up a Print Product Blank
 ---
-
 **How to Create a Print Product**
 
-[](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
+[](https://admin.ezycreate.com/)[](mailto:feedback@ezycreate.com)
 
 ## **Glossary**
 
@@ -225,3 +224,10 @@ Note:
 * Status will update to Publish
 
 Once Published, the Product Blank Specs Cannot Be Changed.
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
