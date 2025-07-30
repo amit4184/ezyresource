@@ -166,3 +166,10 @@ To **delete** a layout:
 * Select and click on the **“Delete”** button
 
 The layout will be deleted from both the **Template Creator** and the **end-user designer**.
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
