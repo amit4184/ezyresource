@@ -1,5 +1,5 @@
 ---
-title: Set Up a Photobook Product Blank 
+title: Set Up a Photobook Product Blank
 ---
 ### How to Create a Product Blank
 
@@ -499,3 +499,10 @@ The product status will update to **Publish**.
 ![](/img/pbfs15.png)
 
 Open the photobook in the **Designer** to view the fully configured Full Spread photobook.
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
