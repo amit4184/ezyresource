@@ -10,7 +10,7 @@ slug: /ec-store/Creative Assets
 4. How to Publish Multiple Template Groups to the Store(s)
 5. How to Add a Template to a Store Product
 
-##  **Glossary**
+## **Glossary**
 
 * **Template**: A set of ready-made designs consisting of photo holders, text fields, cliparts, backgrounds, etc., to help users create designs easily.
 * **Template Group**: A group of templates displayed on the dashboard, useful for managing large volumes of designs.
@@ -35,7 +35,7 @@ slug: /ec-store/Creative Assets
 
 * Click the **Add** button next to the Template Group you want to publish
 
- *Note: A Template Group organizes templates for easier management.*
+  *Note: A Template Group organizes templates for easier management.*
 
 **Step 4:**
 
@@ -139,3 +139,10 @@ slug: /ec-store/Creative Assets
 
 **Confirmation:**
 Templates will now appear on the product’s theme selection page in the store.
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
