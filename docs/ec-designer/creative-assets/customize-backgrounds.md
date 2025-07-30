@@ -36,10 +36,6 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 * Click on the **“Add”** button.
   To Add a new background click on the “Add” button. 
   Will open an Add form 
-
-
-
-
 * **Display name:** Enter the display name.
 * **Image:** Click **“Choose File”** to upload a background image (*JPG format recommended*).
 * **Public:** Enable/disable.
@@ -47,10 +43,7 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 * **Save:** Save newly added background.
 * **Cancel:** Cancel the form.
 
-
   Successfully Added background
-
-
 
 ## **Edit Background**
 
@@ -104,3 +97,10 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
    *Can use it to create template/design*
 
 **Successfully Added Background Preview Background**
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
