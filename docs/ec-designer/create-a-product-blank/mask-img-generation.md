@@ -41,8 +41,6 @@ Choose black color:
 * Color Code: #000000
    Click OK.
 
-
-
 ## **Step 9**
 
 Turn off the Background layer (click the eye icon).
@@ -68,6 +66,6 @@ Select PNG option- press Save, image exported. This saves your mask image with a
 
 
 
-## Need Help?
+## **Need Help?**
 
-If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
