@@ -50,3 +50,10 @@ This dashboard gives the number of orders shipped on a particular day. It displa
 * **Sessions**: Period when a user is signed in or interacts with the website or app.
 * A scenario is considered completed when both start and end events occur in the same session.
 * A scenario is not completed if the end event doesn't occur in the same session.
+
+
+
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
