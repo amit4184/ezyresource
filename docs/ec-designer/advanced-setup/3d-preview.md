@@ -29,7 +29,7 @@ title: 3D Preview
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
-![](/img/image5.png)
+![]()
 
 
 
