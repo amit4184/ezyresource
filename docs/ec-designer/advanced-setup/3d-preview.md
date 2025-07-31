@@ -29,7 +29,9 @@ title: 3D Preview
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
-![](/img/3d-k.png)
+![](/img/image5.png)
+
+
 
 ### **3D preview form will be displayed:**
 
@@ -151,9 +153,6 @@ Open the 3D preview configured product on the designer, design the product, and 
 * **Mouse**: Use the scroll wheel to zoom in and out.
 
 **Touchscreen**: Pinch with two fingers to zoom in and out.
-
-
-
 
 ## **Need Help?**
 
