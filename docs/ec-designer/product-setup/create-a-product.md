@@ -33,7 +33,7 @@ Example: A standard 11oz mug with no associated template or sales info.
 
 **Preconditions**
 
-* The user is logged into the EzyAdmin. ( https://admin.ezycreate.com )
+* The user is logged into the EzyAdmin. 
 * The user has appropriate permissions to create/manage products.
 * At least one product blank and one published template must be available.
 
