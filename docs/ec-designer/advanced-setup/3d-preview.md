@@ -29,9 +29,7 @@ title: 3D Preview
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
-![]()
-
-
+![](<>)
 
 ### **3D preview form will be displayed:**
 
@@ -40,6 +38,8 @@ There are three stages to add and test the 3D preview:
 1. Upload 3D model
 2. Configure the model
 3. Test the 3D preview
+
+   ![](/img/test-image.jpg)
 
 ### **Upload 3D Model**
 
