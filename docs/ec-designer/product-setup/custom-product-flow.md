@@ -31,7 +31,7 @@ This document outlines the steps to create a merchandise product in EzyCreate fr
 
 **Step 1: Navigate to Product Creation**
 
-![](/img/inmpf17.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF17.png)
 
 * Log in to EzyAdmin.
 * In the left sidebar, go to Products → My Products.
@@ -39,7 +39,7 @@ This document outlines the steps to create a merchandise product in EzyCreate fr
 
 **Step 2: Select a Product Blank**
 
-![](/img/inmpf2.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF2.png)
 
 * Under Step 1 - Product Blank, click Select product blank.
 * Choose a base item (e.g., Standard Mug).
