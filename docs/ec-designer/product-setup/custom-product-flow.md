@@ -56,7 +56,7 @@ This document outlines the steps to create a merchandise product in EzyCreate fr
 
 **Step 4: Select Template**
 
-![](/img/inmpf4.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF22.png)
 
 * Click Select a template.
 * Choose a template design.
@@ -92,7 +92,7 @@ Click Next.
 
 **Step 6: Enter Product Details**
 
-![](/img/inmpf6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF12.png)
 
 * Select the product language (e.g., English).
 * Fill in:
