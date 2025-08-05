@@ -29,7 +29,7 @@ title: 3D Preview
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
-![](<>)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP3.png)
 
 ### **3D preview form will be displayed:**
 
@@ -61,17 +61,25 @@ You can also refer to editing mesh:
 
 **Note:** These docs are created considering Blender for creating the model and UV mapping help.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP4.png)
+
 The .glb file will upload and display:
 
 * The glb file will upload and display the mesh details, the number of surfaces of the product, and the 3D model view.
 * Select any mesh to see the mesh 3D model 
 * Double click on mesh will show the whole 3D model 
 * On the top of the form will show the product code 
-* Close button - click on close button to close the 3D preview form 
+* Close button - click on close button to close the 3D preview form
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP5.png)
+
+ 
 
 ### **To change mesh name and make it a printable surface, click on the Action button**
 
 **Mesh Edit Form** will be displayed:
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP6.png)
 
 * **Mesh name** – click on the field and edit the mesh name
 
@@ -85,18 +93,28 @@ The .glb file will upload and display:
 
 A 3D model will show along with the mesh list
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP7.png)
+
 ### **Configure Scene**
 
 After editing the mesh form, click on **Save and Next** to configure the model.
  In this stage, users can configure the model visibility and view. Initially, this form will be set with default values.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP8.png)
+
 * **Background color** –  click on the background color and select any color to apply background color on 3D model 
 * **Background image** – click on upload image and add any image (PNG, jpeg) 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP9.png)
 
 **Blur**:
  This option will appear only after the background image is uploaded. Users can blur the image by sliding the bar for a better 3D model view.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP10.png)
+
 ### **Default Camera Position**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP11.png)
 
 The default camera position is the initial viewpoint from which the user sees the 3D model when the user first opens it.
  This X, Y, Z position is carefully chosen to provide the best overall view of the model.
@@ -104,14 +122,20 @@ The default camera position is the initial viewpoint from which the user sees th
 
 ### **Auto Rotation**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP12.png)
+
 Auto rotation is a feature that continuously rotates the 3D model on its own, allowing users to see the model from all angles without manually adjusting the view.
 
 ### **Ambient Light**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP13.png)
 
 Ambient light in 3D models is a non-directional, background illumination that evenly lights up the scene, filling in shadows and revealing details.
  Both the **color** and the **intensity** of the light can be adjusted for a better view of the model.
 
 ### **Direction Lighting**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP14.png)
 
 Directional light in 3D models is a light source that emits rays in a specific direction, creating shadows and highlights to define the shape and form of objects within the scene.
  Both the **color** and the **intensity** of the light can be adjusted for a better view of the model.
@@ -130,6 +154,8 @@ For testing the 3D preview model:
 * Click on **Upload image** and upload a preview image.
 * The 3D model will reflect all the configuration settings with the applied image as the user has set.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP15.png)
+
 ### **Designer**
 
 Open the 3D preview configured product on the designer, design the product, and click on **Preview**.
@@ -140,6 +166,8 @@ Open the 3D preview configured product on the designer, design the product, and 
 🔗[ https://drive.google.com/file/d/1vH0kk3Tj7pYVUeAGHuKEISAlWXu_7kaS/view?usp=sharing](https://drive.google.com/file/d/1vH0kk3Tj7pYVUeAGHuKEISAlWXu_7kaS/view?usp=sharing)
 
 **Note:** The product has to be set to **3D** in product configuration for the 3D preview to be visible in the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP16.png)
 
 ### **User Interactions**
 
