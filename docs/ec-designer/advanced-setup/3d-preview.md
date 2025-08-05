@@ -1,7 +1,6 @@
 ---
 title: 3D Preview
 ---
-![](<>)
 
 ## **How to Add 3D Preview**
 
@@ -39,7 +38,6 @@ There are three stages to add and test the 3D preview:
 2. Configure the model
 3. Test the 3D preview
 
-   ![](/img/test-image.jpg)
 
 ### **Upload 3D Model**
 
