@@ -78,7 +78,7 @@ Example: A standard 11oz mug with no associated template or sales info.
 
 **Step 5: Add Product Variants**
 
-![]()
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF28.png)
 
 * In the Product Variants tab:
 * Click + Add variants.
