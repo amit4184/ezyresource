@@ -101,7 +101,7 @@ Important:
 
 Step 6: Enter Product Details
 
-![](/img/inmpf6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF6.png)
 
 * Select the product language (e.g., English).
 * Fill in:
