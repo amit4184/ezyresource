@@ -78,7 +78,7 @@ This document outlines the steps to create a merchandise product in EzyCreate fr
 * Use the "Set default" option to mark one variant as the default.
 * Use the trash icon to remove a variant.
 
-![](/img/inmpf18.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF9.png)
 
 Important:
 
