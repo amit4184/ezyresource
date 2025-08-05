@@ -72,13 +72,13 @@ Example: A standard 11oz mug with no associated template or sales info.
 * Choose a template design.
 * Note: If your template does not appear, ensure it is published.
 
-![](/img/inmpf5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF24.png)
 
 * Click Next.
 
 **Step 5: Add Product Variants**
 
-![](/img/inmpf10.png)
+![]()
 
 * In the Product Variants tab:
 * Click + Add variants.
@@ -113,21 +113,21 @@ Step 6: Enter Product Details
 
 **Step 7: Set Product Prices**
 
-![](/img/inmpf15.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF16.png)
 
 * All added variants will be shown with editable:
 * SKU
 * Price
 * Click the Edit icon for each to update pricing.
 
-![](/img/inmpf14.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF8.png)
 
 * Click Save after updating each entry.
 * Click Next.
 
 **Step 8: Upload Mockup Images**
 
-![](/img/inmpf3.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF20.png)
 
 * Upload visual previews/mockups.
 * Ensure the mockups visually represent the template accurately.
