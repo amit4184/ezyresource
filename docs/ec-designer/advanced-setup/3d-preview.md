@@ -15,7 +15,7 @@ title: 3D Preview
 
 ### **Login**
 
-![](/img/1.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP1.png)
 
 * Open the website link.
 * Enter valid login details and click on the **login** button.
@@ -25,7 +25,7 @@ title: 3D Preview
 **Dashboard of configured products**
  Click on the product to load a list of existing products.
 
-![](/img/17.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/IN_HTA3DP2.png)
 
 ### **To add a 3D preview, click the 3D preview icon.**
 
