@@ -78,7 +78,8 @@ export default {
       type: 'category',
       label: '高度な設定',
       items: [
-	'advanced-setup/3d-preview',      
+	'advanced-setup/3d-preview', 
+	'advanced-setup/add-occasions',      
         'advanced-setup/define-product-categories',
         'advanced-setup/set-product-attributes',
 //        'advanced-setup/ui-skinning',
