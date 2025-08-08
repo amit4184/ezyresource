@@ -246,7 +246,7 @@ Click on the next button to continue.
 *   under printing components, add substrate, Lamination, binding, cover etc for the product.
 * If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
    
-* How to Add a Attributes & Attribute Options
+* [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
 * Under options : select and set an option as per the substrate/lamination etc selected.
    Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
 
@@ -263,12 +263,15 @@ Click on the next button to continue.
 * Display mask image : Select and upload the Display mask image of the product.
 
 
- **Note :
- The mask image file format should be in .png
- To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.
- The product specs and both the mask images specs need to be maintained the same.**
- .
+ **Note :**
 
+
+* ** *The mask image file format should be in .png***
+   
+* ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.***
+   
+* ***The product specs and both the mask images specs need to be maintained the same.***
+   .
 
 *  There is no recommended size as such as it is dependent on the product specs.
 * Orientation : select orientation for the added images as per the uploaded mask.
