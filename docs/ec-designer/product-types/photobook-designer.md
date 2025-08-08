@@ -312,6 +312,8 @@ Font style & size selection.
 
 **Step 1: Access Dashboard**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
+
 * Click Templates to view existing ones
 
 **Step 2: Open or Create a Template**
