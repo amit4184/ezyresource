@@ -195,131 +195,145 @@ Click on the next button to continue.
 
 
 ** Printing components :**
- under printing components, add substrate, Lamination, binding, cover etc for the product.
- If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
- How to Add a Attributes & Attribute Options
 
-Under options : select and set an option as per the substrate/lamination etc selected.
- Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
+*   under printing components, add substrate, Lamination, binding, cover etc for the product.
+* If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
+   
+* How to Add a Attributes & Attribute Options
+* Under options : select and set an option as per the substrate/lamination etc selected.
+   Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
 
-Designer specs:
- Please note designer specs need to be in inches.
+*Designer specs:
+ Please note designer specs need to be in inches.*
 
 **Step 8**
- Select “App name” from the drop-down for example. for the decor type product the app name is “Ezydesigner”. According to this selection the product will open in that respective designer.
 
-Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
+*  Select “**App name”** from the drop-down for example. for the decor type product the app name is “Ezydesigner”. According to this selection the product will open in that respective designer.
+* Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
+* To add the designer specs click on the “Add designer specs” button.
+* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+   Surface name : Enter a surface name based on the surface type selected.
+* Display mask image : Select and upload the Display mask image of the product.
 
-To add the designer specs click on the “Add designer specs” button.
 
-Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
- Surface name : Enter a surface name based on the surface type selected.
-
-Display mask image : Select and upload the Display mask image of the product.
- Note :
+ **Note :
  The mask image file format should be in .png
  To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.
- The product specs and both the mask images specs need to be maintained the same.
+ The product specs and both the mask images specs need to be maintained the same.**
  .
- There is no recommended size as such as it is dependent on the product specs.
 
-Orientation : select orientation for the added images as per the uploaded mask.
- Enter Mask offsets (in inches) : Top offset, Left offset
- Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 
-Preview : you can click on the preview button to view the added mask image preview display.
- Once all the required details are entered then to save these details click on the “Add” button.
- Click the “Next” button to go to the Pricing Section.
+*  There is no recommended size as such as it is dependent on the product specs.
+* Orientation : select orientation for the added images as per the uploaded mask.
+   Enter Mask offsets (in inches) : Top offset, Left offset
+   Offset - this is for the additional properties of the mask to be set in terms of the offsets.
+* Preview : you can click on the preview button to view the added mask image preview display.
 
-Note :
+*  Once all the required details are entered then to save these details click on the “Add” button.
+
+*  Click the “Next” button to go to the Pricing Section.
+
+***Note :**
  In case of products accepting both landscape & portrait orientation, both orientation masks have to be added.
- In case of square orientation only square mask to be updated.
+ In case of square orientation only square mask to be updated.*
 
 **Step 9**
- Price type : Select Price type as single qty pricing.
- Enter Cost price & Selling price values.
- Click on the add price button to save the details.
- Click on save button to save the add product form.
 
-Price type : Select Price type as Volume Pricing.
- Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
- Min quantity : enter min quantity.
- Cost price : enter Cost price & Selling price
- Combine set : select the checkbox if the quantity sets are to be combined
- Click on the add price button to save the details.
+*   Price type : Select Price type as single qty pricing.
 
-Click on save button to save the add product form.
+*  Enter Cost price & Selling price values.
+   
+* Click on the add price button to save the details.
 
-Price type : Select Price type as Attribute level pricing
- Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.
- Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
- Select & set pricing for each attribute individually.
- Click on the add price button to save the details.
- Click on save button to save the add product form.
+*  Click on save button to save the add product form.
+* Price type : Select Price type as Volume Pricing.
+   Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+*   Min quantity : enter min quantity.
+*   Cost price : enter Cost price & Selling price
+*   Combine set : select the checkbox if the quantity sets are to be combined
+*   Click on the add price button to save the details.
+* Click on save button to save the add product form.
+* **Price type :** Select Price type as Attribute level pricing
+   **Note :** in case of a product where multiple attributes to be set the attribute level pricing can be used.
+* Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
+* Select & set pricing for each attribute individually.
+* Click on the add price button to save the details.
+* Click on save button to save the add product form.
 
 **Step 10**
- Note:
- a product having no attribute for such a product you'll can use single qty pricing.
- a volume pricing is used for a product having min order qty. or to be ordered in bulk.
- a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
+
+
+ **Note:** 
+
+* a product having no attribute for such a product you'll can use single qty pricing.
+*  a volume pricing is used for a product having min order qty. or to be ordered in bulk.
+*  a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
 
 **Step 11**
- Once the product is saved, open the product wizard list and it will display the created product.
+ 
 
-Click on the “View in designer” button to preview the created product in the designer.
+* Once the product is saved, open the product wizard list and it will display the created product.
+* Click on the “View in designer” button to preview the created product in the designer.
 
 **Step 12**
- The designer will open the defined product.
+
+*   The designer will open the defined product.
 
 **Step 13**
- Click on the upload photo button.
+
+*   Click on the upload photo button.
 
 **Step 14**
- Click to select files or drag and drop photos onto the uploader.
- Click on upload button to upload the added photos
 
-Once the photos are uploaded, click on the photo to add it to the designer.
+* Click to select files or drag and drop photos onto the uploader.
 
-Photo preview will be displayed, now click on the photo to edit
-
-The photo edit menu will be displayed.
- Once the editing is done click on the “Test Order” button.
+*  Click on upload button to upload the added photos
+* Once the photos are uploaded, click on the photo to add it to the designer.
+* Photo preview will be displayed, now click on the photo to edit
+* The photo edit menu will be displayed.
+* Once the editing is done click on the “Test Order” button.
 
 **Step 15**
- Will display a message as “Order placed successfully”.
- The order tab will open displaying the recent order placed
 
-Click on the ‘view” order details option
+*   Will display a message as “Order placed successfully”.
+
+*  The order tab will open displaying the recent order placed
+* Click on the ‘view” order details option
 
 **Step 16**
- Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+ 
 
-Check the order status.
- Once the status is shown as rendered, you can download the order images.
+* Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+* Check the order status.
+   Once the status is shown as rendered, you can download the order images.
+* Orders can be downloaded using the “Download all” button or you can individually also download single images.
 
-Orders can be downloaded using the “Download all” button or you can individually also download single images.
-
-Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.
+***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
 **Step 17**
- Select a path to save the test order image.
- Click on the save button.
- The image will get downloaded to the selected location.
- If the order is downloaded using the “Download all” button than a zip file will be downloaded.
 
-The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
+*   Select a path to save the test order image.
+   
+* Click on the save button.
+
+*  The image will get downloaded to the selected location.
+
+*  If the order is downloaded using the “Download all” button than a zip file will be downloaded.
+
+*The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
 **Step 18**
- Once the order test is passed and the product is ready to be published.
 
-Go to the product blank dashboard.
-
-Click on the product setting button from the product blank dashboard.
-
-Click on the “Publish” button.
+*  Once the order test is passed and the product is ready to be published.
+* Go to the product blank dashboard.
+* Click on the product setting button from the product blank dashboard.
+* Click on the “Publish” button.
 
 
 
 **Step 19**
- The product status will be updated as “Publish”.
- Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step
+
+*  The product status will be updated as “Publish”.
+
+
+   ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
