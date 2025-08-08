@@ -72,12 +72,11 @@ title: Set Up a Decor Product Blank
 
 # **Steps:**
 
-**Step 1.** Open the website link :
+**Step 1.** Open the website link 
  Enter valid login details and click on login button
 
 **Step 2.**  Click on “Product blanks” and then click on My Blanks.
  It will display the list of defined product Blanks.
- .
 
 **Step 3.** 
  To create a new product Blank click on the “Add” button.
@@ -87,41 +86,63 @@ title: Set Up a Decor Product Blank
 * **Product code** : Enter the unique product code.
 
 
-*  SKU ID : Enter SKU id is the same as product code or if it is different then enter accordingly.
+*  **SKU ID :** Enter SKU id is the same as product code or if it is different then enter accordingly.
+
+
    A product code, also known as a product number, SKU (Stock Keeping Unit), or UPC (Universal Product Code), is a unique identifier assigned to a particular product or item.
    .
 
 
-*  Category : Select Product Category, from the drop-down under which the product needs to be defined.
+*  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
 
  **How to Add a category & Sub-category**
 
-Subcategory : select product & Select Subcategory under which the product needs to be defined.
- **How to Add a category & Sub-category**
+**Subcategory :** select product & Select Subcategory under which the product needs to be defined.How to Add a category & Sub-category
 
-Product title : Enter product title
- Product Description : Enter Product Description not more than 200 chars. This description is used for internal definition.
+**Product title :** Enter product title
 
-Product thumbnail : select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
 
-Supplier : select the supplier under which the product will be listed.
+**Product Description** : Enter Product Description not more than 200 chars. This description is used for internal definition.
 
-Orientation: select the product orientation ie. portrait, landscape, square.
+**Product thumbnail :** select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
 
-Size : select product size. Eg, 12x12, 6x6 This size is used for internal definition.
+**Supplier :** select the supplier under which the product will be listed.
 
-Preview type : select the product preview type from the given drop-down.This option is used for internal definition.
- Note: Preview needs to be selected as per the product type.
+**Orientation:** select the product orientation ie. portrait, landscape, square.
+
+**Size :** select product size. Eg, 12x12, 6x6 This size is used for internal definition.
+
+**Preview type :** select the product preview type from the given drop-down.This option is used for internal definition.
+
+
+ **Note: Preview needs to be selected as per the product type.**
+
+
  Products Preview type
+
+
  Photobooks 3D
+
+
  Mini book 2D
+
+
  Calendar2D
+
+
  Canvas prints3D
+
+
  Mounted prints3D
+
+
  Frames3D
+
+
  Mug 3D
- Prints
- Image
+
+
+ Prints Image
 
 * Min pages : Enter min page count. Eg. for single surface product the page count is 1
    
@@ -130,21 +151,43 @@ Preview type : select the product preview type from the given drop-down.This opt
 
 Click on the next button to continue.
 
-**Step 5** Output type : select the output type for the product ie. .JPG / PDF
+**Step 5** 
+
+**Output type :** select the output type for the product ie. .JPG / PDF
  Click on the add printable surfaces button.
 
 **Step 6**
+
+
  Select surface type: from the given drop-down.
- Note : All specs and sizes to be entered are in inches.
- Image size : Enter image size specs .This image size is the printable image size of the product. Printable output image size.
- Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.
- for product config : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
 
-Safe area : Enter Safe area specs.
 
-Bleed area : Enter Bleed area specs.
+ **Note : All specs and sizes to be entered are in inches.**
+
+
+ **Image size :** Enter image size specs .This image size is the printable image size of the product. Printable output image size.
+
+
+ **Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.**
+
+
+ **for product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+
+
+
+**Safe area :** Enter Safe area specs.
+
+
+
+**Bleed area :** Enter Bleed area specs.
+
+
  The bleed is the area to be trimmed off.
+
+
  The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
+
+
  Trim area : Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
  Click on the add button to save the entered details.
 
