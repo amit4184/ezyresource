@@ -188,11 +188,13 @@ Click on the next button to continue.
  The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
 
 
- Trim area : Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
+ **Trim area :** Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
  Click on the add button to save the entered details.
 
 **Step 7**
- Printing components :
+
+
+** Printing components :**
  under printing components, add substrate, Lamination, binding, cover etc for the product.
  If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
  How to Add a Attributes & Attribute Options
