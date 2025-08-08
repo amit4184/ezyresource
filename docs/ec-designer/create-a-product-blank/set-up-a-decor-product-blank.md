@@ -6,6 +6,53 @@ title: Set Up a Decor Product Blank
 
 # **How to create a Decor Product Blank**
 
+
+
+
+
+
+
+### **Before You Start: Setup Checklist**
+
+Please review the following points to ensure a smooth and efficient product setup process:
+
+**Mask Images**
+
+For **simple products** (posters, prints), masks can be created during setup.
+
+For **complex products** (e.g., photobooks, frames), create masks in advance.
+[ View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+
+**Occasions**
+
+If your required **occasion** isn’t listed, add it here:
+[Add Occasion](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+
+**Subcategories**
+
+For custom **subcategories**, use this link:
+ [Manage Subcategories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+
+**Review Steps**
+
+Go through the setup steps once to know what resources you'll need.
+
+Once ready, start the product setup process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # **Glossary:**
 
 **Product Blank**  is a basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
