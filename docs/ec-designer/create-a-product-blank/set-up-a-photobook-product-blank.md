@@ -5,6 +5,35 @@ title: Set Up a Photobook Product Blank
 
 Choose Product Blank (Print yourself or choose a Product Blank)
 
+### **Before You Start: Setup Checklist**
+
+Please review the following points to ensure a smooth and efficient product setup process:
+
+**Mask Images**
+
+* For **simple products** (posters, prints), masks can be created during setup.
+* For **complex products** (e.g., photobooks, frames), create masks in advance.
+  [ View Mask Guidelines](<>)
+
+**Occasions**
+
+* If your required **occasion** isn’t listed, add it here:
+  [Add Occasion](<>)
+
+**Subcategories**
+
+* For custom **subcategories**, use this link:
+   [Manage Subcategories](<>)
+
+**Review Steps**
+
+* Go through the setup steps once to know what resources you'll need.
+* Once ready, start the product setup process.
+
+
+
+
+
 ### **Index**
 
 1. **Glossary** – Key terms and definitions
@@ -499,9 +528,6 @@ The product status will update to **Publish**.
 ![](/img/pbfs15.png)
 
 Open the photobook in the **Designer** to view the fully configured Full Spread photobook.
-
-
-
 
 ## **Need Help?**
 
