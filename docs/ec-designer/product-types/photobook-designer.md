@@ -362,7 +362,7 @@ Font style & size selection.
 
 
 
-### **Section III How Create a Fullspread Photobook in Template Creator**
+### **Section III How Create a Full spread Photobook in Template Creator**
 
 ### **Navigation Menus**
 
@@ -371,19 +371,26 @@ Font style & size selection.
 
 ### **Upload Photos**
 
-* Click on the **Photos** tab to add your own photos. This can be used as a **pre-designed template**.
-* **Supported file type**: .jpg / .jpeg
-* PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.
+* Click on the Photos tab to add your own photos, this can be used as a pre designed template. Supported file type is jpg/jpeg.
+* ***PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.***
+
+
 
 ### **Photo Holder**
 
-* Photo holder is a frame for holding the photo. These are predefined ratios for the holders, having square,portrait and landscape orientations.
+* Photo holders is a frame for holding the photo. These are predefined ratios for the holders, having square, portrait and landscape orientations.
+
+
 
 **To Add a Photo Holder:**
 
-Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+* Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+* Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
 
-Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
+
+
+
+
 
 ### **Layout**
 
@@ -391,37 +398,33 @@ Layouts tab displays the list of product sizes to which the template can be resi
 
  It will open in a new tab, the user then can save the template in that selected size.
 
-Note : 
+*Note :* 
 
-* **The resized template should be saved after it is loaded.**
-* **The resized template needs to be verified for any corrections in the template object alignments before saving.**
+* ***The resized template should be saved after it is loaded.***
+* ***The resized template needs to be verified for any corrections in the template object alignments before saving.***
 
-Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
 
-Click on the option beside the template to publish the template.
 
-The then saved template/template’s will be shown under the main template used for resizing.
-
-The template will display the resized sizes under it.
-
-To unpublish a published template click on the setting button beside the template and select and click on the “Unpublish” button. Product can be published without a template.
+* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+* Click on the option beside the template to publish the template.
+* The then saved template/template’s will be shown under the main template used for resizing. The template will display the resized sizes under it.
+* To unpublish a published template click on the setting button beside the template and select and click on the “Unpublish” button. Product can be published without a template.
 
 ### **Background**
+
 
 Backgrounds are images that are placed behind the main photos.These are selected backgrounds we currently offer.
 
 You can add your own backgrounds from the admin section.
 
-**Supported format**: .jpg
- **Important**: The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.
+***The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.***
 
-Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
 
- You can also choose to apply the background to the left page, right page, or both pages using the available options. 
 
-On a single sheet, you can either apply two different backgrounds.one for each page or use a single background across the whole sheet.
-
-This gives you the flexibility to create more beautiful and creative designs based on your style.
+* Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+*  You can also choose to apply the background to the left page, right page, or both pages using the available options. 
+* On a single sheet, you can either apply two different backgrounds.one for each page or use a single background across the whole sheet.
+* This gives you the flexibility to create more beautiful and creative designs based on your style.
 
 ### **Clipart**
 
@@ -429,22 +432,36 @@ This gives you the flexibility to create more beautiful and creative designs bas
 * You can add your own cliparts from the admin section. The file formats for cliparts are .png and are transparent images.
 * Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
 
+
+
+
+
 ### **Text**
 
 * You can add text in the text field, except for emoji that are currently unsupported.(emojis will be ignored is used)
 * Click on Floating text to add a text field.
 * Click on text to add a text field on the designer. 
-* Note - the default text field label ie. 'Enter Your text' will not be rendered. Any other text will be rendered and printed on the product.
-* The Center part of the designer is a work area. The work area will contain a full image displayed when the designer is invoked for the first time. The red dots on the image are the handles that can be used to resize the image as required.
+* ***Note - the default text field label ie. 'Enter Your text' will not be rendered. Any other text will be rendered and printed on the product.***
+
+
+
 
 **Text Options:**
 
-* Text Options: Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox. Font style & size selection. Font alignment option, Bold/Italics option and also the text color/text background color option.
+* Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox. Font style & size selection. Font alignment option, Bold/Italics option and also the text color/text background color option.
+* The Center part of the designer is a work area.
+* The work area will contain a full image displayed when the designer is invoked for the first time
+* The red dots on the image are the handles that can be used to resize the image as required.
+
+
+
+
 
 ### **Toolbar for Photo Editing**
 
-* **Lock / Unlock** –
-  this feature allows the user to lock/unlock any object in the design area.
+* **Lock / Unlock** – this feature allows the user to lock/unlock any object in the design area.
+
+
 * **Duplicate** – 
   allows you to copy a selected photo.
 * **Bring Forward** – 
@@ -490,4 +507,4 @@ This gives you the flexibility to create more beautiful and creative designs bas
 
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
+If you're stuck, don’t worry — just email us at **support@ezycreate.com**
