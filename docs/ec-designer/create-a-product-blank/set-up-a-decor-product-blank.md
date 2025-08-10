@@ -132,7 +132,7 @@ Once ready, start the product setup process.
 
  Prints Image
 
-* Min pages : Enter min page count. Eg. for single surface product the page count is 1
+* Min pages: Enter min page count. Eg. for single surface product the page count is 1
    
 * Max pages : Enter min page count. Eg. for single surface product the page count is 1
    These details will be as per the product specs.
@@ -190,8 +190,8 @@ Click on the next button to continue.
    Surface name : Enter a surface name based on the surface type selected.
 * Display mask image : Select and upload the Display mask image of the product.
 
-  **Note :**
-* ** *The mask image file format should be in .png***
+  ***Note :***
+* *** The mask image file format should be in .png***
    
 * ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.***
    
