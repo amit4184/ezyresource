@@ -1,9 +1,35 @@
 ---
 title: Set Up a Print Product Blank
 ---
-**How to Create a Print Product**
+## **How to Create a Print Product**[](https://admin.ezycreate.com/)[](mailto:feedback@ezycreate.com)
 
-[](https://admin.ezycreate.com/)[](mailto:feedback@ezycreate.com)
+
+### **Before You Start: Setup Checklist**
+
+Please review the following points to ensure a smooth and efficient product setup process:
+
+**Mask Images**
+
+* For **simple products** (posters, prints), masks can be created during setup.
+* For **complex products** (e.g., photobooks, frames), create masks in advance.
+  [ View Mask Guidelines](<>)
+
+**Occasions**
+
+* If your required **occasion** isn’t listed, add it here:
+  [Add Occasion](<>)
+
+**Subcategories**
+
+* For custom **subcategories**, use this link:
+   [Manage Subcategories](<>)
+
+**Review Steps**
+
+* Go through the setup steps once to know what resources you'll need.
+* Once ready, start the product setup process.
+
+[](mailto:feedback@ezycreate.com)
 
 ## **Glossary**
 
@@ -224,9 +250,6 @@ Note:
 * Status will update to Publish
 
 Once Published, the Product Blank Specs Cannot Be Changed.
-
-
-
 
 ## **Need Help?**
 
