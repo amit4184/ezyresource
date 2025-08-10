@@ -28,7 +28,7 @@ sidebar_label: How to Add Occasions
 
 
 
-   * The Occasion will get saved with a success message, and will be added to the Occasion dashboard.
+   * The Occasion will get saved with a success message and will be added to the Occasion dashboard.
 
 
 
@@ -48,7 +48,7 @@ sidebar_label: How to Add Occasions
 
 ### **Section II**
 
-1. To add occasion to a template click on the **“Template”** tab under the creative assets.
+1. To add occasion to a template, click on the **“Template”** tab under the creative assets.
 
 
 2. Click on the **“create new group”** button.
