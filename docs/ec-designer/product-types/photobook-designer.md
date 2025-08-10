@@ -314,40 +314,53 @@ Font style & size selection.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
-* Click Templates to view existing ones
+* Open Dashboard of current templates
+* Click on Templates to load the list of existing templates
+
+
+
+
 
 **Step 2: Open or Create a Template**
 
-* Start new or edit an existing one
+* Create a new template / Open any existing Template in template creator.
+* Click on the icon 
+* to create a new template
+* Click on the icon to edit a existing template
 
-**Step 3: Design or Edit Template**
 
-* Complete your base layout
-* Click Layout tab to choose another product size
 
-**Step 4: Choose New Size**
 
-* Click on a new size → Opens in new tab
 
-**Step 5: Save the Resized Template**
+3. Create a new design or edit any existing design
 
-* Review pages and fix alignments if needed
-* Click Save
+4. Once designing is done click on the layout button to open the layout tab.
 
-**Step 6: View Resized Versions**
+* The list of template sizes for resizing will be displayed
+* Select and click on the desired size from the layout tab.
 
-* Resized templates appear under the main design
-* Can be edited or published
+5. Once you click on the desired size from the layout tab, it will open the resized template in the new tab in the same browser
 
-**Step 7: Publish Resized Template**
+* Once the template is loaded click on the save button.
+* Open and check all pages for any changes if required to be done for the resized design.
+* *Note: resized templates requires manual verification and adjustment after resizing.* 
 
-* Click Publish to make it live
+*6.* Once all editing is done, click on the save button.
 
-**Step 8: Apply in Designer**
+* Click on the template to open and view the resized template details.
+* The resized template will be displayed under the main template.
+* The template can be edited/publishe
+* Publish the template to make it available to the user.
+* Once the template is published, open the resized product.
 
-* Open product in Designer
-* A warning will show before applying the template (it will overwrite any existing design)
-* Click Proceed to apply
+7. The resized template will be available to the user in the designer under the same category as the base template.
+
+8. Before applying the template a warning message will be displayed to the customer informing them that the selected template will get overwritten on the existing designer.
+
+* Click on proceed to continue to apply the template.
+* The template will get applied.
+
+
 
 ### **Section III How Create a Fullspread Photobook in Template Creator**
 
