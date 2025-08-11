@@ -532,7 +532,7 @@ You can add your own backgrounds from the admin section.
    Duplicate allows you to copy a selected photo.
 * **Font & Size** – 
 
-  Select the font and size for the text required.Currently we have set a few pre selected fonts.
+  Select the font and size for the text required. Currently we have set a few pre selected fonts.
 
   Fonts can be enabled from the admin section.
 * **Font Color & Background** – 
