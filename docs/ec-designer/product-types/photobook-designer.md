@@ -239,7 +239,7 @@ Here are some basic terms you'll see in this guide:
 
 **Text Options:** 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc25.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
 * Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox.
 
@@ -274,13 +274,13 @@ Font style & size selection.
 
 ### **Text Editing Tools**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc25.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
 * **Duplicate** – 
    Duplicate allows you to copy a selected photo.
 * **Font & Size** –
 
-  Select the font and size for the text required.Currently we have set a few pre selected fonts.
+  Select the font and size for the text required. Currently we have set a few pre selected fonts.
 * Fonts can be enabled from the admin section.
 * **Font Color & Background** – 
   Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
@@ -291,7 +291,7 @@ Font style & size selection.
 
 ### **Save / Preview / Close**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc29.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
 
 * **Save** – To save the designed template
 * **Preview** – 
