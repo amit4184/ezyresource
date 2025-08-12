@@ -2,222 +2,179 @@
 title: カレンダーデザイナー
 sidebar_label: カレンダーデザイナー
 ---
-##  **EzyDesigner カレンダーテンプレート作成方法**
+# How to Create an EzyDesigner Calendar Template?
 
-[
-](https://admin.ezycreate.com) **フィードバック送付先**: feedback@ezycreate.com
+[](https://admin.ezycreate.com)
 
-## **目次**
+## Introduction
 
-1. カレンダーテンプレートの機能
-2. カレンダーテンプレートの作成方法
-3. コレクションとイベントの作成方法
+Calendar Template Creator allows users to easily design custom calendar templates. These templates come with pre-designed date pad layouts, fonts, and color options, which users can personalize by adjusting text styles, colors, and event collections. With an easy-to-use design, this tool makes it simple to create professional-looking calendars without any design experience.
 
-## **セクション I：カレンダーテンプレートの機能**
+The calendar templates you create here will be used by customers in the EzyDesigner to customize and order printed calendars.
 
-### **主な機能**
+## Index
 
-* ダッシュボードからテンプレートにアクセス
-* 多言語イベントの追加対応
-* 日付パッド、画像、テキストなどのカスタマイズ
-* プレースホルダーを使ったデザイン配置
-* 背景・テキストカラーの変更
-* 未公開テンプレートの編集・プレビュー
-* テンプレート名、言語、公開状態などでフィルター可能
+**Sr. No | Section**
 
-### **用語解説**
+1 | Calendar Template Creator Features
 
-**用語**
+2 | How to Create a Calendar Template
 
-**意味**
+3 | How to create events and collection
 
-**Photo Holder**
+## Features that EzyDesigner Calendar Template Creator offers:
 
-ユーザーの画像を追加できる枠（正方形、縦型、横型）
+1. Access pre-designed templates in the dashboard to jumpstart your design process.
+2. Add multilingual events.
+3. Customize templates with calendar date pads, text, images & other design elements for various occasions.
+4. Design by selecting predefined place holders.
+5. Add background color and color to text.
+6. Edit an existing template that is unpublished.
+7. Preview the design in 2D view.
+8. A filter option to search the Template name occasions wise, language-wise, published.
 
-**Image Placeholder**
+## Glossary
 
-ダミー画像（ユーザーが後で差し替える用）
+**Photoholder vs Image Holder vs Image Placeholder**
 
-**Image Holder**
+Photo Holder: A spot made for adding a photo, like in a template or design.
 
-画像を配置するボックス
+Image Placeholder: A blank or default image shown until the real one is added.
+
+Image Holder: A box or space where the image will go.
 
 **Template Group**
 
-テンプレートのサイズ・バリエーション管理用グループ
+A way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
 
 **Collection**
 
-言語やテーマごとのイベント一覧
+A Collection is a set of both fixed and non-fixed events grouped together for easy management and organization. Collections help organize events efficiently, whether they are regional/language-based events.
 
 **Tags**
 
-テンプレートを検索しやすくするためのキーワード
+Tags are used to filter specific layouts.
 
-### **ナビゲーション＆編集ツール**
+# Section I – Template Creator Features
 
-#### **写真のアップロード**
+### Navigation Menus
 
-* 対応形式：**JPG/JPEG** のみ
-* CMYK画像は非対応（色ズレの原因）
+The template name and product name is displayed at the left top corner.
 
-####  **背景**
+### Upload Photos
 
-* プリセット or カスタム背景（JPG）を使用可能
-* CMYK形式は使用不可
+Click on the Photos tab to add your own photos. Supported file type is jpg/jpeg.
 
-#### **クリップアート**
+PLEASE DO NOT USE CMYK IMAGES, IF they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.
 
-* PNG形式（透過背景）のステッカーを追加可能
+### Photo Holder
 
-#### **テキスト挿入**
+Photo holders: photo holder is a frame for holding the photo. These are predefined ratios for the holders, having square, portrait and landscape orientations.
 
-* を使って編集可能なテキストを挿入
-    デフォルトの  は編集されない限り印刷されません
+Image placeholder is a dummy image created in different ratios and orientations for easy and fast designing.
 
-#### **テキスト編集ツール**
+Photo Holders - Click on Photo Holders, and it shows an image holder creator. Now click on it, and it will create an image holder on the designer.
 
-* ロック / ロック解除
-* 前面・背面の配置
-* 削除
-* フォントのスタイル・サイズ
-* 太字 / 斜体
-* テキスト＆背景カラー設定
+### Backgrounds
 
-#### **作業エリア & ツールバー**
+Backgrounds are images that are placed behind the main photos. These are selected backgrounds we currently offer.
 
-* メインキャンバスには、写真枠や日付パッドが表示
-* 赤い点＝サイズ調整ハンドル
-* 主なツール：
-    複製｜ ロック｜トリミング｜ 削除｜ レイヤー順変更
+You can add your own backgrounds from the admin section.
 
-####  **祝日リスト**
+The images need to be jpg format.
 
-* **固定イベント**：毎年同じ日（例：元日）
-* **非固定イベント**：毎年異なる（例：ディワリ）
+PLEASE DO NOT USE CMYK IMAGES, IF they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.
 
-#### **日付パッドのカスタマイズ**
+Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
 
-* レイアウト、フォント、色の選択
-* 幅・高さの調整（12ヶ月に一括適用）
-* フォントサイズ調整（+ / - ボタン）
-* テキストカラー選択で全体反映可能
+### Clipart
 
-## **セクション II：カレンダーテンプレート作成方法**
+Clipart are stickers that can be used to enhance your templates.
 
-### **Step 1：ログイン**
+You can add your own cliparts from the admin section. The file formats for cliparts are png and are transparent images.
 
-Admin にアクセスし、ログインします。
+Click on clipart, and it will show a list of clipart. Click on it to apply to the designer.
 
-### **Step 2：ダッシュボードへ移動**
+### Text
 
-左側のメニューから を選択。
+You can add text, but emojis are currently not supported.
 
-### **Step 3：既存テンプレートを見る**
+Click on the “Floating text” option to add a text field in the designer.
 
-をクリックし、保存済みテンプレートを表示。
+Click on text to add a text field on the designer.
 
-### **Step 4：新しいテンプレートの作成**
+**Note** - The default label on the text field i.e. 'Enter Your Text' will not be rendered if not edited. Any other text will be rendered and printed on the product.
 
-をクリック
+Eg. if a text field is added and no editing is done for it, then it will not get rendered.
 
-#### **4a：テンプレート情報の入力**
+**Text Options**: Template Creator has standard text options like “Locking/Unlocking” the text box, “Move Forward/Backward” option to move the textbox as desired, “Delete” option to delete the textbox, font style & size selection, font alignment option, Bold/Italics option and also the text color/text background color option.
 
-* **Template Name**：EzyDesignerに表示される名前
-* **Product**：カレンダー商品を選択
-* **Occasion**：用途・イベントを選択
-* **Tags**：例：#minimal #新年
+The Center part of the designer is a work area.
 
-「**Create**」をクリック → 新しいタブでテンプレートが開く
- 「**Cancel**」で作成をキャンセル
+The work area will contain an image holder and date pad displayed when the designer is invoked for the first time.
 
-#### **4b：テンプレートをカスタマイズ**
+The red dots on the image are the handles that can be used to resize the image and date pad as required.
 
-* デフォルトで日付パッド、画像ホルダー、ツールが読み込まれます
-* 日付パッドを必要に応じてリサイズ（全月に反映）
-* \> < を使って月を切り替え
-* 写真、テキスト、背景、クリップアートの追加も可能
+### Toolbar for Photo Editing
 
-#### **保存 & プレビュー**
+* Lock/Unlock: this feature allows the user to lock/unlock any object in the design area.
+* Duplicate: Duplicate allows you to copy a selected photo.
+* Bring Forward: Photos or text can be arranged one above the other using the Bring Forward button.
+* Send Back: Works similar to Bring Forward and sends the photo/text holder behind.
+* Crop: use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+* Add Photo: Allow to add a photo holder. You can select and drop an image on it.
+* Delete: Delete the selected photo holder.
 
-* をクリックで保存
-* をクリックで2D表示を確認
-* で管理画面に戻る（事前に保存必須）
+### Text Editing Tools
 
-###  **既存テンプレートの編集方法**
+* Duplicate: Duplicate allows you to copy a selected photo.
+* Font and size: Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the admin section.
+* Font Text Color & Background: Select the text color and background. The current version allows only pre-set colors.
+* Text alignment can be done using the above tool.
+* Text can be changed to bold or italic by toggling these buttons.
+* Click on Save to save the designed template.
+* Click on Preview to view the template on the product, currently only 2D preview is available.
+* Close will close the template and redirect back to the admin website.
 
-* 該当テンプレートグループを開く
-* テンプレート名の横にある ✎（編集）アイコンをクリック
-* 新しいタブでテンプレートが開く → 編集して「Publish」
-   **テンプレート名・商品種別は作成後に変更不可**
+### Gridlines
 
-## **セクション III：イベントコレクションの作成方法**
+Gridlines are provided to align two or more photos.
 
-###  **Step A：カレンダーイベントにアクセス**
+### Holiday List
 
-「**Designer Settings > Calendar Events**」をクリック
+You can view a list of fixed and non-fixed holidays.
 
-### **Step 1：イベントダッシュボードを確認**
+The default list will display all fixed holidays.
 
-全てのコレクション・ステータスを一覧表示
+Default (Fixed Holidays): Fixed holidays fall on the same date every year like New Year, Independence Day etc.
 
-### **Step 2：新しいコレクションを作成**
+Non-Fixed Holidays: Non-fixed or movable holidays do not have a set date each year. Examples include: Holi, Diwali etc.
 
-をクリック
+Click on default to view all fixed/ default holiday list.
 
-* コレクション名を入力
-* 言語を選択（例：
-* 「をクリック
+### Date Style
 
-### **Step 3：作成したコレクションを表示**
+* It includes all the options to modify the date pad style, such as date pad design, font, and text color.
+* Date Design: A Date Pad Style is the way dates and weekday names are displayed in calendars. You can select your predefined date pad style.
+* Date Style: You can modify the date pad style by selecting the font style, font size, and text color.
+* This feature allows users to dynamically modify the dimensions to fit different designs or user preferences.
+* This feature allows users to dynamically modify the dimensions of the date pad by adjusting the width and height according to their requirements.
 
-* コレクション名、言語、ステータスなどを確認
-* アイコンをクリックしてイベントを追加
+1. **NOTE** - The set width and height will be applied to the date pad across all pages.
 
-###  **Step 4：イベントを追加**
+### **Typography:** 
 
-をクリック
+* You can select your preferred font for the date pad by clicking on the dropdown button and choosing a font style.
+* You can adjust the font size by clicking on the “+” and “-” buttons.
+* Click on the color picker to display all the available color options. Select any color and click the Apply button. This option allows you to change only the color of the dates on the date pad.
+* Choose all your preferred options and click the Apply button. The date pad for all months will be updated according to your selection.
 
-* 日付選択、イベント名入力
-*  を設定
-* で登録
 
-例：英語では "New Year’s Day" → 日本語では 元日（がんじつ）
 
-### **Step 5：イベントの表示と管理**
 
-* **\= 固定イベント**
-* **\= 非固定イベント**
-* カレンダーアイコンで日付パッド上に表示確認可能
 
-###  **Step 6：イベント編集・削除**
 
-* 編集 → 詳細変更
-* 削除 → イベント削除
+### **Need Help?**
 
-### **Step 7：月別・年別フィルターで表示切替可能**
 
-###  **Step B：コレクション管理**
-
-「⋮（3点メニュー）」から以下操作可能：
-
-* 公開
-* 複製
-* 削除
-* ：コレクション名・言語の編集
-
-### **Step C：テンプレートとイベントの同期**
-
-* コレクションを「Publish」した後、テンプレートを再度開きます
-   → イベントは **Holiday List / 日付パッド** に反映されます
-
-## **これで準備完了！**
-
-独自のカレンダーテンプレートをEzyDesignerで作成・編集・公開する準備が整いました。
-
-お困りの際はお気軽にご連絡ください：
-
- **フィードバック**：feedback@ezycreate.com
-
- **サポート**：support@ezycreate.com
+If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
