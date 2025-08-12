@@ -2,122 +2,124 @@
 title: 既製品フロー
 sidebar_label: "Ready Product Flow "
 ---
-## **SOP：ECで新しい製品を作成する方法**
+**How to create a Ready Product & Add to a Store**
 
-### **概要**
+### **Step 1:** Open “My Products” tab and click on “create new product” button.
 
-このドキュメントは、ECで「製品」を作成するためのステップバイステップ手順を説明します。製品ブランクの選択から、製品ページの最終設定までを含み、重要な用語の定義、事前条件、および各フェーズの詳細な実行手順が含まれます。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS1.png)
 
-### **重要用語**
+* My products allow you to create products on website with content, images, similar to a product page on website.
 
-* **製品ブランク**：
-   寸法や種類などの基本的な定義のみが含まれるベースアイテム（例：マグカップ、Tシャツ）。
-   例：テンプレートや販売情報が未設定の標準11ozマグカップ。
-* **製品**：
-   価格設定、eコマース用メタデータ、少なくとも1つのデザインテンプレートなど、販売に必要な情報をすべて含むマーケット向け製品。
-* **製品タイプ**：
+### **Step 2: Click on the “Select product blank” option.**
 
-  * **カスタマイズ可能製品**：ユーザーがテキストや画像を追加してパーソナライズ可能。
-  * **製品**：事前にデザインされた製品。画像アップロード機能の有無は任意。
-* **テンプレート**：
-   製品ブランクに適用される事前定義されたデザインレイアウト。
-* **テンプレートグループ**：
-   デザイン構造を共有するテンプレートのコレクション。バリエーションの整理に使用。
-* **バリアント**：
-   デザイン、サイズ、色などの違いを持つ製品のバージョン。
-* **SKU**：
-   各バリアントに割り当てられた一意の識別子。
-* **アルバム**：
-   製品カスタマイズ用に事前アップロードされた画像コレクション。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS2.png)
 
-### **事前条件**
+* Click on the next button to continue.
 
-開始する前に以下を確認してください：
+### **Step 3: Select a product from the list of product blanks.**
 
-* EzyAdmin にログイン済みであること
-* 製品作成・管理権限があること
-* 少なくとも1つの製品ブランクと公開済みテンプレートが存在すること
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS3.png)
 
-### **手順：製品の作成方法**
+* As per the product type, select the “Ready Product” option.
 
-#### **ステップ1：製品作成画面に移動**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS4.png)
 
-1. EzyAdmin にログイン
-2. 左側メニューから→へ
-3. をクリック
+* Click on the next button to continue.
 
-#### **ステップ2：製品ブランクの選択**
+### **Step 4: Select a template for the product.**
 
-1. Step 1 -  で をクリック
-2. ベースアイテム（例）を選択
-3. 名称、、サイズ、説明を確認
-4. をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS5.png)
 
-#### **ステップ3：製品タイプの選択**
+* *Note: If the product template is already created and published, then it will appear here. You can also click on “Create new template” button to create one.*
 
-1. タブで を選択
-2. をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS6.png)
 
-#### **ステップ4：テンプレートの選択**
+* If you want to know how to create a template please refer:
+  EzyDesigner Template Creator
 
-1. をクリック
-2. 使用したいテンプレートを選択（表示されない場合は、テンプレートが公開されているか確認）
-3. をクリック
+### **Step 5: Once the template is selected.**
 
-#### **ステップ5：バリアントの追加**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS7.png)
 
-1. タブで をクリック
-2. 下記条件を満たしていることを確認：
+* Click on the next button to continue.
 
-   * 同じテンプレートグループ内のバリアント
-   * すべて視覚的に異なるデザイン
-   * 1つは でデフォルトに設定
-3. ゴミ箱アイコンで不要なバリアントを削除
-4. をクリック
+### **Step 6: If the template has other size variants (similar product blanks) created, then you can add variants here using the “Add variants” button.**
 
-#### **ステップ6：製品詳細の入力**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS8.png)
 
-1. 製品の言語を選択（例：英語）
-2. 以下を入力：
+* It refers to the multiple sizes for the same product.
 
-   * 製品名
-   * 説明
-   * 仕様：素材・サイズなど）
-   * タグ：検索やフィルター用）
-3. をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS9.png)
 
-#### **ステップ7：アルバムとアップロード設定**
+* Click on the next button to continue.
 
-1. をクリックし画像コレクションを関連付け
-2. * Creative Asset → Ready Albums にて管理可能
-3. 不要なアルバムは削除
-4. を必要に応じて有効化
-5. をクリック
+### **Step 7: Enter all the required details given here to be displayed on the product page.**
 
-#### **ステップ8：価格設定**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS10.png)
 
-1. バリアント一覧が表示される
-2. 各バリアントの アイコンをクリックし、SKUと価格を設定
-3. 各項目ごとに をクリック
-4. 「Next」をクリック
+* Click on the next button to continue.
 
-#### **ステップ9：モックアップ画像のアップロード**
+### **Step 8: Click on the** 
 
-1. 製品のプレビュー画像またはモックアップをアップロード
-2. モックアップは選択されたテンプレートを正確に表す必要があります
-3. をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS22.png)
 
-#### **ステップ10：最終確認と保存**
+###  **button under actions to update the SKU ID for the product.**
 
-1. 以下すべてを確認：
-2. * 製品情報
-   * バリアント
-   * 価格設定
-   * アルバム
-   * モックアップ
-3. 問題なければ をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS11.png)
 
-製品が正常に設定され、公開準備が整いました。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS12.png)
 
+* Click on the next button to continue.
 
- ご不明点は support@ezycreate.com までお問い合わせください。
+### **Step 9: On the “Print files” step, click on the “Select print ready files” button.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS13.png)
+
+* It will display the orders placed for this product. Only orders whose status is rendered will be displayed here.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS14.png)
+
+* If no orders were placed for this product then it will not show any orders here and you can place an order for your product by using the “Place a new order” button.
+* Once you click on the “Place a new order” button, it will open the product designer in a new tab and you can create and place your order.
+* Once the order status is updated to “rendered,” click the refresh button here and your order will get displayed here.
+* To view your order images click on the “view order images” button.
+* Once you have viewed your order you can then select your order and click on the save button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS15.png)
+
+* Click on the “Next” button to continue.
+
+### **Step 10: To upload the ready product mockup images click on the “Upload Product Mockup” button.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS16.png)
+
+* Click on the "choose files” button.
+* Choose image files from your device.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS17.png)
+
+* Note: Only PNG or JPEG image files are allowed for upload.
+
+### **Step 11: Once the images are uploaded.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS18.png)
+
+* Click on the “Next” button to continue.
+
+### **Step 12: Preview the page mockup and once all details are verified.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS19.png)
+
+* Click on the save button to save the product.
+* The product will get added to the dashboard.
+* To publish the product to store click on the publish button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS20.png)
+
+### **Step 13:** The product will be published to the store.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCRPNATS21.png)
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at **support@ezycreate.com** or send your thoughts to **feedback@ezycreate.com**.
