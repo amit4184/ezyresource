@@ -2,206 +2,149 @@
 title: 製品を作成
 sidebar_label: 製品を作成
 ---
-# **プロダクトブランクの作成方法**
+## **SOP: Creating a New Product in EzyCreate**
 
-## **インデックス**
+**Overview**
 
-用語集 – 重要用語と定義
+This document outlines the steps to create a merchandise product in EzyCreate from start to finish. It includes definitions of key terminologies, preconditions, and a detailed, step-by-step process.
 
- ステップ 1 – EzyCreate 管理画面にログイン
+**Key Terminologies**
 
- ステップ 2 – 「My Blanks」にアクセス
+**Product Blank:** A foundational base item (e.g., mug, t-shirt) that includes only basic definitions such as dimensions and type. It does not include pricing, eCommerce configurations, templates, or designs.
 
- ステップ 3 – 新しいプロダクトブランクを追加
+Example: A standard 11oz mug with no associated template or sales info.
 
- ステップ 4 – 基本的な商品情報を入力
+**Product:** A market-ready version that includes all attributes necessary for selling, including pricing, eCommerce metadata, and at least one design template.
 
- ステップ 5 – 出力タイプを選択
+**Product Types:**
 
- ステップ 6 – 印刷可能面の仕様を追加
+**Customizable Product:** End users can personalize this using the design tool (e.g., add images, text).
 
- ステップ 7 – 印刷構成要素を追加
+**Merchandise Product:** Pre-designed product (e.g., branded merch) that may or may not allow image uploads.
 
- ステップ 8 – デザイナー仕様を追加
+**Template:** A design layout applied to a product blank.
 
- ステップ 9 – 価格を設定
+**Template Group:** A collection of templates with similar designs, used to organize variants.
 
- ステップ 10 – 価格に関する注意点
+**Variant**: A version of the product that varies by design, size, color, etc., within the same template group.
 
- ステップ 11 – デザイナーで商品を確認
+**SKU** (Stock Keeping Unit): A unique identifier for each variant.
 
- ステップ 12～14 – 写真のアップロードと編集
+**Merch Album:** A group of pre-uploaded images used in product customization.
 
- ステップ 15～17 – テスト注文の作成とダウンロード
+**Preconditions**
 
- ステップ 18～19 – 商品の公開
+* The user is logged into the EzyAdmin. 
+* The user has appropriate permissions to create/manage products.
+* At least one product blank and one published template must be available.
 
-## **用語集**
+## **How to Create a Customizable Product**
 
-* **プロダクトブランク**：デザインと注文システムで商品がどのように機能するかを定義するための基本設定。視覚やテンプレート追加前に設定。
+**Step 1: Navigate to Product Creation**
 
+![](/img/inmpf17.png)
 
+* Log in to EzyAdmin.
+* In the left sidebar, go to Products → My Products.
+* Click + Create new product.
 
-* **プロダクトコード**：各商品の定義に必要な一意のコード。
-* **SKU ID**：商品またはバリアントごとに割り当てられるユニークID。
-* **セーフエリア**：デザインの際にカットされない安全領域。
-* **塗り足しエリア（Bleed）**：印刷物の端でカットされる部分。
-* **トリムエリア**：最終カットサイズ。
-* **用紙/属性**：使用する紙の種類（例：アートペーパー、シルキー）。
-* **ラミネート**：耐久性や外観向上のために追加される層。
-* **画像サイズ**：デザイナーで使用する画像のサイズ。
-* **写真幅**：デザイナーエリア全体に設定された写真サイズ。
-* **製本**：ページを綴じる方法（例：イメージラップ、糸綴じ）。
-* **表示マスク画像**：デザイナーで表示されるオーバーレイマスク。
-* **クリップパスマスク画像**：デザイン用に設定されたマスクエリア。
-* **オフセット値**：マスクの位置を設定する数値。
-* **カテゴリ / サブカテゴリ**：商品を分類するためのセクション。
-* **アプリ名**：使用されるデザイナータイプ（例：フォトブックデザイナー）。
-* **印刷可能面**：デザインが行われるエリア。
-* **出力タイプ**：注文後に生成されるファイルの形式（例：JPEG、PDF）。
-* **最小/最大ページ数**：開いたときのページ数制限。
+**Step 2: Select a Product Blank**
 
-## **ステップ 1 – ログイン**
+![](/img/inmpf2.png)
 
-サイトリンクを開く：Admin
- ログイン情報を入力し、「Submit」ボタンをクリック
+* Under Step 1 - Product Blank, click Select product blank.
+* Choose a base item (e.g., Standard Mug).
+* Preview the selected product blank (name, ID, size, description).
+* Click Next.
 
-## **ステップ 2 – へアクセス**
+**Step 3: Choose Product Type**
 
-「My Blanks」をクリック
- 定義済みの商品ブランク一覧が表示されます
+![](/img/incpf1.png)
 
-## **ステップ 3 – 新しいプロダクトブランクを追加**
+* In the Product Type tab, select:
+* Customizable product,
+* Click Next.
 
-ボタンをクリック
+**Step 4: Select Template**
 
-## **ステップ 4 – 基本情報の入力**
+![](/img/inmpf4.png)
 
-* **プロダクトコード**：一意のコードを入力
-* **SKU ID**：同じまたは異なるコードを入力
-* **商品タイプ、カテゴリ、サブカテゴリ**：ドロップダウンから選択
-* **商品タイトル**と**商品説明**（200文字以内）を入力
-* \*\*サムネイル画像（.jpg）\*\*をアップロード
-* **サプライヤー**、**向き（縦・横・正方形）**、**サイズ**を選択
-* **プレビュータイプ**を選択
+* Click Select a template.
+* Choose a template design.
+* Note: If your template does not appear, ensure it is published.
 
- **プレビューモードの選択ガイド**：
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF24.png)
 
-**商品タイプ**
+* Click Next.
 
-**プレビュータイプ**
+**Step 5: Add Product Variants**
 
-フォトブック 3D
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF28.png)
 
-ミニブック 2D
+* In the Product Variants tab:
+* Click + Add variants.
+* Only designs from the same template group can be added.
 
-カレンダー2D
+![](/img/inmpf13.png)
 
-キャンバスプリント 3D
+* Use the "Set default" option to mark one variant as the default.
 
-マウントプリント 3D
+![](/img/inmpf18.png)
 
-フレーム 3D
+* Use the trash icon to remove a variant.
 
-マグカップ 3D
+Important:
 
-プリント
+* All variants must be visually unique.
+* All variants must belong to the same template group.
+* One variant must be marked as default.
+* Click Next.
 
-画像
+Step 6: Enter Product Details
 
-\*\*ページ数（最小/最大）\*\*を入力
- 「Next」をクリック
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF6.png)
 
-## **ステップ 5 – 出力タイプの選択**
+* Select the product language (e.g., English).
+* Fill in:
+* Product Name
+* Description 
+* Specifications (materials, dimensions, etc.)
+* Tags (used for filtering and search)
+* Click Next.
 
-**JPG**または**PDF**を選択
- をクリック
+**Step 7: Set Product Prices**
 
-## **ステップ 6 – 印刷可能面の仕様を追加**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF16.png)
 
-* **面タイプ**を選択
-* すべてのサイズは「インチ」で入力
-* **画像サイズ / 写真サイズ / マスクのオフセット**を入力（必須）
-* **塗り足しエリア、セーフエリア、トリムエリア**を入力
-   （マグネットなど、角丸がある製品の場合は「角丸半径」も）
-   「Add」をクリックして保存
+* All added variants will be shown with editable:
+* SKU
+* Price
+* Click the Edit icon for each to update pricing.
 
-## **ステップ 7 – 印刷構成要素の追加**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF8.png)
 
-* **用紙**、**ラミネート**、**製本**などを追加
-* 新しいオプションが必要な場合：
-   　Attributes → Laminationsで先に追加
-* 例：用紙が「Artpaper」の場合、ラミネートは「Matte」や「Gloss」
+* Click Save after updating each entry.
+* Click Next.
 
-## **ステップ 8 – デザイナー仕様の追加**
+**Step 8: Upload Mockup Images**
 
-* **アプリ名**：EzyDesigner または EzyPrints を選択
-* **デフォルトテンプレート**を選択（作成済みの場合）
-* 「Add Designer Specs」ボタンをクリック
-* **面タイプ / 面名**を入力
-* **表示マスク画像**（.png）をアップロード
-* **クリップパスマスク画像**もアップロード（サイズ一致必須）
-* **幅・高さ・向き・マスクオフセット**（上下左右）を入力
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF20.png)
 
- **マスク要件**：
+* Upload visual previews/mockups.
+* Ensure the mockups visually represent the template accurately.
+* Click Next.
 
-* **プリント製品**：縦横両方のマスクが必要
-* **正方形製品**：正方形マスクのみでOK
-* **フォトブック**：Front/Back ラベルのあるマスクが必須
+**Step 9: Final Preview and Save**
 
-「Add」→「Next」で価格設定へ
+![](/img/inmpf11.png)
 
-## **ステップ 9 – 価格設定**
+* Review all information:
+* Product details
+* Variants
+* Pricing
+* Albums
+* Mockups
 
-### **▪ 単価価格**
+If everything is correct, click Save.
 
-* 原価と販売価格を入力
-* 「Add Price」→「Save」
-
-### **▪ ボリューム価格**
-
-* 最小数量、原価、販売価格を入力
-* 必要に応じて「Combine Set」にチェック
-* 「Add Price」→「Save」
-
-### **▪ 属性別価格**
-
-* 属性ごとに個別価格を設定
-* 「Add Price」→「Save」
-
-## **ステップ 10 – 価格に関する注意点**
-
-* 属性がない製品 → 単価価格
-* 一括注文される製品 → ボリューム価格
-* 属性によって価格が異なる製品 → 属性別価格
-
-## **ステップ 11 – デザイナーで確認**
-
-へ移動
- 作成された商品を確認
- をクリック
-
-## **ステップ 12～14 – 写真アップロード & 編集**
-
-* 「Upload Photo」ボタンをクリック
-* ファイルを選択またはドラッグ＆ドロップでアップロード
-* 写真を選択してデザイナーに追加
-* 写真を編集し、「Test Order」をクリック
-
-## **ステップ 15～17 – テスト注文とダウンロード**
-
-* が表示
-* タブで注文履歴を確認
-* をクリック
-* ステータスになったら：
-   　→「Download All」でZIPダウンロード
-   　→ 個別画像のダウンロードも可能
-* ダウンロード先を選択し、保存
-
-## **ステップ 18～19 – 商品の公開**
-
-* **Product Blank Dashboard**へ移動
-* **Product Setting → Publish**をクリック
-* 商品ステータスが「Publish」に更新される
-
-⚠️ **注意**：商品とテンプレートが公開されると、ブランク仕様は編集不可になります。
+Your product is now ready for publishing and sale on the platform. If you need additional guidance or encounter issues during setup, please contact the support team at **support@ezycreate.com**.
