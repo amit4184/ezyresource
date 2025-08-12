@@ -14,17 +14,17 @@ Please review the following points to ensure a smooth and efficient product setu
 
 * For **simple products** (posters, prints), masks can be created during setup.
 * For **complex products** (e.g., photobooks, frames), create masks in advance.
-  [ View Mask Guidelines](<>)
+  [ View Mask Guidelines]
 
 **Occasions**
 
 * If your required **occasion** isn’t listed, add it here:
-  [Add Occasion](<>)
+  [Add Occasion]
 
 **Subcategories**
 
 * For custom **subcategories**, use this link:
-   [Manage Subcategories](<>)
+   [Manage Subcategories]
 
 **Review Steps**
 
