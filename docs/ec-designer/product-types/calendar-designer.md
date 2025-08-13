@@ -229,7 +229,12 @@ Click on default to view all fixed/ default holiday list.
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM30.png)
 
 * Click on the color picker to display all the available color options. Select any color and click the Apply button. This option allows you to change only the color of the dates on the date pad.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM31.png)
+
 * Choose all your preferred options and click the Apply button. The date pad for all months will be updated according to your selection.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM32.png)
 
 ### **Need Help?**
 
