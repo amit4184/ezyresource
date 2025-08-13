@@ -26,6 +26,8 @@ title: Create Page Layouts
 
 ### **Step 1**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY1.png)
+
 Open: Stagging Link[
 ](https://stagingadmin.ezycreate.com) Use test credentials to Login.
 
@@ -35,13 +37,19 @@ From the dashboard click on:
  **Creative assets > Templates**
  It will display the list of templates.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY2.png)
+
 ### **Step 3**
 
 Click on the **“Create new group”** button.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY3.png)
+
 ### **Step 4**
 
 A form will be displayed. Enter the details:
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY4.png)
 
 * **Group name** – Enter the Group name, this template name will be displayed in the ezydesigner.
 * **Products** – Select a product from the product dropdown list
@@ -52,11 +60,19 @@ A form will be displayed. Enter the details:
 ### **Step 5**
 
 Click on **Create** to create the template.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY5.png)
+
+
  The template is created and the **Template Creator** will open in a new tab.
 
 ### **Step 6**
 
 To create a page layout design:
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY6.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY7.png)
 
 * Add a photo holder/holders as desired to the designer
 * Add single/multiple text fields to the designer as desired
@@ -66,9 +82,15 @@ To create a page layout design:
 ### **Step 7**
 
 Once the page layout design is ready, click on the **Save** button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY8.png)
+
+
  Select and click on the **“Save Layout”** option.
 
 ### **Step 8**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY9.png)
 
 Enter:
 
@@ -79,6 +101,8 @@ Click on **Save** to save the page layout.
 
 ### **Step 9**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY10.png)
+
 The saved layout will be displayed under the **Page Layout** tab with its respective name.
 
 **Note:**
@@ -88,24 +112,36 @@ The saved layout will be displayed under the **Page Layout** tab with its respec
 
 ### **Step 10**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY11.png)
+
 Users can also update an existing layout design:
 
 * Edit the design
 * Save it using the **“Update Layout”** option
 * Enter the layout name/tab and click on the **Update** button
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY12.png)
+
 The existing layout design will be updated, replacing the selected design.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY13.png)
+
 ### **Step 11**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY14.png)
 
 To search a saved layout:
 
 * Click on the **Page Layout filter** option
 * Enter the layout name or tag used while saving the layout
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY15.png)
+
 The layout tab will display the filtered results.
 
 ### **Step 12**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY16.png)
 
 To apply a layout:
 
@@ -116,12 +152,14 @@ To apply a layout:
 
 ### **Step 13**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY17.png)
+
 Once a layout is created in Template Creator:
 
 * Go to the **“Layouts”** dashboard under **Creative Assets**
 * The Layout Dashboard will display the created layouts
 
-**Step 14**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY18.png)
 
 Under Layouts tab, users can:
 
@@ -130,7 +168,9 @@ Under Layouts tab, users can:
 * **Publish** a layout
 * **Delete** a layout
 
-### **Step 15**
+### **Step 14**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY19.png)
 
 To **edit** layout details:
 
@@ -145,7 +185,9 @@ You can:
 * Upload a custom **thumbnail image** (.jpg format, square orientation recommended)
 * Click **Save**
 
-### **Step 16**
+### **Step 15**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY20.png)
 
 To **publish** a layout:
 
@@ -154,11 +196,17 @@ To **publish** a layout:
 
 The layout status will be updated to **“Published”**
 
-### **Step 17**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY21.png)
+
+### **Step 16**
 
 The published layout will now be visible under the **Page Layout** tab in the ezydesigner for end users.
 
-### **Step 18**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY22.png)
+
+### **Step 17**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY23.png)
 
 To **delete** a layout:
 
@@ -166,9 +214,6 @@ To **delete** a layout:
 * Select and click on the **“Delete”** button
 
 The layout will be deleted from both the **Template Creator** and the **end-user designer**.
-
-
-
 
 ## **Need Help?**
 
