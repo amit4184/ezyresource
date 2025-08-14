@@ -260,7 +260,7 @@ Click on the next button to continue.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB14.png)
 
- **Note :** in case of a product where multiple attributes to be set the attribute level pricing can be used.
+ **I**n case of a product where multiple attributes to be set the attribute level pricing can be used.
 
 * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
 * Select & set pricing for each attribute individually.
