@@ -214,7 +214,7 @@ Click on the next button to continue.
 * Display mask image : Select and upload the Display mask image of the product.
 
   ***Note :***
-*  ***The mask image file format should be in .png***
+* ***The mask image file format should be in .png***
 * ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
 * ***The product specs and both the mask images specs need to be maintained the same.***
    .
@@ -247,7 +247,6 @@ Click on the next button to continue.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB13.png)
 
-
  Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
 
 * Min quantity : enter min quantity.
@@ -260,57 +259,86 @@ Click on the next button to continue.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB14.png)
 
- **I**n case of a product where multiple attributes to be set the attribute level pricing can be used.
+ In case of a product where multiple attributes to be set the attribute level pricing can be used.
 
 * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
 * Select & set pricing for each attribute individually.
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
 
- **Note:** 
-
+  **Note:** 
 * a product having no attribute for such a product you'll can use single qty pricing.
 * a volume pricing is used for a product having min order qty. or to be ordered in bulk.
 * a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
 
 **Step 11**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB15.png)
+
 * Once the product is saved, open the product wizard list and it will display the created product.
 * Click on the “View in designer” button to preview the created product in the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB16.png)
 
 **Step 12**
 
 * The designer will open the defined product.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB17.png)
+
 **Step 13**
 
 * Click on the upload photo button.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB18.png)
+
 **Step 14**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB19.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB20.png)
 
 * Click to select files or drag and drop photos onto the uploader.
 * Click on upload button to upload the added photos
 * Once the photos are uploaded, click on the photo to add it to the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB21.png)
+
 * Photo preview will be displayed, now click on the photo to edit
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB22.png)
+
 * The photo edit menu will be displayed.
 * Once the editing is done click on the “Test Order” button.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB23.png)
+
 **Step 15**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
 
 * Will display a message as “Order placed successfully”.
 * The order tab will open displaying the recent order placed
 * Click on the ‘view” order details option
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
+
 **Step 16**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
 * Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
 * Check the order status.
    Once the status is shown as rendered, you can download the order images.
 * Orders can be downloaded using the “Download all” button or you can individually also download single images.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
+
 ***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
 **Step 17**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
 * Select a path to save the test order image.
 * Click on the save button.
@@ -321,6 +349,8 @@ Click on the next button to continue.
 
 **Step 18**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
+
 * Once the order test is passed and the product is ready to be published.
 * Go to the product blank dashboard.
 * Click on the product setting button from the product blank dashboard.
@@ -330,4 +360,6 @@ Click on the next button to continue.
 
 * The product status will be updated as “Publish”.
 
-  ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB30.png)
+
+* ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
