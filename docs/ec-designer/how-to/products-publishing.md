@@ -5,11 +5,15 @@ title: Product Publishing
 
 ### **Step 1: Open “My Products” tab and click on “create new product” button.**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
+
 * The *My Products* section allows you to create products on the website with content and images, similar to a product page.
 
 ### **Step 2: Click on the “Select product blank” option.**
 
 * Click on the **Next** button to continue.
+
+
 
 ### **Step 3: Select a product from the list of product blanks.**
 
