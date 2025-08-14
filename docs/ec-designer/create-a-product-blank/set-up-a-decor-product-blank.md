@@ -79,13 +79,21 @@ Once ready, start the product setup process.
 **Step 1.** Open the website link 
  Enter valid login details and click on login button
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
+
 **Step 2.**  Click on “Product blanks” and then click on My Blanks.
  It will display the list of defined product Blanks.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB2.png)
 
 **Step 3.** 
  To create a new product Blank click on the “Add” button.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB3.png)
+
 **Step 4.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
 
 * **Product code** : Enter the unique product code.
 *  **SKU ID :** Enter SKU id is the same as product code or if it is different then enter accordingly.
@@ -95,6 +103,8 @@ Once ready, start the product setup process.
 *  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
 
  **How to Add a category & Sub-category**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
 
 **Subcategory :** select product & Select Subcategory under which the product needs to be defined.How to Add a category & Sub-category
 
@@ -130,7 +140,7 @@ Once ready, start the product setup process.
 
  Mug 3D
 
- Prints Image
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
 
 * Min pages: Enter min page count. Eg. for single surface product the page count is 1
    
@@ -144,7 +154,11 @@ Click on the next button to continue.
 **Output type :** select the output type for the product ie. .JPG / PDF
  Click on the add printable surfaces button.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB5.png)
+
 **Step 6**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
 
  Select surface type: from the given drop-down.
 
@@ -169,7 +183,11 @@ Click on the next button to continue.
 
 **Step 7**
 
- **Printing components :**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB7.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB8.png)
+
+**Printing components :**
 
 * under printing components, add substrate, Lamination, binding, cover etc for the product.
 * If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
@@ -183,18 +201,21 @@ Click on the next button to continue.
 
 **Step 8**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
+
 * Select “**App name”** from the drop-down for example. for the decor type product the app name is “Ezydesigner”. According to this selection the product will open in that respective designer.
 * Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
 * To add the designer specs click on the “Add designer specs” button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
+
 * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
    Surface name : Enter a surface name based on the surface type selected.
 * Display mask image : Select and upload the Display mask image of the product.
 
   ***Note :***
-* *** The mask image file format should be in .png***
-   
-* ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.***
-   
+*  ***The mask image file format should be in .png***
+* ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
 * ***The product specs and both the mask images specs need to be maintained the same.***
    .
 * There is no recommended size as such as it is dependent on the product specs.
@@ -202,6 +223,9 @@ Click on the next button to continue.
    Enter Mask offsets (in inches) : Top offset, Left offset
    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 * Preview : you can click on the preview button to view the added mask image preview display.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB11.png)
+
 * Once all the required details are entered then to save these details click on the “Add” button.
 * Click the “Next” button to go to the Pricing Section.
 
@@ -211,25 +235,37 @@ Click on the next button to continue.
 
 **Step 9**
 
-* Price type : Select Price type as single qty pricing.
+**Price type : Select Price type as single qty pricing.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB12.png)
+
 * Enter Cost price & Selling price values.
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-* Price type : Select Price type as Volume Pricing.
-   Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+
+**Price type : Select Price type as Volume Pricing.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB13.png)
+
+
+ Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+
 * Min quantity : enter min quantity.
 * Cost price : enter Cost price & Selling price
 * Combine set : select the checkbox if the quantity sets are to be combined
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-* **Price type :** Select Price type as Attribute level pricing
-   **Note :** in case of a product where multiple attributes to be set the attribute level pricing can be used.
+
+**Price type : Select Price type as Attribute level pricing**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB14.png)
+
+ **Note :** in case of a product where multiple attributes to be set the attribute level pricing can be used.
+
 * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
 * Select & set pricing for each attribute individually.
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-
-**Step 10**
 
  **Note:** 
 
