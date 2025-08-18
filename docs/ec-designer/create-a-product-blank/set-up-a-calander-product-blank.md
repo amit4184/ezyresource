@@ -47,19 +47,13 @@ With an easy-to-use design, this tool makes it simple to create professional-loo
 
 * Click on **Photos** tab to add photos.
 * Supported file type: **JPG/JPEG**.
-* ***PLEASE DO NOT USE CMYK IMAGES,** IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.*
-
-
+* **\*PLEASE DO NOT USE CMYK IMAGES,** IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.*
 
 ### **Photo Holder / Image Holder**
 
 * Photo holders: photo holder is a frame for holding the photo. These are predefined ratios for the holders, having square,portrait and landscape orientations.
 * Image placeholder is a dummy image created in different ratios and orientations for easy and fast designing.
 * Photo Holders- Click on Photo Holders, and it shows an image holder creator, Now click on it, and it will create an image holder on the designer. 
-
-
-
-
 
 ### **Backgrounds**
 
@@ -69,20 +63,11 @@ With an easy-to-use design, this tool makes it simple to create professional-loo
   *The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors*
 * Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
 
-
-
-
-
 ### **Clipart**
 
 * Clipart are stickers that can be used to enhance your templates.
 * You can add your own cliparts from the admin section. The file formats for cliparts are png and are transparent images.
 * Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
-
-
-
-
-
 
 ### **Text**
 
@@ -94,13 +79,12 @@ With an easy-to-use design, this tool makes it simple to create professional-loo
   Eg. if a text field is added and no editing is done for it. Then it will not get rendered.
 * **Text Options:** Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox. Font style & size selection. Font alignment option, Bold/Italics option and also the text color/text background color option.
 
-
-
-
 ### **Work Area**
 
-* Displays **image holder** + **date pad** initially.
-* Red dots = resize handles for images/date pads.
+* The Center part of the designer is a work area.
+* The work area will contain an image holder and date pad displayed when the designer is invoked for the first time.
+* The red dots on the image are the handles that can be used to resize the image and date pad as required.
+
 
 ### **Toolbar for Photo Editing**
 
