@@ -245,18 +245,22 @@ Click on **Default** to view all fixed/default holiday lists.
 
 **Step 1: Login**
 
-* Visit:[ https://admin.ezycreate.com
-
-  ](https://admin.ezycreate.com)
+* Visit: admin page
 * Login with valid credentials.
 
 **Step 2: EzyAdmin**
 
 * From dashboard → Click **Templates** (left panel).
+* You will reach the EzyAdmin dashboard. Click on the Templates button on the left side pane to enter the template window.
+
+
 
 **Step 3: Dashboard of Current Templates**
 
-* Click **My Templates** to view existing templates.
+* Click **My Templates** to view existing templates. Click the “Create new group” button to create blank new templates. 
+
+
+
 
 **Step 4: Create a New Template**
 
