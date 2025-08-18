@@ -85,161 +85,70 @@ With an easy-to-use design, this tool makes it simple to create professional-loo
 * The work area will contain an image holder and date pad displayed when the designer is invoked for the first time.
 * The red dots on the image are the handles that can be used to resize the image and date pad as required.
 
-
 ### **Toolbar for Photo Editing**
 
-
-
 * **Lock/Unlock**: This feature allows the user to lock/unlock any object in the design area.
-
-
 * **Duplicate**: Duplicate allows you to copy a selected photo.
-
-
 * **Bring Forward**: Photos or text can be arranged one above the other using the Bring Forward button.
-
-
 * **Send Back**: Works similar to Bring Forward and sends the photo/text holder behind.
-
-
 * **Crop**: Use Crop to edit a photo. You can crop a portion and remove unnecessary parts of the photo.
-
-
 * **Add Photo**: Allows you to add a photo holder. You can select and drop an image on it.
-
-
 * **Delete**: Deletes the selected photo holder.
-
-
-
-
-
-
 
 ### **Text Editing Tools**
 
 * **Duplicate**: Duplicate allows you to copy a selected photo.
-
-
 * **Font and Size**: Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the admin section.
-
-
 * **Font Text Color & Background**: Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
-
-
 * **Text Alignment**: Text alignment can be done using the above tool.
-
-
 * **Bold/Italic**: The text can be changed to Bold or Italic by toggling these buttons.
-
-
-
-
-
-
 
 ### **Save & Preview**
 
 * **Save**: Click on Save to save the designed template.
-
-
 * **Preview**: Click on Preview to view the template on the product. Currently, only 2D preview is available.
-
-
 * **Close**: Close will close the template and redirect back to the admin website.
-
-
-
-
-
-
 
 ### **Gridlines**
 
 * Gridlines are provided to align two or more photos.
-
-
 * Example: Template alignment using gridlines.
-
-
-
-
-
-
 
 ### **Holiday List**
 
 * You can view a list of fixed and non-fixed holidays.
-
-
 * The default list will display all fixed holidays.
-
-
 
 **Default (Fixed Holidays):**
 
 * Fixed holidays fall on the same date every year, like New Year, Independence Day, etc.
-
-
 * Non-fixed Holidays: or movable holidays do not have a set date each year. Examples include Holi, Diwali, etc.
 
-
-
 Click on **Default** to view all fixed/default holiday lists.
-
-
-
-
 
 ### **Date Style**
 
 * Includes all the options to modify the date pad style, such as date pad design, font, and text color.
 
-
-
 **Date Design:**
 
 * A Date Pad Style is the way dates and weekday names are displayed in calendars. You can select your predefined date pad style.
 
-
-
 **Date Style Options:**
 
 * You can modify the date pad style by selecting the font style, font size, and text color.
-
-
 * This feature allows users to dynamically modify the dimensions to fit different designs or user preferences.
-
-
 * This feature allows users to dynamically modify the dimensions of the date pad by adjusting the width and height according to their requirements.
-
-
-
-
 
 ⚠️ **Note**: The set width and height will be applied to the date pad across all pages.
 
 **Typography:**
 
 * You can select your preferred font for the date pad by clicking on the dropdown button and choosing a font style.
-
-
 * Adjust the font size by clicking on the “+” and “-” buttons.
-
-
 * Click on the color picker to display all the available color options. Select any color and click the **Apply button**. This option allows you to change only the color of the dates on the date pad.
 
-
-
-
-
 ✅ Choose all your preferred options and click the apply button. The date pad for all months will be updated according to your selection.
-
-
-
-
-
-
 
 # **Section II – How to Create a Template**
 
@@ -253,43 +162,98 @@ Click on **Default** to view all fixed/default holiday lists.
 * From dashboard → Click **Templates** (left panel).
 * You will reach the EzyAdmin dashboard. Click on the Templates button on the left side pane to enter the template window.
 
-
-
 **Step 3: Dashboard of Current Templates**
 
 * Click **My Templates** to view existing templates. Click the “Create new group” button to create blank new templates. 
 
-
-
-
 **Step 4: Create a New Template**
 
 * Click **Create New Group**.
-* Fill the form:
+* Fill the form: A form will be displayed.
+* Enter the details 
 
-  * **Template Name** → name to display in EzyDesigner
-  * **Product** → select calendar product
-  * **Occasion** → select from dropdown
-  * **Tags** → add hashtags for filtering
-* Click **Create** → opens Template Creator in new tab.
+  * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
+
+
+  * Products - Select a calendar product from the product dropdown list
+
+
+  * Occasions - Select an occasion from the occasion dropdown list
+
+
+  * Tags: add the #tags. Note : Hashtags are used to filter specific templates.
+
+
+  * Create - Click on the create button to open the template in the new tab.
+
+
+  * Cancel - Click on the cancel button to cancel the template form
+* **Create** - Click on the create button to create the template, the template is created and the Template creator will open in a new tab
+* Select one page of the calendar, and then a default date pad, image holder, and other template creator features will be displayed.
+
+
+
+
+
+
+
+
+
+
 
 **Step 5: Editing Pages**
 
-* Default **date pad, image holder, and features** appear.
-* Resize date pad with handles.
-* Date pad applies to all 12 months automatically.
-* Navigate between months using **< > arrows**.
+* A default date pad will be created, and you can resize it by adjusting /dragging the resize handles
+* **Note:** The date pad is automatically added for all 12 months of the calendar, so don’t need to create or delete it manually. After opening in the designer, the Date Pad will be automatically locked to prevent changes.
+* Click on “>” to navigate to the next month's page and “<” to go to the previous month's page.
+* Note : The calendar includes 12 monthly pages by default. You can switch between them using the given navigation arrows.
+
+
 
 **Step 6: Save, Preview, Close**
 
-* Save → save progress.
-* Preview → see 2D version.
-* Close → return to admin.
+
+
+* Save → save progress.  Click on Save to save the designed template.
+
+* Preview → see 2D version.  Click on preview to view the template on the product, currently only 2D preview is available.
+
+* Close → return to admin. 
+  Close will close the template and redirect back to the admin website.
+
+
 
 **Editing Existing Template**
 
+* Click on the Template Group that you want to edit.
 * Go to template group → click edit icon → template opens in new tab.
-* Make changes → publish to store.
+* Click on this icon **EDIT** shown beside the template, to edit an existing template.
+* The template will open in a new tab
+* Publish the changes to your stores.
+
+
+**Edit template details**
+
+* Click on the icon **EDIT** toedit an existing template
+* Once a template is created, the template name and product blank details cannot be changed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Note: Template name & product blank **cannot** be changed once created.
 
 # **Section III – How to Create Collection and Events**
