@@ -241,61 +241,102 @@ Click on **Default** to view all fixed/default holiday lists.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Note: Template name & product blank **cannot** be changed once created.
-
 # **Section III – How to Create Collection and Events**
 
 ### **Step A: Create Collection**
 
-1. Go to **Designer Settings → Calendar Events**.
-2. Click **Create New Collection** → fill form:
+1. Go to **Designer Settings → Calendar Events**. 
+   Click on calendar events under designer settings. Calendar events dashboard will open 
 
-   * Collection Name
-   * Language
-   * Save
-3. Collection is listed with status & actions.
+
+
+
+
+* Click **Create New Collection.**  A Collection is a set of both fixed and non-fixed events grouped together for easy management and organization. Collections help organize events efficiently, whether they are regional/language-based events.
+
+  Click on "Create New Collection" to open a form for creating a new event collection.
+
+
+  Collection is listed with status & actions. Add the collection name, select your preferred language from the dropdown, and click Save to save the event collection.
+
+
+
 
 ### **Step B: Create Events**
 
-1. Click calendar icon → **Create New Event**.
-2. Fill form:
+1. The created event collection will be listed with the collection name, status, and action details.
+2. Click calendar icon → **Create New Event**. 
+3. To create events, click on "Create New Event." This will open a form. 
+4. Select a date and add a title for the event.
 
-   * Select Date
-   * Add Title (in collection language, e.g., 元日 instead of New Year’s Day)
-   * Mark **Fixed = Yes**
-   * Save
-3. Fixed Events → same date every year (e.g., Independence Day).
-4. Non-Fixed Events → changing dates (e.g., Holi, Diwali).
-5. Events listed with **date, title, fixed status, actions**.
+   Keep the “Fixed” selection as “Yes”
 
-* Edit → modify & save.
-* Delete → remove event.
-* View events in date pad.
-* Filter by **month/year**.
-* Fixed events = **red dot**, Non-fixed = **green dot**.
+   Click on Save button.
+
+   **Note:** Add events in the language that you selected while creating the collection.
+
+   **Example:** If you want to add a Japanese-language event, add 
+
+   **元日 (がんじつ)** instead of **New Year's Day (January 1)**
+
+
+
+5. Fixed Events → same date every year (e.g., Independence Day). 
+   These occur on the same date every year, such as New Year's Day and Independence Day.
+
+
+6. Non-Fixed Events → changing dates (e.g., Holi, Diwali). 
+   These do not have a set date each year, such as Holi and Diwali.
+
+
+7. Events listed with **date, title, fixed status, actions**. 
+
+
+   The created event will be listed with the event date, event title, fixed status, and action details. 
+
+   Click on the calendar icon to view the events in a date pad.
+8. Edit → modify & save. 
+    To edit a created event, click on the Edit button, make the necessary changes, and save it.
+9. Delete → remove event. 
+   To delete an event, click on the Delete button.
+10. View events in date pad. 
+
+    In the calendar date pad, you can view the created fixed and not fixed event
+11. Filter by **month/year**. 
+
+
+    You can filter the calendar and view all events by selecting the year and month.
+
+
+
+* Fixed events = **red dot**, Non-fixed = **green dot**. 
+  Fixed events will be displayed with a red dot and non-fixed events with a green dot.
+
+
 
 ### **Step C: Publish / Manage Collection**
 
-* Three-dot menu options:
+* Three-dot menu options: Click on the three dots to view three options:
 
-  * **Publish** → publish to store.
-  * **Copy** → duplicate collection.
-  * **Delete** → remove collection.
-* Edit collection → update name & language.
+
+
+  * **Publish** → publish to store. Click to publish the event collection.
+
+
+  * **Copy** → duplicate collection. Click to copy the event collection.
+
+
+  * **Delete** → remove collection. Click to delete the event collection.
+
+
+* Edit collection → update name & language. 
+
+
+  Click on the edit button to edit the event collection name and language 
+
+
 
 ### **Final Step**
 
-After publishing the collection, reopen the created template → events will display in **Holiday List** and **Calendar Date Pad**.
+
+After publishing the collection and reopening the created template, the collection’s events will be displayed in the Template Creator's holiday list and on the date pad of the calendar.
