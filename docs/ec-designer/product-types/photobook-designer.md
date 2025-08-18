@@ -5,8 +5,6 @@ title: Photobook Designer
 
 📧 Need help? Email us at: **support@ezycreate.com**
 
-💬 Feedback? Send it to: **feedback@ezycreate.com**
-
 **Introduction:**
 
 EzyDesigner template creator allows users to create custom templates that can be used with the Ezydesigner. These templates typically include pre-designed layouts, fonts, and colors that users can customize with their own text, images, and other design elements. 
