@@ -3,7 +3,7 @@ title: Print Designer
 ---
 **How to Create a Print Product**
 
-[](https://admin.ezycreate.com/)📩 Feedback Email: [feedback@ezycreate.com](mailto:feedback@ezycreate.com)
+[](https://admin.ezycreate.com/)📩 Feedback Email: [support@ezycreate.com](mailto:support@ezycreate.com)
 
 ## **Glossary**
 
