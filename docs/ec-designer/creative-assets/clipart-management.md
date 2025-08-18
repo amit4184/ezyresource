@@ -106,4 +106,4 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
+If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
