@@ -63,7 +63,6 @@ Click on **Create** to create the template.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY5.png)
 
-
  The template is created and the **Template Creator** will open in a new tab.
 
 ### **Step 6**
@@ -84,7 +83,6 @@ To create a page layout design:
 Once the page layout design is ready, click on the **Save** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCAPLAY8.png)
-
 
  Select and click on the **“Save Layout”** option.
 
@@ -217,4 +215,4 @@ The layout will be deleted from both the **Template Creator** and the **end-user
 
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
+If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
