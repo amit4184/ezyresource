@@ -1,5 +1,5 @@
 ---
-title: Set Up a Calander Product Blank
+title: Set Up a Calendar Product Blank
 ---
 # **How to Create an EzyDesigner Calendar Template**[](https://admin.ezycreate.com)
 
