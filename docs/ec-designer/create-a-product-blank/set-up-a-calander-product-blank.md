@@ -88,45 +88,158 @@ With an easy-to-use design, this tool makes it simple to create professional-loo
 
 ### **Toolbar for Photo Editing**
 
-* Lock/Unlock object
-* Duplicate
-* Bring Forward / Send Back
-* Crop
-* Add Photo
-* Delete
+
+
+* **Lock/Unlock**: This feature allows the user to lock/unlock any object in the design area.
+
+
+* **Duplicate**: Duplicate allows you to copy a selected photo.
+
+
+* **Bring Forward**: Photos or text can be arranged one above the other using the Bring Forward button.
+
+
+* **Send Back**: Works similar to Bring Forward and sends the photo/text holder behind.
+
+
+* **Crop**: Use Crop to edit a photo. You can crop a portion and remove unnecessary parts of the photo.
+
+
+* **Add Photo**: Allows you to add a photo holder. You can select and drop an image on it.
+
+
+* **Delete**: Deletes the selected photo holder.
+
+
+
+
+
+
 
 ### **Text Editing Tools**
 
-* Duplicate
-* Font & size (limited fonts – can enable more in admin)
-* Text color & background (preset only, color picker in next version)
-* Alignment, Bold, Italic
+* **Duplicate**: Duplicate allows you to copy a selected photo.
 
-### **Saving & Preview**
 
-* **Save** – saves the design.
-* **Preview** – view 2D preview.
-* **Close** – exit and return to admin.
+* **Font and Size**: Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the admin section.
+
+
+* **Font Text Color & Background**: Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
+
+
+* **Text Alignment**: Text alignment can be done using the above tool.
+
+
+* **Bold/Italic**: The text can be changed to Bold or Italic by toggling these buttons.
+
+
+
+
+
+
+
+### **Save & Preview**
+
+* **Save**: Click on Save to save the designed template.
+
+
+* **Preview**: Click on Preview to view the template on the product. Currently, only 2D preview is available.
+
+
+* **Close**: Close will close the template and redirect back to the admin website.
+
+
+
+
+
+
 
 ### **Gridlines**
 
-* Used to align multiple photos.
+* Gridlines are provided to align two or more photos.
+
+
+* Example: Template alignment using gridlines.
+
+
+
+
+
+
 
 ### **Holiday List**
 
-* View **fixed** and **non-fixed** holidays.
-* **Fixed Holidays**: Same date every year (e.g., New Year).
-* **Non-Fixed Holidays**: Move each year (e.g., Holi, Diwali).
+* You can view a list of fixed and non-fixed holidays.
+
+
+* The default list will display all fixed holidays.
+
+
+
+**Default (Fixed Holidays):**
+
+* Fixed holidays fall on the same date every year, like New Year, Independence Day, etc.
+
+
+* Non-fixed Holidays: or movable holidays do not have a set date each year. Examples include Holi, Diwali, etc.
+
+
+
+Click on **Default** to view all fixed/default holiday lists.
+
+
+
+
 
 ### **Date Style**
 
-* Modify **date pad style, font, color**.
-* Options:
+* Includes all the options to modify the date pad style, such as date pad design, font, and text color.
 
-  * Date Pad Style (predefined)
-  * Font style, size, and color
-  * Width & height of date pad (applies across all pages)
-  * Typography & alignment
+
+
+**Date Design:**
+
+* A Date Pad Style is the way dates and weekday names are displayed in calendars. You can select your predefined date pad style.
+
+
+
+**Date Style Options:**
+
+* You can modify the date pad style by selecting the font style, font size, and text color.
+
+
+* This feature allows users to dynamically modify the dimensions to fit different designs or user preferences.
+
+
+* This feature allows users to dynamically modify the dimensions of the date pad by adjusting the width and height according to their requirements.
+
+
+
+
+
+⚠️ **Note**: The set width and height will be applied to the date pad across all pages.
+
+**Typography:**
+
+* You can select your preferred font for the date pad by clicking on the dropdown button and choosing a font style.
+
+
+* Adjust the font size by clicking on the “+” and “-” buttons.
+
+
+* Click on the color picker to display all the available color options. Select any color and click the **Apply button**. This option allows you to change only the color of the dates on the date pad.
+
+
+
+
+
+✅ Choose all your preferred options and click the apply button. The date pad for all months will be updated according to your selection.
+
+
+
+
+
+
 
 # **Section II – How to Create a Template**
 
