@@ -205,7 +205,7 @@ Click on **Default** to view all fixed/default holiday lists.
 
 * A default date pad will be created, and you can resize it by adjusting /dragging the resize handles
 * **Note:** The date pad is automatically added for all 12 months of the calendar, so don’t need to create or delete it manually. After opening in the designer, the Date Pad will be automatically locked to prevent changes.
-* Click on ">" to navigate to the next month's page and "<" to go to the previous month's page.
+* Click on > to navigate to the next month's page and < to go to the previous month's page.
 * Note : The calendar includes 12 monthly pages by default. You can switch between them using the given navigation arrows.
 
 
