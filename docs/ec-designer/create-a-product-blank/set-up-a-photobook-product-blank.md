@@ -13,26 +13,22 @@ Please review the following points to ensure a smooth and efficient product setu
 
 * For **simple products** (posters, prints), masks can be created during setup.
 * For **complex products** (e.g., photobooks, frames), create masks in advance.
-  [ View Mask Guidelines]
+  \[ View Mask Guidelines]
 
 **Occasions**
 
 * If your required **occasion** isn’t listed, add it here:
-  [Add Occasion]
+  \[Add Occasion]
 
 **Subcategories**
 
 * For custom **subcategories**, use this link:
-   [Manage Subcategories]
+   \[Manage Subcategories]
 
 **Review Steps**
 
 * Go through the setup steps once to know what resources you'll need.
 * Once ready, start the product setup process.
-
-
-
-
 
 ### **Index**
 
@@ -531,4 +527,4 @@ Open the photobook in the **Designer** to view the fully configured Full Spread 
 
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](mailto:support@ezycreate.com)
+If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
