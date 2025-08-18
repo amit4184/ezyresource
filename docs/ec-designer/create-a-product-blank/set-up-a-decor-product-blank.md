@@ -205,7 +205,7 @@ Click on the next button to continue.
 
 * Select “**App name”** from the drop-down for example. for the decor type product the app name is “Ezydesigner”. According to this selection the product will open in that respective designer.
 * Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
-* To add the designer specs click on the “Add designer specs” button.
+* To add the designer specs click on the "Add designer specs" button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
 
