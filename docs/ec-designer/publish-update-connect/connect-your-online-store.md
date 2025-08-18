@@ -131,4 +131,4 @@ Live link for users to view:
 
 ## **Need Help?**
 
-If you're stuck, don’t worry — just email us at [customercare@ezycreate.com](customercare@ezycreate.com)
+If you're stuck, don’t worry — just email us at [support@ezycreate.com](support@ezycreate.com)
