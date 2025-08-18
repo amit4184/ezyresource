@@ -50,7 +50,7 @@ export default {
       'create-a-product-blank/set-up-a-photobook-product-blank',
       'create-a-product-blank/set-up-a-print-product-blank',
       'create-a-product-blank/set-up-a-decor-product-blank',
-      'create-a-product-blank/set-up-a-calander-product-blank',
+      'create-a-product-blank/set-up-a-calendar-product-blank',
         'create-a-product-blank/mask-img-generation',
       ],
     },
