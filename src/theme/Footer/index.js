@@ -16,12 +16,12 @@ function Footer() {
     en: {
       supportButton: "Submit a request",
       helpTitle: "Not finding what you need? We're here to help!",
-      copyright: `Copyright © ${new Date().getFullYear()} Ezycreate`
+      copyright: `Copyright © ${new Date().getFullYear()} ezycreate.com`
     },
     ja: {
       supportButton: "リクエストを送信",
       helpTitle: "お探しのものが見つかりませんか？お手伝いします！",
-      copyright: `著作権 © ${new Date().getFullYear()} Ezycreate`
+      copyright: `著作権 © ${new Date().getFullYear()} ezycreate.com`
     }
   };
 
