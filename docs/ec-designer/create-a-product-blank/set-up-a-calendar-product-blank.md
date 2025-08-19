@@ -177,11 +177,9 @@ Click **Add → Next (Pricing Section)**
 
 
 
-***Note:*** 
+***Note:** a product having no attribute for such a product you'll can use single qty pricing. volume pricing is used for a product having min order qty. or to be ordered in bulk. product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.*
 
-* *a product having no attribute for such a product you'll can use single qty pricing.*
-* *a volume pricing is used for a product having min order qty. or to be ordered in bulk.*
-* *a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.*
+
 
 
 
@@ -192,16 +190,12 @@ Click **Add → Next (Pricing Section)**
 * Click on the “View in designer” button to preview the created product in the designer.
 * The designer will open the defined product. Click on the upload photos button.
 * The upload photo pop-up will be displayed.
-* 
-  * Click to select files or drag and drop photos onto the uploader.
-  * Click on upload button to upload the added photos
-
-
-
-
-
-
-
+* Click to select files or drag and drop photos onto the uploader.
+* Click on upload button to upload the added photos
+* Once the photos are uploaded, click on the photo to add it to the designer.
+* Photo preview will be displayed, now click on the photo to edit
+* The photo edit menu will be displayed.
+* Once the editing is done click on the “Test Order” button.
 
 
 
