@@ -592,30 +592,17 @@ You can add your own backgrounds from the admin section.
 
 
 
-Step 3. 
+**Step 3.** 
 
-**Create a new design or edit any existing design**
-
+* Create a new design or edit any existing design
 * Once designing is done, click on the **layout** button to open the layout tab.
 
 
-
-
-
-
-
-**The list of template sizes for resizing will be displayed.**
-
+* The list of template sizes for resizing will be displayed.
 * Select and click on the desired size from the layout tab.
 
 
-
-
-
-
-
-**Once you click on the desired size from the layout tab, it will open the resized template in the new tab in the same browser.**
-
+* Once you click on the desired size from the layout tab, it will open the resized template in the new tab in the same browser.
 * Once the template is loaded, click on the **save** button.
 
 
