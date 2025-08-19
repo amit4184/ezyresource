@@ -559,6 +559,135 @@ You can add your own backgrounds from the admin section.
 
 * Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text field is moved in towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
 
+
+
+
+## **Section II How To Resize a Template in Template Creator**
+
+**Step 1.** 
+
+**Open Dashboard of current templates**
+
+
+
+1. * Click on **Templates** to load the list of existing templates.
+
+
+
+
+
+
+
+**Create a new template / Open any existing Template in Template Creator.**
+
+* Click on the icon to create a new template.
+
+
+
+**OR**
+
+* Click on the icon to edit an existing template.
+
+
+
+
+
+
+
+**Create a new design or edit any existing design**
+
+* Once designing is done, click on the **layout** button to open the layout tab.
+
+
+
+
+
+
+
+**The list of template sizes for resizing will be displayed.**
+
+* Select and click on the desired size from the layout tab.
+
+
+
+
+
+
+
+**Once you click on the desired size from the layout tab, it will open the resized template in the new tab in the same browser.**
+
+* Once the template is loaded, click on the **save** button.
+
+
+
+
+
+
+
+**Open and check all pages for any changes if required to be done for the resized design.**
+
+* **Note:** Resized templates require manual verification and adjustment after resizing.
+
+
+* Once all editing is done, click on the **save** button.
+
+
+
+
+
+
+
+**Click on the template to open and view the resized template details.**
+
+
+
+
+
+**The resized template will be displayed under the main template.**
+
+
+
+
+
+**The template can be edited/published**
+
+* Publish the template to make it available to the user.
+
+
+
+
+
+
+
+**Once the template is published, open the resized product.**
+
+
+
+
+
+**The resized template will be available to the user in the designer under the same category as the base template.**
+
+
+
+
+
+**Before applying the template, a warning message will be displayed to the customer informing them that the selected template will overwrite the existing designer.**
+
+* Click on **Proceed** to continue to apply the template.
+
+
+
+
+
+
+
+**The template will get applied.**
+
+
+
+
+
+
 ## **Need Help?**
 
 If you're stuck, don’t worry — just email us at **support@ezycreate.com**
