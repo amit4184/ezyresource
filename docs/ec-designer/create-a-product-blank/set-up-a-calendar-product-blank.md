@@ -107,20 +107,16 @@ Click **Next**
 
   ***Note :** under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.*
 * **for product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+* Safe area : Enter Safe area specs.
+* Bleed area :  Enter Bleed area specs. The bleed is the area to be trimmed off.
+
+  The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
 
 
+* Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
+* Click **Add** button to save the entered details
 
 
-
-
-
-  * **Photo size** (width & height)
-  * **Safe area**
-  * **Bleed area**
-  * **Trim area**
-  * **Offsets**
-
-Click **Add**
 
 ### **6. Printing Components**
 
