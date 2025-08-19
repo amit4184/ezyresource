@@ -159,20 +159,24 @@ Click **Add → Next (Pricing Section)**
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
 * Price type : Select Price type as Volume Pricing. 
-* Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
 
-  * Min quantity : enter min quantity.
-  * Cost price : enter Cost price & Selling price
-  * Combine set : select the checkbox if the quantity sets are to be combined
+  *Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.*
+* Min quantity : enter min quantity.
+* Cost price : enter Cost price & Selling price
+* Combine set : select the checkbox if the quantity sets are to be combined
+* Click on the add price button to save the details.
+* Click on save button to save the add product form.
+* Price type : Select Price type as Attribute level pricing 
+* Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.
+
+  * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
+  * Select & set pricing for each attribute individually.
   * Click on the add price button to save the details.
   * Click on save button to save the add product form.
 
 
 
 
-
-* **Volume Pricing** (bulk orders): Min qty, cost, selling, combine set
-* **Attribute Level Pricing** (per material/attribute)
 
 Click **Save**
 
