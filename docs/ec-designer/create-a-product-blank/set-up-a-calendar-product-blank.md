@@ -196,6 +196,18 @@ Click **Add → Next (Pricing Section)**
 * Photo preview will be displayed, now click on the photo to edit
 * The photo edit menu will be displayed.
 * Once the editing is done click on the “Test Order” button.
+* To add photos, click on the photos tab and select photos from the added albums.
+* To add Backgrounds, click on the backgrounds tab and select and add backgrounds from the available categories
+
+* To add Stickers, click on the stickers tab and select and add stickers from the available categories.
+* To add Text, click on the text tab and click on the “**Add a text box**” option to add a text field.
+* Select and set the “**Start Date**” options and click on confirm to apply the settings.
+
+* Select and set any  “**Custom Holidays**” and click on the  “**+Add Holiday**” button to apply the changes.
+* You can check the list of holidays. Once the editing is done then click on the test order button.
+* Click on the process button to continue.
+
+
 
 
 
