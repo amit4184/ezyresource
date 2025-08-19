@@ -154,7 +154,23 @@ Click **Add → Next (Pricing Section)**
 
 ### **8. Pricing**
 
-* **Single Qty Pricing** → Cost & Selling price
+* Price type : Select Price type as single qty pricing.
+* Enter Cost price & Selling price values.
+* Click on the add price button to save the details.
+* Click on save button to save the add product form.
+* Price type : Select Price type as Volume Pricing. 
+* Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+
+  * Min quantity : enter min quantity.
+  * Cost price : enter Cost price & Selling price
+  * Combine set : select the checkbox if the quantity sets are to be combined
+  * Click on the add price button to save the details.
+  * Click on save button to save the add product form.
+
+
+
+
+
 * **Volume Pricing** (bulk orders): Min qty, cost, selling, combine set
 * **Attribute Level Pricing** (per material/attribute)
 
