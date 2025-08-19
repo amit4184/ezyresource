@@ -125,23 +125,10 @@ Click **Next**
 * Select “App name” from the drop-down for example. for the  multipage calendar type products, the app name is  “**EzyCalendar**”. According to this selection the product will open in that respective designer.
 * Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
 * To add the designer specs click on the “Add designer specs” button.
-* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
-* Surface name : Enter a surface name based on the surface type selected.
-* Display mask image : Select and upload the Display mask image of the product.
-* **Note :**
-
-  * * The mask image file format should be in .png*
-  * *To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*
-  * *The product specs and both the mask images specs need to be maintained the same.*
-  * *For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
 
 
 * **Add Designer Specs**:
-
-
-
-
-  * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+* * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
 
   * Surface name : Enter a surface name based on the surface type selected.
 
@@ -149,10 +136,10 @@ Click **Next**
 
   * **Note :**
 
-    *  **The mask image file format should be in .png**
-    * **To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.**
-    * **The product specs and both the mask images specs need to be maintained the same.**
-    * **For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.**
+    *  *The mask image file format should be in .png*
+    * *To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*
+    * *The product specs and both the mask images specs need to be maintained the same.*
+    * *For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
 
   *
 
