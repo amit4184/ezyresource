@@ -210,41 +210,40 @@ Click **Add → Next (Pricing Section)**
 
 
 
+* Will display a message as “Order placed successfully”.
+* The order tab will open displaying  the recent order placed
+* Click on the ‘view” order details option
+* Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+* Check the order status.
+* Once the status is shown as rendered, you can download the order images.
+* Orders can be downloaded using the “Download all” button or you can individually also download single images.
+
+  *Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once*
 
 
 
 
 
 
+* Select a path to save the test order image.
+* Click on the save button.
+* The image will get downloaded to the selected location.
+* If the order is downloaded using the  “Download all” button than a zip file will be downloaded. 
+
+The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
 
 
-Click **Save**
 
-### **9. Product Confirmation**
 
-* Open **Product wizard list**
-* Click **View in designer** → Preview product
+* Once the order test is passed and the product is ready to be published.
+* Go to the product blank dashboard.
+* Click on the product setting button from the product blank dashboard.
+* Click on the “Publish” button.
 
-### **10. Test Order**
 
-* Upload photos → Add to designer
-* Use features: Photos, Backgrounds, Stickers, Text
-* Set **Start Date & Holidays**
-* Click **Test Order → Process**
-* Confirmation → “Order placed successfully”
-* View order details
 
-### **11. Render & Download**
 
-* Renderer processes order → Status = Rendered
-* Download via **Download all** (zip) or individual images
-* Save to location
-* File ready for print/email
 
-### **12. Publish Product**
 
-* Go to **Product Blank Dashboard**
-* Click **Product Settings → Publish**
-* Status updates to **Published**
-
-⚠ Once **Product & Templates are Published**, Product Blank Specs **cannot be changed**
+* The product status will be updated as “Publish”.
+* **Once the Product is Published & Templates are Published, Product Blank Specs Cannot be Changed.**
