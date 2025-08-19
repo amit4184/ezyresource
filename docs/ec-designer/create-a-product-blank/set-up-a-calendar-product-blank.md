@@ -120,13 +120,28 @@ Click **Next**
 
 ### **6. Printing Components**
 
-* Add **Substrate, Lamination, Binding, Cover**
-* Example: artpaper + matte/gloss
-* If new option → define under **Admin → Attributes**
+* under printing components, add substrate, Lamination, binding, cover etc for the product.
+* If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
+* [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
+* [](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)Under options : select and set an option as per the substrate/lamination etc selected.
+  Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
+
+
+
+
+
+
+
 
 ### **7. Designer Specs**
 
-* **App Name** → e.g., *EzyCalendar*
+* 
+  * Under options : select and set an option as per the substrate/lamination etc selected.
+    Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
+
+
+
+  **App Name** → e.g., *EzyCalendar*
 * **Default Template** → select or none
 * **Add Designer Specs**:
 
