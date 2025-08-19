@@ -22,19 +22,35 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 
 **Login to Ezyadmin**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI1.png)
+
 * Enter your login credentials and click the **"Submit"** button.
 
 ## **Access Backgrounds**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI2.png)
+
 * Click on the **“Background”** tab to view available background categories.
    *Will display the list of category*
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI3.png)
+  
 * Select a category to view the list of added backgrounds.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI4.png)
+
    *It will display the list of added Background*
 
 ## **Add a New Background**
 
 * Click on the **“Add”** button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI5.png)
+
   To Add a new background click on the “Add” button. 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI6.png)
+  
   Will open an Add form 
 * **Display name:** Enter the display name.
 * **Image:** Click **“Choose File”** to upload a background image (*JPG format recommended*).
@@ -43,11 +59,19 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 * **Save:** Save newly added background.
 * **Cancel:** Cancel the form.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI7.png)
+
   Successfully Added background
 
 ## **Edit Background**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI8.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI9.png)
+
 * Click on **edit symbol** to edit the added background.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI10.png)
+  
 * *Edit form will open*
 
   * **Display name:** Edit the display name
@@ -56,7 +80,13 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
   * **Status:** Use the slider to enable or disable the background.
   * **Save:** Save the changes
   * **Cancel:** Cancel the changes
+ 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI11.png)
+
 * Click the **“Preview”** icon to view the added background.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI12.png)
+  
 * **Combine under a section:** In the preview window, use the following options:
 
   **Zoom In:** Enlarge the image view
@@ -69,8 +99,16 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 
 ## **Create Template Using Backgrounds**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI13.png)
+
 * Click on **Templates** to load the list of existing templates.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI14.png)
+  
 * Click the **“Create”** button to create blank new templates.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI15.png)
+  
 * **Template name** – Enter the Template name
 
   *Example: “First Birthday Template” would help*
@@ -87,12 +125,22 @@ The Ezyadmin is a cloud-based product management portal for your products. The E
 
 ## **Template Creator Tab**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI16.png)
+
 * Template creator will open in a new tab
 
 ## **Use Added Background in Template**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI17.png)
+
 * Click on **background**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI18.png)
+
    *Will show all the added background*
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTABACKI19.png)
+
 * The background added successfully in template creator
    *Can use it to create template/design*
 
