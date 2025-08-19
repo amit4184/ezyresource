@@ -170,6 +170,68 @@ products. The Ezydesigner makes use of creative assets like cliparts and backgro
 
 
 
+### **Managing Backgrounds**
+
+1. **Login**
+
+   Enter your login credentials and click the **“Submit”** button.
+
+
+2. **View Background Categories**
+
+3. * Click on the **“Background”** tab to see the available categories.
+
+
+   * A list of categories will be displayed.
+
+
+4. **Select a Category**
+
+
+5. * Click on a category to view the list of added backgrounds.
+
+
+
+   * The added backgrounds for the selected category will be displayed.
+
+
+6. **Add a New Background**
+
+
+7. * Click the **“Add”** button to open the add form.
+
+
+
+   * Fill in the form fields:
+
+
+
+   * **Display Name**: Enter the name to display.
+
+
+   * **Image**: Click **“Choose File”** to upload a background image (JPG recommended).
+
+
+   * **Public**: Enable or disable visibility.
+
+
+   * **Status**: Use the slider to enable or disable the background.
+
+
+
+   * Click **Save** to add the background or **Cancel** to discard.
+
+
+8. **View Uploaded Backgrounds**
+
+
+9. * The newly uploaded background thumbnails will appear in the selected category.
+
+### 
+
+
+
+
 
 
 
