@@ -174,11 +174,15 @@ products. The Ezydesigner makes use of creative assets like cliparts and backgro
 
 **1. Login**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI1.png)
+
 Enter your login credentials and click the **“Submit”** button.
 
 
 
 **2. View Background Categories**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI2.png)
 
 * Click on the **“Background”** tab to see the available categories.
 *  A list of categories will be displayed.
@@ -187,14 +191,18 @@ Enter your login credentials and click the **“Submit”** button.
 
 **3. Select a Category**
 
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI3.png)
 
 * Click on a category to view the list of added backgrounds.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI4.png)
 
 * It will display the list of added Background
 * To Add an additional background click on the “Add” button.
 
 **4. Add a New Background**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI5.png)
 
 * Will open an Add form 
 * **Display name**: Enter the display name.
@@ -207,6 +215,8 @@ Enter your login credentials and click the **“Submit”** button.
 
 
 **5. View Uploaded Backgrounds**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTAABI6.png)
 
 It will display the uploaded thumbnails in the selected background category. 
 
