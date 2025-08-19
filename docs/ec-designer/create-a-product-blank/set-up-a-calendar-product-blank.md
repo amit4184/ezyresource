@@ -126,46 +126,28 @@ Click **Next**
 * Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
 * To add the designer specs click on the “Add designer specs” button.
 
+**Add Designer Specs**:
 
-* **Add Designer Specs**:
-* * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+* Surface name : Enter a surface name based on the surface type selected.
+* Display mask image : Select and upload the Display mask image of the product.
 
-  * Surface name : Enter a surface name based on the surface type selected.
+**Note :**
 
-  * Display mask image : Select and upload the Display mask image of the product.
+*  *The mask image file format should be in .png*
+* *To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*
+* *The product specs and both the mask images specs need to be maintained the same.*
 
-  * **Note :**
+*For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
 
-    *  *The mask image file format should be in .png*
-    * *To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*
-    * *The product specs and both the mask images specs need to be maintained the same.*
-    * *For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
-
-  * 
-    * Display mask image width : Enter Display mask image width in inches.
-    * Display mask image height : Enter Display mask image height in inches.
-    * There is no recommended size as such as it is dependent on the product specs.
-    * Orientation : select orientation for  the added images as per the uploaded mask.
-    * Enter Mask offsets (in inches) : Top offset, Left offset 
-
-    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
+* Display mask image width : Enter Display mask image width in inches.
+* Display mask image height : Enter Display mask image height in inches.
+* There is no recommended size as such as it is dependent on the product specs.
+* Orientation : select orientation for  the added images as per the uploaded mask.
+* Enter Mask offsets (in inches) : Top offset, Left offset . 
+  Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 
 
-
-
-
-
-
-
-
-  Surface Type
-
-  * Surface Name
-  * Upload **Display Mask (.png)**
-  * Upload **Clippath Mask**
-  * Enter mask width, height, offsets
-  * Orientation → as per uploaded mask
-  * Preview → check alignment
 
 Click **Add → Next (Pricing Section)**
 
