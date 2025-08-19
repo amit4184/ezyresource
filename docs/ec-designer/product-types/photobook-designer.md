@@ -662,7 +662,284 @@ You can add your own backgrounds from the admin section.
 
 
 
-**The template will get applied.**
+* The template will get applied.
+
+
+
+
+
+### **Section III. How Create a Full spread Photobook in Template Creator**
+
+
+
+
+**Navigation Menus**
+
+* The template name and product name are displayed at the left top corner.
+
+
+
+
+
+
+
+**For Photobook Product**
+
+* Additional pages can be added using the “Add Pages” button at the bottom of the template designer.
+
+
+
+
+
+
+
+**Upload Photos**
+
+* Click on the **Photos** tab to add your own photos. This can be used as a pre-designed template. Supported file type is **jpg/jpeg**.
+   **PLEASE DO NOT USE CMYK IMAGES.** If they are uploaded, they will be converted to normal JPG, and during this process, something can go wrong with the colors. It also depends on the printer's profile.
+
+
+
+
+
+
+
+**Photo Holder:**
+
+* A **photo holder** is a frame for holding the photo. These are predefined ratios for the holders, with square, portrait, and landscape orientations.
+
+
+* **Image Photo-holder**: A placeholder frame in various standard sizes (square, portrait, landscape) for easy and fast designing.
+
+
+* * Click on **Photo Holders**, and it shows an image holder creator (highlighted in red). Now click on it, and it will create an image holder on the designer.
+
+
+
+
+
+
+
+**Layout:**
+
+* The **Layouts** tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the **layout tab**, select any desired product size, and click on it.
+
+
+* * It will open in a new tab, and the user can then save the template in that selected size.
+
+
+* **Note:**
+
+
+* * The resized template should be saved after it is loaded.
+
+
+
+  * The resized template needs to be verified for any corrections in the template object alignments before saving.
+
+
+* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+
+
+* Click on the option beside the template to **publish** the template.
+
+
+
+
+
+
+
+**To Unpublish a Published Template:**
+
+* Click on the **setting button** beside the template and select **Unpublish**.
+
+
+* A product can be published without a template.
+
+
+
+
+
+
+
+**Backgrounds:**
+
+* **Backgrounds** are images placed behind the main photos. These are selected backgrounds currently offered.
+
+
+* * You can add your own backgrounds from the **admin section**. The images need to be in **JPG format**.
+     **PLEASE DO NOT USE CMYK IMAGES.** If uploaded, they will be converted to normal JPG, and something may go wrong with the colors.
+
+
+* Click on **Background**, and it shows a list of background images. Click on any background image to apply it to the designer.
+
+
+* * You can also choose to apply the background to the left page, right page, or both pages using the available options.
+
+
+* On a single sheet, you can apply two different backgrounds, one for each page, or use a single background across the whole sheet. This gives you the flexibility to create more beautiful and creative designs based on your style.
+
+
+
+
+
+
+
+**Clipart:**
+
+* **Clipart** are stickers that can be used to enhance your templates.
+
+
+* * You can add your own clipart from the **admin section**. The file formats for clipart are **.png** (transparent images).
+
+
+
+
+
+
+
+**Text:**
+
+* You can add **text** in the text field, except for emojis, which are currently unsupported (emojis will be ignored if used).
+
+
+* * Click on **Floating Text** to add a text field.
+
+
+
+  * Click on **Text** to add a text field on the designer.
+
+
+
+  * **Note**: The default text field label (i.e., 'Enter Your text') will not be rendered. Any other text will be rendered and printed on the product.
+
+
+
+
+
+
+
+**Text Options:**
+
+* Template Creator has standard text options like:
+
+
+* * **Locking/Unlocking** the text box
+
+
+
+  * **Move Forward/Backward** options to move the textbox as desired
+
+
+
+  * **Delete** option to delete the textbox
+
+
+
+  * Font style & size selection
+
+
+
+  * Font alignment option
+
+
+
+  * **Bold/Italics** option
+
+
+
+  * Text color/text background color option
+
+
+
+
+
+
+
+**Center Part of the Designer:**
+
+* The **work area** will contain a full image displayed when the designer is invoked for the first time.
+
+
+* * The red dots on the image are the handles that can be used to resize the image as required.
+
+
+
+
+
+
+
+**Toolbar for Photo Editing:**
+
+* **Lock/Unlock:** This feature allows the user to lock/unlock any object in the design area.
+
+
+* **Duplicate:** Duplicate allows you to copy a selected photo.
+
+
+* **Bring Forward:** Photos or text can be arranged one above the other using the **Bring Forward** button.
+
+
+* **Send Back:** Works similarly to Bring Forward and sends the photo/text holder behind.
+
+
+* **Crop:** Use Crop to edit a photo; you can crop a portion and remove unnecessary parts of the photo.
+
+
+* **Add Photo:** Allows you to add a photo holder. You can select and drop an image on it.
+
+
+* **Delete the Selected Photo Holder.**
+
+
+
+
+
+
+
+**Text Editing Tools:**
+
+* **Duplicate:** Duplicate allows you to copy a selected photo.
+
+
+* **Font and Size:** Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the **admin section**.
+
+
+* **Font Text Color & Background:** Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
+
+
+* **Text Alignment:** Alignment can be done using the above tool.
+
+
+* **Bold/Italic:** The text can be changed to **bold** or **italic** by toggling these buttons.
+
+
+
+
+
+
+
+**Click on Save to save the designed template.**
+
+* Click on **Preview** to view the template on the product (currently, only 2D preview is available).
+
+
+* **Close** will close the template and redirect back to the admin website. *(Always save before closing.)*
+
+
+
+
+
+
+
+**Gridlines:**
+
+* **Gridlines** are provided to align two or more photo holders, text fields, etc., when the photo/text field is moved towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
+
+
+
+
+
 
 
 
