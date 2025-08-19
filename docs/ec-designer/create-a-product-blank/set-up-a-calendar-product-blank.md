@@ -167,12 +167,33 @@ Click **Add → Next (Pricing Section)**
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
 * Price type : Select Price type as Attribute level pricing 
-* Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.
 
-  * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
-  * Select & set pricing for each attribute individually.
-  * Click on the add price button to save the details.
-  * Click on save button to save the add product form.
+  *Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.*
+* Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
+* Select & set pricing for each attribute individually.
+* Click on the add price button to save the details.
+* Click on save button to save the add product form.
+
+
+
+
+***Note:*** 
+
+* *a product having no attribute for such a product you'll can use single qty pricing.*
+* *a volume pricing is used for a product having min order qty. or to be ordered in bulk.*
+* *a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.*
+
+
+
+
+
+
+* Once the product is saved, open the product wizard list and it will display the created product.
+
+
+
+
+
 
 
 
