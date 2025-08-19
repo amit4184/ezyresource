@@ -28,8 +28,13 @@ title: Define Product Categories
 
 ## **How to Add a New Category**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS1.png)
+
 1. **Click on the** Category **tab.**
 2. **Click** Add **to create a new category.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS2.png)
+   
 3. **Fill in the required details into the Add Category form:**
 
    * **Category ID**: Enter a unique category ID (e.g., CAT008).
@@ -41,14 +46,21 @@ title: Define Product Categories
 4. **Click on the** Save **button.**
 5. **To edit a category:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS1.png)
+
    * Click on the Edit button.
    * Make necessary changes.
    * Click on the Save button.
 
 ## **How to Add a New Sub-Category**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS3.png)
+
 1. **Click on the** Sub-category **tab.**
 2. **Click** Add **to create a new sub-category.**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS4.png)
+
 3. **Fill in the required details into the Add Sub-category form:**
 
    * **Sub-category ID**: Enter a unique sub-category ID (e.g., SCAT005 — must follow SCAT### format).
@@ -60,6 +72,8 @@ title: Define Product Categories
    * **Status**: Toggle to **‘Enabled’** to make the sub-category live.
 4. **Click on the** Save **button.**
 5. **To edit a sub-category:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACATGRS3.png)
 
    * Click on the Edit button.
    * Make necessary changes.
