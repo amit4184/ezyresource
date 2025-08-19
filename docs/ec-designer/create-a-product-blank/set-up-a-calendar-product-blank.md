@@ -94,29 +94,21 @@ Click **Next**
 ### **5. Output & Surfaces**
 
 * **Output Type** → select the output type for the product ie. .JPG / PDF
-
-
 * Click **Add printable surfaces**
 * **Surface Type** → Select surface type: from the given drop-down. For eg. a calendar will have a cover page surface and inner pages surfaces.
 
   ***Note : All specs and sizes to be entered are in inches.***
-
 * **Image size** 
   Enter image size specs .This image size is the printable image size of the product. Printable output image size.
 
-
-  ***Note :** under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.*
+  **\*Note :** under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.*
 * **for product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
 * Safe area : Enter Safe area specs.
 * Bleed area :  Enter Bleed area specs. The bleed is the area to be trimmed off.
 
   The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
-
-
 * Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
 * Click **Add** button to save the entered details
-
-
 
 ### **6. Printing Components**
 
@@ -126,22 +118,42 @@ Click **Next**
 * [](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)Under options : select and set an option as per the substrate/lamination etc selected.
   Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
 
-
-
-
-
-
-
-
 ### **7. Designer Specs**
 
+
+*Please note designer specs need to be in inches.*
+
+
+
+* Select “App name” from the drop-down for example. for the  multipage calendar type products, the app name is  “**EzyCalendar**”. According to this selection the product will open in that respective designer.
+* Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
+* To add the designer specs click on the “Add designer specs” button.
+* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
+* Surface name : Enter a surface name based on the surface type selected.
+* Display mask image : Select and upload the Display mask image of the product.
 * 
-  * Under options : select and set an option as per the substrate/lamination etc selected.
-    Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
+  **Note :**
+
+  *  **The mask image file format should be in .png**
+  * **To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.**
+  * **The product specs and both the mask images specs need to be maintained the same.**
+  * **For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.**
 
 
 
-  **App Name** → e.g., *EzyCalendar*
+
+
+
+
+
+
+
+
+
+
+
+
+
 * **Default Template** → select or none
 * **Add Designer Specs**:
 
