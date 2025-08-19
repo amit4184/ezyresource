@@ -141,7 +141,20 @@ Click **Next**
     * *The product specs and both the mask images specs need to be maintained the same.*
     * *For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
 
-  *
+  * 
+    * Display mask image width : Enter Display mask image width in inches.
+    * Display mask image height : Enter Display mask image height in inches.
+    * There is no recommended size as such as it is dependent on the product specs.
+    * Orientation : select orientation for  the added images as per the uploaded mask.
+    * Enter Mask offsets (in inches) : Top offset, Left offset 
+
+    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
+
+
+
+
+
+
 
 
 
