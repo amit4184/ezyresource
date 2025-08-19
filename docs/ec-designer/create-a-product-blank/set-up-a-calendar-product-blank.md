@@ -189,6 +189,19 @@ Click **Add → Next (Pricing Section)**
 
 
 * Once the product is saved, open the product wizard list and it will display the created product.
+* Click on the “View in designer” button to preview the created product in the designer.
+* The designer will open the defined product. Click on the upload photos button.
+* The upload photo pop-up will be displayed.
+* 
+  * Click to select files or drag and drop photos onto the uploader.
+  * Click on upload button to upload the added photos
+
+
+
+
+
+
+
 
 
 
