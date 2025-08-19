@@ -146,8 +146,9 @@ Click **Next**
 * Orientation : select orientation for  the added images as per the uploaded mask.
 * Enter Mask offsets (in inches) : Top offset, Left offset . 
   Offset - this is for the additional properties of the mask to be set in terms of the offsets.
-
-
+* Preview : you can click on the preview button to view the added mask image preview display.
+* Once all the required details are entered then to save these details click on the “Add” button.
+* Click the “Next” button to go to the Pricing Section
 
 Click **Add → Next (Pricing Section)**
 
