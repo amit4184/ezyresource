@@ -29,19 +29,27 @@ title: Set Up a Calendar Product Blank
 
 ### **1. Login**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB1.png)
+
 * Open website link
 * Enter valid login details → Click **Login**
 
 ### **2. Access Product Blanks**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB2.png)
 
 * Click **Product blanks → My Blanks .** Click on “Product blanks” and then click on My Blanks.
 * It will display the list of defined product Blanks.
 
 ### **3. Create New Blank**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB3.png)
+
 * To create a new product Blank click on the “Add” button.
 
 ### **4. Product Details**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB4.png)
 
 * **Product Code** → Enter unique code
 * **SKU ID** → Enter SKU id is the same as product code or if it is different then enter accordingly.
@@ -86,15 +94,19 @@ Mug 3D
 
 Prints Image
 
-*
 * **Min Pages / Max Pages** → e.g., Calendar = 12 min & max
 
 Click **Next**
 
 ### **5. Output & Surfaces**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB5.png)
+
 * **Output Type** → select the output type for the product ie. .JPG / PDF
 * Click **Add printable surfaces**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB6.png)
+
 * **Surface Type** → Select surface type: from the given drop-down. For eg. a calendar will have a cover page surface and inner pages surfaces.
 
   ***Note : All specs and sizes to be entered are in inches.***
@@ -112,6 +124,10 @@ Click **Next**
 
 ### **6. Printing Components**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB7.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB8.png)
+
 * under printing components, add substrate, Lamination, binding, cover etc for the product.
 * If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
 * [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
@@ -120,6 +136,8 @@ Click **Next**
 
 ### **7. Designer Specs**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB9.png)
+
 *Please note designer specs need to be in inches.*
 
 * Select “App name” from the drop-down for example. for the  multipage calendar type products, the app name is  “**EzyCalendar**”. According to this selection the product will open in that respective designer.
@@ -127,6 +145,8 @@ Click **Next**
 * To add the designer specs click on the “Add designer specs” button.
 
 **Add Designer Specs**:
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB10.png)
 
 * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
 * Surface name : Enter a surface name based on the surface type selected.
@@ -138,7 +158,7 @@ Click **Next**
 * *To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*
 * *The product specs and both the mask images specs need to be maintained the same.*
 
-*For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.*
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB11.png)
 
 * Display mask image width : Enter Display mask image width in inches.
 * Display mask image height : Enter Display mask image height in inches.
@@ -154,65 +174,120 @@ Click **Add → Next (Pricing Section)**
 
 ### **8. Pricing**
 
-* Price type : Select Price type as single qty pricing.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB12.png)
+
+**Price type : Select Price type as single qty pricing.**
+
 * Enter Cost price & Selling price values.
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-* Price type : Select Price type as Volume Pricing. 
 
-  *Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.*
+**Price type : Select Price type as Volume Pricing.** 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB13.png)
+
+*Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.*
+
 * Min quantity : enter min quantity.
 * Cost price : enter Cost price & Selling price
 * Combine set : select the checkbox if the quantity sets are to be combined
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
-* Price type : Select Price type as Attribute level pricing 
 
-  *Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.*
+**Price type : Select Price type as Attribute level pricing** 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB14.png)
+
+*Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.*
+
 * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
 * Select & set pricing for each attribute individually.
 * Click on the add price button to save the details.
 * Click on save button to save the add product form.
 
+**\*Note:** a product having no attribute for such a product you'll can use single qty pricing. volume pricing is used for a product having min order qty. or to be ordered in bulk. product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.*
 
-
-
-***Note:** a product having no attribute for such a product you'll can use single qty pricing. volume pricing is used for a product having min order qty. or to be ordered in bulk. product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.*
-
-
-
-
-
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB15.png)
 
 * Once the product is saved, open the product wizard list and it will display the created product.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB16.png)
+
 * Click on the “View in designer” button to preview the created product in the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB17.png)
+
 * The designer will open the defined product. Click on the upload photos button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB18.png)
+
 * The upload photo pop-up will be displayed.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB19.png)
+
 * Click to select files or drag and drop photos onto the uploader.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB20.png)
+
 * Click on upload button to upload the added photos
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB21.png)
+
 * Once the photos are uploaded, click on the photo to add it to the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB22.png)
+
 * Photo preview will be displayed, now click on the photo to edit
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB23.png)
+
 * The photo edit menu will be displayed.
-* Once the editing is done click on the “Test Order” button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB24.png)
+
 * To add photos, click on the photos tab and select photos from the added albums.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB25.png)
+
 * To add Backgrounds, click on the backgrounds tab and select and add backgrounds from the available categories
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB26.png)
+
 * To add Stickers, click on the stickers tab and select and add stickers from the available categories.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB27.png)
+
 * To add Text, click on the text tab and click on the “**Add a text box**” option to add a text field.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB28.png)
+
 * Select and set the “**Start Date**” options and click on confirm to apply the settings.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB29.png)
+
 * Select and set any  “**Custom Holidays**” and click on the  “**+Add Holiday**” button to apply the changes.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB30.png)
+
 * You can check the list of holidays. Once the editing is done then click on the test order button.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB31.png)
+
 * Click on the process button to continue.
 
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB32.png)
 
 * Will display a message as “Order placed successfully”.
 * The order tab will open displaying  the recent order placed
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB33.png)
+
 * Click on the ‘view” order details option
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB34.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB35.png)
+
 * Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
 * Check the order status.
 * Once the status is shown as rendered, you can download the order images.
@@ -220,10 +295,7 @@ Click **Add → Next (Pricing Section)**
 
   *Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once*
 
-
-
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB36.png)
 
 * Select a path to save the test order image.
 * Click on the save button.
@@ -232,18 +304,14 @@ Click **Add → Next (Pricing Section)**
 
 The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
 
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB37.png)
 
 * Once the order test is passed and the product is ready to be published.
 * Go to the product blank dashboard.
 * Click on the product setting button from the product blank dashboard.
 * Click on the “Publish” button.
 
-
-
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB38.png)
 
 * The product status will be updated as “Publish”.
 * **Once the Product is Published & Templates are Published, Product Blank Specs Cannot be Changed.**
