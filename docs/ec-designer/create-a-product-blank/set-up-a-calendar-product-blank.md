@@ -130,7 +130,14 @@ title: Set Up a Calendar Product Blank
   Same as product code (or different if required)
 
 
-* **Category** → Select from dropdown
+* **Category** → Select from dropdown 
+
+  **[How to Add a category & Sub-category](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)**
+
+
+
+
+
 
 
 * **Subcategory** → Select from dropdown
@@ -139,60 +146,60 @@ title: Set Up a Calendar Product Blank
 * **Title** → Enter product title
 
 
-* **Description** → ≤ 200 characters (internal use)
-
-
-* **Thumbnail** → Upload .jpg image
-
-
-* **Supplier** → Select supplier
-
-
-* **Orientation** → Portrait / Landscape / Square
-
-
-* **Size** → e.g., 12x12, 6x6
-
-
-* **Preview Type** → Based on product type:
+* **Description** → ≤ 200 characters (internal use). 
+  Enter Product Description not more than 200 chars. This description is used for internal definition.
 
 
 
-**Product**
 
-**Preview Type**
+* **Thumbnail** → 
+  select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
 
-Photobooks
 
-3D
 
-Mini book
 
-2D
+* **Supplier** → select the supplier under which the product will be listed.
 
-Calendar
 
-2D
 
-Canvas Prints
 
-3D
+* **Orientation** → 
+   select the product orientation- Portrait / Landscape / Square
 
-Mounted Prints
 
-3D
+* **Size** → 
+   select product size. Eg, 12x12, 6x6 This size is used for internal definition.
 
-Frames
 
-3D
 
-Mug
 
-3D
+* **Preview Type** → 
+  select the product preview type from the given drop-down.This option is used for internal definition.
 
-Prints
 
-Image
+  *Note: Preview needs to be selected as per the product type.*
+
+
+
+
+
+**Product & Preview Type**
+
+Photobooks 3D
+
+Mini book 2D
+
+Calendar 2D
+
+Canvas Prints 3D
+
+Mounted Prints 3D
+
+Frames 3D
+
+Mug 3D
+
+Prints Image
 
 * 
 * **Min Pages / Max Pages** → e.g., Calendar = 12 min & max
