@@ -196,56 +196,19 @@ Enter your login credentials and click the **“Submit”** button.
 
 **4. Add a New Background**
 
-
-Will open an Add form 
-
+* Will open an Add form 
 * **Display name**: Enter the display name.
 * **Image:** Click “Choose File” to upload a background image (JPG format recommended).
 * **Public**: enable/disable 
 * **Status**:  Click on the slider button to set the status of the clipart. This allows the user to enable or disable a background.
 * **Save**: save newly added background 
-
-**Cancel**: cancel the form 
-
-
-
-1.    .
-
-
-2. * Click the **“Add”** button to open the add form.
+* **Cancel**: cancel the form 
 
 
 
-   * Fill in the form fields:
+**5. View Uploaded Backgrounds**
 
-
-
-   * **Display Name**: Enter the name to display.
-
-
-   * **Image**: Click **“Choose File”** to upload a background image (JPG recommended).
-
-
-   * **Public**: Enable or disable visibility.
-
-
-   * **Status**: Use the slider to enable or disable the background.
-
-
-
-   * Click **Save** to add the background or **Cancel** to discard.
-
-
-3. **View Uploaded Backgrounds**
-
-
-4. * The newly uploaded background thumbnails will appear in the selected category.
-
-### 
-
-
-
-
+It will display the uploaded thumbnails in the selected background category. 
 
 
 
