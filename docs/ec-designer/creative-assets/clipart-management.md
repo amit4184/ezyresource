@@ -32,17 +32,28 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Login to Ezyadmin**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI1.png)
+
 * Enter valid login credentials and click on **submit** button.
 
 ## **Access Cliparts**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI2.png)
+
 * Click on the Clipart tab on the sidebar.
    *Will display the list of occasions*
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI3.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI4.png)
+  
 * Select any occasion/category
    *Example: 'Birthday', 'Festivals' etc.*
    *Will display the list of added clipart*
 
 ## **Add a New Clipart**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI6.png)
 
 * To add a new clipart click on the “Add” button.
    *Will open an Add form*
@@ -56,11 +67,18 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Successfully Added Clipart**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI7.png)
+
 ## **Edit Clipart**
 
-* Click on **edit symbol** to edit the added clipart.
-* *Edit form will open*
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI8.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI9.png)
 
+* Click on **edit symbol** to edit the added clipart.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI10.png)
+  
+* *Edit form will open*
   * **Display name:** Edit the display name
   * **Image:** Click on **Choose file** and re-upload/change clipart image
   * **Public:** Enable/disable
@@ -70,7 +88,12 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Preview Clipart**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI11.png)
+
 * Click the **eye icon** to preview the clipart. Use Zoom In/Out buttons to adjust the view.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI12.png)
+  
 * **Zoom in:** Click ‘Zoom In’ to enlarge the clipart preview
 * **Zoom out:** Click on Zoom Out to reduce the image view
 * **Close:** Click to close view page
@@ -79,8 +102,16 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Create Template Using ClipArt's**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI13.png)
+
 * Click on **Templates** to load the list of existing templates
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI14.png)
+  
 * Click the **“Create”** button to create blank new templates.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI15.png)
+  
 * **Template name:** Enter the Template name (displayed in the Ezydesigner)
 * **Description:** Enter the description of the template
 * **Products:** Select a product from the product dropdown list
@@ -92,12 +123,22 @@ They gives customers the freedom to create truly unique designs. You could also 
 
 ## **Template Creator Tab**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI16.png)
+
 * Template creator will open in a new tab
 
 ## **Use Added Clipart in Template**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI17.png)
+
 * Click on **clipart**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI18.png)
+
    *Will show all the added clipart*
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTACLIPI19.png)
+
 * The clipart added successfully in template creator
    *Can use it to create template/design*
 
