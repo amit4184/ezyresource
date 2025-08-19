@@ -566,21 +566,21 @@ You can add your own backgrounds from the admin section.
 
 **Step 1.** 
 
-**Open Dashboard of current templates**
+* **Open Dashboard of current templates**
 
-
-
-1. * Click on **Templates** to load the list of existing templates.
+* Click on **Templates** to load the list of existing templates.
 
 
 
 
 
 
+**Step 2.**
 
-**Create a new template / Open any existing Template in Template Creator.**
 
-* Click on the icon to create a new template.
+
+* Create a new template / Open any existing Template in Template Creator.
+* Click on the CREATE icon to create a new template.
 
 
 
@@ -592,7 +592,7 @@ You can add your own backgrounds from the admin section.
 
 
 
-
+Step 3. 
 
 **Create a new design or edit any existing design**
 
