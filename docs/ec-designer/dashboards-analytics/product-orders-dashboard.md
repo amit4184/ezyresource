@@ -6,6 +6,9 @@ title: Product Orders Dashboard
 **Name**: Product Orders
  **Description**: Displays the number of shipped orders per day.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/POD1.png)
+ 
+
 #### **X-Axis:**
 
 * shipped_date: Date when order was shipped
@@ -24,9 +27,14 @@ title: Product Orders Dashboard
 
 #### **Additional Metrics:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/POD2.png)
+
 * **Product Sale (Net Sale)**:
    Net Sale = product_sale (MRP)  *quantity - discount*
    (Exclusive of tax & shipping. Currency: Rs.)*
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/POD3.png)
+  
 * **Product Sale (Gross Sale)**:
    Gross Sale = product_sale (MRP)  *quantity + discount*
    (Exclusive of tax & shipping. Currency: Rs.)*
