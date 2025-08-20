@@ -8,18 +8,29 @@ title: New Customer Sales Dashboard
 
 #### **X-Axis:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD1.png)
+
 * registration_date: Date when customer registered
 
 #### **Y-Axis:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD2.png)
 
 * Customers: Number of customers who placed at least one order
 
 #### **Insights:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD3.png)
+
 * **Acquisition Rate**: % of new registered customers placing orders
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD4.png)
+  
 * **Customer Registered but Not Ordered**: Drop-off customers who didn’t place any order
 
 ### **First Purchase Sales**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD5.png)
 
 Description: Shows sales data for customers who placed their first orders in the last 2 months.
 
@@ -33,6 +44,8 @@ Description: Shows sales data for customers who placed their first orders in the
    *(Currency in Rs. for India, Singapore)*
 
 ### **Average First Purchase Sale**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/NCSD6.png)
 
 **Description**: Displays average sale value of first-time customers within the last 2 months.
 
