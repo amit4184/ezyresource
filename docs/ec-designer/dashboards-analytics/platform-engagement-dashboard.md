@@ -61,7 +61,8 @@ title: Platform Engagement Dashboard
 
 
 
-* **Product Orders & Sales**
+**1. Product Orders & Sales**
+
 * **Product Sale (Net Sale)**:
    Net Sale = product_sale (mrp) * quantity - discount
    Sale values are exclusive of tax and shipping (Currency in “Rs.” for India, Singapore).
@@ -113,10 +114,18 @@ title: Platform Engagement Dashboard
 
 
 
+  This dashboard gives the sale  of  orders placed in Ezydesigner (mrp *quantity) Please note  discounts ,tax,shipping not considered. (Currency in “Rs.” for India, Singapore)
 
 
 
-**Sales Trend by Design**
+
+
+
+
+
+
+
+**2. Sales Trend by Design**
 
 
 
