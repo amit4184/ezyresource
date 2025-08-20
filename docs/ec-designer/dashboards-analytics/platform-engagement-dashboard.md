@@ -5,60 +5,88 @@ title: Platform Engagement Dashboard
 
 
 
-Description : This dashboard gives the number of orders shipped on a day. it will display shipped orders date wise, so the user can view the number of orders with their shipped dates.
 
-X - Axis : shipped date - Date when order is shipped
+#### **Name: Product Orders**
 
-Y - Axis: Orders -Number of orders shipped.
+**Description**: This dashboard gives the number of orders shipped on a day. It will display shipped orders date-wise, so the user can view the number of orders with their shipped dates.
+
+* **X - Axis**: shipped_date – Date when the order is shipped
+
+* **Y - Axis**: Orders – Number of orders shipped
 
 
 
 
 
 
-**Glossary**:
+
+### **Glossary**
 
 * **Product Blank**: Refers to the list of products defined.
-* **shipped_date**: The date when an order is shipped to the end customer.
-* **Product Orders**: A formal request from a customer to purchase specific products or services.
+
+
+* **shipped_date**: Refers to the date when an order is shipped to the end customer.
+
+
+* **Product Orders**: Refers to a formal request from a customer to purchase specific products or services.
+
+
 * **Product Sale**: Refers to the number of products sold.
 
-**Filters**:
+
+
+
+
+
+
+### **Filters:**
 
 * **Store**: The store from which the dashboard data is integrated (e.g., India Store, SG Store).
-* **Plan**: Refers to customer segments (e.g., Pro, Regular).
-* **Category**: The product category used to organize products (e.g., Photobook, Prints).
-* **Product Blank**: Name of the defined product to be selected.
+
+
+* **Plan**: Customer segments (e.g., Pro, Regular, etc.).
+
+
+* **Category**: Organizes products under specific sections (e.g., Photobook, Prints).
+
+
+* **Product Blank**: The product name defined to be selected.
+
+
 * **Data Source**: The Drupal backend database for the respective store.
 
 
-**1. Product Orders & Sales**
 
 
 
-**2. Product Sale ( NetSales)**
 
-Net Sale=product_sale (mrp)*quantity -discount
 
-Sale Values are exclusive of tax and shipping
+* **Product Orders & Sales**
+* **Product Sale (Net Sale)**:
+   Net Sale = product_sale (mrp) * quantity - discount
+   Sale values are exclusive of tax and shipping (Currency in “Rs.” for India, Singapore).
 
- (Currency in “Rs.” for India, Singapore)
 
+* **Product Sale (Gross Sale)**:
+   Gross Sale = product_sale (mrp) * quantity + discount
+   Sale values are exclusive of tax and shipping (Currency in “Rs.” for India, Singapore).
 
 
 
 
 
-**3. Product Sale(Gross)**
 
-**GrossSale=product sale (mrp)*quantity + discount**
 
-**Sale Values are exclusive of tax and shipping**
+#### **Name: Design Performance**
 
- (Currency in “Rs.” for India, Singapore)
+**Orders Trend by Design**
+ **Description**: This dashboard gives the number of orders placed in EzyDesigner.
+ *Note: Only products/templates from EzyDesigner are considered, not S2P.*
 
+* **X - Axis**: project_date – Date when EzyDesigner project (design) is created
 
 
+* **Y - Axis**: Orders – Number of orders
 
 
 
@@ -66,117 +94,109 @@ Sale Values are exclusive of tax and shipping
 
 
 
+### **Filters:**
 
-### **Name : Design Performance**
+* **Store**: The store from which the dashboard data is integrated.
 
-**Order Trend by Design**[](https://dashboards.ezycreate.com/explore/?dashboard_page_id=y_UmaRnHHl&slice_id=62)
 
-**Description :** This dashboard  gives the number of  orders placed in Ezydesigner
+* **Category**: Product category (e.g., Photobook, Prints).
 
-**Note:** The products/templates considered are only from EzyDesigner & not from S2P.
 
-X - Axis : project_date - Date when  Ezydesigner project (design is created)
+* **Product Blank**: Product name.
 
-Y - Axis :Orders -No of orders 
 
+* **Template (Theme)**: The template used in the designer.
 
 
+* **Occasion**: The occasion that is tagged for the template (e.g., Birthday, Wedding, Baby Shower).
 
-#### **Filters / Fields:**
 
 
 
 
-* Store: This is the store  from which the dashboard data is integrated.
 
-   
-* Category: The Product category  eg(Photobook,Prints)
-* Product Blank : Product Name
-* Template(Theme ) :  The Template used in the designer
-* Occasion : The occasion that is tagged for the template (e.g. Birthday, Wedding, Baby Shower etc)
 
-  This dashboard  gives the sale  of  orders placed in Ezydesigner (mrp *quantity)
+**Sales Trend by Design**
 
-  Please note  discounts ,tax,shipping not considered
 
-   (Currency in “Rs.” for India, Singapore)
 
-#### Sales Trend by Design 
 
 
+#### **Name: Product Conversion**
 
+**Description**: This dashboard gives the percentage of project conversion in EzyDesigner.
+ *Note: This dashboard contains only EzyDesigner products, not S2P.*
 
-**Name : [Product Conversion](https://dashboards.ezycreate.com/explore/?dashboard_page_id=I5kqsbxOSV&slice_id=67)**
+* **X - Axis**: project_date – Date when EzyDesigner project (design) is created
 
-Description : This dashboard  gives the  % of Project conversion  in Ezydesigner.
 
-Note: This dashboards contains only EzyDesigner Products not S2P.
+* **Y - Axis**: Projects – Number of projects created
 
-X - Axis : project_date - Date when  Ezydesigner project (design is created)
 
-Y - Axis :Projects  -No of projects created
 
-#### 
+**Metrics**:
 
-**[1. Product Conversion](https://dashboards.ezycreate.com/explore/?dashboard_page_id=I5kqsbxOSV&slice_id=81)**
+* **Product Conversion**
 
-#### **[2. ](https://dashboards.ezycreate.com/explore/?dashboard_page_id=I5kqsbxOSV&slice_id=81)****[Product Conversion%](https://dashboards.ezycreate.com/explore/?dashboard_page_id=I5kqsbxOSV&slice_id=81)**
 
+* **Product Conversion %**
 
-#### 
 
 
-**Name : New Customer Sales**
 
-1. **[Customers who registered](https://dashboards.ezycreate.com/explore/?dashboard_page_id=W3odyQUwAy&slice_id=82)**
 
 
 
+#### **Name: New Customer Sales**
 
+**Customers Who Registered**
+ **Customers Who Placed First Order**
 
-2. **[Customers who placed first order](https://dashboards.ezycreate.com/explore/?dashboard_page_id=W3odyQUwAy&slice_id=72)**
+**Description**: This dashboard gives the number of customers who placed first orders within the last 2 months.
 
+* **X - Axis**: registration_date – Date when the customer is registered on the selected store
 
 
+* **Y - Axis**: Number of customers who placed at least one order
 
-Description : This dashboard  gives the number of customers who placed first orders
 
-(period considered in last 2 month)
 
-X - Axis : registration_date - Date when  customer is registered on the selected store
+**Metrics**:
 
-Y - Axis : No of customers who placed at least an order 
+* **Acquisition Rate**
 
 
+* **Customer Registered but Not Placed the Order**
 
 
 
 
-**[3. Acquisition Rate](https://dashboards.ezycreate.com/explore/?dashboard_page_id=W3odyQUwAy&slice_id=85)**
 
 
-4. **[Customer Registered but not placed the Order](https://dashboards.ezycreate.com/explore/?dashboard_page_id=W3odyQUwAy&slice_id=71)**
 
+### **First Purchase Sales**
 
+**Description**: This dashboard gives the sales from customers who placed their first orders in the last 2 months.
 
+* **X - Axis**: first_order_date – Date when the customer placed their first order
 
 
+* **Y - Axis**: Sale from customers who placed their first order
 
 
-5. **[First Purchase Sales](https://dashboards.ezycreate.com/explore/?dashboard_page_id=W3odyQUwAy&slice_id=74)**
 
-Description : This dashboard  gives the sale  of customers who placed first orders
 
-(period considered in last 2 month)
 
-X - Axis : first_order_date- Date when  customer placed first order
 
-Y - Axis : Sale from  of customers who placed first order
 
+### **Average First Purchase Sale**
 
+**Description**: This dashboard gives the average sale of the customers who placed their first order in the last 2 months.
 
+* **X - Axis**: first_order_date – Date when the customer placed their first order
 
 
+* **Y - Axis**: Sale from customers who placed their first order (Currency in “Rs.” for India, Singapore)
 
 
 
@@ -184,17 +204,23 @@ Y - Axis : Sale from  of customers who placed first order
 
 
 
+#### **Name: Repeat Customer Sales**
 
+**Description**: This dashboard gives the number of customers who placed more than 1 order.
 
+* **X - Axis**: shipped_date – Date when the order was shipped
 
 
+* **Y - Axis**: Number of orders
 
-#### 
 
 
+**Metrics**:
 
+* **Repeat Customers Orders**
 
 
+* **Repeat Customer Sales (Avg Sales)**
 
 
 
@@ -202,21 +228,79 @@ Y - Axis : Sale from  of customers who placed first order
 
 
 
+#### **Name: Customer Churn Rate**
 
+**Store Churn**
 
+**Ordering Customers - Churn Rate**
 
+**Description**: This dashboard gives the number of customers who did not visit the store in the last 180 days.
 
+* **X - Axis**: last_visit_date – Date when the customer accessed the store
 
 
+* **Y - Axis**: Number of churned customers
 
 
-*
 
-#### **Definitions:**
 
-* **Sessions**: Period when a user is signed in or interacts with the website or app.
-* A scenario is considered completed when both start and end events occur in the same session.
-* A scenario is not completed if the end event doesn't occur in the same session.
+
+
+
+#### **Name: Platform Engagement**
+
+**Description**: This dashboard gives the percentage of conversion in EzyDesigner.
+
+* **X - Axis**: event_date – Date when the EzyDesigner project (design) is created
+
+
+* **Y - Axis**: Conversion % = (#End Event / #Start Events) * 100
+
+
+
+**Definitions**:
+
+* **AppName**: Refers to the name of the application (e.g., EzyDesigner, EzyAdmin).
+
+
+* **Module Name**: The module name in the application.
+
+
+* **Scenario**: Scenario defined in the application (e.g., Create a product, Add to cart).
+
+
+* **Sessions**: Period when a user is signed into their Google account or interacts with a website or app.
+
+
+
+**Conversion % Formula**:
+ Conversion % = (Sessions with scenario completed / Total Sessions) * 100
+
+
+
+
+
+#### **Ezy CRM Campaign (Open/Click Rate)**
+
+[View Campaign Dashboard](https://dashboards.ezycreate.com/superset/dashboard/8/?native_filters_key=qFhb1IMdC4X8Fl-bYGipcRL8RhkqoyOu_E_zb87OE4objz5l7vknWSNuh8AxRTNZ)
+
+**Description**: This dashboard provides the results of email campaigns.
+
+* **X - Axis**: event_date – Date when the event was executed
+
+
+
+**Y - Axis**: Campaign Metrics (e.g., Email opened, Email bounced, Email clicked)
+
+
+
+
+
+
+
+
+
+
 
 ## **Need Help?**
 
