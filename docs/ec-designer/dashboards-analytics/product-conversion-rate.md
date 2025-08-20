@@ -7,6 +7,9 @@ title: Product Conversion Rate
  **Description**: This dashboard gives the % of project conversion in EzyDesigner.
  **Note**: Only EzyDesigner products are included (not S2P).
 
+
+ ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/PCR1.png)
+
 #### **X-Axis:**
 
 * project_date: Date when EzyDesigner project was created
@@ -14,6 +17,9 @@ title: Product Conversion Rate
 #### **Y-Axis:**
 
 * Projects: Number of projects created
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/PCR2.png)
+  
 * Product Conversion %: Conversion rate of projects to orders
 
 
