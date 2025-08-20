@@ -5,11 +5,15 @@ title: Set Product Attributes
 
 ### **How to Add Attributes**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HAO1.png)
+
 * Click on the **Attributes** tab from the left-hand side menu bar.
 * Select and click on the **Attributes** option.
 * Click **Add** to create a new attribute.
 
 **Fill in the required details:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HAO2.png)
 
 * **Attribute Code**: Enter a unique code to define the attribute (e.g., Substrate, Lamination, Binding). Format: 001, 002, etc.
 * **App/Web Code**: Enter the app/web code for the attribute. Preferably the same as the attribute code.
@@ -20,17 +24,23 @@ title: Set Product Attributes
 
 **To edit an existing attribute:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HAO1.png)
+
 * Click the **Edit** icon next to it.
 * Make the necessary changes.
 * Click on the **Save** button.
 
 **How to Add Attribute Options**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HAO3.png)
+
 * Click on the **Attributes** tab.
 * Select and click on the **Attribute Options**.
 * Click on the **Add** button to add a new attribute option.
 
 **Fill in the required details:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HAO4.png)
 
 * **Attribute**: Select the defined attribute from the dropdown (e.g., Substrate) for which the option is being added.
 * **Attribute Option Code**: Enter a unique code to define the attribute option (e.g., Matt, Gloss, None).
