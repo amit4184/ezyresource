@@ -645,67 +645,124 @@ You can add your own backgrounds from the admin section.
 
 **Navigation Menus**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
+
 * The template name and product name are displayed at the left top corner.
 
 **For Photobook Product**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
+
 * Additional pages can be added using the “Add Pages” button at the bottom of the template designer.
 
 **Upload Photos**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc50.png)
 
 * Click on the **Photos** tab to add your own photos. This can be used as a pre-designed template. Supported file type is **jpg/jpeg**.
    **PLEASE DO NOT USE CMYK IMAGES.** If they are uploaded, they will be converted to normal JPG, and during this process, something can go wrong with the colors. It also depends on the printer's profile.
 
 **Photo Holder:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc51.png)
+
 * A **photo holder** is a frame for holding the photo. These are predefined ratios for the holders, with square, portrait, and landscape orientations.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
+
 * **Image Photo-holder**: A placeholder frame in various standard sizes (square, portrait, landscape) for easy and fast designing.
 
   * Click on **Photo Holders**, and it shows an image holder creator (highlighted in red). Now click on it, and it will create an image holder on the designer.
 
 **Layout:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc53.png)
+
 * The **Layouts** tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the **layout tab**, select any desired product size, and click on it.
 
-  * It will open in a new tab, and the user can then save the template in that selected size.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
+
+* It will open in a new tab, and the user can then save the template in that selected size.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
+
 * **Note:**
 
   * The resized template should be saved after it is loaded.
   * The resized template needs to be verified for any corrections in the template object alignments before saving.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
+
 * Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
+
 * Click on the option beside the template to **publish** the template.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
+
+* The then saved template/template’s will be shown under the main template used for resizing.
+
+  The template will display the resized sizes under it.
+
 **To Unpublish a Published Template:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
 
 * Click on the **setting button** beside the template and select **Unpublish**.
 * A product can be published without a template.
 
 **Backgrounds:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
+
 * **Backgrounds** are images placed behind the main photos. These are selected backgrounds currently offered.
 
   * You can add your own backgrounds from the **admin section**. The images need to be in **JPG format**.
      **PLEASE DO NOT USE CMYK IMAGES.** If uploaded, they will be converted to normal JPG, and something may go wrong with the colors.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
 * Click on **Background**, and it shows a list of background images. Click on any background image to apply it to the designer.
 
-  * You can also choose to apply the background to the left page, right page, or both pages using the available options.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
+
+* You can also choose to apply the background to the left page, right page, or both pages using the available options.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
 * On a single sheet, you can apply two different backgrounds, one for each page, or use a single background across the whole sheet. This gives you the flexibility to create more beautiful and creative designs based on your style.
 
 **Clipart:**
 
-* **Clipart** are stickers that can be used to enhance your templates.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc63.png)
 
-  * You can add your own clipart from the **admin section**. The file formats for clipart are **.png** (transparent images).
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc64.png)
+
+* **Clipart** are stickers that can be used to enhance your templates.
+* You can add your own clipart from the **admin section**. The file formats for clipart are **.png** (transparent images).
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc65.png)
+
+* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
 
 **Text:**
 
-* You can add **text** in the text field, except for emojis, which are currently unsupported (emojis will be ignored if used).
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc67.png)
 
-  * Click on **Floating Text** to add a text field.
-  * Click on **Text** to add a text field on the designer.
-  * **Note**: The default text field label (i.e., 'Enter Your text') will not be rendered. Any other text will be rendered and printed on the product.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc66.png)
+
+* You can add **text** in the text field, except for emojis, which are currently unsupported (emojis will be ignored if used).
+* Click on **Floating Text** to add a text field.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
+
+* Click on **Text** to add a text field on the designer.
+* **Note**: The default text field label (i.e., 'Enter Your text') will not be rendered. Any other text will be rendered and printed on the product.
 
 **Text Options:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
 * Template Creator has standard text options like:
 
@@ -719,11 +776,15 @@ You can add your own backgrounds from the admin section.
 
 **Center Part of the Designer:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
+
 * The **work area** will contain a full image displayed when the designer is invoked for the first time.
 
   * The red dots on the image are the handles that can be used to resize the image as required.
 
 **Toolbar for Photo Editing:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc70.png)
 
 * **Lock/Unlock:** This feature allows the user to lock/unlock any object in the design area.
 * **Duplicate:** Duplicate allows you to copy a selected photo.
@@ -735,6 +796,8 @@ You can add your own backgrounds from the admin section.
 
 **Text Editing Tools:**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
 * **Duplicate:** Duplicate allows you to copy a selected photo.
 * **Font and Size:** Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the **admin section**.
 * **Font Text Color & Background:** Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
@@ -743,10 +806,14 @@ You can add your own backgrounds from the admin section.
 
 **Click on Save to save the designed template.**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
+
 * Click on **Preview** to view the template on the product (currently, only 2D preview is available).
 * **Close** will close the template and redirect back to the admin website. *(Always save before closing.)*
 
 **Gridlines:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
 
 * **Gridlines** are provided to align two or more photo holders, text fields, etc., when the photo/text field is moved towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
 
