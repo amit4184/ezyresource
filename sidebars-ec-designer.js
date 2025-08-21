@@ -9,13 +9,13 @@ export default {
         'get-started/key-concept',
       ],
     },
-    {
-      type: 'category',
-      label: 'How to Register',
-      items: [
-       'how-to-register/new-user-registration',
-      ],
-    },
+  //  {
+   //   type: 'category',
+    //  label: 'How to Register',
+     // items: [
+      // 'how-to-register/new-user-registration',
+     // ],
+   // },
     {
       type: 'category',
       label: "How-To's",
