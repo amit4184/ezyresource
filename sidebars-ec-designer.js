@@ -16,13 +16,13 @@ export default {
       // 'how-to-register/new-user-registration',
      // ],
    // },
-    {
-      type: 'category',
-      label: "How-To's",
-      items: [
-        "how-to/products-publishing",
-      ],
-    },
+   // {
+   //   type: 'category',
+    //  label: "How-To's",
+    //  items: [
+     //   "how-to/products-publishing",
+    //  ],
+   // },
     {
       type: 'category',
       label: 'Product Types',
@@ -67,7 +67,7 @@ export default {
       type: 'category',
       label: 'Creative Assets',
       items: [
-       'creative-assets/adding-template',
+     //  'creative-assets/adding-template',
        'creative-assets/create-page-layouts',
         'creative-assets/customize-backgrounds',
         'creative-assets/clipart-management',
@@ -101,16 +101,16 @@ export default {
       items: [
       'plugins-integrations/wordpress-plugin-setup',
         'plugins-integrations/install-sdk',
-        'plugins-integrations/connect-to-ccounting-systems',
+      //  'plugins-integrations/connect-to-ccounting-systems',
       ],
     },
-     {
-      type: 'category',
-      label: 'FAQs & Help',
-      items: [
-      'faqs-help/frequently-asked-questions-list',
-      ],
-    },
+//     {
+ //     type: 'category',
+  //    label: 'FAQs & Help',
+   //   items: [
+    //  'faqs-help/frequently-asked-questions-list',
+    //  ],
+  //  },
   //   {
     //  type: 'category',
      // label: 'Ordering Flows',
