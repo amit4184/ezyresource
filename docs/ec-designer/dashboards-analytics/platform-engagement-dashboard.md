@@ -7,6 +7,8 @@ title: Platform Engagement Dashboard
 
 **Description**: This dashboard gives the percentage of conversion in EzyDesigner.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/PEDASH1.png)
+
 * **X - Axis**: event_date – Date when the EzyDesigner project (design) is created
 * **Y - Axis**: Conversion % = (#End Event / #Start Events) * 100
 
@@ -25,6 +27,9 @@ title: Platform Engagement Dashboard
 [View Campaign Dashboard](https://dashboards.ezycreate.com/superset/dashboard/8/?native_filters_key=qFhb1IMdC4X8Fl-bYGipcRL8RhkqoyOu_E_zb87OE4objz5l7vknWSNuh8AxRTNZ)
 
 **Description**: This dashboard provides the results of email campaigns.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/PEDASH2.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/PEDASH3.png)
 
 * **X - Axis**: event_date – Date when the event was executed
 
