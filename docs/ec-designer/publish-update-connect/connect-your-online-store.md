@@ -29,14 +29,14 @@ title: Connect Your Online Store
    Enter valid login details and click on **Submit** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS2.png)
-   
+
 3. From the dashboard, click on:
    **Creative Assets > Templates**
    Click on **“Ezycreate templates”**
    It will display the list of templates.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS3.png)
-   
+
 5. Click on the **“Add”** button of a single **Template Group** that you want to publish to the store.
 
 **Note:**
@@ -72,14 +72,14 @@ title: Connect Your Online Store
    ](https://admin.ezycreate.com/) Enter valid login details and click on **Submit** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS7.png)
-   
+
 3. From the dashboard, click on:
    **Creative Assets > Templates**
    Click on **“Ezycreate templates”**
    It will display the list of templates.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS8.png)
-   
+
 5. Select a Template Group whose templates you want to publish to the store.
    Click on the Template Group to open and view the Templates within that group.
 
@@ -88,7 +88,7 @@ title: Connect Your Online Store
 * Select the individual Template(s) by clicking on the checkboxes beside them.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS4.png)
-  
+
 * Once selected, click on the **“Add to Store”** button.
 
 1. A pop-up will display the list of store(s).
@@ -110,14 +110,14 @@ title: Connect Your Online Store
    Enter valid login details and click on **Submit** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS2.png)
-   
+
 3. From the dashboard, click on:
    **Creative Assets > Templates**
    Click on **“Ezycreate templates”**
    It will display the list of templates.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS10.png)
-   
+
 5. Select the Template Groups that you want to publish to the store by clicking on the checkboxes.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTPTS4.png)
@@ -140,39 +140,37 @@ title: Connect Your Online Store
 **Pre-requisites:**
  The EzyCreate plugin module needs to be installed.
 
-1. Log in to the website and ensure you have access to the EzyCreate dashboard.
-2. Open the link:
-    🔗[ https://www.photojaanic.com/admin/settings/ezycreate/templates
-
-   ](https://www.photojaanic.com/admin/settings/ezycreate/templates)
+* Log in to the website and ensure you have access to the EzyCreate dashboard.
 
 **Note:**
  If you cannot access the link, contact your site administrator to request dashboard permissions.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCYOSTO1.png)
+
 * It will display the list of published templates.
    (Only published templates are shown, not added to the website yet.)
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCYOSTO2.png)
+
 1. Enter Product ID to filter a specific product template and click on the **“Apply filter”** button.
+
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCYOSTO3.png)
 2. All templates of the filtered product will be displayed:
 
 * To select all templates, click the **“Select All”** checkbox and then click **“Add bulk”**
 * To select a specific template, check the box beside it and click **“Add”**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCYOSTO4.png)
+
 1. Once a template is added, it will appear on the theme selection page for that product.
 
-To view the template page, use this test link:
- 🔗[ https://www.photojaanic.com/templates?size=(enter](<https://www.photojaanic.com/templates?size=(enter>) the product code here)
- e.g.,[ https://www.photojaanic.com/templates?size=120073](https://www.photojaanic.com/templates?size=120073)
+Open the template selection page, to view the templates[](https://www.photojaanic.com/templates?size=120073)
 
 * Click on **“Publish”** on this page to make it live for customers.
 
-Live link for users to view:
- 🔗[ https://www.photojaanic.com/ezytemplates?size=120073](https://www.photojaanic.com/ezytemplates?size=120073)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCYOSTO5.png)
 
-1. Once published, the template will be visible to users on their respective theme page.
-
-
-
+* Once published, the template will be visible to users on their respective theme selection page.
 
 ## **Need Help?**
 
