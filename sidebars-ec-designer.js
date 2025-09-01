@@ -25,13 +25,34 @@ export default {
    // },
     {
       type: 'category',
-      label: 'Product Types',
+      label: 'Photobook Designer',
       items: [
-       'product-types/photobook-designer',
-        'product-types/print-designer',
-        'product-types/calendar-designer',
-        'product-types/custom-product-designer',
-    //    'product-types/webstore',
+       'photobook-designer/set-up-a-photobook-product-blank',
+        'photobook-designer/photobook-designer-template-creator',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Print Designer',
+      items: [
+      'print-designer/set-up-a-print-product-blank',
+        'print-designer/print-designer-template-creator',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Calendar Designer',
+      items: [
+      'calendar-designer/set-up-a-calendar-product-blank',
+      'calendar-designer/calendar-designer-template-creator',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Custom Product Designer',
+      items: [
+      'custom-product-designer/set-up-a-decor-product-blank',
+      'custom-product-designer/custom-product-designer',
       ],
     },
     {
@@ -43,26 +64,7 @@ export default {
         'product-setup/custom-product-flow',
       ],
     },
-    {
-      type: 'category',
-      label: 'Create a Product Blank',
-      items: [
-      'create-a-product-blank/set-up-a-photobook-product-blank',
-      'create-a-product-blank/set-up-a-print-product-blank',
-      'create-a-product-blank/set-up-a-decor-product-blank',
-      'create-a-product-blank/set-up-a-calendar-product-blank',
-        'create-a-product-blank/mask-img-generation',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Publish, Update, & Connect',
-      items: [
-       'publish-update-connect/publish-download-product',
-        'publish-update-connect/update-product-status',
-        'publish-update-connect/connect-your-online-store',
-      ],
-    },
+	  
      {
       type: 'category',
       label: 'Creative Assets',
@@ -71,6 +73,7 @@ export default {
        'creative-assets/create-page-layouts',
         'creative-assets/customize-backgrounds',
         'creative-assets/clipart-management',
+        'creative-assets/mask-img-generation',
       ],
     },
      {
