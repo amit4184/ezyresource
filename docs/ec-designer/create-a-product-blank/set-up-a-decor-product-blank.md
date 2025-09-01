@@ -3,6 +3,39 @@ title: Set Up a Decor Product Blank
 ---
 # **How to create a Decor Product Blank**
 
+
+
+
+### Tutorial Task Flow
+
+"This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next."
+
+### Task 1: [Set Up a Decor Product Blank](https://resources.ezycreate.com/ec-designer/custom-product-designer/set-up-a-decor-product-blank/) (15 Min)
+
+### Task 2: [Decor Designer Template Creator ](https://resources.ezycreate.com/ec-designer/custom-product-designer/)(10 Min)
+
+### Task 3: [DIY Mask Image Generation ](<>)(Approx. 5 Min)
+
+### Task 4: Creative Assets (If required)
+
+* [Create Page Layouts](<>)
+* [Customize & Add Backgrounds](<>)
+* [Clipart Management](<>)
+* [DIY: Mask Image Generation](<>)
+
+### Task 5: Advanced Setup (If required)
+
+* [3D Preview](<>)
+* [Add Occasions](<>)
+* [Define Product Categories](<>)
+* [Set Product Attributes](<>)
+
+
+
+
+
+
+
 ### **Before You Start: Setup Checklist**
 
 Please review the following points to ensure a smooth and efficient product setup process:
