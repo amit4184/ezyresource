@@ -3,6 +3,37 @@ title: Set Up a Calendar Product Blank
 ---
 # **How to Create a Calendar Product Blank**
 
+
+
+
+### Tutorial Task Flow
+
+"This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next."
+
+### Task 1: [Set Up a Calendar Product Blank](https://resources.ezycreate.com/ec-designer/calendar-designer/set-up-a-calendar-product-blank) (15 Min)
+
+### Task 2: [Calendar Designer Template Creator ](https://resources.ezycreate.com/ec-designer/calendar-designer/calendar-designer-template-creator/)(10 Min)
+
+### Task 3: [DIY Mask Image Generation ](<>)(Approx. 5 Min)
+
+### Task 4: Creative Assets (If required)
+
+* [Create Page Layouts](<>)
+* [Customize & Add Backgrounds](<>)
+* [Clipart Management](<>)
+* [DIY: Mask Image Generation](<>)
+
+### Task 5: Advanced Setup (If required)
+
+* [3D Preview](<>)
+* [Add Occasions](<>)
+* [Define Product Categories](<>)
+* [Set Product Attributes](<>)
+
+
+
+
+
 ## **Glossary**
 
 * **Product Blank** – A basic product setup to define how a product works in the design & order system before adding visuals or templates.
