@@ -3,12 +3,9 @@ title: Set Up a Calendar Product Blank
 ---
 # **How to Create a Calendar Product Blank**
 
-
-
-
 ### Tutorial Task Flow
 
-"This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next."
+This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next.
 
 ### Task 1: [Set Up a Calendar Product Blank](https://resources.ezycreate.com/ec-designer/calendar-designer/set-up-a-calendar-product-blank) (15 Min)
 
@@ -29,10 +26,6 @@ title: Set Up a Calendar Product Blank
 * [Add Occasions](<>)
 * [Define Product Categories](<>)
 * [Set Product Attributes](<>)
-
-
-
-
 
 ## **Glossary**
 
