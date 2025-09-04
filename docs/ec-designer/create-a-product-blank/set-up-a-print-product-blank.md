@@ -11,21 +11,21 @@ title: Set Up a Print Product Blank
 
 ### Task 2: [Print Designer Template Creator ](https://resources.ezycreate.com/ec-designer/print-designer/print-designer-template-creator/)(10 Min)
 
-### Task 3: [DIY Mask Image Generation ](<>)(Approx. 5 Min)
+### Task 3: [DIY Mask Image Generation ](Approx. 5 Min)
 
 ### Task 4: Creative Assets (If required)
 
-* [Create Page Layouts](<>)
-* [Customize & Add Backgrounds](<>)
-* [Clipart Management](<>)
-* [DIY: Mask Image Generation](<>)
+* [Create Page Layouts]
+* [Customize & Add Backgrounds]
+* [Clipart Management]
+* [DIY: Mask Image Generation]
 
 ### Task 5: Advanced Setup (If required)
 
-* [3D Preview](<>)
-* [Add Occasions](<>)
-* [Define Product Categories](<>)
-* [Set Product Attributes](<>)
+* [3D Preview]
+* [Add Occasions]
+* [Define Product Categories]
+* [Set Product Attributes]
 
   [](https://admin.ezycreate.com/)[](mailto:feedback@ezycreate.com)
 
