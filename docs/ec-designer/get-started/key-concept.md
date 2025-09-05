@@ -5,7 +5,7 @@ title: Key Concept
 
 A simple guide to help you understand the core building blocks of Ezycreate and how it works.
 
-##  **What is Ezycreate?**
+## **What is Ezycreate?**
 
 *“EzyCreate is a SaaS tool that lets small businesses and creators design and sell personalized print products through their own branded storefronts.”*
 
@@ -23,7 +23,6 @@ A quick look at what you can do with \[Your SaaS Name]:
 * Launch a mobile-friendly store
 * Manage orders and customers from one dashboard
 
-
   ## **How It Works (Your Workflow)**
 
 Step-by-step journey from start to finish:
@@ -40,12 +39,11 @@ Step-by-step journey from start to finish:
 * **Designer/User** – Create and manage templates or products
 * **Client/Reseller** – Limited access to preview or order
 
-  ## 
   **Templates & Customization**
 
 Use pre-designed templates to speed up your workflow. Lock layouts for consistency or allow full personalization. Add your branding, fonts, and color themes.
 
-###  **Storefront & Publishing**
+### **Storefront & Publishing**
 
 Create a branded online storefront where your customers can:
 
@@ -55,16 +53,13 @@ Create a branded online storefront where your customers can:
 
 You can also share products via private or public links.
 
-###  **Integrations**
+### **Integrations**
 
 Connect your account with:
 
 * Shopify
 * WooCommerce
-* Google Drive
-* \[Other Tools Here]
 
-  ## 
   **Security & Data Protection**
 
 Your data is securely stored with:
@@ -73,6 +68,5 @@ Your data is securely stored with:
 * Encrypted connections
 * User-controlled access
 
-  ## 
   **Help & Support** 
 * Need assistance? Access: support@ezycreate.com
