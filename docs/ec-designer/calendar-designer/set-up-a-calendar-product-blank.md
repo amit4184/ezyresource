@@ -11,21 +11,21 @@ This tutorial is organized into sequential tasks, and each task must be complete
 
 ### Task 2: [Calendar Designer Template Creator ](https://resources.ezycreate.com/ec-designer/calendar-designer/calendar-designer-template-creator/)(10 Min)
 
-### Task 3: [DIY Mask Image Generation ](<>)(Approx. 5 Min)
+### Task 3: [DIY Mask Image Generation ](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
 
 ### Task 4: Creative Assets (If required)
 
-* [Create Page Layouts](<>)
-* [Customize & Add Backgrounds](<>)
-* [Clipart Management](<>)
-* [DIY: Mask Image Generation](<>)
+* [Create Page Layouts](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts)
+* [Customize & Add Backgrounds](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
+* [Clipart Management](https://resources.ezycreate.com/ec-designer/creative-assets/clipart-management)
+* [DIY: Mask Image Generation](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)
 
 ### Task 5: Advanced Setup (If required)
 
-* [3D Preview](<>)
-* [Add Occasions](<>)
-* [Define Product Categories](<>)
-* [Set Product Attributes](<>)
+* [3D Preview](https://resources.ezycreate.com/ec-designer/advanced-setup/3d-preview)
+* [Add Occasions](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+* [Define Product Categories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+* [Set Product Attributes](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
 
 ## **Glossary**
 
