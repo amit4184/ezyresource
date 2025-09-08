@@ -11,21 +11,21 @@ title: Set Up a Print Product Blank
 
 ### Task 2: [Print Designer Template Creator ](https://resources.ezycreate.com/ec-designer/print-designer/print-designer-template-creator/)(10 Min)
 
-### Task 3:[ \[DIY Mask Image Generation]](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
+### Task 3:[[DIY Mask Image Generation]](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
 
 ### Task 4: Creative Assets (If required)
 
-* [\[Create Page Layouts]](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts)
-* [\[Customize & Add Backgrounds]](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
-* [\[Clipart Management]](https://resources.ezycreate.com/ec-designer/creative-assets/clipart-management)
-* [\[DIY: Mask Image Generation]](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)
+* [[Create Page Layouts]](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts)
+* [[Customize & Add Backgrounds]](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
+* [[Clipart Management]](https://resources.ezycreate.com/ec-designer/creative-assets/clipart-management)
+* [[DIY: Mask Image Generation]](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)
 
 ### Task 5: Advanced Setup (If required)
 
-* [\[3D Preview]](https://resources.ezycreate.com/ec-designer/advanced-setup/3d-preview)
-* [\[Add Occasions]](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
-* [\[Define Product Categories]](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
-* [\[Set Product Attributes]](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
+* [[3D Preview]](https://resources.ezycreate.com/ec-designer/advanced-setup/3d-preview)
+* [[Add Occasions]](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+* [[Define Product Categories]](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+* [[Set Product Attributes]](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
 
   [](https://admin.ezycreate.com/)[](mailto:feedback@ezycreate.com)
 
@@ -37,17 +37,17 @@ Please review the following points to ensure a smooth and efficient product setu
 
 * For **simple products** (posters, prints), masks can be created during setup.
 * For **complex products** (e.g., photobooks, frames), create masks in advance.
-  \[ View Mask Guidelines]
+  [ View Mask Guidelines]
 
 **Occasions**
 
 * If your required **occasion** isn’t listed, add it here:
-  \[Add Occasion]
+  [Add Occasion]
 
 **Subcategories**
 
 * For custom **subcategories**, use this link:
-   \[Manage Subcategories]
+   [Manage Subcategories]
 
 **Review Steps**
 
