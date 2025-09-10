@@ -55,6 +55,13 @@ export default {
       'custom-product-designer/custom-product-designer',
       ],
     },
+	 {
+      type: 'category',
+      label: 'DTF Product Designer',
+      items: [
+      'DTF-product-designer/set-up-a-tshirt-product-blank',
+      ],
+    }, 
     {
       type: 'category',
       label: 'Product Setup',
