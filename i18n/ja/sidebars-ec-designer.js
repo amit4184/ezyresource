@@ -9,32 +9,60 @@ export default {
         'get-started/key-concept',
       ],
     },
+ //   {
+   //   type: 'category',
+    //  label: '登録方法',
+    //  items: [
+    //    'how-to-register/new-user-registration',
+    //  ],
+   // },
+   //  {
+   //   type: 'category',
+   //   label: "使い方",
+   //   items: [
+   //     "how-to/products-publishing",
+   //   ],
+  //  },
+
+	{
+      type: 'category',
+      label: '写真集デザイナー',
+      items: [
+       'photobook-designer/set-up-a-photobook-product-blank',
+        'photobook-designer/photobook-designer-template-creator',
+      ],
+    },  
     {
       type: 'category',
-      label: '登録方法',
+      label: '印刷デザイナー',
       items: [
-        'how-to-register/new-user-registration',
+      'print-designer/set-up-a-print-product-blank',
+        'print-designer/print-designer-template-creator',
       ],
     },
-     {
-      type: 'category',
-      label: "使い方",
-      items: [
-        "how-to/products-publishing",
-      ],
-    },
-	  
     {
       type: 'category',
-      label: '製品タイプ',
+      label: '暦デザイナー',
       items: [
-        'product-types/photobook-designer',
-        'product-types/print-designer',
-        'product-types/calendar-designer',
-        'product-types/custom-product-designer',
-//        'product-types/webstore',
+      'calendar-designer/set-up-a-calendar-product-blank',
+      'calendar-designer/calendar-designer-template-creator',
       ],
     },
+    {
+      type: 'category',
+      label: '特注製品デザイナー',
+      items: [
+      'custom-product-designer/set-up-a-decor-product-blank',
+      'custom-product-designer/custom-product-designer',
+      ],
+    },
+	 {
+      type: 'category',
+      label: 'DTF製品デザイナー',
+      items: [
+      'DTF-product-designer/set-up-a-tshirt-product-blank',
+      ],
+    },      
     {
       type: 'category',
       label: '製品設定',
