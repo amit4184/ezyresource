@@ -279,6 +279,7 @@ In case of products accepting both landscape & portrait orientation, both orient
 * Click on the save button.
 * The image will get downloaded to the selected location.
 * If the order is downloaded using the “Download all” button than a zip file will be downloaded.
+* Once the opstest is passed : Set a default template for the T-shirt with transparent background.
 
 *The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
@@ -286,7 +287,7 @@ In case of products accepting both landscape & portrait orientation, both orient
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
-* Once the order test is passed and the product is ready to be published.
+* Now the product is ready to be published.
 * Go to the product blank dashboard.
 * Click on the product setting button from the product blank dashboard.
 * Click on the “Publish” button.
