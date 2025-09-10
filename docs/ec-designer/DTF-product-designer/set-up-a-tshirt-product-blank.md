@@ -1,7 +1,7 @@
 ---
 title: Set Up a T-Shirt Product Blank
 ---
-# **How to create a Decor Product Blank**
+# **How to create a T-Shirt Product Blank**
 
 ### **Before You Start: Setup Checklist**
 
@@ -9,10 +9,17 @@ Please review the following points to ensure a smooth and efficient product setu
 
 **Mask Images**
 
-For **simple products** (posters, prints), masks can be created during setup.
+create masks For T-Shirt products:
+[View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 
-For **complex products** (e.g., photobooks, frames), create masks in advance.
-[ View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+**Note :** 
+
+* **The masks to be created in .PNG format.**
+* **Note : the "clippath mask" transparency color need to be maintained same as the product color.**
+
+  **For example:** 
+
+  ![](/img/htctspb.png)
 
 **Occasions**
 
@@ -93,68 +100,31 @@ Once ready, start the product setup process.
 
 **Step 4.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
+![](/img/htctspb1.png)
 
-* **Product code** : Enter the unique product code.
-*  **SKU ID :** Enter SKU id is the same as product code or if it is different then enter accordingly.
-
-   A product code, also known as a product number, SKU (Stock Keeping Unit), or UPC (Universal Product Code), is a unique identifier assigned to a particular product or item.
-   .
+* **Product code** : Enter the unique product code. .
 *  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
+* **Subcategory :** select product & Select Subcategory under which the product needs to be defined. How to Add a category & Sub-category
+* **Product title :** Enter product title
+* **Product Description** : Enter Product Description not more than 200 chars. This description is used for internal definition.
+* **Product thumbnail :** select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
+* **Supplier :** select the supplier under which the product will be listed.
+* **Orientation:** select the product orientation ie. portrait, landscape, square.
+* **Size :** select product size. Eg, 12x12, 6x6 This size is used for internal definition.
+* **Preview type :** select the product preview type from the given drop-down. This option is used for internal definition.
 
- **How to Add a category & Sub-category**
+**Note: Preview needs to be selected as per the product type.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
+ T-Shirt 2D
 
-**Subcategory :** select product & Select Subcategory under which the product needs to be defined.How to Add a category & Sub-category
-
-**Product title :** Enter product title
-
-**Product Description** : Enter Product Description not more than 200 chars. This description is used for internal definition.
-
-**Product thumbnail :** select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
-
-**Supplier :** select the supplier under which the product will be listed.
-
-**Orientation:** select the product orientation ie. portrait, landscape, square.
-
-**Size :** select product size. Eg, 12x12, 6x6 This size is used for internal definition.
-
-**Preview type :** select the product preview type from the given drop-down.This option is used for internal definition.
-
- **Note: Preview needs to be selected as per the product type.**
-
- Products Preview type
-
- Photobooks 3D
-
- Mini book 2D
-
- Calendar 2D
-
- Canvas prints 3D
-
- Mounted prints 3D
-
- Frames 3D
-
- Mug 3D
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB4.png)
-
-* Min pages: Enter min page count. Eg. for single surface product the page count is 1
-   
-* Max pages : Enter min page count. Eg. for single surface product the page count is 1
-   These details will be as per the product specs.
-
-Click on the next button to continue.
+Click on the **next** button to continue.
 
 **Step 5** 
 
-**Output type :** select the output type for the product ie. .JPG / PDF
- Click on the add printable surfaces button.
+**Output type :** select the output type for the product as .Png
+ Click on the **"Add printable surfaces"** button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB5.png)
+![]()
 
 **Step 6**
 
@@ -189,12 +159,10 @@ Click on the next button to continue.
 
 **Printing components :**
 
-* under printing components, add substrate, Lamination, binding, cover etc for the product.
-* If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
-   
-* [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
-* Under options : select and set an option as per the substrate/lamination etc selected.
-   Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
+* under printing components, add substrate, Lamination for the product if applicable.
+* If there is a new substrate/lamination to be added in the list, then it has to be defined under the admin module under Attributes->laminations.
+* Under options : select and set an option as per the substrate/lamination etc. selected.
+   Example. if ‘Artpaper’ substrates is selected then the lamination type example. ‘matte’/’gloss’ applicable is also to be set.
 
 *Designer specs:
  Please note designer specs need to be in inches.*
@@ -203,19 +171,22 @@ Click on the next button to continue.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
 
-* Select “**App name”** from the drop-down for example. for the decor type product the app name is “Ezydesigner”. According to this selection the product will open in that respective designer.
+* Select “**App name”** from the drop-down for example. for the T-shirt type product the app name is **“Ezygifts”**. According to this selection the product will open in that respective designer.
 * Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
-* To add the designer specs click on the "Add designer specs" button.
+* To add the designer specs click on the "**Add designer specs**" button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
 
 * Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
    Surface name : Enter a surface name based on the surface type selected.
 * Display mask image : Select and upload the Display mask image of the product.
-
-  ***Note :***
+* Clippath mask image : Select and upload the Clippath mask image of the product.
+* ***Note :***
 * ***The mask image file format should be in .png***
 * ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
+* **"Clippath Mask image" to be made in same texture as of the T-shirts color. ie. The clippath mask transparency color need to be maintained same as that of the T-Shirts color. For example:**
+
+  ![](/img/htctspb.png)
 * ***The product specs and both the mask images specs need to be maintained the same.***
    .
 * There is no recommended size as such as it is dependent on the product specs.
@@ -224,75 +195,39 @@ Click on the next button to continue.
    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 * Preview : you can click on the preview button to view the added mask image preview display.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB11.png)
+![](/img/htctspb5.png)
 
 * Once all the required details are entered then to save these details click on the “Add” button.
-* Click the “Next” button to go to the Pricing Section.
+* Click the “Save” button to save the product.
 
 **\*Note :**
- In case of products accepting both landscape & portrait orientation, both orientation masks have to be added.
+In case of products accepting both landscape & portrait orientation, both orientation masks have to be added.
  In case of square orientation only square mask to be updated.*
 
 **Step 9**
 
-**Price type : Select Price type as single qty pricing.**
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB12.png)
-
-* Enter Cost price & Selling price values.
-* Click on the add price button to save the details.
-* Click on save button to save the add product form.
-
-**Price type : Select Price type as Volume Pricing.**
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB13.png)
-
- Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
-
-* Min quantity : enter min quantity.
-* Cost price : enter Cost price & Selling price
-* Combine set : select the checkbox if the quantity sets are to be combined
-* Click on the add price button to save the details.
-* Click on save button to save the add product form.
-
-**Price type : Select Price type as Attribute level pricing**
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB14.png)
-
- In case of a product where multiple attributes to be set the attribute level pricing can be used.
-
-* Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
-* Select & set pricing for each attribute individually.
-* Click on the add price button to save the details.
-* Click on save button to save the add product form.
-
-  **Note:** 
-* a product having no attribute for such a product you'll can use single qty pricing.
-* a volume pricing is used for a product having min order qty. or to be ordered in bulk.
-* a product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
-
-**Step 11**
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB15.png)
+![](/img/htctspb7.png)
 
 * Once the product is saved, open the product wizard list and it will display the created product.
 * Click on the “View in designer” button to preview the created product in the designer.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB16.png)
+![](/img/htctspb6.png)
 
-**Step 12**
+**Step 10**
 
 * The designer will open the defined product.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB17.png)
+![](/img/htctspb8.png)
 
-**Step 13**
+
+
+**Step 11**
 
 * Click on the upload photo button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB18.png)
+![](/img/htctspb9.png)
 
-**Step 14**
+**Step 12**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB19.png)
 
@@ -302,18 +237,18 @@ Click on the next button to continue.
 * Click on upload button to upload the added photos
 * Once the photos are uploaded, click on the photo to add it to the designer.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB21.png)
+![](/img/htctspb10.png)
 
 * Photo preview will be displayed, now click on the photo to edit
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB22.png)
+![](/img/htctspb11.png)
 
 * The photo edit menu will be displayed.
 * Once the editing is done click on the “Test Order” button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB23.png)
+![](/img/htctspb12.png)
 
-**Step 15**
+**Step 13**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
 
