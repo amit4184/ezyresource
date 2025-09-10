@@ -1,4 +1,3 @@
-
 ---
 title: Set Up a Print Product Blank
 ---
@@ -15,6 +14,7 @@ title: Set Up a Print Product Blank
 ### Task 3: [DIY Mask Image Generation](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
 
 ### Task 4: Creative Assets (If required)
+
 * [Create Page Layouts](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts)
 * [Customize & Add Backgrounds](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
 * [Clipart Management](https://resources.ezycreate.com/ec-designer/creative-assets/clipart-management)
@@ -37,17 +37,17 @@ Please review the following points to ensure a smooth and efficient product setu
 
 * For **simple products** (posters, prints), masks can be created during setup.
 * For **complex products** (e.g., photobooks, frames), create masks in advance.
-  [ View Mask Guidelines]
+  \[ View Mask Guidelines]
 
 **Occasions**
 
 * If your required **occasion** isn’t listed, add it here:
-  [Add Occasion]
+  \[Add Occasion]
 
 **Subcategories**
 
 * For custom **subcategories**, use this link:
-   [Manage Subcategories]
+   \[Manage Subcategories]
 
 **Review Steps**
 
