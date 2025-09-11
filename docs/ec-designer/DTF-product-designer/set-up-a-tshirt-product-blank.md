@@ -100,7 +100,7 @@ Once ready, start the product setup process.
 
 **Step 4.**
 
-![](/img/htctspb1.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
 
 * **Product code** : Enter the unique product code. .
 *  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
@@ -124,7 +124,7 @@ Click on the **next** button to continue.
 **Output type :** select the output type for the product as .Png
  Click on the **"Add printable surfaces"** button.
 
-![](<>)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
 
 **Step 6**
 
