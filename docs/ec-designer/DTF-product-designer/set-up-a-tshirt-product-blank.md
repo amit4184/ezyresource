@@ -250,6 +250,8 @@ In case of products accepting both landscape & portrait orientation, both orient
 
 Once the editing is done click on the “Test Order” button.
 
+
+
 **Step 13**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
