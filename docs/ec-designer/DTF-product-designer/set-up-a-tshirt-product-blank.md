@@ -91,12 +91,12 @@ Once ready, start the product setup process.
 **Step 2.**  Click on “Product blanks” and then click on My Blanks.
  It will display the list of defined product Blanks.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB2.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
 **Step 3.** 
  To create a new product Blank click on the “Add” button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB3.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
 **Step 4.**
 
