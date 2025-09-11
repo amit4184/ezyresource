@@ -124,7 +124,7 @@ Click on the **next** button to continue.
 **Output type :** select the output type for the product as .Png
  Click on the **"Add printable surfaces"** button.
 
-![]()
+![](<>)
 
 **Step 6**
 
@@ -195,7 +195,7 @@ Click on the **next** button to continue.
    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 * Preview : you can click on the preview button to view the added mask image preview display.
 
-![](/img/htctspb5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB5.png)
 
 * Once all the required details are entered then to save these details click on the “Add” button.
 * Click the “Save” button to save the product.
@@ -206,26 +206,26 @@ In case of products accepting both landscape & portrait orientation, both orient
 
 **Step 9**
 
-![](/img/htctspb7.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
 
 * Once the product is saved, open the product wizard list and it will display the created product.
 * Click on the “View in designer” button to preview the created product in the designer.
 
-![](/img/htctspb6.png)
+  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
+
+
 
 **Step 10**
 
 * The designer will open the defined product.
 
-![](/img/htctspb8.png)
-
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB8.png)
 
 **Step 11**
 
 * Click on the upload photo button.
 
-![](/img/htctspb9.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB9.png)
 
 **Step 12**
 
@@ -237,16 +237,18 @@ In case of products accepting both landscape & portrait orientation, both orient
 * Click on upload button to upload the added photos
 * Once the photos are uploaded, click on the photo to add it to the designer.
 
-![](/img/htctspb10.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB10.png)
 
 * Photo preview will be displayed, now click on the photo to edit
 
-![](/img/htctspb11.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB11.png)
 
 * The photo edit menu will be displayed.
 * Once the editing is done click on the “Test Order” button.
 
-![](/img/htctspb12.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB12.png)
+
+Once the editing is done click on the “Test Order” button.
 
 **Step 13**
 
