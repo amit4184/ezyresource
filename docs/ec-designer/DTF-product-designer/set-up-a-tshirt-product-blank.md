@@ -121,8 +121,8 @@ Click on the **next** button to continue.
 
 **Step 5** 
 
-**Output type :** select the output type for the product as .Png
- Click on the **"Add printable surfaces"** button.
+**Output type :** select the output type for the product as ".**Png**"
+Click on the **"Add printable surfaces"** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
 
@@ -136,9 +136,9 @@ Click on the **next** button to continue.
 
  **Image size :** Enter image size specs .This image size is the printable image size of the product. Printable output image size.
 
- **Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.**
+ **Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.** 
 
- **for product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+**For product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
 
 **Safe area :** Enter Safe area specs.
 
@@ -153,26 +153,14 @@ Click on the **next** button to continue.
 
 **Step 7**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB7.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB8.png)
-
-**Printing components :**
-
-* under printing components, add substrate, Lamination for the product if applicable.
-* If there is a new substrate/lamination to be added in the list, then it has to be defined under the admin module under Attributes->laminations.
-* Under options : select and set an option as per the substrate/lamination etc. selected.
-   Example. if ‘Artpaper’ substrates is selected then the lamination type example. ‘matte’/’gloss’ applicable is also to be set.
-
-*Designer specs:
- Please note designer specs need to be in inches.*
 
 **Step 8**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
 
-* Select “**App name”** from the drop-down for example. for the T-shirt type product the app name is **“Ezygifts”**. According to this selection the product will open in that respective designer.
-* Default template : select from the drop down if you want to setup a customized template (Template created through template creator) as default template or keep it as none.
+* Select “**App name”** from the drop-down for example. As the T-shirt type product the app name to be selected for example if the T-shirt is Sigle sided ( front view only ) then select the app name as **“EzyDesigner”** and If the T-shirt is double sided ( front and back view ) then select the app name as **“Ezygifts”**. According to this selection the product will open in that respective designer.
+* Default template : select from the drop down if you want to setup a customized template **(Template created through template creator)** as default template or keep it as "none".
 * To add the designer specs click on the "**Add designer specs**" button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
@@ -184,25 +172,22 @@ Click on the **next** button to continue.
 * ***Note :***
 * ***The mask image file format should be in .png***
 * ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
-* **"Clippath Mask image" to be made in same texture as of the T-shirts color. ie. The clippath mask transparency color need to be maintained same as that of the T-Shirts color. For example:**
+* **"Clippath Mask image" to be made in the same texture of the T-shirts color. for example: The clippath mask color need to be maintained same as that of the T-Shirts color. For example:**
 
   ![](/img/htctspb.png)
 * ***The product specs and both the mask images specs need to be maintained the same.***
-   .
 * There is no recommended size as such as it is dependent on the product specs.
 * Orientation : select orientation for the added images as per the uploaded mask.
    Enter Mask offsets (in inches) : Top offset, Left offset
    Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 * Preview : you can click on the preview button to view the added mask image preview display.
+* Once all the required details are entered then to save these details click on the “**Add**” button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB5.png)
 
-* Once all the required details are entered then to save these details click on the “Add” button.
-* Click the “Save” button to save the product.
+* Click on the “Save” button to save the product.
 
-**\*Note :**
-In case of products accepting both landscape & portrait orientation, both orientation masks have to be added.
- In case of square orientation only square mask to be updated.*
+
 
 **Step 9**
 
@@ -212,8 +197,6 @@ In case of products accepting both landscape & portrait orientation, both orient
 * Click on the “View in designer” button to preview the created product in the designer.
 
   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
-
-
 
 **Step 10**
 
@@ -249,8 +232,6 @@ In case of products accepting both landscape & portrait orientation, both orient
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB12.png)
 
 Once the editing is done click on the “Test Order” button.
-
-
 
 **Step 13**
 
