@@ -152,6 +152,8 @@ Tシャツ商品のマスクを作成する
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
 
 *  **商品コード :** ユニークな商品コードを入力してください。
+
+
 * **カテゴリ:** 商品を定義するためのカテゴリをドロップダウンから選択してください。
 * **サブカテゴリ :** 商品を定義するためのサブカテゴリを選択してください。
 
@@ -166,17 +168,22 @@ Tシャツ商品のマスクを作成する
 
 
 
-**Note: Preview needs to be selected as per the product type.**
+**注：プレビューは商品タイプに応じて選択する必要があります。**
 
- T-Shirt 2D
+**例：Tシャツ 2D**
 
-Click on the **next** button to continue.
+続行するには、**次へ**ボタンをクリックしてください。
+
+
 
 
 **手順 5.**
 
-**Output type :** select the output type for the product as ".**Png**"
-Click on the **"Add printable surfaces"** button.
+**出力形式 :** 商品の出力形式として「.PNG」を選択してください。
+
+**「印刷可能面を追加」ボタンをクリックしてください。**
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
 
@@ -186,6 +193,8 @@ Click on the **"Add printable surfaces"** button.
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
 
  Select surface type: from the given drop-down.
+
+
 
  **Note : All specs and sizes to be entered are in inches.**
 
