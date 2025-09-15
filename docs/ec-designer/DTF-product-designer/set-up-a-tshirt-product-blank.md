@@ -193,7 +193,7 @@ Click on the **"Add printable surfaces"** button.
 
 * Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
 
-  Note: Create a album and add .png images.
+  Note: Create a album and add .png images for the merch product.
 
 
 
