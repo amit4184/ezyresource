@@ -188,46 +188,38 @@ Click on the **"Add printable surfaces"** button.
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
 
 * Once the product is saved, open the product blanks dashbord list and it will display the created product.
-* Click on the “View in designer” button to preview the created product in the designer.
 
-  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
+
+* ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
 
 **Step 9**
 
-* Go to "Products" tab select 
+* Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank.
+
+  Note: Create a album and add .png images.
+
+
+
+**Step 10**
+
+* Once the product is created, open the My product dashboard and it will display the created  product.
+* Click on the “View in designer” button to preview the created product in the designer.
 
 
 
 **Step 11**
 
-* Click on the upload photo button.
+* Once the product is opened in the designer, click on the "Merch" photos tab.
+* Select a .png image from the merch album and apply it to the designer.
+* click on the "Preview" button to view the product preview.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB9.png)
+
+
+
 
 **Step 12**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB19.png)
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB20.png)
-
-* Click to select files or drag and drop photos onto the uploader.
-* Click on upload button to upload the added photos
-* Once the photos are uploaded, click on the photo to add it to the designer.
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB10.png)
-
-* Photo preview will be displayed, now click on the photo to edit
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB11.png)
-
-* The photo edit menu will be displayed.
-* Once the editing is done click on the “Test Order” button.
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB12.png)
-
-Once the editing is done click on the “Test Order” button.
-
-**Step 13**
+* click on the "Test order" button to place the order
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
 
@@ -237,7 +229,7 @@ Once the editing is done click on the “Test Order” button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
 
-**Step 16**
+**Step 13**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
@@ -250,7 +242,7 @@ Once the editing is done click on the “Test Order” button.
 
 ***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
-**Step 17**
+**Step 14**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
@@ -262,19 +254,14 @@ Once the editing is done click on the “Test Order” button.
 
 *The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
-**Step 18**
+**Step 15**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
 * Now the product is ready to be published.
 * Go to the product blank dashboard.
-* Click on the product setting button from the product blank dashboard.
 * Click on the “Publish” button.
 
-**Step 19**
 
-* The product status will be updated as “Publish”.
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB30.png)
 
 * ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
