@@ -151,16 +151,20 @@ Tシャツ商品のマスクを作成する
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
 
-* **Product code** : Enter the unique product code. .
-*  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
-* **Subcategory :** select product & Select Subcategory under which the product needs to be defined. How to Add a category & Sub-category
-* **Product title :** Enter product title
-* **Product Description** : Enter Product Description not more than 200 chars. This description is used for internal definition.
-* **Product thumbnail :** select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
-* **Supplier :** select the supplier under which the product will be listed.
-* **Orientation:** select the product orientation ie. portrait, landscape, square.
-* **Size :** select product size. Eg, 12x12, 6x6 This size is used for internal definition.
-* **Preview type :** select the product preview type from the given drop-down. This option is used for internal definition.
+*  **商品コード :** ユニークな商品コードを入力してください。
+* **カテゴリ:** 商品を定義するためのカテゴリをドロップダウンから選択してください。
+* **サブカテゴリ :** 商品を定義するためのサブカテゴリを選択してください。
+
+  ※カテゴリ・サブカテゴリの追加方法は「How to Add a Category & Sub-category」を参照してください。
+* **商品タイトル :** 商品タイトルを入力してください。
+* **（商品説明）:** 200文字以内で商品説明を入力してください。この説明は内部定義用に使用されます。
+* **商品サムネイル :** 商品サムネイルを選択してアップロードしてください（.jpg形式のみ）。このサムネイルはEzyAdmin上で商品に表示されます。
+* **サプライヤー :** 商品を登録するサプライヤーを選択してください。
+* **向き:** 商品の向きを選択してください（例：縦向き、横向き、正方形）。
+* **サイズ:** 商品サイズを選択してください（例：12x12、6x6）。このサイズは内部定義用に使用されます。
+* **プレビュータイプ:** ドロップダウンから商品プレビュータイプを選択してください。このオプションは内部定義用に使用されます。
+
+
 
 **Note: Preview needs to be selected as per the product type.**
 
