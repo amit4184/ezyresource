@@ -3,15 +3,9 @@ title: Tシャツ商品用ブランク
 ---
 # Tシャツ商品のブランクを作成する方法
 
-
-### 
 開始前のセットアップチェックリスト
 
-
-#### 
 スムーズかつ効率的に商品をセットアップするために、以下のポイントをご確認ください
-
-
 
 **マスク画像**
 
@@ -19,11 +13,14 @@ Tシャツ商品のマスクを作成する
 [](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 [マスクガイドラインを表示](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 [](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+注**:** 
 
-**Note :** 
+* マスクは .PNG 形式で作成してください。
 
-* **The masks to be created in .PNG format.**
-* **Note : the "clippath mask" transparency color need to be maintained same as the product color.**
+
+* 注： 「clippath mask」の透明色は、商品カラーと同じに保つ必要があります。
+
+
 
   **For example:** 
 
