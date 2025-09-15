@@ -192,37 +192,68 @@ Tシャツ商品のマスクを作成する
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
 
- Select surface type: from the given drop-down.
+ 
 
 
 
- **Note : All specs and sizes to be entered are in inches.**
 
- **Image size :** Enter image size specs .This image size is the printable image size of the product. Printable output image size.
+**Surface Type（サーフェスタイプ）:** ドロップダウンから選択してください。
 
- **Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.** 
+**注：** 入力するすべての仕様やサイズはインチ単位です。
 
-**For product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+**Image Size（画像サイズ）:** 画像サイズの仕様を入力してください。このサイズは商品の印刷可能な画像サイズです。
 
-**Safe area :** Enter Safe area specs.
+**注：** Image Sizeでは、画像の幅と高さを入力し、Photo Width & Heightによりデザイナー上で写真ホルダーが表示されます。
 
-**Bleed area :** Enter Bleed area specs.
+**商品設定時の必須項目:** 画像の幅・高さ、写真の幅・高さ、およびマスクのオフセット値の仕様は必須です。
 
- The bleed is the area to be trimmed off.
+**Safe Area（セーフエリア）:** セーフエリアの仕様を入力してください。
 
- The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
+**Bleed Area（塗り足しエリア）:** 塗り足しエリアの仕様を入力してください。
 
- **Trim area :** Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
- Click on the add button to save the entered details.
+* 塗り足しは、最終仕上げ時に切り取られる領域です。
+
+
+* デザインオブジェクトが用紙の端まで必要な場合、小さな白い隙間ができるのを防ぐために存在します。
+
+
+
+**Trim Area（トリムエリア）:** トリムエリアの仕様を入力してください。（デザインエリアに角丸がある商品の場合のみ、角の半径を入力）
+ 例：角丸マグネット商品など
+
+**入力内容を保存するには、**「追加」**ボタンをクリックしてください**
+
+
+
+
 
 
 **手順  7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
 
-* Select “**App name”** from the drop-down for example. As the T-shirt type product the app name to be selected for example if the T-shirt is Sigle sided ( front view only ) then select the app name as **“EzyDesigner”** and If the T-shirt is double sided ( front and back view ) then select the app name as **“Ezygifts”**. According to this selection the product will open in that respective designer.
-* Default template : select from the drop down if you want to setup a customized template **(Template created through template creator)** as default template or keep it as "none".
-* To add the designer specs click on the "**Add designer specs**" button.
+* ドロップダウンから「アプリ名」を選択してください。
+   例：Tシャツタイプの商品では、以下のようにアプリ名を選択します。
+
+1. Tシャツが片面のみ（前面のみ）の場合：「EzyDesigner」を選択
+
+2. Tシャツが両面（前面と背面）の場合：「Ezygifts」を選択
+
+
+
+
+* この選択に応じて、商品はそれぞれのデザイナーで開かれます。
+* **デフォルトテンプレート**：カスタマイズテンプレート（テンプレートクリエーターで作成されたテンプレート）をデフォルトとして設定する場合はドロップダウンから選択するか、「なし」のままにしてください。
+* **デザイナー仕様を追加するには**：「デザイナー仕様を追加」ボタンをクリックしてください。
+
+
+
+
+
+
+
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
 
