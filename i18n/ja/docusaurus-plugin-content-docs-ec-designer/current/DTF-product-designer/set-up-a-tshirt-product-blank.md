@@ -389,19 +389,44 @@ Tシャツ商品のマスクを作成する
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
-* Select a path to save the test order image.
-* Click on the save button.
-* The image will get downloaded to the selected location.
-* If the order is downloaded using the “Download all” button than a zip file will be downloaded.
-* Once the opstest is passed : Set a default template for the T-shirt with transparent background.
+*  テスト注文画像を保存するパスを選択してください。
 
-*The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
+
+* **保存（Save）ボタン**をクリックします。
+
+
+* 画像は選択した場所にダウンロードされます。
+
+
+* **「Download All」ボタン**を使用して注文をダウンロードした場合は、ZIPファイルとしてダウンロードされます。
+* OPSTestが完了したら、Tシャツ用の透明背景の**デフォルトテンプレート**を設定してください。
+* ダウンロードした画像は、印刷用にプリンターに送信することも、印刷可能な誰かにメールで送信することもできます。
+
+
+
+
+
+
 
 **手順  15**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
-* Now the product is ready to be published.
-* Go to the product blank dashboard.
-* Click on the “Publish” button.
-* ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
+
+
+
+
+
+
+**ステップバイステップ:**
+
+1. 今、商品は公開の準備ができています。
+
+
+2. プロダクトブランクのダッシュボードに移動します。
+
+
+3. \*\*「Publish」\*\*ボタンをクリックします。
+
+
+4. 商品が公開され、商品テンプレートも公開されると、プロダクトブランクの仕様は変更できません
