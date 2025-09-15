@@ -189,9 +189,6 @@ Click on the **"Add printable surfaces"** button.
 
 * Once the product is saved, open the product blanks dashbord list and it will display the created product.
 
-
-* ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
-
 **Step 9**
 
 * Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank.
