@@ -128,7 +128,7 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB1.png)
 
 **手順  2.**  
 
@@ -137,19 +137,19 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB14.png)
 
 **手順 3.** 
 
 新しいプロダクトブランクを作成するには、「追加」ボタンをクリックしてください。
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB15.png)
 
 
 **手順 4.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB1.png)
 
 *  **商品コード :** ユニークな商品コードを入力してください。
 
@@ -185,12 +185,12 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB2.png)
 
 
 **手順  6**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB6.png)
 
  
 
@@ -230,7 +230,7 @@ Tシャツ商品のマスクを作成する
 
 **手順  7**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB9.png)
 
 * ドロップダウンから「アプリ名」を選択してください。
    例：Tシャツタイプの商品では、以下のようにアプリ名を選択します。
@@ -255,7 +255,7 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB10.png)
 
 *  **サーフェスタイプ**：マスクと仕様を適用するサーフェスタイプをドロップダウンから選択してください。
 * **サーフェス名**：選択したサーフェスタイプに基づいてサーフェス名を入力してください。
@@ -292,7 +292,7 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB5.png)
 
 * 「保存（Save）」ボタンをクリックして、商品を保存してください。
 
@@ -301,7 +301,7 @@ Tシャツ商品のマスクを作成する
 
 **手順  8**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB7.png)
 
 *  商品が保存されると、**Product Blanks ダッシュボードリスト**を開くと、作成された商品が表示されます。
 
@@ -345,7 +345,7 @@ Tシャツ商品のマスクを作成する
 
    
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB24.png)
 
 *  「Order placed successfully」というメッセージが表示されます。
 
@@ -358,11 +358,11 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB25.png)
 
 **手順  13**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB26.png)
 
 *  テスト注文が行われると、注文はレンダラーアプリケーションによってレンダリングされ、**Order画面**で確認できるようになります。
 
@@ -377,7 +377,7 @@ Tシャツ商品のマスクを作成する
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB27.png)
 
 
 **注意:** 複数の画像がある場合、ユーザーは単一の画像をダウンロードすることも、**「Download All」ボタン**をクリックしてすべての画像を一度にダウンロードすることもできます。
@@ -387,7 +387,7 @@ Tシャツ商品のマスクを作成する
 
 **手順  14**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB28.png)
 
 *  テスト注文画像を保存するパスを選択してください。
 
@@ -410,7 +410,7 @@ Tシャツ商品のマスクを作成する
 
 **手順  15**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCADECOPB29.png)
 
 
 
