@@ -22,65 +22,106 @@ Tシャツ商品のマスクを作成する
 
   ![](/img/htctspb.png)
 
-**Occasions**
+**イベント**
 
-If your required **occasion** isn’t listed, add it here:
-[Add Occasion](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
 
-**Subcategories**
+必要なイベントがリストにない場合は、こちらに追加してください：[](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+**イベントを追加**
+[](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
 
-For custom **subcategories**, use this link:
- [Manage Subcategories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
 
-**Review Steps**
+**サブカテゴリ**
 
-Go through the setup steps once to know what resources you'll need.
 
-Once ready, start the product setup process.
+カスタムサブカテゴリを作成する場合は、こちらのリンクを使用してください：
+***サブカテゴリを管理***
+
+
+[](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+
+
+**ステップの確認**
+
+
+
+* セットアップ手順を一度確認して、必要なリソースを把握してください。
+* 準備ができたら、商品セットアップを開始してください。
+
+
 
 # **Glossary:**
 
-**Product Blank**  is a basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
 
- **Product Code** This is a unique code that needs to be added for every definition.
 
- **SKU ID** a unique id assigned to each product or product variant in the product fulfillment process.
 
- **Safe Area** This is the outline marking on the product designer to let the customer know which part on the page may get cropped/cut while product fulfillment.
 
- **Bleed Area** Bleed area is a portion of a design that extends beyond the final trim size of a printed product.
 
- **Trim Area** The trim area refers to the space around the product where excess material is cut away during the final cutting process.
+**用語集：**
 
- **Substrate / Attributes** It is the paper used for a product. Ie. Artpaper, Silky, Lustre etc.
+**Product Blank（プロダクトブランク）**
+ 商品にビジュアルや最終テンプレートを追加する前に、デザインや注文システムで商品の動作を定義するための基本的な商品セットアップです。
 
- **Lamination** It is the layers of material to the surface of a product, often a printed material, to enhance its durability, visual appeal, or specific properties.
+**Product Code（商品コード）**
+ 各定義に追加する必要があるユニークなコードです。
 
- **Image Size** Is the size of the image used in the designer.
+**SKU ID（SKU識別子）**
+ 商品や商品のバリアントごとに、商品フルフィルメントプロセスで割り当てられるユニークIDです。
 
- **Photo width** Photo width is the size of the photo set to the full designer area.
+**Safe Area（セーフエリア）**
+ 商品デザイナー上のアウトラインで、印刷や商品加工時に切り取られる可能性のある部分をお客様に示す領域です。
 
- **Binding** Is to securely attach the pages together and create a book structure. This involves various techniques, such as imagewrap binding, stitch binding, perfect binding etc.
+**Bleed Area（塗り足しエリア）**
+ 印刷製品の最終トリムサイズを超えてデザインが延長される部分です。
 
- **Display Mask Image** Is the overlay mask to be displayed in the designer.
+**Trim Area（トリムエリア）**
+ 最終カットプロセスで余分な素材が切り取られる、商品の周囲のスペースです。
 
- **Clippath Mask Image** Is the mask area set for designing purposes by the designer.
+**Substrate / Attributes（用紙 / 属性）**
+ 商品に使用される用紙です。例：アート紙、シルキー、ラスタなど。
 
- **Offset Value** Are used to set the mask on the designer.
+**Lamination（ラミネート）**
+ 商品の表面に施す素材の層で、耐久性、視覚的魅力、特定の特性を向上させるために使用されます。
 
- **Category** Is used to organise products under certain sections
+**Image Size（画像サイズ）**
+ デザイナーで使用される画像のサイズです。
 
- **Sub Category** Is used to organise multiple types of products under specific sections
+**Photo Width（写真幅）**
+ デザイナーの全領域に設定される写真の幅です。
 
- **App name** It refers to the type of the designer to be used for the configured product ie. prints products designer, photobook products designer, calendar designer, decor products designer.
+**Binding（製本）**
+ ページをしっかりとまとめて本の構造を作ることです。イメージラップ製本、糸綴じ、無線綴じなど様々な技法があります。
 
- **Printable surfaces** It refers to the designer surface where the designing will be done. Of which the product specification to be added.
+**Display Mask Image（表示マスク画像）**
+ デザイナー上に表示されるオーバーレイマスクです。
 
- **Output type** It refers to the output file type required to be generated after the order is processed ie. jpeg format or pdf format.
+**Clippath Mask Image（クリップパスマスク画像）**
+ デザイナーがデザイン用途で設定するマスク領域です。
 
- **Min pages** It refers to the minimum number of pages with which a product will open
+**Offset Value（オフセット値）**
+ デザイナー上でマスクを設定するために使用されます。
 
-**Max page** It refers to the maximum number of pages a product will have an option to add up to.
+**Category（カテゴリ）**
+ 商品を特定のセクションに整理するために使用されます。
+
+**Sub Category（サブカテゴリ）**
+ 複数の種類の商品を特定のセクションに整理するために使用されます。
+
+**App Name（アプリ名）**
+ 設定された商品で使用されるデザイナーの種類を指します。例：プリント商品デザイナー、フォトブックデザイナー、カレンダーデザイナー、デコール商品デザイナーなど。
+
+**Printable Surfaces（印刷可能面）**
+ デザインが行われるデザイナー上の面で、商品仕様が追加される部分です。
+
+**Output Type（出力形式）**
+ 注文処理後に生成される必要がある出力ファイル形式です。例：JPEG形式やPDF形式。
+
+**Min Pages（最小ページ数）**
+ 商品が開かれる際の最小ページ数です。
+
+**Max Pages（最大ページ数）**
+ 商品で追加可能な最大ページ数です。
+
+
 
 # **Steps:**
 
