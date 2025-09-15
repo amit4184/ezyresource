@@ -310,30 +310,53 @@ Tシャツ商品のマスクを作成する
 
 **手順  9**
 
-* Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
+*  「Products」タブに移動し、「My Products」を選択して、作成したTシャツブランク商品を使用して「Merch」商品を作成してください。
+* **注意:** Merch商品で使用するTシャツ用の.png画像を追加するため、アルバムを作成してください。
 
-  Note: Create a album and add .png images for the merch product to be used for the T-shirts.
+
+
+
+
 
 **手順  10**
 
-* Once the product is created, open the My product dashboard and it will display the created  product.
-* Click on the “View in designer” button to preview the created product in the designer.
+*  商品が作成されると、**My Products ダッシュボード**を開くと、作成された商品が表示されます。
+
+
+* 作成した商品をデザイナーでプレビューするには、**「View in Designer」ボタン**をクリックしてください。
+
+
 
 **手順  11**
 
-* Once the product is opened in the designer, click on the "Merch" photos tab.
-* Select a .png image from the merch album and apply it to the designer.
-* click on the "Preview" button to view the product preview.
+*  商品がデザイナーで開かれたら、**「Merch」写真タブ**をクリックしてください。
+
+
+* Merchアルバムから.png画像を選択し、デザイナーに適用します。
+
+
+* 商品プレビューを確認するには、**「Preview」ボタン**をクリックしてください。
+
+
 
 **手順  12**
 
-* click on the "Test order" button to place the order
+*  **「Test Order」ボタン**をクリックして、注文を行ってください。
+
+   
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
 
-* Will display a message as “Order placed successfully”.
-* The order tab will open displaying the recent order placed
-* Click on the ‘view” order details option
+*  「Order placed successfully」というメッセージが表示されます。
+
+
+* **Orderタブ**が開き、最近の注文が表示されます。
+
+
+* 注文の詳細を確認するには、
+* **「View」注文詳細オプション**をクリックしてください。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
 
@@ -341,14 +364,25 @@ Tシャツ商品のマスクを作成する
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
-* Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
-* Check the order status.
-   Once the status is shown as rendered, you can download the order images.
-* Orders can be downloaded using the “Download all” button or you can individually also download single images.
+*  テスト注文が行われると、注文はレンダラーアプリケーションによってレンダリングされ、**Order画面**で確認できるようになります。
+
+
+* 注文のステータスを確認してください。
+
+
+* ステータスが **Rendered** と表示されたら、注文画像をダウンロードできます。
+
+
+* 注文画像は **「Download All」ボタン** を使用して一括でダウンロードするか、個別に単一の画像をダウンロードすることも可能です。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
 
-***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
+
+**注意:** 複数の画像がある場合、ユーザーは単一の画像をダウンロードすることも、**「Download All」ボタン**をクリックしてすべての画像を一度にダウンロードすることもできます。
+
+
 
 
 **手順  14**
