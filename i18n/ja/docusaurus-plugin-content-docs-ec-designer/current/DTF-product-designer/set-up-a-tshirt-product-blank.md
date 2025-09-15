@@ -257,34 +257,55 @@ Tシャツ商品のマスクを作成する
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
 
-* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
-   Surface name : Enter a surface name based on the surface type selected.
-* Display mask image : Select and upload the Display mask image of the product.
-* Clippath mask image : Select and upload the Clippath mask image of the product.
-* ***Note :***
-* ***The mask image file format should be in .png***
-* ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
-* **"Clippath Mask image" to be made in the same texture of the T-shirts color. for example: The clippath mask color need to be maintained same as that of the T-Shirts color. For example:**
+*  **サーフェスタイプ**：マスクと仕様を適用するサーフェスタイプをドロップダウンから選択してください。
+* **サーフェス名**：選択したサーフェスタイプに基づいてサーフェス名を入力してください。
+* **ディスプレイマスク画像**：商品のディスプレイマスク画像を選択してアップロードしてください。
+* **クリップパスマスク画像**：商品のクリップパスマスク画像を選択してアップロードしてください。
 
-  ![](/img/htctspb.png)
-* ***The product specs and both the mask images specs need to be maintained the same.***
-* There is no recommended size as such as it is dependent on the product specs.
-* Orientation : select orientation for the added images as per the uploaded mask.
-   Enter Mask offsets (in inches) : Top offset, Left offset
-   Offset - this is for the additional properties of the mask to be set in terms of the offsets.
-* Preview : you can click on the preview button to view the added mask image preview display.
-* Once all the required details are entered then to save these details click on the “**Add**” button.
+**注意:**
+
+* マスク画像のファイル形式は **.png** である必要があります。
+
+
+* デザイナーで商品を表示するには、**ディスプレイマスク画像とクリップパスマスク画像の2枚が必要** です。
+
+
+* **クリップパスマスク画像** はTシャツの色や質感に合わせて作成してください。例：クリップパスマスクの色はTシャツの色と同じにする必要があります。
+
+
+* ![](/img/htctspb.png)
+* 商品の仕様および両方のマスク画像の仕様は同じにする必要があります。
+   推奨サイズは特にありません。製品仕様に依存します。
+* **向き（Orientation）**：アップロードしたマスクに合わせて画像の向きを選択してください。
+
+**マスクオフセットを入力（単位：インチ）**：
+
+* 上オフセット（Top offset）
+
+
+* 左オフセット（Left offset）
+
+
+* **オフセット（Offset）**：マスクの追加プロパティをオフセットで設定するための項目です。
+* **プレビュー（Preview）**：プレビューボタンをクリックすると、追加したマスク画像の表示を確認できます。
+* 必要な情報をすべて入力したら、**「追加（Add）」ボタン** をクリックして保存してください。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB5.png)
 
-* Click on the “Save” button to save the product.
+* 「保存（Save）」ボタンをクリックして、商品を保存してください。
+
+
 
 
 **手順  8**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
 
-* Once the product is saved, open the product blanks dashbord list and it will display the created product.
+*  商品が保存されると、**Product Blanks ダッシュボードリスト**を開くと、作成された商品が表示されます。
+
+
 
 
 **手順  9**
