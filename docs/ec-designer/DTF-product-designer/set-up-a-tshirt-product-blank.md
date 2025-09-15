@@ -153,10 +153,6 @@ Click on the **"Add printable surfaces"** button.
 
 **Step 7**
 
-
-
-**Step 8**
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
 
 * Select “**App name”** from the drop-down for example. As the T-shirt type product the app name to be selected for example if the T-shirt is Sigle sided ( front view only ) then select the app name as **“EzyDesigner”** and If the T-shirt is double sided ( front and back view ) then select the app name as **“Ezygifts”**. According to this selection the product will open in that respective designer.
@@ -187,22 +183,20 @@ Click on the **"Add printable surfaces"** button.
 
 * Click on the “Save” button to save the product.
 
-
-
-**Step 9**
+**Step 8**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
 
-* Once the product is saved, open the product wizard list and it will display the created product.
+* Once the product is saved, open the product blanks dashbord list and it will display the created product.
 * Click on the “View in designer” button to preview the created product in the designer.
 
   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB6.png)
 
-**Step 10**
+**Step 9**
 
-* The designer will open the defined product.
+* Go to "Products" tab select 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB8.png)
+
 
 **Step 11**
 
