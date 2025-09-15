@@ -132,21 +132,22 @@ Tシャツ商品のマスクを作成する
 
 **手順  2.**  
 
+* 「Product Blanks」をクリックし、次に「My Blanks」をクリックしてください。
+* 定義済みのプロダクトブランクの一覧が表示されます
 
-「Product Blanks」をクリックし、次に「My Blanks」をクリックしてください。
-定義済みのプロダクトブランクの一覧が表示されます
 
-Click on “Product blanks” and then click on My Blanks.
- It will display the list of defined product Blanks.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
-**Step 3.** 
- To create a new product Blank click on the “Add” button.
+**手順 3.** 
+
+新しいプロダクトブランクを作成するには、「追加」ボタンをクリックしてください。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
-**Step 4.**
+
+**手順 4.**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
 
@@ -167,14 +168,16 @@ Click on “Product blanks” and then click on My Blanks.
 
 Click on the **next** button to continue.
 
-**Step 5** 
+
+**手順 5.**
 
 **Output type :** select the output type for the product as ".**Png**"
 Click on the **"Add printable surfaces"** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
 
-**Step 6**
+
+**手順  6**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
 
@@ -199,7 +202,8 @@ Click on the **"Add printable surfaces"** button.
  **Trim area :** Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
  Click on the add button to save the entered details.
 
-**Step 7**
+
+**手順  7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
 
@@ -231,30 +235,32 @@ Click on the **"Add printable surfaces"** button.
 
 * Click on the “Save” button to save the product.
 
-**Step 8**
+
+**手順  8**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
 
 * Once the product is saved, open the product blanks dashbord list and it will display the created product.
 
-**Step 9**
+
+**手順  9**
 
 * Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
 
   Note: Create a album and add .png images for the merch product to be used for the T-shirts.
 
-**Step 10**
+**手順  10**
 
 * Once the product is created, open the My product dashboard and it will display the created  product.
 * Click on the “View in designer” button to preview the created product in the designer.
 
-**Step 11**
+**手順  11**
 
 * Once the product is opened in the designer, click on the "Merch" photos tab.
 * Select a .png image from the merch album and apply it to the designer.
 * click on the "Preview" button to view the product preview.
 
-**Step 12**
+**手順  12**
 
 * click on the "Test order" button to place the order
 
@@ -266,7 +272,7 @@ Click on the **"Add printable surfaces"** button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
 
-**Step 13**
+**手順  13**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
@@ -279,7 +285,8 @@ Click on the **"Add printable surfaces"** button.
 
 ***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
-**Step 14**
+
+**手順  14**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
@@ -291,7 +298,7 @@ Click on the **"Add printable surfaces"** button.
 
 *The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
-**Step 15**
+**手順  15**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
