@@ -1,16 +1,24 @@
 ---
-title: Set Up a T-Shirt Product Blank
+title: Tシャツ商品用ブランク
 ---
-# **How to create a T-Shirt Product Blank**
+# Tシャツ商品のブランクを作成する方法
 
-### **Before You Start: Setup Checklist**
 
-Please review the following points to ensure a smooth and efficient product setup process:
+### 
+開始前のセットアップチェックリスト
 
-**Mask Images**
 
-create masks For T-Shirt products:
-[View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+#### 
+スムーズかつ効率的に商品をセットアップするために、以下のポイントをご確認ください
+
+
+
+**マスク画像**
+
+Tシャツ商品のマスクを作成する
+[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+[マスクガイドラインを表示](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 
 **Note :** 
 
@@ -195,24 +203,16 @@ Click on the **"Add printable surfaces"** button.
 
   Note: Create a album and add .png images for the merch product to be used for the T-shirts.
 
-
-
 **Step 10**
 
 * Once the product is created, open the My product dashboard and it will display the created  product.
 * Click on the “View in designer” button to preview the created product in the designer.
-
-
 
 **Step 11**
 
 * Once the product is opened in the designer, click on the "Merch" photos tab.
 * Select a .png image from the merch album and apply it to the designer.
 * click on the "Preview" button to view the product preview.
-
-
-
-
 
 **Step 12**
 
@@ -258,8 +258,4 @@ Click on the **"Add printable surfaces"** button.
 * Now the product is ready to be published.
 * Go to the product blank dashboard.
 * Click on the “Publish” button.
-
-
-
 * ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
-
