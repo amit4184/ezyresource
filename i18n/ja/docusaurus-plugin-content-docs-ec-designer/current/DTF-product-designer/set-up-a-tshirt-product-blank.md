@@ -186,7 +186,7 @@ Tシャツ商品のマスクを作成する
 
 **手順  7**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB23.png)
+**23**
 
 * ドロップダウンから「アプリ名」を選択してください。
    例：Tシャツタイプの商品では、以下のようにアプリ名を選択します。
@@ -197,9 +197,7 @@ Tシャツ商品のマスクを作成する
 * この選択に応じて、商品はそれぞれのデザイナーで開かれます。
 * **デフォルトテンプレート**：カスタマイズテンプレート（テンプレートクリエーターで作成されたテンプレート）をデフォルトとして設定する場合はドロップダウンから選択するか、「なし」のままにしてください。
 * **デザイナー仕様を追加するには**：「デザイナー仕様を追加」ボタンをクリックしてください。
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB24.png)
-
+* 24
 * **サーフェスタイプ**：マスクと仕様を適用するサーフェスタイプをドロップダウンから選択してください。
 * **サーフェス名**：選択したサーフェスタイプに基づいてサーフェス名を入力してください。
 * **ディスプレイマスク画像**：商品のディスプレイマスク画像を選択してアップロードしてください。
@@ -235,23 +233,39 @@ Tシャツ商品のマスクを作成する
 
 **手順  9**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB18.png)
+
 * 「Products」タブに移動し、「My Products」を選択して、作成したTシャツブランク商品を使用して「Merch」商品を作成してください。
 * **注意:** Merch商品で使用するTシャツ用の.png画像を追加するため、アルバムを作成してください。
 
 **手順  10**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB19.png)
 
 * 商品が作成されると、**My Products ダッシュボード**を開くと、作成された商品が表示されます。
 * 作成した商品をデザイナーでプレビューするには、**「View in Designer」ボタン**をクリックしてください。
 
 **手順  11**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB20.png)
+
 * 商品がデザイナーで開かれたら、**「Merch」写真タブ**をクリックしてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB21.png)
+
 * Merchアルバムから.png画像を選択し、デザイナーに適用します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB22.png)
+
 * 商品プレビューを確認するには、**「Preview」ボタン**をクリックしてください。
+* 「Test Order」ボタンをクリックして、注文を行ってください。
+
+
 
 **手順  12**
 
-* **「Test Order」ボタン**をクリックして、注文を行ってください。
+
+
 * 「Order placed successfully」というメッセージが表示されます。
 * **Orderタブ**が開き、最近の注文が表示されます。
 * 注文の詳細を確認するには、
