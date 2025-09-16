@@ -9,11 +9,11 @@ Choose Product Blank (Print yourself or choose a Product Blank)
 
 "This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next."
 
-### Task 1: [Set Up a Photobook Product Blank](https://resources.ezycreate.com/ec-designer/create-a-product-blank/set-up-a-photobook-product-blank) (15 Min) 
+### Task 1: [Set Up a Photobook Product Blank](https://resources.ezycreate.com/ec-designer/photobook-designer/set-up-a-photobook-product-blank) (15 Min)
 
-### Task 2: [Photobook Designer Template Creator ](https://resources.ezycreate.com/ec-designer/product-types/photobook-designer/)(10 Min)
+### Task 2: [Photobook Designer Template Creator ](https://resources.ezycreate.com/ec-designer/photobook-designer/photobook-designer-template-creator/)(10 Min)
 
-### Task 3: [DIY Mask Image Generation ](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)(Approx. 5 Min)
+### Task 3: [DIY Mask Image Generation ](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
 
 ### Task 4: Creative Assets (If required)
 
@@ -28,7 +28,6 @@ Choose Product Blank (Print yourself or choose a Product Blank)
 * [Add Occasions](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions/)
 * [Define Product Categories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
 * [Set Product Attributes](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
-
 
 ### **Before You Start: Setup Checklist**
 
@@ -54,8 +53,6 @@ Please review the following points to ensure a smooth and efficient product setu
 
 * Go through the setup steps once to know what resources you'll need.
 * Once ready, start the product setup process.
-
-
 
 ### **Index**
 
