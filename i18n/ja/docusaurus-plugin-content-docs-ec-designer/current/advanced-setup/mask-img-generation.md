@@ -40,26 +40,36 @@ PC またはノートパソコンで Adobe Photoshop（CS6 または任意の CC
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS4.png)
 
-After all is done, Click on "Create" to open the artboard.
+すべての設定が完了したら、「作成」をクリックしてアートボードを開きます。
+
 
 ## **ステップ**  **5**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS5.png)
 
-A white artboard will appear with a locked background.
- Make sure the Layers panel is visible on the right side of Photoshop.
+
+白いアートボードが表示され、背景はロックされています。
+
+右側にレイヤーパネルが表示されていることを確認してください。
+
+
 
 ## ステップ **6**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS6.png)
 
-Click on the Adjustment Layer icon (half-filled circle).
+
+調整レイヤーのアイコン（半分塗りつぶされた円）をクリックします。
+
+
 
 ## ステップ **7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS7.png)
 
-Select "Solid Color" from the adjustment layer options.
+調整レイヤーのオプションから「単色」を選択します。
+
+
 
 ## ステップ **8**
 
