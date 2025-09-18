@@ -1,21 +1,27 @@
 ---
 title: Mask Image Generation
 ---
-## **How to Generate a Mask Image or Background Image**
+## 
+マスク画像や背景画像を生成する方法
 
-### **Step 1**
+
+
+### 
+**ステップ**  **1**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS1.png)
 
 Open Adobe Photoshop (CS6 or any CC version) on your PC/Laptop.
 
-### **Step 2**
+### 
+**ステップ**  **2**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS2.png)
 
 Click on "Create New".
 
-### **Step 3**
+### 
+**ステップ**  **3**
 
 In the new document window:
 
@@ -23,32 +29,32 @@ In the new document window:
 
 * Enter sizes in inches width + Height ,Keep Resolution 300 dpi,color mode to RGB Color
 
-## **Step 4**
+## **ステップ**  **4**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS4.png)
 
 After all is done, Click on "Create" to open the artboard.
 
-## **Step 5**
+## **ステップ**  **5**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS5.png)
 
 A white artboard will appear with a locked background.
  Make sure the Layers panel is visible on the right side of Photoshop.
 
-## **Step 6**
+## ステップ **6**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS6.png)
 
 Click on the Adjustment Layer icon (half-filled circle).
 
-## **Step 7**
+## ステップ **7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS7.png)
 
 Select "Solid Color" from the adjustment layer options.
 
-## **Step 8**
+## ステップ **8**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS8.png)
 
@@ -57,25 +63,25 @@ Choose black color:
 * Color Code: #000000
    Click OK.
 
-## **Step 9**
+## ステップ **9**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS9.png)
 
 Turn off the Background layer (click the eye icon).
 
-## **Step 10**
+## ステップ** 10**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS10.png)
 
 Go to File → Save a Copy.
 
-## **Step 11**
+## ステップ**  11**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS11.png)
 
 Click on "save as Type.
 
-## **Step 12**
+## ステップ**  12**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS12.png)
 
@@ -88,9 +94,6 @@ Select PNG option- press Save, image exported. This saves your mask image with a
 * Turn off all layers including the background.
 * A transparent artboard will appear.
 *  Repeat the same process for exporting as above. 
-
-
-
 
 ## **Need Help?**
 
