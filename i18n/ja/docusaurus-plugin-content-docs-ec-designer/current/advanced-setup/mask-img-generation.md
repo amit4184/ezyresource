@@ -75,36 +75,53 @@ PC またはノートパソコンで Adobe Photoshop（CS6 または任意の CC
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS8.png)
 
-Choose black color:
 
-* Color Code: #000000
-   Click OK.
+黒色を選択します：
+
+カラーコード：#000000
+
+「わかりました」をクリックします
+
+
 
 ## ステップ **9**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS9.png)
 
-Turn off the Background layer (click the eye icon).
+
+背景レイヤーをオフにします（目のアイコンをクリック）。
+
+
 
 ## ステップ** 10**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS10.png)
 
-Go to File → Save a Copy.
+
+「ファイル」→「コピーを保存」を選択します。
+
+
 
 ## ステップ**  11**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS11.png)
 
-Click on "save as Type.
+
+「形式を指定して保存」をクリックします。
+
+
 
 ## ステップ**  12**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS12.png)
 
-Select PNG option- press Save, image exported. This saves your mask image with a black overlay and no background.
 
-### **To Export Transparent Background PNG:**
+PNG オプションを選択し、「保存」を押します。画像が書き出されます。これで、黒のオーバーレイがあり背景のないマスク画像が保存されます。
+
+
+
+## 
+透過背景の PNG を書き出すには：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS13.png)
 
