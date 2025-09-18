@@ -11,23 +11,30 @@ title: Mask Image Generation
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS1.png)
 
-Open Adobe Photoshop (CS6 or any CC version) on your PC/Laptop.
+PC またはノートパソコンで Adobe Photoshop（CS6 または任意の CC バージョン）を開きます。
+
 
 ### 
 **ステップ**  **2**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS2.png)
 
-Click on "Create New".
+「新規作成」をクリックします
+
+
 
 ### 
 **ステップ**  **3**
 
-In the new document window:
+新規ドキュメントのウィンドウで、
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS3.png)
 
-* Enter sizes in inches width + Height ,Keep Resolution 300 dpi,color mode to RGB Color
+*  サイズをインチ単位で入力します（幅＋高さ）。解像度は 300 dpi に設定し、カラーモードは RGB カラーにします。
+
+
 
 ## **ステップ**  **4**
 
