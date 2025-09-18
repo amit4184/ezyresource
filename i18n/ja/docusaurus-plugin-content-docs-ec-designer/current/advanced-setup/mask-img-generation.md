@@ -125,10 +125,18 @@ PNG オプションを選択し、「保存」を押します。画像が書き�
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS13.png)
 
-* Turn off all layers including the background.
-* A transparent artboard will appear.
-*  Repeat the same process for exporting as above. 
+* 背景を含むすべてのレイヤーの表示をオフにします。
 
-## **Need Help?**
 
-If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
+* 透明なアートボードが表示されます。
+
+
+*  上記と同じ手順で書き出しを繰り返します。
+
+
+
+##### 
+お困りですか？
+
+[](mailto:support@ezycreate.com)
+もし行き詰まった場合でも心配いりません — [support@ezycreate.com](<>) までメールしてください。
