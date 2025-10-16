@@ -26,7 +26,12 @@ export default {
     {
       type: 'category',
       label: 'Photobook Designer',
+      link: {
+      type: 'doc',
+      id: 'photobook-designer/overview',
+      },	    
       items: [
+        'photobook-designer/tutorial',	      
        'photobook-designer/set-up-a-photobook-product-blank',
         'photobook-designer/photobook-designer-template-creator',
       ],

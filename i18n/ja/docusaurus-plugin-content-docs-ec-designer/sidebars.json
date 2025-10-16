@@ -1,0 +1,103 @@
+{
+  "ec-designerSidebar": [
+    {
+      "type": "category",
+      "label": "はじめに",
+      "items": [
+        "get-started/overview",
+        "get-started/key-concept"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "フォトブックデザイナー",
+      "link": {
+        "type": "doc",
+        "id": "photobook-designer/overview"
+      },
+      "items": [
+        "photobook-designer/tutorial",
+        "photobook-designer/set-up-a-photobook-product-blank",
+        "photobook-designer/photobook-designer-template-creator"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "印刷デザイナー",
+      "items": [
+        "print-designer/set-up-a-print-product-blank",
+        "print-designer/print-designer-template-creator"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "カレンダーデザイナー",
+      "items": [
+        "calendar-designer/set-up-a-calendar-product-blank",
+        "calendar-designer/calendar-designer-template-creator"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "カスタム製品デザイナー",
+      "items": [
+        "custom-product-designer/set-up-a-decor-product-blank",
+        "custom-product-designer/custom-product-designer"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "DTF製品デザイナー",
+      "items": [
+        "DTF-product-designer/set-up-a-tshirt-product-blank"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "製品設定",
+      "items": [
+        "product-setup/create-a-product",
+        "product-setup/ready-product-flow",
+        "product-setup/custom-product-flow"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "クリエイティブアセット",
+      "items": [
+        "creative-assets/create-page-layouts",
+        "creative-assets/customize-backgrounds",
+        "creative-assets/clipart-management",
+        "creative-assets/mask-img-generation"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "高度な設定",
+      "items": [
+        "advanced-setup/3d-preview",
+        "advanced-setup/add-occasions",
+        "advanced-setup/define-product-categories",
+        "advanced-setup/set-product-attributes"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "ダッシュボード・分析",
+      "items": [
+        "dashboards-analytics/platform-engagement-dashboard",
+        "dashboards-analytics/product-conversion-rate",
+        "dashboards-analytics/product-orders-dashboard",
+        "dashboards-analytics/customer-sales-dashboard"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "プラグイン・統合",
+      "items": [
+        "plugins-integrations/wordpress-plugin-setup",
+        "plugins-integrations/install-sdk"
+      ]
+    }
+  ]
+}

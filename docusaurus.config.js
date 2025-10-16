@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Ezycreate Resources',
   tagline: 'Tools and Docs to Power Your Integration',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/EC_favicon.png',
 
   future: {
     v4: true,
@@ -20,27 +20,21 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-//  i18n: {
-//    defaultLocale: 'en',
- //   locales: ['en'],
- // },
   i18n: {
-  defaultLocale: 'en',
-  locales: ['en', 'ja'],
-  localeConfigs: {
-     ja: {
-      label: '日本語',
-      htmlLang: 'ja',
-      path: 'ja',
+    defaultLocale: 'en',
+    locales: ['en', 'ja'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+      ja: {
+        label: '日本語',
+        htmlLang: 'ja',
+        path: 'ja',
+      },
     },
-    en: {
-      label: 'English',
-      htmlLang: 'en-US',
-    }
-
   },
-},
-
 
   plugins: [
     [
@@ -133,23 +127,12 @@ const config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Resources',
-       logo: {
+      logo: {
         alt: 'My Site Logo',
         src: 'img/ezycreatelogo.png',
       },
       items: [
-        // 🔴 Remove this block to hide 'Tutorial'
-       // {
-       //   type: 'docSidebar',
-        //  sidebarId: 'tutorialSidebar',
-         // position: 'left',
-        //},
-       // { to: '/products/explore-all-products/photobook-designer', label: 'Products', position: 'left' },
         { to: '/ec-designer/get-started/overview', label: 'EC Designer', position: 'left' },
-        //{ to: "/ec-store/How-To's/Products-Publishing", label: 'EC Store', position: 'left' },
-       // { to: '/ec-dropship', label: 'EC Dropship', position: 'left' },
-       // { to: '/ec-factory', label: 'EC Factory', position: 'left' },
-       // { to: '/ec-crm', label: 'EC CRM', position: 'left' },
         {
           type: 'localeDropdown',
           position: 'right',

@@ -7,29 +7,29 @@
     "message": "はじめに",
     "description": "The label for category Get started in sidebar ec-designerSidebar"
   },
-  "sidebar.ec-designerSidebar.category.How to Register": {
-    "message": "登録方法",
-    "description": "The label for category How to Register in sidebar ec-designerSidebar"
+  "sidebar.ec-designerSidebar.category.Photobook Designer": {
+    "message": "フォトブックデザイナー",
+    "description": "The label for category Photobook Designer in sidebar ec-designerSidebar"
   },
-  "sidebar.ec-designerSidebar.category.How-To's": {
-    "message": "使い方",
-    "description": "The label for category How-To's in sidebar ec-designerSidebar"
+  "sidebar.ec-designerSidebar.category.Print Designer": {
+    "message": "印刷デザイナー",
+    "description": "The label for category Print Designer in sidebar ec-designerSidebar"
   },
-  "sidebar.ec-designerSidebar.category.Product Types": {
-    "message": "商品タイプ",
-    "description": "The label for category Product Types in sidebar ec-designerSidebar"
+  "sidebar.ec-designerSidebar.category.Calendar Designer": {
+    "message": "カレンダーデザイナー",
+    "description": "The label for category Calendar Designer in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Custom Product Designer": {
+    "message": "カスタム製品デザイナー",
+    "description": "The label for category Custom Product Designer in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.DTF Product Designer": {
+    "message": "DTF製品デザイナー",
+    "description": "The label for category DTF Product Designer in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Product Setup": {
-    "message": "商品設定",
+    "message": "製品設定",
     "description": "The label for category Product Setup in sidebar ec-designerSidebar"
-  },
-  "sidebar.ec-designerSidebar.category.Create a Product Blank": {
-    "message": "商品ブランクの作成",
-    "description": "The label for category Create a Product Blank in sidebar ec-designerSidebar"
-  },
-  "sidebar.ec-designerSidebar.category.Publish, Update, & Connect": {
-    "message": "公開・更新・接続",
-    "description": "The label for category Publish, Update, & Connect in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.Creative Assets": {
     "message": "クリエイティブアセット",
@@ -46,6 +46,22 @@
   "sidebar.ec-designerSidebar.category.Plugins & Integrations": {
     "message": "プラグイン・統合",
     "description": "The label for category Plugins & Integrations in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.How to Register": {
+    "message": "登録方法",
+    "description": "The label for category How to Register in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.How-To's": {
+    "message": "使い方",
+    "description": "The label for category How-To's in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Create a Product Blank": {
+    "message": "商品ブランクの作成",
+    "description": "The label for category Create a Product Blank in sidebar ec-designerSidebar"
+  },
+  "sidebar.ec-designerSidebar.category.Publish, Update, & Connect": {
+    "message": "公開・更新・接続",
+    "description": "The label for category Publish, Update, & Connect in sidebar ec-designerSidebar"
   },
   "sidebar.ec-designerSidebar.category.FAQs & Help": {
     "message": "FAQ・ヘルプ",

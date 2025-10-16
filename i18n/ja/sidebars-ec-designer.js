@@ -25,13 +25,18 @@ export default {
   //  },
 
 	{
-      type: 'category',
-      label: '写真集デザイナー',
-      items: [
-       'photobook-designer/set-up-a-photobook-product-blank',
-        'photobook-designer/photobook-designer-template-creator',
-      ],
-    },  
+  type: 'category',
+  label: 'フォトブックデザイナー',
+  link: {
+    type: 'doc',
+    id: 'photobook-designer/overview',
+  },
+  items: [
+    'photobook-designer/tutorial',
+    'photobook-designer/set-up-a-photobook-product-blank',
+    'photobook-designer/photobook-designer-template-creator',
+  ],
+},  
     {
       type: 'category',
       label: '印刷デザイナー',

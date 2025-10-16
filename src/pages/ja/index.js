@@ -1,80 +1,77 @@
 import React from 'react';
+import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
-import styles from './styles.module.css';
+import styles from '../index.module.css';
 
-export default function JapaneseHome() {
+const FeatureList = [
+  {
+    title: 'はじめに',
+    description: 'ECデザイナーの基本概念と主要な概念を学んで、素早く開始できます。',
+    link: '/ja/ec-designer/get-started/overview',
+  },
+  {
+    title: 'フォトブックデザイナー',
+    description: '思い出を傑作に。直感的なツールと豊富なレイアウトを活用し、フォトブックを自由に作成・カスタマイズできます',
+    link: '/ja/photobook-designer/overview',
+  },
+  {
+    title: 'プリントデザイナー',
+    description: '印刷サービスをさらに高めましょう。洗練されたデザイン、柔軟な設定、そして簡単な操作で、プレミアム印刷製品をお客様に提供できます。',
+    link: '/ja/ec-designer/print-designer/set-up-a-print-product-blank',
+  },
+  {
+    title: 'カレンダーデザイナー',
+    description: '日々を彩る。洗練されたデザインと柔軟なカスタマイズ機能で、あなただけのパーソナライズされたカレンダーを作成できます。',
+    link: '/ja/ec-designer/calendar-designer/set-up-a-calendar-product-blank',
+  },
+  {
+    title: 'カスタム製品デザイナー',
+    description: 'ギフトからホームデコレーションまで、お客様の心に響くユニークなカスタム製品をデザインしましょう。',
+    link: '/ja/ec-designer/custom-product-designer/set-up-a-decor-product-blank',
+  },
+  {
+    title: 'DTF製品デザイナー',
+    description: 'アパレル制作を簡単に。数回クリックするだけで、Tシャツやパーカーなどに対応したダイレクト・トゥ・フィルム（DTF）印刷を設定できます。',
+    link: '/ja/ec-designer/DTF-product-designer/set-up-a-tshirt-product-blank',
+  },
+];
+
+function Feature({title, description, link}) {
+  return (
+    <div className={styles.featureCard}>
+      <div className={styles.featureContent}>
+        <h3 className={styles.featureTitle}>{title}</h3>
+        <p className={styles.featureDescription}>{description}</p>
+        <Link
+          className={styles.featureLink}
+          to={link}>
+          詳細を見る →
+        </Link>
+      </div>
+    </div>
+  );
+}
+
+export default function Home() {
   return (
     <Layout
-      title="Ezycreate リソース"
+      title="ECデザイナー リソース"
       description="統合を強化するツールとドキュメント">
-      <main className={styles.main}>
-        <div className={styles.hero}>
-          <h1 className={styles.title}>Ezycreate 資料</h1>
+      <header className={styles.heroBanner}>
+        <div className="container">
+          <h1 className={styles.heroTitle}>ECデザイナー リソース</h1>
+          <p className={styles.heroSubtitle}>
+            ECデザイナーへようこそ。ECデザイナー SaaS内の強力なツールで、企業がパーソナライズされた製品を簡単に作成、カスタマイズ、販売できるようになります。
+          </p>
         </div>
-
-        <section className={styles.section}>
-          <h2>Products</h2>
-          <div className={styles.productGrid}>
-            <a href="/ja/ec-designer/get-started/overview" className={styles.productCard}>
-              <h3>EC Designer</h3>
-            </a>
-            <a href="/ja/ec-store/How-To's/Products-Publishing" className={styles.productCard}>
-              <h3>EC Store</h3>
-            </a>
-          </div>
-        </section>
-
-        <div className={styles.divider}></div>
-
-        <section className={styles.section}>
-          <h2>DOCS</h2>
-          <div className={styles.docsGrid}>
-            <div>
-              <h3>Tutorial</h3>
-              <ul>
-                <li><a href="/ja/docs/intro">チュートリアル</a></li>
-            //    <li><a href="/ja/products/explore-all-products/photobook-designer">製品</a></li>
-                <li><a href="/ja/ec-designer/get-started/overview">EC Designer</a></li>
-//                <li><a href="/ja/ec-store/How-To's/Products-Publishing">EC Store</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3>COMMUNITY</h3>
-              <ul>
-                <li><a href="https://stackoverflow.com/questions/tagged/ezycreate" target="_blank">Stack Overflow ↗</a></li>
-                <li><a href="https://discord.gg/ezycreate" target="_blank">Discord ↗</a></li>
-                <li><a href="https://x.com/ezycreate" target="_blank">X ↗</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3>MORE</h3>
-              <ul>
-                <li><a href="/ja/blog">ブログ</a></li>
-                <li><a href="https://github.com/amit4184/ezyresource" target="_blank">GitHub ↗</a></li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        <div className={styles.divider}></div>
-
-        <section className={styles.section}>
-          <h2>Print Designer</h2>
-          <div className={styles.features}>
-            <div className={styles.feature}>
-              <h3>既存テンプレートの編集</h3>
-            </div>
-            <div className={styles.feature}>
-              <h3>テンプレート情報の編集</h3>
-            </div>
-            <div className={styles.feature}>
-              <h3>Template Creator 画面の各種版</h3>
-            </div>
-            <div className={styles.feature}>
-              <h3>ナビゲーションパー</h3>
-            </div>
-            <div className={styles.feature}>
-              <h3>ページ追加（フォトブックのみ）</h3>
+      </header>
+      <main>
+        <section className={styles.features}>
+          <div className="container">
+            <div className={styles.featuresGrid}>
+              {FeatureList.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
             </div>
           </div>
         </section>

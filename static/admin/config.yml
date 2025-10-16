@@ -7,21 +7,66 @@ media_folder: "static/img"
 public_folder: "/img/"
 
 collections:
-  # ---------- ENGLISH ----------
+  # ---------- HOMEPAGE TRANSLATIONS ----------
+  - name: homepage-translations
+    label: "Homepage Translations"
+    files:
+      - label: "English Homepage"
+        name: "homepage-en"
+        file: "i18n/en/code.json"
+        fields:
+          - { name: "homepage.title.message", label: "Page Title", widget: string }
+          - { name: "homepage.subtitle.message", label: "Page Subtitle", widget: text }
+          - { name: "homepage.getStarted.title.message", label: "Get Started Title", widget: string }
+          - { name: "homepage.getStarted.description.message", label: "Get Started Description", widget: text }
+          - { name: "homepage.photobookDesigner.title.message", label: "Photobook Designer Title", widget: string }
+          - { name: "homepage.photobookDesigner.description.message", label: "Photobook Designer Description", widget: text }
+          - { name: "homepage.printDesigner.title.message", label: "Print Designer Title", widget: string }
+          - { name: "homepage.printDesigner.description.message", label: "Print Designer Description", widget: text }
+          - { name: "homepage.calendarDesigner.title.message", label: "Calendar Designer Title", widget: string }
+          - { name: "homepage.calendarDesigner.description.message", label: "Calendar Designer Description", widget: text }
+          - { name: "homepage.customProductDesigner.title.message", label: "Custom Product Designer Title", widget: string }
+          - { name: "homepage.customProductDesigner.description.message", label: "Custom Product Designer Description", widget: text }
+          - { name: "homepage.dtfProductDesigner.title.message", label: "DTF Product Designer Title", widget: string }
+          - { name: "homepage.dtfProductDesigner.description.message", label: "DTF Product Designer Description", widget: text }
+          - { name: "homepage.learnMore.message", label: "Learn More Text", widget: string }
+      
+      - label: "Japanese Homepage"
+        name: "homepage-ja"
+        file: "i18n/ja/code.json"
+        fields:
+          - { name: "homepage.title.message", label: "ページタイトル", widget: string }
+          - { name: "homepage.subtitle.message", label: "ページサブタイトル", widget: text }
+          - { name: "homepage.getStarted.title.message", label: "はじめにタイトル", widget: string }
+          - { name: "homepage.getStarted.description.message", label: "はじめに説明", widget: text }
+          - { name: "homepage.photobookDesigner.title.message", label: "フォトブックデザイナータイトル", widget: string }
+          - { name: "homepage.photobookDesigner.description.message", label: "フォトブックデザイナー説明", widget: text }
+          - { name: "homepage.printDesigner.title.message", label: "印刷デザイナータイトル", widget: string }
+          - { name: "homepage.printDesigner.description.message", label: "印刷デザイナー説明", widget: text }
+          - { name: "homepage.calendarDesigner.title.message", label: "カレンダーデザイナータイトル", widget: string }
+          - { name: "homepage.calendarDesigner.description.message", label: "カレンダーデザイナー説明", widget: text }
+          - { name: "homepage.customProductDesigner.title.message", label: "カスタム製品デザイナータイトル", widget: string }
+          - { name: "homepage.customProductDesigner.description.message", label: "カスタム製品デザイナー説明", widget: text }
+          - { name: "homepage.dtfProductDesigner.title.message", label: "DTF製品デザイナータイトル", widget: string }
+          - { name: "homepage.dtfProductDesigner.description.message", label: "DTF製品デザイナー説明", widget: text }
+          - { name: "homepage.learnMore.message", label: "詳細リンクテキスト", widget: string }
+
+  # ---------- ENGLISH COLLECTIONS ----------
   - name: tutorial
     label: "Tutorial"
     folder: docs/tutorial-basics
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { name: title, label: Title, widget: string }
       - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
-      - { name: slug, label: Slug, widget: string }
-      - { name: tags, label: Tags, widget: list }
+      - { name: slug, label: Slug, widget: string, required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
       - label: "Authors"
         name: "authors"
         widget: "list"
+        required: false
         fields:
           - { name: name, label: Name, widget: string }
           - { name: title, label: Title, widget: string }
@@ -94,7 +139,7 @@ collections:
       - { name: sidebar_label, label: "Sidebar Label", widget: string, required: false }
       - { name: body, label: Body, widget: markdown }
 
-  # ---------- JAPANESE ----------
+  # ---------- JAPANESE COLLECTIONS ----------
   - name: tutorial-ja
     label: "Tutorial (日本語)"
     folder: i18n/ja/docusaurus-plugin-content-docs/current

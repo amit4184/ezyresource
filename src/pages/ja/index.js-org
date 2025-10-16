@@ -1,0 +1,151 @@
+import React from 'react';
+import Link from '@docusaurus/Link';
+import Layout from '@theme/Layout';
+
+// Inline styles to avoid any CSS conflicts
+const heroStyle = {
+  padding: '4rem 0',
+  textAlign: 'center',
+  background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+  color: 'white'
+};
+
+const titleStyle = {
+  fontSize: '3rem',
+  fontWeight: '700',
+  marginBottom: '1rem'
+};
+
+const subtitleStyle = {
+  fontSize: '1.2rem',
+  maxWidth: '800px',
+  margin: '0 auto',
+  opacity: '0.9',
+  lineHeight: '1.6'
+};
+
+const featuresStyle = {
+  padding: '4rem 0',
+  backgroundColor: '#f8f9fa'
+};
+
+const gridStyle = {
+  display: 'grid',
+  gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))',
+  gap: '2rem',
+  maxWidth: '1200px',
+  margin: '0 auto',
+  padding: '0 1rem'
+};
+
+const cardStyle = {
+  background: 'white',
+  border: '1px solid #e0e0e0',
+  borderRadius: '12px',
+  padding: '2rem',
+  boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
+  transition: 'transform 0.3s ease'
+};
+
+const cardTitleStyle = {
+  fontSize: '1.5rem',
+  fontWeight: '600',
+  marginBottom: '1rem',
+  color: '#1976d2',
+  borderBottom: '2px solid #e0e0e0',
+  paddingBottom: '0.5rem'
+};
+
+const cardDescStyle = {
+  marginBottom: '1.5rem',
+  color: '#666',
+  lineHeight: '1.6'
+};
+
+const linkStyle = {
+  display: 'inline-flex',
+  alignItems: 'center',
+  fontWeight: '600',
+  color: '#1976d2',
+  textDecoration: 'none',
+  padding: '0.75rem 1.5rem',
+  border: '2px solid #1976d2',
+  borderRadius: '6px',
+  transition: 'all 0.3s ease'
+};
+
+const FeatureList = [
+  {
+    title: 'はじめに',
+    description: 'EC Designerの基本概念と主要な概念を学んで、素早く開始できます。',
+    link: '/ja/ec-designer/get-started/overview',
+  },
+  {
+    title: 'フォトブックデザイナー',
+    description: '強力なデザインツールを使用してフォトブック製品を作成・カスタマイズします。',
+    link: '/ja/photobook-designer',
+  },
+  {
+    title: 'プリントデザイナー',
+    description: 'お客様向けのプリント製品をデザイン・設定します。',
+    link: '/ja/ec-designer/print-designer/set-up-a-print-product-blank',
+  },
+  {
+    title: 'カレンダーデザイナー',
+    description: 'カスタムレイアウトとデザインで美しいカレンダー製品を作成します。',
+    link: '/ja/ec-designer/calendar-designer/set-up-a-calendar-product-blank',
+  },
+  {
+    title: 'カスタム製品デザイナー',
+    description: '柔軟なカスタマイゼーションオプションでカスタム製品やデコアイテムをデザインします。',
+    link: '/ja/ec-designer/custom-product-designer/set-up-a-decor-product-blank',
+  },
+  {
+    title: 'DTF製品デザイナー',
+    description: 'Tシャツやアパレルなどの転写プリント製品を設定します。',
+    link: '/ja/ec-designer/DTF-product-designer/set-up-a-tshirt-product-blank',
+  },
+];
+
+function Feature({title, description, link}) {
+  return (
+    <div style={cardStyle}>
+      <h3 style={cardTitleStyle}>{title}</h3>
+      <p style={cardDescStyle}>{description}</p>
+      <Link to={link} style={linkStyle}>
+        詳細を見る →
+      </Link>
+    </div>
+  );
+}
+
+export default function JapaneseHome() {
+  return (
+    <Layout
+      title="EC Designer リソース"
+      description="統合を強化するツールとドキュメント">
+     <div style={{background: 'red', padding: '10px', color: 'white', textAlign: 'center'}}>
+      THIS IS THE JAPANESE PAGE - 日本語ページです
+    </div>
+      <header style={heroStyle}>
+        <div className="container">
+          <h1 style={titleStyle}>EC Designer リソース</h1>
+          <p style={subtitleStyle}>
+            EC Designerへようこそ。EzyDesigner SaaS内の強力なツールで、企業がパーソナライズされた製品を簡単に作成、カスタマイズ、販売できるようになります。
+          </p>
+        </div>
+      </header>
+      <main>
+        <section style={featuresStyle}>
+          <div className="container">
+            <div style={gridStyle}>
+              {FeatureList.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+    </Layout>
+  );
+}

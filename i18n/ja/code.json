@@ -321,5 +321,65 @@
   "theme.tags.tagsPageTitle": {
     "message": "タグ",
     "description": "The title of the tag list page"
+  },
+  "homepage.title": {
+    "message": "ECデザイナー リソース",
+    "description": "Homepage title"
+  },
+  "homepage.subtitle": {
+    "message": "EzyDesigner SaaS の強力なツール「ECデザイナー」へようこそ。このツールは、企業が簡単にパーソナライズされた製品を作成・カスタマイズ・販売できるよう支援します。",
+    "description": "Homepage subtitle"
+  },
+  "homepage.getStarted.title": {
+    "message": "はじめに",
+    "description": "Get started card title"
+  },
+  "homepage.getStarted.description": {
+    "message": "ECデザイナーの基本概念と主要な概念を学んで、素早く開始できます。",
+    "description": "Get started card description"
+  },
+  "homepage.photobookDesigner.title": {
+    "message": "フォトブックデザイナー",
+    "description": "Photobook Designer card title"
+  },
+  "homepage.photobookDesigner.description": {
+    "message": "強力なデザインツールを使用してフォトブック製品を作成・カスタマイズします。",
+    "description": "Photobook Designer card description"
+  },
+  "homepage.printDesigner.title": {
+    "message": "プリントデザイナー",
+    "description": "Print Designer card title"
+  },
+  "homepage.printDesigner.description": {
+    "message": "お客様向けのプリント製品をデザイン・設定します。",
+    "description": "Print Designer card description"
+  },
+  "homepage.calendarDesigner.title": {
+    "message": "カレンダーデザイナー",
+    "description": "Calendar Designer card title"
+  },
+  "homepage.calendarDesigner.description": {
+    "message": "カスタムレイアウトとデザインで美しいカレンダー製品を作成します。",
+    "description": "Calendar Designer card description"
+  },
+  "homepage.customProductDesigner.title": {
+    "message": "カスタム製品デザイナー",
+    "description": "Custom Product Designer card title"
+  },
+  "homepage.customProductDesigner.description": {
+    "message": "柔軟なカスタマイゼーションオプションでカスタム製品やデコアイテムをデザインします。",
+    "description": "Custom Product Designer card description"
+  },
+  "homepage.dtfProductDesigner.title": {
+    "message": "DTF製品デザイナー",
+    "description": "DTF Product Designer card title"
+  },
+  "homepage.dtfProductDesigner.description": {
+    "message": "Tシャツやアパレルなどの転写プリント製品を設定します。",
+    "description": "DTF Product Designer card description"
+  },
+  "homepage.learnMore": {
+    "message": "詳細を見る →",
+    "description": "Learn more button text"
   }
 }
