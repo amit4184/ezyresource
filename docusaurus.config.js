@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Ezycreate Resources',
   tagline: 'Tools and Docs to Power Your Integration',
-  favicon: 'img/EC_favicon.png',
+  favicon: 'img/favicon.ico',
 
   future: {
     v4: true,
