@@ -58,9 +58,11 @@ EzyAdmin にログイン
 
 1. Step 1 - Product Blank で「Select product blank」をクリック
 
+   (replace below with imge JPHTCMPOEC_2)
+
 ![](/img/jpmrhpf3.png)
 
-1. ベースアイテム（例：Standard Mug）を選択
+1. ベースアイテムを選択してください（例：黒Tシャツ フロント、スタンダードマグカップ）
 2. 名前、ID、サイズ、説明などの詳細を確認
 3. 「Next」をクリック
 
@@ -78,21 +80,32 @@ EzyAdmin にログイン
 1. をクリック
 2. 使用したいテンプレートを選択
    ※表示されない場合は、テンプレートが「公開済み」になっているか確認
-3.
+3. (put imge JPHTCMPOEC_3)
 4. 「Next」をクリック
 
 #### **ステップ5：バリアントの追加**
 
-1. タブで「+ Add variants」をクリック
-2. 以下を確認：
 
-   * すべて同じテンプレートグループに属していること
+(put imge JPHTCMPOEC_4)
+
+タブで「+ Add variants」をクリック
+
+
+(put imge JPHTCMPOEC_5)
+
+以下を確認：
+
+1. * すべて同じテンプレートグループに属していること
    * 視覚的にユニークであること
    * 1つは「Set default」でデフォルトとして設定されていること
-3. 不要なバリアントはゴミ箱アイコンで削除
-4. 「Next」をクリック
+2. 不要なバリアントはゴミ箱アイコンで削除
+3. 「Next」をクリック
 
 #### **ステップ6：製品情報の入力**
+
+
+(put imge JPHTCMPOEC_6)
+
 
 1. 製品言語を選択（例）
 2. 以下を入力：
@@ -103,28 +116,53 @@ EzyAdmin にログイン
    * タグ（Tags：フィルターや検索用）
 3. 「Next」をクリック
 
+
+
 #### **ステップ7：アルバムおよびアップロード設定**
 
+(put imge JPHTCMPOEC_7)
+
+
+
 1. をクリックして画像コレクションを関連付け
-   ※Creative Asset → Merch Albums で管理可能
-2. 不要なアルバムは削除
-3. ユーザーに写真アップロードを許可したい場合は「Allow users to upload photos while customizing」を有効化
+   ※Creative Asset → Merch Albums で管理可能 
+   (put imge JPHTCMPOEC_8)
+
+
+2. 不要なアルバムは削除 
+   (put imge JPHTCMPOEC_9) 
+   (put imge JPHTCMPOEC_10)
+
+
+3. ユーザーに写真アップロードを許可したい場合は「Allow users to upload photos while customizing」を有効化  
+   (put imge JPHTCMPOEC_11)
+
+
 4. 「Next」をクリック
 
 #### **ステップ8：価格設定**
 
-1. すべてのバリアントがSKUと価格の編集フィールドと共に表示される
-2. 各バリアントの「Edit」アイコンをクリックし、価格を設定
+1. すべてのバリアントがSKUと価格の編集フィールドと共に表示される 
+   (put imge JPHTCMPOEC_12)
+
+2. 各バリアントの「Edit」アイコンをクリックし、価格を設定 
+   (put imge JPHTCMPOEC_13)
+
 3. 設定後は「Save」をクリック
 4. 「Next」をクリック
 
 #### **ステップ9：モックアップ画像のアップロード**
+
+(put imge JPHTCMPOEC_16)
 
 1. モックアップ画像またはプレビュー画像をアップロード
 2. 選択したテンプレートを正確に表現しているか確認
 3. 「Next」をクリック
 
 #### **ステップ10：最終確認と保存**
+
+(put imge JPHTCMPOEC_17)
+
 
 1. 以下をすべて確認：
 
