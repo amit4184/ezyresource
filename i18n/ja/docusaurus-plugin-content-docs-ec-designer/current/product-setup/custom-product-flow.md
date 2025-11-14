@@ -58,7 +58,7 @@ EzyAdmin にログイン
 
 1. Step 1 - Product Blank で「Select product blank」をクリック
 
-   (replace below with imge JPHTCMPOEC_2)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_2.png)
 
 ![](/img/jpmrhpf3.png)
 
@@ -80,18 +80,18 @@ EzyAdmin にログイン
 1. をクリック
 2. 使用したいテンプレートを選択
    ※表示されない場合は、テンプレートが「公開済み」になっているか確認
-3. (put imge JPHTCMPOEC_3)
+3. ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_3.png)
 4. 「Next」をクリック
 
 #### **ステップ5：バリアントの追加**
 
 
-(put imge JPHTCMPOEC_4)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_4.png)
 
 タブで「+ Add variants」をクリック
 
 
-(put imge JPHTCMPOEC_5)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_5.png)
 
 以下を確認：
 
@@ -104,7 +104,7 @@ EzyAdmin にログイン
 #### **ステップ6：製品情報の入力**
 
 
-(put imge JPHTCMPOEC_6)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_6.png)
 
 
 1. 製品言語を選択（例）
@@ -120,22 +120,22 @@ EzyAdmin にログイン
 
 #### **ステップ7：アルバムおよびアップロード設定**
 
-(put imge JPHTCMPOEC_7)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_7.png)
 
 
 
 1. をクリックして画像コレクションを関連付け
    ※Creative Asset → Merch Albums で管理可能 
-   (put imge JPHTCMPOEC_8)
+  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_8.png)
 
 
 2. 不要なアルバムは削除 
-   (put imge JPHTCMPOEC_9) 
-   (put imge JPHTCMPOEC_10)
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_9.png) 
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_10.png)
 
 
 3. ユーザーに写真アップロードを許可したい場合は「Allow users to upload photos while customizing」を有効化  
-   (put imge JPHTCMPOEC_11)
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_11.png)
 
 
 4. 「Next」をクリック
@@ -143,17 +143,17 @@ EzyAdmin にログイン
 #### **ステップ8：価格設定**
 
 1. すべてのバリアントがSKUと価格の編集フィールドと共に表示される 
-   (put imge JPHTCMPOEC_12)
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_12.png)
 
 2. 各バリアントの「Edit」アイコンをクリックし、価格を設定 
-   (put imge JPHTCMPOEC_13)
+   ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_13.png)
 
 3. 設定後は「Save」をクリック
 4. 「Next」をクリック
 
 #### **ステップ9：モックアップ画像のアップロード**
 
-(put imge JPHTCMPOEC_16)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_16.png)
 
 1. モックアップ画像またはプレビュー画像をアップロード
 2. 選択したテンプレートを正確に表現しているか確認
@@ -161,7 +161,7 @@ EzyAdmin にログイン
 
 #### **ステップ10：最終確認と保存**
 
-(put imge JPHTCMPOEC_17)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_17.png)
 
 
 1. 以下をすべて確認：
