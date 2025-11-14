@@ -60,7 +60,6 @@ EzyAdmin にログイン
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_2.png)
 
-![](/img/jpmrhpf3.png)
 
 1. ベースアイテムを選択してください（例：黒Tシャツ フロント、スタンダードマグカップ）
 2. 名前、ID、サイズ、説明などの詳細を確認
@@ -80,8 +79,8 @@ EzyAdmin にログイン
 1. をクリック
 2. 使用したいテンプレートを選択
    ※表示されない場合は、テンプレートが「公開済み」になっているか確認
-3. ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_3.png)
-4. 「Next」をクリック
+ ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/JPHTCMPOEC_3.png)
+3. 「Next」をクリック
 
 #### **ステップ5：バリアントの追加**
 
