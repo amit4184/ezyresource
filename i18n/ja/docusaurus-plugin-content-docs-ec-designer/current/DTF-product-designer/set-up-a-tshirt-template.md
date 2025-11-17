@@ -104,20 +104,20 @@ EzyDesigner テンプレート作成ツールでは、ユーザーが EzyDesigne
 
 * 作成ボタンをクリックします
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP815.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP15.png)
 
 
 
 * バリアントを作成する製品を選択します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP816.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP16.png)
 
 
 
 * タグの詳細を入力してください
 * 「作成」ボタンをクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP817.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP17.png)
 
 
 
@@ -125,7 +125,7 @@ EzyDesigner テンプレート作成ツールでは、ユーザーが EzyDesigne
 * これでデザインを作成して保存できます。
 * 完了したらデザイナーを閉じることができます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP818.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP18.png)
 
 
 
