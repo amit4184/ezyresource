@@ -1,5 +1,5 @@
 ---
-title: Mask Image Generation
+title: マスク画像生成
 ---
 ## 
 マスク画像や背景画像を生成する方法
