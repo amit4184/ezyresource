@@ -98,7 +98,7 @@ EzyDesigner テンプレート作成ツールでは、ユーザーが EzyDesigne
 
 * テンプレートを保存したら、もう一度開きます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP814.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/TSPTCJP14.png)
 
 
 
