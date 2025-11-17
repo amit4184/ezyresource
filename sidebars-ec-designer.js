@@ -65,6 +65,7 @@ export default {
       label: 'DTF Product Designer',
       items: [
       'DTF-product-designer/set-up-a-tshirt-product-blank',
+	   'DTF-product-designer/set-up-a-tshirt-template',
       ],
     }, 
     {
