@@ -139,4 +139,4 @@ PNG オプションを選択し、「保存」を押します。画像が書き�
 お困りですか？
 
 [](mailto:support@ezycreate.com)
-もし行き詰まった場合でも心配いりません — [support@ezycreate.com](<>) までメールしてください。
+もし行き詰まった場合でも心配いりません — support@ezycreate.com までメールしてください。
