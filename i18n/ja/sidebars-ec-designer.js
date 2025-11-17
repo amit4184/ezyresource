@@ -105,6 +105,7 @@ export default {
 	'creative-assets/create-page-layouts',
         'creative-assets/customize-backgrounds',
         'creative-assets/clipart-management',
+		  'creative-assets/mask-img-generation',
       ],
     },
     {
