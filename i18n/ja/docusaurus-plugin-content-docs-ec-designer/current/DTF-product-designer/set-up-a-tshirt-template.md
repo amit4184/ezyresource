@@ -1,5 +1,5 @@
 ---
-title: Set Up a T-Shirt Template
+title: Tシャツテンプレートを設定する
 ---
 EzyDesignerでフォトブックテンプレートを作成する方法（かんたんステップガイド）
 
