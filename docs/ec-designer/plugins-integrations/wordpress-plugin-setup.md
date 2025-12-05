@@ -166,6 +166,8 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 **Order received by Ezycreate**
 
+![](/img/e13.png)
+
 
 
 
@@ -175,3 +177,11 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 
 **The print ready files can be downloaded and sent to fulfillment.**
+
+
+
+
+
+
+
+![](/img/e14.png)
