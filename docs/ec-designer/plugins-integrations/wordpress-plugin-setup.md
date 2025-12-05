@@ -30,6 +30,8 @@ title: WordPress Plugin Setup
 
 
 
+![](/img/e1.png)
+
 
 
 
@@ -37,6 +39,10 @@ title: WordPress Plugin Setup
 
 Login to Ezycreate Admin with the login credentials
 
+
+
+
+![](/img/1.png)
 
 
 
