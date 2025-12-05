@@ -1,76 +1,141 @@
 ---
 title: WordPress Plugin Setup
 ---
-### **EzyCreate Plugin Installation Guide**
+## **EzyCreate and Wordpress Plugin**
 
-**Step 1: Upload the Plugin**
-
-* Go to **WordPress Admin > Plugins > Add New > Upload Plugin**
-
-* Upload the .zip file provided by EzyCreate.
-
-
-
-**Step 2: Install and Activate**
-
-* Click “Install Now”, then click “Activate” once installation is complete.
+* One-click product synchronization
+* Built-in visual designer
+* Automated order routing
+* Instant fulfillment-ready files
+* Increased conversions & customer satisfaction
 
 
+## **Prerequisites**
 
-**Step 3: Access Plugin Settings**
+* ✓ WordPress 5.8+
+* ✓ WooCommerce 6.0+
+* ✓ PHP 7.2+
+* ✓ MySQL 5.7+
+* ✓ EzyCreate credentials
 
-* From the navigation menu, select **“EzyCreate Products”**.
+## **Installation Steps**
 
+**Step 1: Download & Upload** Download plugin ZIP file and upload via WordPress Plugins → Add New
 
+**Step 2: Activate Plugin** Click "Activate" to enable EzyCreate integration
 
-**Step 4: Configure Plugin Settings**
+**Step 3: Configure settings** Navigate to Settings and enter your EzyCreate credentials
 
-* Go to Settings, enter the credentials provided by EzyCreate.
-
-
-* Select your preferred language code (e.g., ja for Japanese, en for English) to load the designer in the default language.
+**Step 4: Sync & Start Selling** Sync product catalog and start adding customizable products to your store.
 
 
 
-**Step 5: Import Products**
-
-* Click “EzyCreate Products” again.
-
-
-* A list of products configured in the EzyCreate Admin will be displayed.
-
-
-* Click “Add” to import a product.
 
 
 
-**Step 6: Product Setup in WooCommerce**
+**To Get Started…**
 
-* The product will be automatically created as a Variable Product in WooCommerce.
-
-
-* It will appear under the Products list and on the Shop page.
+Login to Ezycreate Admin with the login credentials
 
 
 
-**Step 7: Enable Customization Flow**
-
-* The Customize button will replace the Add to Cart button.
-
-
-* This will launch the Product Designer, allowing users to personalize their items.
 
 
 
-**Step 8: Place Order**
 
-* Users can add the customized product to the cart directly from the designer and place their order.
-
+**Create your products using product blank and template, add variants, prices and images.**
 
 
-**Step 9: Order Management**
-
-* The order is automatically created in the EzyCreate Admin dashboard.
 
 
-* Once processed, you can download the print-ready files to print and ship the product to your customer.
+
+
+
+Publish products to be available on your site.
+
+
+
+
+
+Wordpress plugin Installation.
+
+**Download plugin and install  in plugin directory.**
+
+
+
+
+
+
+
+**On successful installation, Ezycreate menu will show up in the navigation.**
+
+
+
+
+
+
+
+Enter credentials to connect store with ezycreate
+
+
+
+
+
+
+
+
+Now click on Ezycreate products, list of products published in ezycreate will be displayed. Click on add to add to wocommerce product.
+
+
+
+
+
+
+
+**Wordpress Product Page with customise button.**
+
+
+
+
+
+
+
+**Invoke designer on click of customise.**
+
+
+
+
+
+
+
+**Click on Add to cart button to redirect to your website** 
+
+
+
+
+
+
+
+
+
+
+
+**On checkout,** 
+
+
+
+
+
+
+
+**Order received by Ezycreate**
+
+
+
+
+
+
+
+
+
+**The print ready files can be downloaded and sent to fulfillment.**
