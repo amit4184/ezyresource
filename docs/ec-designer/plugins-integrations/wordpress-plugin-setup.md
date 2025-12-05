@@ -51,6 +51,8 @@ Login to Ezycreate Admin with the login credentials
 
 **Create your products using product blank and template, add variants, prices and images.**
 
+![](/img/e3.png)
+
 
 
 
@@ -71,11 +73,19 @@ Wordpress plugin Installation.
 
 
 
+![](/img/e4.png)
+
+
+
 
 
 **On successful installation, Ezycreate menu will show up in the navigation.**
 
 
+
+
+
+![](/img/e5.png)
 
 
 
