@@ -96,6 +96,10 @@ Enter credentials to connect store with ezycreate
 
 
 
+![](/img/e6.png)
+
+
+
 
 
 
@@ -106,10 +110,18 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 
 
+![](/img/e7.png)
+
+
+
 
 
 **Wordpress Product Page with customise button.**
 
+
+
+
+![](/img/e9.png)
 
 
 
@@ -118,6 +130,8 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 **Invoke designer on click of customise.**
 
+![](/img/e10.png)
+
 
 
 
@@ -125,6 +139,8 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 
 **Click on Add to cart button to redirect to your website** 
+
+![](/img/e11.png)
 
 
 
@@ -140,6 +156,10 @@ Now click on Ezycreate products, list of products published in ezycreate will be
 
 
 
+
+
+
+![](/img/e12.png)
 
 
 
