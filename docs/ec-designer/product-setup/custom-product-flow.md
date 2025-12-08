@@ -62,18 +62,18 @@ This document outlines the steps to create a merchandise product in EzyCreate fr
 * Choose a template design.
 * Note: If your template does not appear, ensure it is published.
 
-![](/img/inmpf5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF5.png)
 
 * Click Next.
 
 **Step 5: Add Product Variants**
 
-![](/img/inmpf10.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF10.png)
 
 * In the Product Variants tab:Click + Add variants.
 * Only designs from the same template group can be added.
 
-![](/img/inmpf13.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/INMPF9.png)
 
 * Use the "Set default" option to mark one variant as the default.
 * Use the trash icon to remove a variant.
