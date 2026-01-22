@@ -1,9 +1,7 @@
 ---
 title: Mask Image Generation
 ---
-## 
 **Guidelines for Creating a Mask Image Using Photoshop**
-
 
 **Introduction:**
 
@@ -20,25 +18,19 @@ Before you begin, ensure you have:
 * Overall T-shirt product dimensions (artboard size)
 * Print / design area dimensions
 
-
 *1. Generate a Mask Image (or) a Background Image* 
 
-
-## **Step 1** 
+## **Step 1**
 
 To Create The Mask image for T-Shirt Product.First we need to know the Artboard area (T-Shirt Dimension)  of the Mask image
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1)
-
-
 
 ## **Step 2**
 
 Launch **Adobe Photoshop** on your PC or laptop.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2)
-
-
 
 ### **Step 3**
 
@@ -47,8 +39,6 @@ Create a New File
 Click File → New to create a new document for the mask image.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3)
-
-
 
 ## **Step 4**
 
@@ -72,8 +62,6 @@ Click File → New to create a new document for the mask image.
 A white artboard with a locked background layer will appear. Ensure the Layers panel is visible on the right side of Photoshop
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6)
-
-
 
 ## **Step 6**
 
@@ -100,8 +88,6 @@ In the Layers panel:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9)
 
-
-
 ## **Step 8**
 
 Remove the Background
@@ -121,8 +107,6 @@ Clean Up the Selection
 * Press Ctrl + D to deselect the active selection
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11)
-
-
 
 ## **Step 10**
 
@@ -152,8 +136,6 @@ Draw the Print Area
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14)
 
-
-
 ## **Step 12**
 
 Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then select the T-shirt layer and press Ctrl + J.
@@ -165,8 +147,6 @@ Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then se
 The above step is done to Cut the Design area part from the T-Shirt 
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16)
-
-
 
 ## **Step 14**
 
@@ -181,11 +161,9 @@ The product image is now ready.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17)
 
-## 
-Step 15
+## **Step 15**
 
-
-#### **Clean the Edges**
+##### **Clean the Edges:**
 
 * Select the Magic Wand Tool
 * Set Tolerance to 20
@@ -210,10 +188,8 @@ Repeat the same cleanup process for the design area layer.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20)
 
-## 
-Step 16
+## **Step 16**
 
-#### 
 Save the Product Mask Image
 
 Go to File → Export → Save for Web (Legacy) and use these settings:
@@ -229,15 +205,11 @@ Click Save and choose the desired folder.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21)
 
-## 
-
-Step 17   
+## **Step 17**   
 
 Save the product image in the desired folder.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22)
-
-
 
 ## **Need Help?**
 
