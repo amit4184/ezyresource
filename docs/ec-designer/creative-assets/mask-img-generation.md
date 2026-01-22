@@ -24,13 +24,13 @@ Before you begin, ensure you have:
 
 To Create The Mask image for T-Shirt Product.First we need to know the Artboard area (T-Shirt Dimension)  of the Mask image
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1.png)
 
 ## **Step 2**
 
 Launch **Adobe Photoshop** on your PC or laptop.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2.png)
 
 ### **Step 3**
 
@@ -38,7 +38,7 @@ Create a New File
 
 Click File → New to create a new document for the mask image.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3.png)
 
 ## **Step 4**
 
@@ -53,15 +53,15 @@ Click File → New to create a new document for the mask image.
 
 **Click Create.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_4)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_4.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_5)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_5.png)
 
 ## **Step 5**
 
 A white artboard with a locked background layer will appear. Ensure the Layers panel is visible on the right side of Photoshop
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6.png)
 
 ## **Step 6**
 
@@ -73,9 +73,9 @@ Place the T-shirt Image
 
 Tip: Use Ctrl + T and hold the Alt key while resizing to scale proportionally from all sides.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_7)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_7.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_8)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_8.png)
 
 ## **Step 7**
 
@@ -86,7 +86,7 @@ In the Layers panel:
 * Right-click on the T-shirt layer
 * Select Rasterize Layer
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9.png)
 
 ## **Step 8**
 
@@ -97,7 +97,7 @@ Remove the Background
 * Click on the white background behind the T-shirt
 * Press Delete
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_10)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_10.png)
 
 ## **Step 9**
 
@@ -106,7 +106,7 @@ Clean Up the Selection
 * Turn off the background layer by clicking the eye icon
 * Press Ctrl + D to deselect the active selection
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11.png)
 
 ## **Step 10**
 
@@ -119,9 +119,9 @@ Draw the Print Area
 * Enter the print area width and height as per specifications
 * Click OK
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_12)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_12.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_13)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_13.png)
 
 ## **Step 11**
 
@@ -134,19 +134,19 @@ Draw the Print Area
 
 **This creates a separate design-area layer.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14.png)
 
 ## **Step 12**
 
 Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then select the T-shirt layer and press Ctrl + J.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_15)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_15.png)
 
 ## **Step 13**
 
 The above step is done to Cut the Design area part from the T-Shirt 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
 
 ## **Step 14**
 
@@ -159,7 +159,7 @@ To remove the print area from the T-shirt:
 
 The product image is now ready.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
 
 ## **Step 15**
 
@@ -170,14 +170,14 @@ The product image is now ready.
 * Enable Anti-alias and Contiguous
 * Select the T-shirt layer and click on the image
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
 
 If extra elements (like tags) are selected:
 
 * Use the Quick Selection Tool
 * Hold Alt (or Shift –) to subtract unwanted areas
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
 
 Then:
 
@@ -186,7 +186,7 @@ Then:
 
 Repeat the same cleanup process for the design area layer.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
 
 ## **Step 16**
 
@@ -203,13 +203,13 @@ Go to File → Export → Save for Web (Legacy) and use these settings:
 
 Click Save and choose the desired folder.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
 
 ## **Step 17**   
 
 Save the product image in the desired folder.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22.jpg)
 
 ## **Need Help?**
 
