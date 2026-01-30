@@ -81,50 +81,117 @@ Once ready, start the product setup process.
 
 **Max page** It refers to the maximum number of pages a product will have an option to add up to.
 
-# **Steps:**
+## 1. How to Create a Product Blank (Single Surface Product)
 
-**Step 1.** Open the website link 
+### **Example (Single Surface Product)**
+
+This guide explains how to create a **Single Surface Product** (example: T-shirt with only front design).
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS1.png)
+
+Product Type: T-shirt
+
+Surface: Front side only
+
+Product Width: 28 inches
+
+Product Height: 28 inches
+
+Design Area Size: 3.9 × 3.9 inches
+
+Design Area Position: Top = 8 inches, Left = 14.8 inches
+
+Rendered Image Size: 3.9 × 3.9 inches
+
+
+
+**Prerequisites**
+
+Before starting, make sure you have the following:
+
+**Assets**
+
+* **Product Preview Image (Shows the actual product like a T-shirt)**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS2.png)
+
+* **Design Area Image (Shows the printable area where the design will be placed)**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS3.png)
+
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
+
+**Step 1:** Open the website link 
  Enter valid login details and click on login button
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
 
-**Step 2.**  Click on “Product blanks” and then click on My Blanks.
+**Step 2:** Click on “Product blanks” and then click on My Blanks.
  It will display the list of defined product Blanks.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
-**Step 3.** 
- To create a new product Blank click on the “Add” button.
+**Step 3:**  To create a new product Blank click on the “Add” button.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
-**Step 4.**
+**Step 4: Product Specification :** This step defines **basic product details**.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB1.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS5.png)
 
-* **Product code** : Enter the unique product code. .
-*  **Category :** Select Product Category, from the drop-down under which the product needs to be defined.
-* **Subcategory :** select product & Select Subcategory under which the product needs to be defined. How to Add a category & Sub-category
-* **Product title :** Enter product title
-* **Product Description** : Enter Product Description not more than 200 chars. This description is used for internal definition.
-* **Product thumbnail :** select and upload the product thumbnail. (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that Product.
-* **Supplier :** select the supplier under which the product will be listed.
-* **Orientation:** select the product orientation ie. portrait, landscape, square.
-* **Size :** select product size. Eg, 12x12, 6x6 This size is used for internal definition.
-* **Preview type :** select the product preview type from the given drop-down. This option is used for internal definition.
+**Fields Explanation**
 
-**Note: Preview needs to be selected as per the product type.**
+* **Product Code**
+  Unique code to identify the product blank (must be unique).
+* **Product Title**
+  Name of the product blank.
+* **Product Description**
+  Short description of the product blank.
+* **Module**
+  Select the module based on product type:
+* * **Prints** – For photo print products
 
- T-Shirt 2D
+  * **Photobooks** – For photobook products
+
+  * **Gifting (Single Surface)** – For products like mugs or T-shirts with only front design
+
+  * **Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
+
+  * **Calendar** – For calendar products
+* **Product Thumbnail**
+  Small thumbnail image shown in listings.
+* **Size**
+  Product size (example: 6x6, 12x12, S, M, L, XL).
+* **Preview Type**
+  Defines how the product preview appears in the designer:
+* * **None** – No preview
+
+  * **Image** – Shows only the design area
+
+  * **Canvas** – Canvas-based preview (faster loading)
+
+  * **2D** – Flat 2D product preview
+
+  * **3D** – 3D product preview (requires configured 3D model)
 
 Click on the **next** button to continue.
 
-**Step 5** 
 
-**Output type :** select the output type for the product as ".**Png**"
-Click on the **"Add printable surfaces"** button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB2.png)
+**Step 5** : This step defines how the final image will be rendered.
+
+* **Output Type**
+  File format of the rendered image (example: JPG, PNG).
+* **Printable Surfaces**
+  Number of printable surfaces:
+* * Mug → 1 surface
+
+  * T-shirt (front + back) → 2 surfaces
+
+Click **Add Printable Surface** to configure a surface.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
 **Step 6**
 
@@ -195,24 +262,16 @@ Click on the **"Add printable surfaces"** button.
 
   Note: Create a album and add .png images for the merch product to be used for the T-shirts.
 
-
-
 **Step 10**
 
 * Once the product is created, open the My product dashboard and it will display the created  product.
 * Click on the “View in designer” button to preview the created product in the designer.
-
-
 
 **Step 11**
 
 * Once the product is opened in the designer, click on the "Merch" photos tab.
 * Select a .png image from the merch album and apply it to the designer.
 * click on the "Preview" button to view the product preview.
-
-
-
-
 
 **Step 12**
 
@@ -258,7 +317,4 @@ Click on the **"Add printable surfaces"** button.
 * Now the product is ready to be published.
 * Go to the product blank dashboard.
 * Click on the “Publish” button.
-
-
-
 * ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
