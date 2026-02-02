@@ -87,7 +87,6 @@ Once ready, start the product setup process.
 
 This guide explains how to create a **Single Surface Product** (example: T-shirt with only front design).
 
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS1.png)
 
 Product Type: T-shirt
@@ -103,8 +102,6 @@ Design Area Size: 3.9 × 3.9 inches
 Design Area Position: Top = 8 inches, Left = 14.8 inches
 
 Rendered Image Size: 3.9 × 3.9 inches
-
-
 
 **Prerequisites**
 
@@ -150,14 +147,11 @@ Before starting, make sure you have the following:
   Short description of the product blank.
 * **Module**
   Select the module based on product type:
-* * **Prints** – For photo print products
 
+  * **Prints** – For photo print products
   * **Photobooks** – For photobook products
-
   * **Gifting (Single Surface)** – For products like mugs or T-shirts with only front design
-
   * **Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
-
   * **Calendar** – For calendar products
 * **Product Thumbnail**
   Small thumbnail image shown in listings.
@@ -165,115 +159,372 @@ Before starting, make sure you have the following:
   Product size (example: 6x6, 12x12, S, M, L, XL).
 * **Preview Type**
   Defines how the product preview appears in the designer:
-* * **None** – No preview
 
+  * **None** – No preview
   * **Image** – Shows only the design area
-
   * **Canvas** – Canvas-based preview (faster loading)
-
   * **2D** – Flat 2D product preview
-
   * **3D** – 3D product preview (requires configured 3D model)
 
 Click on the **next** button to continue.
 
 
 
-**Step 5** : This step defines how the final image will be rendered.
+**Step 5** : 
+**Print Specification:** This step defines how the final image will be rendered.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
 * **Output Type**
   File format of the rendered image (example: JPG, PNG).
 * **Printable Surfaces**
   Number of printable surfaces:
-* * Mug → 1 surface
 
+  * Mug → 1 surface
   * T-shirt (front + back) → 2 surfaces
 
 Click **Add Printable Surface** to configure a surface.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS7.png)
+
+### **Printable Surface** 
+
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt: width 3.93 and height 3.93 .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
+
+Click **Add** to save the printable surface.
+
+Once added, the surface will appear in the printable surfaces list.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS8.png)
+
+Add product components
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
+
+
+
+**Step 6 : Designer Specification**
+
+This step controls **how the product is shown in the designer**.
+
+Click **Add Designer Specs** to add a surface to the designer
+
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS11.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS12.png)
+
+### **Fields Explanation**
+
+* **Surface Type**
+  Select the surface type from dropdown, surface added in prints specs will be shown here.
+* **Surface Name**
+  Name shown to the end user in the designer (example: Front Side).
+* **Product Preview Image**
+  Upload the **Product Preview Image** (example: T-shirt image). 
+
+[Product Preview Black tshirt.png](https://drive.google.com/file/d/1v_TKL09MZGfJ-8ABnel6nDN8Elf213dh/view?usp=drive_link)
+
+* **Design Area Image**
+  Upload the **Design Area Image** that defines the printable area.
+
+[Design area black tshirt.png](https://drive.google.com/file/d/1kuSu5slt2_-fyCbWLHH-FgnXDtGiZBp1/view?usp=drive_link)
+
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
+
+* **Product Width**
+  Actual width of the product.
+  Example: T-shirt = 28 inches.
+* **Product Height**
+  Actual height of the product.
+  Example: T-shirt = 28 inches.
+
+**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
+
+* **Orientation**
+  Product orientation (Portrait / Landscape/ Square).
+* **Top Offset**
+  Distance from the top where the design area starts.
+* **Left Offset**
+  Distance from the left where the design area starts.
+
+### **Preview**
+
+Click **Preview** to verify alignment and positioning.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS13.png)
+
+If everything looks correct, click **Add** to save the designer surface
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS14.png)
+
+
+
+**Step 7: Final Step: Save and Verify**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS15.png)
+
+1. Click **Save Product Blank**
+2. Click **View in Designer**
+3. Verify:
+4. * Design area alignment
+
+   * Preview accuracy
+5. Place a **test order** to confirm everything works correctly
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
+
+
+
+
+# **2. How to Create a Product Blank (Multi-Surface)**
+
+## **Example 2 (Multi Surface Product)**
+
+This guide explains how to create a **Multi Surface Product** (example: T-shirt with front and back design).
+
+**Front and back**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
+
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS18.png)
+
+**Product Type:** T-shirt
+
+**Surface:** Front and Back side
+
+**Front**
+
+**Product Width:** 28 inches
+
+**Product Height:** 28 inches
+
+**Design Area Size:** 3.9 × 3.9 inches
+
+**Design Area Position:** Top = 7.8 inches, Left = 15.3 inches
+
+**Rendered Image Size:** 3.9 × 3.9 inches
+
+**Back**
+
+**Product Width:** 28 inches
+
+**Product Height:** 28 inches
+
+**Design Area Size:** 7.87 × 7.87 inches
+
+**Design Area Position:** Top = 6.1  inches, Left = 10 inches
+
+**Rendered Image Size:** 7.87 × 7.87 inches
+
+
+## **Prerequisites**
+
+Before starting, make sure you have the following:
+
+**Assets**
+
+* **Product Preview Image** (Shows the actual product T-shirt (Front and back))
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS19.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS20.png)
+
+* **Design Area Image** (Shows the printable area where the design will be placed (Front and back))
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS21.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS22.png)
+
+* **Note: Product Preview Image and Design Area Image must have the same dimensions.**
+
+## **Navigation Path**
+
+Go to: **Product Blanks → My Blanks → Add**
+
+This will open the product blank creation flow.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS23.png)
+
+## **STEP 1: Product Specification**
+
+This step defines **basic product blank details**.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS24.png)
+
+### **Fields Explanation**
+
+* **Module**
+  Select the module based on product type:
+
+**Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
+
+
+
+## **STEP 2: Print Specification**
+
+This step defines how the **final image will be rendered**.
+
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
-**Step 6**
+### **Output Settings**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB6.png)
+* **Output Type**
+  File format of the rendered image (example: JPG, PNG).
+* **Printable Surfaces**
+  Number of printable surfaces:
+* * T-shirt (front + back) → **2 surfaces**
 
- Select surface type: from the given drop-down.
+Click **Add Printable Surface** to configure a surface.
 
- **Note : All specs and sizes to be entered are in inches.**
+### **Printable Surface 1 (Front)**
 
- **Image size :** Enter image size specs .This image size is the printable image size of the product. Printable output image size.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS26.png)
 
- **Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.** 
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt front: width 3.93 and height 3.93 .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
 
-**For product config** : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
+### **Printable Surface 2 (Back)**
 
-**Safe area :** Enter Safe area specs.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS27.png)
 
-**Bleed area :** Enter Bleed area specs.
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt back: width 7.87 and height 7.87 inches .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
 
- The bleed is the area to be trimmed off.
+Click **Add** to save the printable surface.
 
- The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
+Once added, the surfaces will appear in the printable surfaces list.
 
- **Trim area :** Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
- Click on the add button to save the entered details.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS28.png)
 
-**Step 7**
+Add product components
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB9.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS29.png)
 
-* Select “**App name”** from the drop-down for example. As the T-shirt type product the app name to be selected for example if the T-shirt is Sigle sided ( front view only ) then select the app name as **“EzyDesigner”** and If the T-shirt is double sided ( front and back view ) then select the app name as **“Ezygifts”**. According to this selection the product will open in that respective designer.
-* Default template : select from the drop down if you want to setup a customized template **(Template created through template creator)** as default template or keep it as "none".
-* To add the designer specs click on the "**Add designer specs**" button.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB10.png)
 
-* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
-   Surface name : Enter a surface name based on the surface type selected.
-* Display mask image : Select and upload the Display mask image of the product.
-* Clippath mask image : Select and upload the Clippath mask image of the product.
-* ***Note :***
-* ***The mask image file format should be in .png***
-* ***To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.*** 
-* **"Clippath Mask image" to be made in the same texture of the T-shirts color. for example: The clippath mask color need to be maintained same as that of the T-Shirts color. For example:**
 
-  ![](/img/htctspb.png)
-* ***The product specs and both the mask images specs need to be maintained the same.***
-* There is no recommended size as such as it is dependent on the product specs.
-* Orientation : select orientation for the added images as per the uploaded mask.
-   Enter Mask offsets (in inches) : Top offset, Left offset
-   Offset - this is for the additional properties of the mask to be set in terms of the offsets.
-* Preview : you can click on the preview button to view the added mask image preview display.
-* Once all the required details are entered then to save these details click on the “**Add**” button.
+## **STEP 3: Designer Specification**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB5.png)
+This step controls **how the product is shown in the designer**.
 
-* Click on the “Save” button to save the product.
+Click **Add Designer Specs** to add a surface to the designer
 
-**Step 8**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS30.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB7.png)
+**Surface 1**
 
-* Once the product is saved, open the product blanks dashbord list and it will display the created product.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS31.png)
 
-**Step 9**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
+
+### **Fields Explanation**
+
+* **Surface Type**
+  Select the surface type from dropdown, surface added in prints specs will be shown here.
+* **Surface Name**
+  Name shown to the end user in the designer (example: Front Side).
+* **Product Preview Image**
+  Upload the **Product Preview Image** (example: T-shirt image). 
+* **Design Area Image**
+  Upload the **Design Area Image** that defines the printable area.
+
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
+
+* **Product Width**
+  Actual width of the product.
+  Example: T-shirt = 28 inches.
+* **Product Height**
+  Actual height of the product.
+  Example: T-shirt = 28 inches.
+
+**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
+
+* **Orientation**
+  Product orientation (Portrait / Landscape/ Square).
+* **Top Offset**
+  Distance from the top where the design area starts.
+
+**Left Offset**
+Distance from the left where the design area starts.
+
+
+### **Preview**
+
+Click **Preview** to verify alignment and positioning.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS33.png)
+
+If everything looks correct, click **Add** to save the designer surface.
+
+**Surface 2**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS34.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS35.png)
+
+Click **Preview** to verify alignment and positioning.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS36.png)
+
+If everything looks correct, click **Add** to save the designer surface.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS37.png)
+
+
+**Final Step: Save and Verify**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS38.png)
+
+1. Click **Save Product Blank**
+2. Click **View in Designer**
+3. Verify:
+4. * Design area alignment
+
+   * Preview accuracy
+5. Place a **test order** to confirm everything works correctly
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
+
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS40.png)
+
+### **Steps to create a Merch Product :** 
+
+**Step 1**
 
 * Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
 
   Note: Create a album and add .png images for the merch product to be used for the T-shirts.
 
-**Step 10**
+**Step 2**
 
 * Once the product is created, open the My product dashboard and it will display the created  product.
 * Click on the “View in designer” button to preview the created product in the designer.
 
-**Step 11**
+**Step 3**
 
 * Once the product is opened in the designer, click on the "Merch" photos tab.
 * Select a .png image from the merch album and apply it to the designer.
 * click on the "Preview" button to view the product preview.
 
-**Step 12**
+**Step 4**
 
 * click on the "Test order" button to place the order
 
@@ -285,7 +536,7 @@ Click **Add Printable Surface** to configure a surface.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
 
-**Step 13**
+**Step 5**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
@@ -298,7 +549,7 @@ Click **Add Printable Surface** to configure a surface.
 
 ***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
-**Step 14**
+**Step 6**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
@@ -310,7 +561,7 @@ Click **Add Printable Surface** to configure a surface.
 
 *The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
-**Step 15**
+**Step 7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
