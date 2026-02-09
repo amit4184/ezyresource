@@ -19,7 +19,7 @@ create masks For T-Shirt products:
 
   **For example:** 
 
-  ![](/img/htctspb.png)
+  ![](/img/htctspb.png.png)
 
 **Occasions**
 
@@ -168,8 +168,6 @@ Before starting, make sure you have the following:
 
 Click on the **next** button to continue.
 
-
-
 **Step 5** : 
 **Print Specification:** This step defines how the final image will be rendered.
 
@@ -205,15 +203,11 @@ Add product components
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
 
-
-
 **Step 6 : Designer Specification**
 
 This step controls **how the product is shown in the designer**.
 
 Click **Add Designer Specs** to add a surface to the designer
-
-
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
 
@@ -265,8 +259,6 @@ If everything looks correct, click **Add** to save the designer surface
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS14.png)
 
-
-
 **Step 7: Final Step: Save and Verify**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS15.png)
@@ -275,14 +267,10 @@ If everything looks correct, click **Add** to save the designer surface
 2. Click **View in Designer**
 3. Verify:
 4. * Design area alignment
-
    * Preview accuracy
 5. Place a **test order** to confirm everything works correctly
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
-
-
-
 
 # **2. How to Create a Product Blank (Multi-Surface)**
 
@@ -293,8 +281,6 @@ This guide explains how to create a **Multi Surface Product** (example: T-shirt 
 **Front and back**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
-
-
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS18.png)
 
@@ -325,7 +311,6 @@ This guide explains how to create a **Multi Surface Product** (example: T-shirt 
 **Design Area Position:** Top = 6.1  inches, Left = 10 inches
 
 **Rendered Image Size:** 7.87 × 7.87 inches
-
 
 ## **Prerequisites**
 
@@ -367,8 +352,6 @@ This step defines **basic product blank details**.
   Select the module based on product type:
 
 **Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
-
-
 
 ## **STEP 2: Print Specification**
 
@@ -416,9 +399,6 @@ Add product components
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS29.png)
 
-
-
-
 ## **STEP 3: Designer Specification**
 
 This step controls **how the product is shown in the designer**.
@@ -463,7 +443,6 @@ Click **Add Designer Specs** to add a surface to the designer
 **Left Offset**
 Distance from the left where the design area starts.
 
-
 ### **Preview**
 
 Click **Preview** to verify alignment and positioning.
@@ -486,7 +465,6 @@ If everything looks correct, click **Add** to save the designer surface.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS37.png)
 
-
 **Final Step: Save and Verify**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS38.png)
@@ -495,17 +473,14 @@ If everything looks correct, click **Add** to save the designer surface.
 2. Click **View in Designer**
 3. Verify:
 4. * Design area alignment
-
    * Preview accuracy
 5. Place a **test order** to confirm everything works correctly
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS40.png)
 
-### **Steps to create a Merch Product :** 
+### **Steps to create a Merch Product :**
 
 **Step 1**
 
