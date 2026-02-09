@@ -19,7 +19,7 @@ create masks For T-Shirt products:
 
   **For example:** 
 
-  ![](/img/htctspb_i.png)
+  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/htctspb.png)
 
 **Occasions**
 
