@@ -19,7 +19,7 @@ create masks For T-Shirt products:
 
   **For example:** 
 
-  ![](/img/htctspb.png)
+  ![](/img/htctspb_i.png)
 
 **Occasions**
 
