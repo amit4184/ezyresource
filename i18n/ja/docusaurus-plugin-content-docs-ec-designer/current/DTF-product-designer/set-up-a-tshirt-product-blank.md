@@ -450,39 +450,41 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
 
-### **Fields Explanation**
+### **項目の説明**
 
-* **Surface Type**
-  Select the surface type from dropdown, surface added in prints specs will be shown here.
-* **Surface Name**
-  Name shown to the end user in the designer (example: Front Side).
-* **Product Preview Image**
-  Upload the **Product Preview Image** (example: T-shirt image). 
-* **Design Area Image**
-  Upload the **Design Area Image** that defines the printable area.
+* **面タイプ**
+  ドロップダウンから面タイプを選択します。印刷仕様で追加した面がここに表示されます。
+* **面名称**
+  デザイナー上でエンドユーザーに表示される名称（例：前面）。
+* **商品プレビュー画像**
+  商品プレビュー画像をアップロードします（例：Tシャツの画像）。
+* **デザインエリア画像**
+  印刷可能エリアを定義するデザインエリア画像をアップロードします。
 
-**Note: Product Preview Image and Design Area Image must have the same dimensions.**
+**注意： 商品プレビュー画像とデザインエリア画像は、同じ寸法である必要があります。**
 
-* **Product Width**
-  Actual width of the product.
-  Example: T-shirt = 28 inches.
-* **Product Height**
-  Actual height of the product.
-  Example: T-shirt = 28 inches.
+* **商品幅**
+  商品の実際の幅。
+  例：Tシャツ = 28インチ
+* **商品高さ**
+  商品の実際の高さ。
+  例：Tシャツ = 28インチ。
 
-**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
+**注意：**
 
-* **Orientation**
-  Product orientation (Portrait / Landscape/ Square).
-* **Top Offset**
-  Distance from the top where the design area starts.
+**商品の寸法のアスペクト比は、商品プレビュー画像およびデザインエリア画像のアスペクト比と一致している必要があります。一致しない場合、デザイナー上でデザインがずれて表示される可能性があります。**
 
-**Left Offset**
-Distance from the left where the design area starts.
+* **向き**
+  商品の向き（縦／横／正方形）。
+* **上オフセット**
+  デザインエリアが開始する上端からの距離。
 
-### **Preview**
+**左オフセット**
+デザインエリアが開始する左端からの距離。
 
-Click **Preview** to verify alignment and positioning.
+### **プレビュー**
+
+配置や位置を確認するには、「プレビュー」をクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS33.png)
 
