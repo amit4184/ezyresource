@@ -1,15 +1,15 @@
 ---
 title: Set Up a T-Shirt Product Blank
 ---
-# **How to create a T-Shirt Product Blank**
+# **Tシャツのプロダクトブランク作成方法**
 
-### **Before You Start: Setup Checklist**
+開始前：設定チェックリスト
 
-Please review the following points to ensure a smooth and efficient product setup process:
+スムーズで効率的な商品設定を行うため、以下のポイントをご確認ください：
 
-**Mask Images**
+マスク画像
 
-create masks For T-Shirt products:
+Tシャツ商品用のマスクを作成します：
 [View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 
 **Note :** 
