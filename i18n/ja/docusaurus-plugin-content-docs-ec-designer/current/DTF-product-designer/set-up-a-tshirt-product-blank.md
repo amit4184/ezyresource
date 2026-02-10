@@ -101,71 +101,88 @@ Tシャツ商品用のマスクを作成します：
 **最大ページ数**は、商品で追加可能な最大ページ数を指します。
 
 
-## 1. How to Create a Product Blank (Single Surface Product)
 
-### **Example (Single Surface Product)**
+**1. 単一面商品のプロダクトブランク作成方法**
 
-This guide explains how to create a **Single Surface Product** (example: T-shirt with only front design).
+**例（単一面商品）**
+
+このガイドでは、単一面商品の作成方法を説明します（例：前面デザインのみのTシャツ）。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS1.png)
 
-Product Type: T-shirt
+商品タイプ： Tシャツ
 
-Surface: Front side only
+印刷面： 前面のみ
 
-Product Width: 28 inches
+商品幅： 28インチ
 
-Product Height: 28 inches
+商品高さ： 28インチ
 
-Design Area Size: 3.9 × 3.9 inches
+デザインエリアサイズ： 3.9 × 3.9インチ
 
-Design Area Position: Top = 8 inches, Left = 14.8 inches
+デザインエリア位置： 上 = 8インチ、左 = 14.8インチ
 
-Rendered Image Size: 3.9 × 3.9 inches
+レンダリング画像サイズ： 3.9 × 3.9インチ
 
-**Prerequisites**
 
-Before starting, make sure you have the following:
+**前提条件**
 
-**Assets**
+開始する前に、以下の内容を準備してください：
 
-* **Product Preview Image (Shows the actual product like a T-shirt)**
+
+
+**アセット**
+
+**商品プレビュー画像**（Tシャツなど、実際の商品の見た目を表示する画像）
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS2.png)
 
-* **Design Area Image (Shows the printable area where the design will be placed)**
+* * **デザインエリア画像**（デザインを配置する印刷可能エリアを示す画像）
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS3.png)
 
-**Note: Product Preview Image and Design Area Image must have the same dimensions.**
 
-**Step 1:** Open the website link 
- Enter valid login details and click on login button
+**注意：** 商品プレビュー画像とデザインエリア画像は、同じ寸法である必要があります。
+
+
+
+**ステップ1：** ウェブサイトのリンクを開き、
+
+有効なログイン情報を入力してログインボタンをクリックします。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
 
-**Step 2:** Click on “Product blanks” and then click on My Blanks.
- It will display the list of defined product Blanks.
+
+**ステップ2：** 「**プロダクトブランク**」をクリックし、次に「**マイブランク**」をクリックします。
+
+定義済みのプロダクトブランクの一覧が表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
-**Step 3:**  To create a new product Blank click on the “Add” button.
+
+**ステップ3：** 新しいプロダクトブランクを作成するには、「追加」ボタンをクリックします。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
-**Step 4: Product Specification :** This step defines **basic product details**.
+
+**ステップ4：** 商品仕様：このステップでは、基本的な商品情報を定義します。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS5.png)
 
-**Fields Explanation**
 
-* **Product Code**
-  Unique code to identify the product blank (must be unique).
-* **Product Title**
-  Name of the product blank.
-* **Product Description**
-  Short description of the product blank.
-* **Module**
+**項目の説明**
+
+* **プロダクトコード**
+  プロダクトブランクを識別するための一意のコード（重複不可）。
+* **商品タイトル**
+  プロダクトブランクの名称。
+* **商品説明**
+  プロダクトブランクの簡単な説明。
+* **モジュール**
   Select the module based on product type:
 
   * **Prints** – For photo print products
