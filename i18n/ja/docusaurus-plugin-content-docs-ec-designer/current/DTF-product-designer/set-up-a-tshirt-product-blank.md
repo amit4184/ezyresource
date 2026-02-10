@@ -183,68 +183,75 @@ Tシャツ商品用のマスクを作成します：
 * **商品説明**
   プロダクトブランクの簡単な説明。
 * **モジュール**
-  Select the module based on product type:
 
-  * **Prints** – For photo print products
-  * **Photobooks** – For photobook products
-  * **Gifting (Single Surface)** – For products like mugs or T-shirts with only front design
-  * **Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
-  * **Calendar** – For calendar products
-* **Product Thumbnail**
-  Small thumbnail image shown in listings.
-* **Size**
-  Product size (example: 6x6, 12x12, S, M, L, XL).
-* **Preview Type**
-  Defines how the product preview appears in the designer:
+  商品タイプに応じてモジュールを選択します：
 
-  * **None** – No preview
-  * **Image** – Shows only the design area
-  * **Canvas** – Canvas-based preview (faster loading)
-  * **2D** – Flat 2D product preview
-  * **3D** – 3D product preview (requires configured 3D model)
+  * **プリント –** 写真プリント商品用
+  * **フォトブック** – フォトブック商品用
+  * **ギフト（単一面）** – マグカップや前面デザインのみのTシャツなどの商品用
+  * **ギフト（多面）** – 前面・背面のある商品用（例：Tシャツ〈前＋後〉）
+  * **カレンダー** – カレンダー商品用
+* **商品サムネイル**
 
-Click on the **next** button to continue.
 
-**Step 5** : 
-**Print Specification:** This step defines how the final image will be rendered.
+  一覧表示に使用される小さなサムネイル画像。
+* **サイズ**
+  商品のサイズ（例：6×6、12×12、S、M、L、XL）。
+* **プレビュータイプ**
+  デザイナー上での商品プレビューの表示方法を定義します：
+
+  * **なし** – プレビューなし
+  * **画像** – デザインエリアのみを表示
+  * **キャンバス** – キャンバスベースのプレビュー（高速読み込み）
+  * **2D** – フラットな2D商品プレビュー
+  * **3D** – 3D商品プレビュー（設定済みの3Dモデルが必要）
+
+次へ進むには、「次へ」ボタンをクリックします。
+
+**ステップ5：**
+**印刷仕様：** このステップでは、最終画像のレンダリング方法を定義します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
-* **Output Type**
-  File format of the rendered image (example: JPG, PNG).
-* **Printable Surfaces**
-  Number of printable surfaces:
+* **出力タイプ**
+  レンダリング画像のファイル形式（例：JPG、PNG）。
+* **印刷可能面**
+  印刷可能な面の数：
 
-  * Mug → 1 surface
-  * T-shirt (front + back) → 2 surfaces
+  * マグカップ → 1面
+  * Tシャツ（前面＋背面）→ 2面
 
-Click **Add Printable Surface** to configure a surface.
+印刷面を設定するには、「印刷可能面を追加」をクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS7.png)
 
-### **Printable Surface** 
+### **印刷可能面**
 
-* **Image Size**
-  Final rendered image size.
-  Example for T-shirt: width 3.93 and height 3.93 .
-* **Safe Area, Bleed & Trim (Optional)**
-  These values are optional and **do not affect final output**.
+* **画像サイズ**
+  最終的にレンダリングされる画像のサイズ。
 
-Click **Add** to save the printable surface.
+  Tシャツの例：幅 3.93、高さ 3.93。
+* **セーフエリア／ブリード／トリム（任意）**
+  これらの値は任意で、最終出力には影響しません。
 
-Once added, the surface will appear in the printable surfaces list.
+保存するには、「追加」をクリックします。
+
+追加後、印刷可能面は印刷可能面一覧に表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS8.png)
 
-Add product components
+
+商品コンポーネントを追加
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
 
-**Step 6 : Designer Specification**
 
-This step controls **how the product is shown in the designer**.
+**ステップ6：** デザイナー仕様
 
-Click **Add Designer Specs** to add a surface to the designer
+このステップでは、デザイナー上で商品の表示方法を制御します。
+
+デザイナーに面を追加するには、「デザイナー仕様を追加」をクリックします。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
 
