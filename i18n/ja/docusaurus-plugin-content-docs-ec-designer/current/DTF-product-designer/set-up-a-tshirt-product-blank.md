@@ -488,99 +488,119 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS33.png)
 
-If everything looks correct, click **Add** to save the designer surface.
 
-**Surface 2**
+すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
+
+
+**面 2**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS34.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS35.png)
 
-Click **Preview** to verify alignment and positioning.
+
+配置や位置を確認するには、「プレビュー」をクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS36.png)
 
-If everything looks correct, click **Add** to save the designer surface.
+
+すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS37.png)
 
-**Final Step: Save and Verify**
+
+**最終ステップ：保存と確認**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS38.png)
 
-1. Click **Save Product Blank**
-2. Click **View in Designer**
-3. Verify:
+1. プロダクトブランクを保存 をクリックします。
+2. デザイナーで表示 をクリックします。
+3. 確認：
 
-   * Design area alignment
-   * Preview accuracy
-4. Place a **test order** to confirm everything works correctly
+   * デザインエリアの位置合わせ
+   * プレビューの正確さ
+4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS40.png)
 
-### **Steps to create a Merch Product :**
+### **マーチ商品を作成する手順：**
 
-**Step 1**
+**ステップ1**
 
-* Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
+* 「商品」タブに移動し、「マイ商品」を選択して、作成済みのTシャツ用プロダクトブランクを使用して「マーチ」商品を作成します。
 
-  Note: Create a album and add .png images for the merch product to be used for the T-shirts.
+  注意： マーチ商品に使用するTシャツ用として、アルバムを作成し、.png画像を追加してください
 
-**Step 2**
+ステップ2
 
-* Once the product is created, open the My product dashboard and it will display the created  product.
-* Click on the “View in designer” button to preview the created product in the designer.
+* 商品を作成したら、「マイ商品」ダッシュボードを開くと、作成した商品が表示されます。
+* 「デザイナーで表示」ボタンをクリックして、デザイナー上で作成した商品をプレビューします。
 
-**Step 3**
 
-* Once the product is opened in the designer, click on the "Merch" photos tab.
-* Select a .png image from the merch album and apply it to the designer.
-* click on the "Preview" button to view the product preview.
 
-**Step 4**
+ステップ3
 
-* click on the "Test order" button to place the order
+* デザイナーで商品を開いたら、「マーチ」写真タブをクリックします。
+* マーチアルバムから.png画像を選択し、デザイナーに適用します。
+* 「プレビュー」ボタンをクリックして、商品のプレビューを確認します。
+
+
+
+ステップ4
+
+* 「テスト注文」ボタンをクリックして、注文を行います。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
 
-* Will display a message as “Order placed successfully”.
-* The order tab will open displaying the recent order placed
-* Click on the ‘view” order details option
+* 「**注文が正常に完了しました**」というメッセージが表示されます。
+
+* 注文タブが開き、直近で行われた注文が表示されます。
+
+* 「**表示**」から注文の詳細を確認します。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
 
-**Step 5**
+
+ステップ5
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
 
-* Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
-* Check the order status.
-   Once the status is shown as rendered, you can download the order images.
-* Orders can be downloaded using the “Download all” button or you can individually also download single images.
+* テスト注文が完了すると、注文はレンダラーアプリケーションによってレンダリングされ、注文画面に表示されます
+* 注文ステータスを確認してください。
+* ステータスが「レンダリング済み」と表示されたら、注文画像をダウンロードできます
+* 注文は「すべてダウンロード」ボタンを使用して一括でダウンロードするか、個別に画像を1枚ずつダウンロードすることもできます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
 
-***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
 
-**Step 6**
+**注意：** 複数の画像がある場合、1枚ずつダウンロードすることも、「**すべてダウンロード**」ボタンをクリックしてすべての画像を一括でダウンロードすることもできます。
+
+
+
+**ステップ6**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
 
-* Select a path to save the test order image.
-* Click on the save button.
-* The image will get downloaded to the selected location.
-* If the order is downloaded using the “Download all” button than a zip file will be downloaded.
-* Once the opstest is passed : Set a default template for the T-shirt with transparent background.
+* テスト注文画像を保存するパスを選択します。
+* 「保存」ボタンをクリックします。
+* 選択した場所に画像がダウンロードされます
+* 「すべてダウンロード」ボタンを使用した場合は、ZIPファイルがダウンロードされます。
+* opstest が合格したら：透明背景のTシャツ用デフォルトテンプレートを設定します。
 
-*The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
 
-**Step 7**
+ダウンロードした画像は、印刷のためにプリンターへ送信するか、印刷可能な相手にメールで送付することができます。
+
+
+**ステップ7**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
 
-* Now the product is ready to be published.
-* Go to the product blank dashboard.
-* Click on the “Publish” button.
-* ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
+* 商品の公開準備ができました。
+* プロダクトブランクのダッシュボードに移動します。
+* 「Publish」ボタンをクリックします。
+
+* 商品が公開され、商品テンプレートも公開されると、プロダクトブランク仕様は変更できません。
