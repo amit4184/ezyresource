@@ -242,12 +242,12 @@ Tシャツ商品用のマスクを作成します：
 
 [Design area black tshirt.png](https://drive.google.com/file/d/1kuSu5slt2_-fyCbWLHH-FgnXDtGiZBp1/view?usp=drive_link)
 
-**Note: Product Preview Image and Design Area Image must have the same dimensions.**
+**注意： 商品プレビュー画像とデザインエリア画像は、同じ寸法である必要があります。**
 
-* **Product Width**
-  Actual width of the product.
-  Example: T-shirt = 28 inches.
-* **Product Height**
+* **商品幅**
+  商品の実際の幅。
+  例：Tシャツ = 28インチ。
+* **商品高さ**
   Actual height of the product.
   Example: T-shirt = 28 inches.
 
