@@ -387,56 +387,64 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
-### **Output Settings**
+### **出力設定**
 
-* **Output Type**
-  File format of the rendered image (example: JPG, PNG).
-* **Printable Surfaces**
-  Number of printable surfaces:
+* **出力タイプ**
+  レンダリング画像のファイル形式（例：JPG、PNG）。
+* **印刷可能面**
+  印刷可能な面の数：
 
-  * T-shirt (front + back) → **2 surfaces**
+  * Tシャツ（前面＋背面）→ 2面
 
-Click **Add Printable Surface** to configure a surface.
+印刷面を設定するには、「印刷可能面を追加」をクリックします。
 
-### **Printable Surface 1 (Front)**
+### **印刷可能面 1（前面）**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS26.png)
 
-* **Image Size**
-  Final rendered image size.
-  Example for T-shirt front: width 3.93 and height 3.93 .
-* **Safe Area, Bleed & Trim (Optional)**
-  These values are optional and **do not affect final output**.
+* **画像サイズ**
+  最終的にレンダリングされる画像サイズ。
+  Tシャツ前面の例：幅 3.93、高さ 3.93。
+* **セーフエリア／ブリード／トリム（任意）**
+  これらの値は任意で、最終出力には影響しません。
 
-### **Printable Surface 2 (Back)**
+### **印刷可能面 2（背面）**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS27.png)
 
-* **Image Size**
-  Final rendered image size.
-  Example for T-shirt back: width 7.87 and height 7.87 inches .
-* **Safe Area, Bleed & Trim (Optional)**
-  These values are optional and **do not affect final output**.
+* **画像サイズ**
+  最終的にレンダリングされる画像サイズ。
 
-Click **Add** to save the printable surface.
+  Tシャツ背面の例：幅 7.87、高さ 7.87インチ。
+* **セーフエリア／ブリード／トリム（任意）**
+  これらの値は任意で、最終出力には影響しません。
 
-Once added, the surfaces will appear in the printable surfaces list.
+保存するには、「追加」をクリックします。
+
+追加後、印刷可能面は印刷可能面一覧に表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS28.png)
 
-Add product components
+
+商品コンポーネントを追加
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS29.png)
 
-## **STEP 3: Designer Specification**
+## 
+ステップ3：デザイナー仕様
 
-This step controls **how the product is shown in the designer**.
 
-Click **Add Designer Specs** to add a surface to the designer
+このステップでは、デザイナー上で商品の表示方法を制御します。
+
+デザイナーに面を追加するには、「デザイナー仕様を追加」をクリックします。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS30.png)
 
-**Surface 1**
+
+面 1
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS31.png)
 
