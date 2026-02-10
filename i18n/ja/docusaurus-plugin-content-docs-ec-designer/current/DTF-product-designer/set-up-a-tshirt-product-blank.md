@@ -10,76 +10,96 @@ title: Set Up a T-Shirt Product Blank
 マスク画像
 
 Tシャツ商品用のマスクを作成します：
-[View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 
-**Note :** 
 
-* **The masks to be created in .PNG format.**
-* **Note : the "clippath mask" transparency color need to be maintained same as the product color.**
+[マスク作成ガイドラインを表示](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)
+[](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)
+注意：
 
-  **For example:** 
 
-  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/htctspb.png)
+* [](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)マスクは .PNG 形式で作成してください。
+* 注意：「クリップパスマスク」の透明色は、製品の色と同じにしてください。
 
-**Occasions**
+  例：
 
-If your required **occasion** isn’t listed, add it here:
-[Add Occasion](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+  [](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
+* ![](/img/jpcpbf33.png)
 
-**Subcategories**
+用途
 
-For custom **subcategories**, use this link:
- [Manage Subcategories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+必要な用途が一覧にない場合は、こちらに追加してください。
 
-**Review Steps**
 
-Go through the setup steps once to know what resources you'll need.
+[用途を追加](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/add-occasions)
+[](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/add-occasions)
 
-Once ready, start the product setup process.
+サブカテゴリー
 
-# **Glossary:**
+カスタムサブカテゴリーを作成する場合は、こちらのリンクを使用してください：
 
-**Product Blank**  is a basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
 
- **Product Code** This is a unique code that needs to be added for every definition.
+[サブカテゴリーを管理](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
+[](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
 
- **SKU ID** a unique id assigned to each product or product variant in the product fulfillment process.
+**設定手順の確認**
 
- **Safe Area** This is the outline marking on the product designer to let the customer know which part on the page may get cropped/cut while product fulfillment.
+必要なリソースを把握するため、設定手順を一度確認してください。
 
- **Bleed Area** Bleed area is a portion of a design that extends beyond the final trim size of a printed product.
+準備が整ったら、商品設定プロセスを開始してください。
 
- **Trim Area** The trim area refers to the space around the product where excess material is cut away during the final cutting process.
+# 
+用語集：
 
- **Substrate / Attributes** It is the paper used for a product. Ie. Artpaper, Silky, Lustre etc.
 
- **Lamination** It is the layers of material to the surface of a product, often a printed material, to enhance its durability, visual appeal, or specific properties.
+**プロダクトブランク**は、ビジュアルや最終テンプレートを追加する前に、デザインおよび注文システム内で商品がどのように機能するかを定義するための基本的な商品設定です。
 
- **Image Size** Is the size of the image used in the designer.
 
- **Photo width** Photo width is the size of the photo set to the full designer area.
+**プロダクトコード**は、各定義ごとに必ず追加する必要がある一意のコードです。
 
- **Binding** Is to securely attach the pages together and create a book structure. This involves various techniques, such as imagewrap binding, stitch binding, perfect binding etc.
 
- **Display Mask Image** Is the overlay mask to be displayed in the designer.
+**SKU ID**は、商品または商品バリエーションごとに、商品出荷プロセスにおいて割り当てられる一意のIDです。
 
- **Clippath Mask Image** Is the mask area set for designing purposes by the designer.
+**セーフエリア**は、商品デザイナー上で、製造時にページのどの部分がトリミング／カットされる可能性があるかをお客様に示すアウトライン表示です。
 
- **Offset Value** Are used to set the mask on the designer.
+**ブリードエリア**は、印刷物の最終トリムサイズを超えてデザインがはみ出す部分を指します。
 
- **Category** Is used to organise products under certain sections
+**トリムエリア**は、最終裁断工程で余分な素材がカットされる、商品の周囲の領域を指します。
 
- **Sub Category** Is used to organise multiple types of products under specific sections
+**用紙／属性**は、商品に使用される用紙を指します。例：アート紙、シルキー、ラスターなど。
 
- **App name** It refers to the type of the designer to be used for the configured product ie. prints products designer, photobook products designer, calendar designer, decor products designer.
 
- **Printable surfaces** It refers to the designer surface where the designing will be done. Of which the product specification to be added.
+**ラミネーション**は、主に印刷物の表面に素材の層を施し、耐久性、見た目、または特定の特性を向上させる加工です。
 
- **Output type** It refers to the output file type required to be generated after the order is processed ie. jpeg format or pdf format.
 
- **Min pages** It refers to the minimum number of pages with which a product will open
 
-**Max page** It refers to the maximum number of pages a product will have an option to add up to.
+**画像サイズ**は、デザイナー内で使用される画像のサイズです。
+
+
+
+**写真幅**は、デザイナー全体に設定される写真のサイズです。
+
+**製本**は、ページをしっかり綴じて本の形にする工程で、イメージラップ製本、ステッチ製本、無線綴じなどの方法があります。
+
+**表示マスク画像**は、デザイナー上に表示されるオーバーレイ用のマスク画像です。
+
+**クリップパスマスク画像**は、デザイン作業用としてデザイナーに設定されるマスクエリアです。
+
+**オフセット値**は、デザイナー上でマスク位置を設定・調整するために使用されます。
+
+**カテゴリー**は、商品を特定のセクションごとに整理するために使用されます。
+
+**サブカテゴリー**は、複数の商品タイプを特定のセクション内で整理するために使用されます。
+
+**アプリ名**は、設定された商品に使用されるデザイナーの種類を指します。例：プリント商品デザイナー、フォトブックデザイナー、カレンダーデザイナー、デコレーション商品デザイナー。
+
+**印刷可能面**は、デザイン作業が行われるデザイナー上の面を指し、商品仕様が設定されます。
+
+**出力タイプ**は、注文処理後に生成される出力ファイル形式を指します。例：JPEG形式、PDF形式。
+
+**最小ページ数**は、商品が作成可能となる最小ページ数を指します。
+
+**最大ページ数**は、商品で追加可能な最大ページ数を指します。
+
 
 ## 1. How to Create a Product Blank (Single Surface Product)
 
@@ -266,9 +286,10 @@ If everything looks correct, click **Add** to save the designer surface
 1. Click **Save Product Blank**
 2. Click **View in Designer**
 3. Verify:
-4. * Design area alignment
+
+   * Design area alignment
    * Preview accuracy
-5. Place a **test order** to confirm everything works correctly
+4. Place a **test order** to confirm everything works correctly
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
 
@@ -365,7 +386,8 @@ This step defines how the **final image will be rendered**.
   File format of the rendered image (example: JPG, PNG).
 * **Printable Surfaces**
   Number of printable surfaces:
-* * T-shirt (front + back) → **2 surfaces**
+
+  * T-shirt (front + back) → **2 surfaces**
 
 Click **Add Printable Surface** to configure a surface.
 
@@ -472,9 +494,10 @@ If everything looks correct, click **Add** to save the designer surface.
 1. Click **Save Product Blank**
 2. Click **View in Designer**
 3. Verify:
-4. * Design area alignment
+
+   * Design area alignment
    * Preview accuracy
-5. Place a **test order** to confirm everything works correctly
+4. Place a **test order** to confirm everything works correctly
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
 
