@@ -286,49 +286,57 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
 
-# **2. How to Create a Product Blank (Multi-Surface)**
+# **2. 複数面商品のプロダクトブランク作成方法**
 
-## **Example 2 (Multi Surface Product)**
+## **例2（複数面商品）**
 
-This guide explains how to create a **Multi Surface Product** (example: T-shirt with front and back design).
+このガイドでは、複数面商品の作成方法を説明します（例：前面と背面にデザインのあるTシャツ）。
 
-**Front and back**
+
+**前面と背面**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS18.png)
 
-**Product Type:** T-shirt
 
-**Surface:** Front and Back side
 
-**Front**
 
-**Product Width:** 28 inches
+**商品タイプ：** Tシャツ
 
-**Product Height:** 28 inches
+**印刷面：** 前面・背面
 
-**Design Area Size:** 3.9 × 3.9 inches
+**前面**
 
-**Design Area Position:** Top = 7.8 inches, Left = 15.3 inches
+**商品幅：** 28インチ
 
-**Rendered Image Size:** 3.9 × 3.9 inches
+**商品高さ：** 28インチ
 
-**Back**
+**デザインエリアサイズ：** 3.9 × 3.9インチ
 
-**Product Width:** 28 inches
+**デザインエリア位置：** 上 = 7.8インチ、左 = 15.3インチ
 
-**Product Height:** 28 inches
+**レンダリング画像サイズ：** 3.9 × 3.9インチ
 
-**Design Area Size:** 7.87 × 7.87 inches
+**背面**
 
-**Design Area Position:** Top = 6.1  inches, Left = 10 inches
+**商品幅：** 28インチ
 
-**Rendered Image Size:** 7.87 × 7.87 inches
+**商品高さ：** 28インチ
 
-## **Prerequisites**
+**デザインエリアサイズ：** 7.87 × 7.87インチ
 
-Before starting, make sure you have the following:
+**デザインエリア位置：** 上 = 6.1インチ、左 = 10インチ
+
+**レンダリング画像サイズ：** 7.87 × 7.87インチ
+
+
+
+## 
+前提条件
+
+
+開始する前に、以下の内容を準備してください：
 
 **Assets**
 
