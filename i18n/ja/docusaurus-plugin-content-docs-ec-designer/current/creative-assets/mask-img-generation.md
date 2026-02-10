@@ -1,142 +1,216 @@
 ---
-title: マスク画像生成
+title: Mask Image Generation
 ---
-## 
-マスク画像や背景画像を生成する方法
+**Guidelines for Creating a Mask Image Using Photoshop**
 
+**Introduction:**
 
+A **Mask Image** is a crucial component of a design editor. It helps visualize how a design will appear on an actual product by acting as a  The mask image is essentially a transparent PNG that contains product details such as material texture, folds, shadows, highlights, and the exact borders of the product shape.
 
-### 
-**ステップ**  **1**
+This document explains the step-by-step process to create a mask image for a T-shirt product using Adobe Photoshop (CC version).
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS1.png)
+Prerequisites
 
-PC またはノートパソコンで Adobe Photoshop（CS6 または任意の CC バージョン）を開きます。
+Before you begin, ensure you have:
 
+* Adobe Photoshop CC (Version 24 or above recommended)
+* A high-quality T-shirt product image
+* Overall T-shirt product dimensions (artboard size)
+* Print / design area dimensions
 
-### 
-**ステップ**  **2**
+*1. Generate a Mask Image (or) a Background Image* 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS2.png)
+## **Step 1**
 
-「新規作成」をクリックします
+To Create The Mask image for T-Shirt Product.First we need to know the Artboard area (T-Shirt Dimension)  of the Mask image
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1.png)
 
+## **Step 2**
 
-### 
-**ステップ**  **3**
+Launch **Adobe Photoshop** on your PC or laptop.
 
-新規ドキュメントのウィンドウで、
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2.png)
 
+### **Step 3**
 
+Create a New File
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS3.png)
+Click File → New to create a new document for the mask image.
 
-*  サイズをインチ単位で入力します（幅＋高さ）。解像度は 300 dpi に設定し、カラーモードは RGB カラーにします。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3.png)
 
+## **Step 4**
 
+**Enter Document Settings**
 
-## **ステップ**  **4**
+**Set the following values:**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS4.png)
+* **Unit: Inches**
+* **Width & Height: As per T-shirt product specification**
+* **Resolution: 300 DPI**
+* **Color Mode: RGB Color**
 
-すべての設定が完了したら、「作成」をクリックしてアートボードを開きます。
+**Click Create.**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_4.png)
 
-## **ステップ**  **5**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_5.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS5.png)
+## **Step 5**
 
+A white artboard with a locked background layer will appear. Ensure the Layers panel is visible on the right side of Photoshop
 
-白いアートボードが表示され、背景はロックされています。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6.png)
 
-右側にレイヤーパネルが表示されていることを確認してください。
+## **Step 6**
 
+Place the T-shirt Image
 
+* Select the T-shirt product image
+* Paste it onto the artboard
+* Resize it to match the artboard dimensions
 
-## ステップ **6**
+Tip: Use Ctrl + T and hold the Alt key while resizing to scale proportionally from all sides.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_7.png)
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_8.png)
 
-調整レイヤーのアイコン（半分塗りつぶされた円）をクリックします。
+## **Step 7**
 
+Rasterize the T-shirt Layer
 
+In the Layers panel:
 
-## ステップ **7**
+* Right-click on the T-shirt layer
+* Select Rasterize Layer
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS7.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9.png)
 
-調整レイヤーのオプションから「単色」を選択します。
+## **Step 8**
 
+Remove the Background
 
+* Select the Magic Wand Tool
+* Set Tolerance to an adjustable value (Recommended: 50)
+* Click on the white background behind the T-shirt
+* Press Delete
 
-## ステップ **8**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_10.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS8.png)
+## **Step 9**
 
+Clean Up the Selection
 
-黒色を選択します：
+* Turn off the background layer by clicking the eye icon
+* Press Ctrl + D to deselect the active selection
 
-カラーコード：#000000
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11.png)
 
-「わかりました」をクリックします
+## **Step 10**
 
+## **Creating the Design / Print Area**
 
+Draw the Print Area
 
-## ステップ **9**
+* Select the Rectangle Tool from the toolbar
+* Left-click on the artboard
+* Enter the print area width and height as per specifications
+* Click OK
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS9.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_12.png)
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_13.png)
 
-背景レイヤーをオフにします（目のアイコンをクリック）。
+## **Step 11**
 
+### **Extract the Design Area from the T-shirt**
 
+* **Select the Rectangle layer**
+* **Hold Ctrl and click on the rectangle thumbnail**
+* **Select the T-shirt layer**
+* **Press Ctrl + J to duplicate the selected area**
 
-## ステップ** 10**
+**This creates a separate design-area layer.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS10.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14.png)
 
+## **Step 12**
 
-「ファイル」→「コピーを保存」を選択します。
+Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then select the T-shirt layer and press Ctrl + J.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_15.png)
 
+## **Step 13**
 
-## ステップ**  11**
+The above step is done to Cut the Design area part from the T-Shirt 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS11.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
 
+## **Step 14**
 
-「形式を指定して保存」をクリックします。
+To remove the print area from the T-shirt:
 
+* Select the Rectangle layer
+* Hold Ctrl and click the rectangle thumbnail
+* Select the T-shirt layer and press Delete
+* Turn off the background layer using the eye icon
 
+The product image is now ready.
 
-## ステップ**  12**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS12.png)
+## **Step 15**
 
+##### **Clean the Edges:**
 
-PNG オプションを選択し、「保存」を押します。画像が書き出されます。これで、黒のオーバーレイがあり背景のないマスク画像が保存されます。
+* Select the Magic Wand Tool
+* Set Tolerance to 20
+* Enable Anti-alias and Contiguous
+* Select the T-shirt layer and click on the image
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
 
+If extra elements (like tags) are selected:
 
-## 
-透過背景の PNG を書き出すには：
+* Use the Quick Selection Tool
+* Hold Alt (or Shift –) to subtract unwanted areas
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/MIGS13.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
 
-* 背景を含むすべてのレイヤーの表示をオフにします。
+Then:
 
+* Press Shift + Ctrl + I (Invert Selection)
+* Press Delete
 
-* 透明なアートボードが表示されます。
+Repeat the same cleanup process for the design area layer.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
 
-*  上記と同じ手順で書き出しを繰り返します。
+## **Step 16**
 
+Save the Product Mask Image
 
+Go to File → Export → Save for Web (Legacy) and use these settings:
 
-##### 
-お困りですか？
+* Format: PNG-24
+* Transparency: Enabled
+* Matte: None
+* Interlaced: Unchecked
+* Metadata: None
+* Quality: Bicubic Sharper
 
-[](mailto:support@ezycreate.com)
-もし行き詰まった場合でも心配いりません — support@ezycreate.com までメールしてください。
+Click Save and choose the desired folder.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
+
+## **Step 17**   
+
+Save the product image in the desired folder.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22.jpg)
+
+## **Need Help?**
+
+If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
