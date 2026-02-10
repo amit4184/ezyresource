@@ -97,93 +97,112 @@ Ctrl + T を使用し、サイズ変更中に Alt キーを押したままにす
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_8.png)
 
-## **Step 7**
+**ステップ 7**
 
-Rasterize the T-shirt Layer
+**Tシャツレイヤーをラスタライズ**
 
-In the Layers panel:
+［レイヤー］パネルで以下を行います：
 
-* Right-click on the T-shirt layer
-* Select Rasterize Layer
+Tシャツレイヤーを右クリックします。
+［レイヤーをラスタライズ］を選択します。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9.png)
 
-## **Step 8**
 
-Remove the Background
+**ステップ 8**
 
-* Select the Magic Wand Tool
-* Set Tolerance to an adjustable value (Recommended: 50)
-* Click on the white background behind the T-shirt
-* Press Delete
+**背景を削除**
+
+* マジックワンドツールを選択します。
+* 許容値を調整可能な値に設定します（推奨：50）。
+* Tシャツの背後にある白い背景をクリックします。
+* Deleteキーを押します。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_10.png)
 
-## **Step 9**
 
-Clean Up the Selection
+**ステップ 9**
 
-* Turn off the background layer by clicking the eye icon
-* Press Ctrl + D to deselect the active selection
+**選択範囲をクリーンアップ**
+
+* 背景レイヤーの目のアイコンをクリックして非表示にします。
+* Ctrl + D を押して、現在の選択範囲を解除します。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11.png)
 
-## **Step 10**
 
-## **Creating the Design / Print Area**
+**ステップ 10**
 
-Draw the Print Area
+**デザイン／印刷エリアの作成**
 
-* Select the Rectangle Tool from the toolbar
-* Left-click on the artboard
-* Enter the print area width and height as per specifications
-* Click OK
+**印刷エリアを描画**
+
+* ツールバーから長方形ツールを選択します。
+* アートボード上を左クリックします。
+* 仕様に従って印刷エリアの幅と高さを入力します。
+* ［OK］をクリックします。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_12.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_13.png)
 
-## **Step 11**
+### 
+**ステップ 11**
 
-### **Extract the Design Area from the T-shirt**
+**Tシャツからデザインエリアを抽出**
 
-* **Select the Rectangle layer**
-* **Hold Ctrl and click on the rectangle thumbnail**
-* **Select the T-shirt layer**
-* **Press Ctrl + J to duplicate the selected area**
+* 長方形レイヤーを選択します。
+* Ctrlキーを押したまま、長方形のサムネイルをクリックします。
+* Tシャツレイヤーを選択します。
+* Ctrl + J を押して、選択したエリアを複製します。
 
-**This creates a separate design-area layer.**
+
+**これにより、個別のデザインエリア用レイヤーが作成されます。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14.png)
 
-## **Step 12**
 
-Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then select the T-shirt layer and press Ctrl + J.
+**ステップ 12**
+
+長方形レイヤーを選択し、Ctrlキーを押したまま長方形のサムネイルをクリックします。
+
+次にTシャツレイヤーを選択し、Ctrl + J を押します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_15.png)
 
-## **Step 13**
 
-The above step is done to Cut the Design area part from the T-Shirt 
+**ステップ 13**
+
+上記の手順は、Tシャツからデザインエリア部分を切り出すために行います。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
 
-## **Step 14**
 
-To remove the print area from the T-shirt:
+**ステップ 14**
 
-* Select the Rectangle layer
-* Hold Ctrl and click the rectangle thumbnail
-* Select the T-shirt layer and press Delete
-* Turn off the background layer using the eye icon
+Tシャツから印刷エリアを削除するには：
 
-The product image is now ready.
+* 長方形レイヤーを選択します。
+* Ctrlキーを押したまま、長方形のサムネイルをクリックします。
+* Tシャツレイヤーを選択し、Deleteキーを押します。
+* 目のアイコンを使用して背景レイヤーを非表示にします。
+
+
+製品画像の準備が完了しました。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
 
-## **Step 15**
+##### 
+**ステップ 15**
 
-##### **Clean the Edges:**
+**エッジをクリーンアップ**
 
 * Select the Magic Wand Tool
 * Set Tolerance to 20
