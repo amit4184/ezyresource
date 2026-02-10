@@ -338,46 +338,52 @@ Tシャツ商品用のマスクを作成します：
 
 開始する前に、以下の内容を準備してください：
 
-**Assets**
 
-* **Product Preview Image** (Shows the actual product T-shirt (Front and back))
+**アセット**
+
+* **商品プレビュー画像**（前面・背面のある実際のTシャツを表示する画像）
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS19.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS20.png)
 
-* **Design Area Image** (Shows the printable area where the design will be placed (Front and back))
+* **デザインエリア画像**（デザインを配置する印刷可能エリアを表示する画像〈前面・背面〉）
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS21.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS22.png)
 
-* **Note: Product Preview Image and Design Area Image must have the same dimensions.**
+* **注意：** 商品プレビュー画像とデザインエリア画像は、同じ寸法である必要があります。
 
-## **Navigation Path**
+## 
+ナビゲーションパス
 
-Go to: **Product Blanks → My Blanks → Add**
 
-This will open the product blank creation flow.
+移動先：**プロダクトブランク → マイブランク → 追加**
+これにより、プロダクトブランク作成フローが開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS23.png)
 
-## **STEP 1: Product Specification**
+## 
+ステップ1：商品仕様
 
-This step defines **basic product blank details**.
+このステップでは、プロダクトブランクの基本情報を定義します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS24.png)
 
-### **Fields Explanation**
+### 
+項目の説明
 
-* **Module**
-  Select the module based on product type:
+* **モジュール**
+  商品タイプに応じてモジュールを選択します：
 
-**Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
 
-## **STEP 2: Print Specification**
+**ギフト（多面）** – 前面・背面のある商品用（例：Tシャツ〈前＋後〉）
 
-This step defines how the **final image will be rendered**.
+## **ステップ2：印刷仕様**
+
+このステップでは、最終画像のレンダリング方法を定義します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
