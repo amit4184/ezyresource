@@ -1,5 +1,5 @@
 ---
-title: Mask Image Generation
+title: マスク画像の生成
 ---
 **Photoshopを使用したマスク画像作成ガイドライン**
 
