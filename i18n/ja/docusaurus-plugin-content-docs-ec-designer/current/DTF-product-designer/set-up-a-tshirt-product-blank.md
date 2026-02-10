@@ -21,7 +21,7 @@ Tシャツ商品用のマスクを作成します：
   例：
 
   [](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
-* ![](/img/jpcpbf33.png)
+* ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/T-shirt-Preview-1.png)
 
 用途
 
@@ -129,21 +129,21 @@ Tシャツ商品用のマスクを作成します：
 
 有効なログイン情報を入力してログインボタンをクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
+![](https://resources.ezycreate.com/ja/assets/images/jpcpbf33-b090e6f619453b9f6b60f4dade1c7171.png)
 
 **ステップ2：** 「**プロダクトブランク**」をクリックし、次に「**マイブランク**」をクリックします。
 
 定義済みのプロダクトブランクの一覧が表示されます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-preview-01.png)
 
 **ステップ3：** 新しいプロダクトブランクを作成するには、「追加」ボタンをクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-preview-2.png)
 
 **ステップ4：** 商品仕様：このステップでは、基本的な商品情報を定義します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp4.png)
 
 **項目の説明**
 
@@ -181,7 +181,7 @@ Tシャツ商品用のマスクを作成します：
 **ステップ5：**
 **印刷仕様：** このステップでは、最終画像のレンダリング方法を定義します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp5.png)
 
 * **出力タイプ**
   レンダリング画像のファイル形式（例：JPG、PNG）。
@@ -193,7 +193,7 @@ Tシャツ商品用のマスクを作成します：
 
 印刷面を設定するには、「印刷可能面を追加」をクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS7.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-spec.png)
 
 ### **印刷可能面**
 
@@ -208,11 +208,11 @@ Tシャツ商品用のマスクを作成します：
 
 追加後、印刷可能面は印刷可能面一覧に表示されます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS8.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-spec02.png)
 
 商品コンポーネントを追加
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-spec03.png)
 
 **ステップ6：** デザイナー仕様
 
@@ -220,11 +220,11 @@ Tシャツ商品用のマスクを作成します：
 
 デザイナーに面を追加するには、「デザイナー仕様を追加」をクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp6.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS11.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS12.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-fieldexp.png)
 
 **項目の説明**
 
@@ -264,17 +264,17 @@ Tシャツ商品用のマスクを作成します：
 
 配置や位置を確認するには、「プレビュー」をクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS13.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-preview.png)
 
 
 すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS14.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-preview-add.png)
 
 
 **ステップ7：最終ステップ：保存と確認**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS15.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp7.png)
 
 1. **プロダクトブランクを保存** をクリックします。
 2. **デザイナーで表示** をクリックします。
