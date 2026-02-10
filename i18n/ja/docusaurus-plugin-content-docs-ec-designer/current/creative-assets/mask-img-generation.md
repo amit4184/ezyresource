@@ -204,52 +204,64 @@ Tシャツから印刷エリアを削除するには：
 
 **エッジをクリーンアップ**
 
-* Select the Magic Wand Tool
-* Set Tolerance to 20
-* Enable Anti-alias and Contiguous
-* Select the T-shirt layer and click on the image
+* マジックワンドツールを選択します。
+* 許容値を20に設定します。
+* 「アンチエイリアス」と「隣接」を有効にします。
+* Tシャツレイヤーを選択し、画像上をクリックします。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
 
-If extra elements (like tags) are selected:
 
-* Use the Quick Selection Tool
-* Hold Alt (or Shift –) to subtract unwanted areas
+余分な要素（タグなど）が選択されている場合：
+
+* クイック選択ツールを使用します。
+* Alt キー（または Shift −）を押したまま、不要な部分を選択から除外します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
 
-Then:
 
-* Press Shift + Ctrl + I (Invert Selection)
-* Press Delete
+次に：
 
-Repeat the same cleanup process for the design area layer.
+* Shift + Ctrl + I を押します（選択範囲を反転）。
+* Delete キーを押します。
+
+
+同じクリーンアップ手順をデザインエリアレイヤーにも繰り返して行います。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
 
-## **Step 16**
+## 
+ステップ 16
 
-Save the Product Mask Image
 
-Go to File → Export → Save for Web (Legacy) and use these settings:
+製品マスク画像を保存
+［ファイル］→［書き出し］→［Web用に保存（従来）］を選択し、以下の設定を使用します：
 
-* Format: PNG-24
-* Transparency: Enabled
-* Matte: None
-* Interlaced: Unchecked
-* Metadata: None
-* Quality: Bicubic Sharper
+* 形式：PNG-24
+* 透明部分：有効
+* マット：なし
+* インターレース：未チェック
+* メタデータ：なし
+* 画質：バイキュービック（シャープ）
 
-Click Save and choose the desired folder.
+
+［保存］をクリックし、希望するフォルダを選択します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
 
-## **Step 17**
+## 
+ステップ 17
 
-Save the product image in the desired folder.
+
+製品画像を希望するフォルダに保存します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22.jpg)
 
-## **Need Help?**
+## 
+お困りですか？
 
-If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
+
+もし作業で行き詰まった場合でも、ご安心ください — 以下のメールアドレスまでご連絡ください。
+ [support@ezycreate.com](mailto:support@ezycreate.com)
