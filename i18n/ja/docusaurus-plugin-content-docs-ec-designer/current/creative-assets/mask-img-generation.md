@@ -1,77 +1,97 @@
 ---
 title: Mask Image Generation
 ---
-**Guidelines for Creating a Mask Image Using Photoshop**
+**Photoshopを使用したマスク画像作成ガイドライン**
 
-**Introduction:**
+**はじめに：**
 
-A **Mask Image** is a crucial component of a design editor. It helps visualize how a design will appear on an actual product by acting as a  The mask image is essentially a transparent PNG that contains product details such as material texture, folds, shadows, highlights, and the exact borders of the product shape.
+マスク画像は、デザインエディターにおいて非常に重要な要素です。実際の製品上でデザインがどのように見えるかを視覚化する役割を果たします。マスク画像は基本的に透明なPNG画像で、素材の質感、折り目、影、ハイライト、そして製品形状の正確な境界線などの製品詳細を含みます。
 
-This document explains the step-by-step process to create a mask image for a T-shirt product using Adobe Photoshop (CC version).
+本ドキュメントでは、Adobe Photoshop（CCバージョン）を使用してTシャツ製品用のマスク画像を作成する手順を、ステップバイステップで説明します。
 
-Prerequisites
+**前提条件**
 
-Before you begin, ensure you have:
+作業を開始する前に、以下をご確認ください：
 
-* Adobe Photoshop CC (Version 24 or above recommended)
-* A high-quality T-shirt product image
-* Overall T-shirt product dimensions (artboard size)
-* Print / design area dimensions
+Adobe Photoshop CC（バージョン24以上を推奨）
 
-*1. Generate a Mask Image (or) a Background Image* 
+高品質なTシャツ製品画像
 
-## **Step 1**
+Tシャツ製品全体の寸法（アートボードサイズ）
 
-To Create The Mask image for T-Shirt Product.First we need to know the Artboard area (T-Shirt Dimension)  of the Mask image
+印刷／デザイン領域の寸法
+
+**1. マスク画像（または）背景画像の生成**
+
+**ステップ 1**
+
+Tシャツ製品用のマスク画像を作成するには、まずマスク画像のアートボード領域（Tシャツの寸法）を把握する必要があります。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1.png)
 
-## **Step 2**
+**ステップ 2**
 
-Launch **Adobe Photoshop** on your PC or laptop.
+PCまたはノートパソコンでAdobe Photoshopを起動します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2.png)
 
-### **Step 3**
 
-Create a New File
+**ステップ 3**
 
-Click File → New to create a new document for the mask image.
+**新しいファイルを作成**
+
+［ファイル］→［新規］をクリックして、マスク画像用の新しいドキュメントを作成します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3.png)
 
-## **Step 4**
 
-**Enter Document Settings**
 
-**Set the following values:**
 
-* **Unit: Inches**
-* **Width & Height: As per T-shirt product specification**
-* **Resolution: 300 DPI**
-* **Color Mode: RGB Color**
+**ステップ 4**
 
-**Click Create.**
+**ドキュメント設定を入力**
+
+以下の値を設定します：
+
+単位：インチ
+
+幅・高さ：Tシャツ製品仕様に準拠
+
+解像度：300 DPI
+
+カラーモード：RGBカラー
+
+［作成］をクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_4.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_5.png)
 
-## **Step 5**
 
-A white artboard with a locked background layer will appear. Ensure the Layers panel is visible on the right side of Photoshop
+**ステップ 5**
+
+白いアートボードとロックされた背景レイヤーが表示されます。Photoshopの右側に［レイヤー］パネルが表示されていることを確認してください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6.png)
 
-## **Step 6**
 
-Place the T-shirt Image
 
-* Select the T-shirt product image
-* Paste it onto the artboard
-* Resize it to match the artboard dimensions
 
-Tip: Use Ctrl + T and hold the Alt key while resizing to scale proportionally from all sides.
+**ステップ 6**
+
+**Tシャツ画像を配置**
+
+Tシャツ製品画像を選択します。
+
+アートボード上に貼り付けます。
+
+アートボードの寸法に合わせてサイズを調整します。
+
+**ヒント：**
+
+Ctrl + T を使用し、サイズ変更中に Alt キーを押したままにすると、すべての方向から比率を保ったまま拡大・縮小できます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_7.png)
 
@@ -205,7 +225,7 @@ Click Save and choose the desired folder.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
 
-## **Step 17**   
+## **Step 17**
 
 Save the product image in the desired folder.
 
