@@ -248,39 +248,41 @@ Tシャツ商品用のマスクを作成します：
   商品の実際の幅。
   例：Tシャツ = 28インチ。
 * **商品高さ**
-  Actual height of the product.
-  Example: T-shirt = 28 inches.
+  商品の実際の高さ。
+  例：Tシャツ = 28インチ。
 
-**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
+**注意：商品の寸法のアスペクト比は、商品プレビュー画像およびデザインエリア画像のアスペクト比と一致している必要があります。一致しない場合、デザイナー上でデザインがずれて表示される可能性があります。**
 
-* **Orientation**
-  Product orientation (Portrait / Landscape/ Square).
-* **Top Offset**
-  Distance from the top where the design area starts.
-* **Left Offset**
-  Distance from the left where the design area starts.
+* **向き**
+  商品の向き（縦／横／正方形）。
+* **上オフセット**
+  デザインエリアが開始する上端からの距離。
+* **左オフセット**
+  デザインエリアが開始する左端からの距離。
 
-### **Preview**
+### **プレビュー**
 
-Click **Preview** to verify alignment and positioning.
+配置や位置を確認するには、「プレビュー」をクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS13.png)
 
-If everything looks correct, click **Add** to save the designer surface
+
+すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS14.png)
 
-**Step 7: Final Step: Save and Verify**
+
+**ステップ7：最終ステップ：保存と確認**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS15.png)
 
-1. Click **Save Product Blank**
-2. Click **View in Designer**
-3. Verify:
+1. **プロダクトブランクを保存** をクリックします。
+2. **デザイナーで表示** をクリックします。
+3. 確認事項：
 
-   * Design area alignment
-   * Preview accuracy
-4. Place a **test order** to confirm everything works correctly
+   * デザインエリアの位置合わせ
+   * プレビューの正確さ
+4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
 
