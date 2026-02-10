@@ -11,11 +11,9 @@ title: Set Up a T-Shirt Product Blank
 
 Tシャツ商品用のマスクを作成します：
 
-
 [マスク作成ガイドラインを表示](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)
 [](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)
 注意：
-
 
 * [](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation)マスクは .PNG 形式で作成してください。
 * 注意：「クリップパスマスク」の透明色は、製品の色と同じにしてください。
@@ -29,14 +27,12 @@ Tシャツ商品用のマスクを作成します：
 
 必要な用途が一覧にない場合は、こちらに追加してください。
 
-
 [用途を追加](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/add-occasions)
 [](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/add-occasions)
 
 サブカテゴリー
 
 カスタムサブカテゴリーを作成する場合は、こちらのリンクを使用してください：
-
 
 [サブカテゴリーを管理](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
 [](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
@@ -47,15 +43,11 @@ Tシャツ商品用のマスクを作成します：
 
 準備が整ったら、商品設定プロセスを開始してください。
 
-# 
 用語集：
-
 
 **プロダクトブランク**は、ビジュアルや最終テンプレートを追加する前に、デザインおよび注文システム内で商品がどのように機能するかを定義するための基本的な商品設定です。
 
-
 **プロダクトコード**は、各定義ごとに必ず追加する必要がある一意のコードです。
-
 
 **SKU ID**は、商品または商品バリエーションごとに、商品出荷プロセスにおいて割り当てられる一意のIDです。
 
@@ -67,14 +59,9 @@ Tシャツ商品用のマスクを作成します：
 
 **用紙／属性**は、商品に使用される用紙を指します。例：アート紙、シルキー、ラスターなど。
 
-
 **ラミネーション**は、主に印刷物の表面に素材の層を施し、耐久性、見た目、または特定の特性を向上させる加工です。
 
-
-
 **画像サイズ**は、デザイナー内で使用される画像のサイズです。
-
-
 
 **写真幅**は、デザイナー全体に設定される写真のサイズです。
 
@@ -100,14 +87,11 @@ Tシャツ商品用のマスクを作成します：
 
 **最大ページ数**は、商品で追加可能な最大ページ数を指します。
 
-
-
 **1. 単一面商品のプロダクトブランク作成方法**
 
 **例（単一面商品）**
 
 このガイドでは、単一面商品の作成方法を説明します（例：前面デザインのみのTシャツ）。
-
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS1.png)
 
@@ -125,12 +109,9 @@ Tシャツ商品用のマスクを作成します：
 
 レンダリング画像サイズ： 3.9 × 3.9インチ
 
-
 **前提条件**
 
 開始する前に、以下の内容を準備してください：
-
-
 
 **アセット**
 
@@ -142,18 +123,13 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS3.png)
 
-
 **注意：** 商品プレビュー画像とデザインエリア画像は、同じ寸法である必要があります。
-
-
 
 **ステップ1：** ウェブサイトのリンクを開き、
 
 有効なログイン情報を入力してログインボタンをクリックします。
 
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
-
 
 **ステップ2：** 「**プロダクトブランク**」をクリックし、次に「**マイブランク**」をクリックします。
 
@@ -161,18 +137,13 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
-
 **ステップ3：** 新しいプロダクトブランクを作成するには、「追加」ボタンをクリックします。
-
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
-
 **ステップ4：** 商品仕様：このステップでは、基本的な商品情報を定義します。
 
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS5.png)
-
 
 **項目の説明**
 
@@ -192,7 +163,6 @@ Tシャツ商品用のマスクを作成します：
   * **ギフト（多面）** – 前面・背面のある商品用（例：Tシャツ〈前＋後〉）
   * **カレンダー** – カレンダー商品用
 * **商品サムネイル**
-
 
   一覧表示に使用される小さなサムネイル画像。
 * **サイズ**
@@ -240,11 +210,9 @@ Tシャツ商品用のマスクを作成します：
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS8.png)
 
-
 商品コンポーネントを追加
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
-
 
 **ステップ6：** デザイナー仕様
 
@@ -252,26 +220,25 @@ Tシャツ商品用のマスクを作成します：
 
 デザイナーに面を追加するには、「デザイナー仕様を追加」をクリックします。
 
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS11.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS12.png)
 
-### **Fields Explanation**
+**項目の説明**
 
-* **Surface Type**
-  Select the surface type from dropdown, surface added in prints specs will be shown here.
-* **Surface Name**
-  Name shown to the end user in the designer (example: Front Side).
-* **Product Preview Image**
-  Upload the **Product Preview Image** (example: T-shirt image). 
+* **面タイプ**
+  ドロップダウンから面タイプを選択します。印刷仕様で追加した面がここに表示されます。
+* **面名称**
+  デザイナー上でエンドユーザーに表示される名称（例：前面）。
+* **商品プレビュー画像**
+  商品プレビュー画像をアップロードします（例：Tシャツの画像）。
 
 [Product Preview Black tshirt.png](https://drive.google.com/file/d/1v_TKL09MZGfJ-8ABnel6nDN8Elf213dh/view?usp=drive_link)
 
-* **Design Area Image**
-  Upload the **Design Area Image** that defines the printable area.
+* **デザインエリア画像**
+  印刷可能エリアを定義するデザインエリア画像をアップロードします。
 
 [Design area black tshirt.png](https://drive.google.com/file/d/1kuSu5slt2_-fyCbWLHH-FgnXDtGiZBp1/view?usp=drive_link)
 
