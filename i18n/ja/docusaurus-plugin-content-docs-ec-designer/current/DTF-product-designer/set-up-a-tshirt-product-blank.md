@@ -501,17 +501,17 @@ Tシャツ商品用のマスクを作成します：
 
 配置や位置を確認するには、「プレビュー」をクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS36.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-9.png)
 
 
 すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS37.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-7.png)
 
 
 **最終ステップ：保存と確認**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS38.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp7.png)
 
 1. プロダクトブランクを保存 をクリックします。
 2. デザイナーで表示 をクリックします。
@@ -521,9 +521,9 @@ Tシャツ商品用のマスクを作成します：
    * プレビューの正確さ
 4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS40.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
 
 ### **マーチ商品を作成する手順：**
 
@@ -552,7 +552,7 @@ Tシャツ商品用のマスクを作成します：
 
 * 「テスト注文」ボタンをクリックして、注文を行います。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/test-oder-1.png)
 
 * 「**注文が正常に完了しました**」というメッセージが表示されます。
 
