@@ -1,441 +1,546 @@
 ---
-title: Tシャツ商品用ブランク
+title: Set Up a T-Shirt Product Blank
 ---
-# Tシャツ商品のブランクを作成する方法
+# **How to create a T-Shirt Product Blank**
 
-開始前のセットアップチェックリスト
+### **Before You Start: Setup Checklist**
 
-スムーズかつ効率的に商品をセットアップするために、以下のポイントをご確認ください
+Please review the following points to ensure a smooth and efficient product setup process:
 
-**マスク画像**
+**Mask Images**
 
-Tシャツ商品のマスクを作成する
-[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
-[マスクガイドラインを表示](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
-[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
-注**:** 
+create masks For T-Shirt products:
+[View Mask Guidelines](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)[](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)
 
-* マスクは .PNG 形式で作成してください。
-* 注： 「clippath mask」の透明色は、商品カラーと同じに保つ必要があります。
+**Note :** 
 
-  **例：**
+* **The masks to be created in .PNG format.**
+* **Note : the "clippath mask" transparency color need to be maintained same as the product color.**
 
-  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB.png)
+  **For example:** 
 
-**イベント**
+  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/htctspb.png)
 
-必要なイベントがリストにない場合は、こちらに追加してください：[](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
-**イベントを追加**
-[](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
+**Occasions**
 
-**サブカテゴリ**
+If your required **occasion** isn’t listed, add it here:
+[Add Occasion](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions)
 
-カスタムサブカテゴリを作成する場合は、こちらのリンクを使用してください：
-***サブカテゴリを管理***
+**Subcategories**
 
-[](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
+For custom **subcategories**, use this link:
+ [Manage Subcategories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
 
-**ステップの確認**
+**Review Steps**
 
-* セットアップ手順を一度確認して、必要なリソースを把握してください。
-* 準備ができたら、商品セットアップを開始してください。
+Go through the setup steps once to know what resources you'll need.
 
-## **用語集：**
+Once ready, start the product setup process.
 
-**プロダクトブランク**
- 商品にビジュアルや最終テンプレートを追加する前に、デザインや注文システムで商品の動作を定義するための基本的な商品セットアップです。
+# **Glossary:**
 
-**商品コード**
- 各定義に追加する必要があるユニークなコードです。
+**Product Blank**  is a basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
 
-**SKU識別子**
- 商品や商品のバリアントごとに、商品フルフィルメントプロセスで割り当てられるユニークIDです。
+ **Product Code** This is a unique code that needs to be added for every definition.
 
-**セーフエリア**
- 商品デザイナー上のアウトラインで、印刷や商品加工時に切り取られる可能性のある部分をお客様に示す領域です。
+ **SKU ID** a unique id assigned to each product or product variant in the product fulfillment process.
 
-**塗り足しエリア**
- 印刷製品の最終トリムサイズを超えてデザインが延長される部分です。
+ **Safe Area** This is the outline marking on the product designer to let the customer know which part on the page may get cropped/cut while product fulfillment.
 
-**トリムエリア**
- 最終カットプロセスで余分な素材が切り取られる、商品の周囲のスペースです。
+ **Bleed Area** Bleed area is a portion of a design that extends beyond the final trim size of a printed product.
 
-**用紙 / 属性**
- 商品に使用される用紙です。例：アート紙、シルキー、ラスタなど。
+ **Trim Area** The trim area refers to the space around the product where excess material is cut away during the final cutting process.
 
-**ラミネート**
- 商品の表面に施す素材の層で、耐久性、視覚的魅力、特定の特性を向上させるために使用されます。
+ **Substrate / Attributes** It is the paper used for a product. Ie. Artpaper, Silky, Lustre etc.
 
-**画像サイズ**
- デザイナーで使用される画像のサイズです。
+ **Lamination** It is the layers of material to the surface of a product, often a printed material, to enhance its durability, visual appeal, or specific properties.
 
-**写真幅**
- デザイナーの全領域に設定される写真の幅です。
+ **Image Size** Is the size of the image used in the designer.
 
-**製本**
- ページをしっかりとまとめて本の構造を作ることです。イメージラップ製本、糸綴じ、無線綴じなど様々な技法があります。
+ **Photo width** Photo width is the size of the photo set to the full designer area.
 
-**表示マスク画像**
- デザイナー上に表示されるオーバーレイマスクです。
+ **Binding** Is to securely attach the pages together and create a book structure. This involves various techniques, such as imagewrap binding, stitch binding, perfect binding etc.
 
-**クリップパスマスク画像**
- デザイナーがデザイン用途で設定するマスク領域です。
+ **Display Mask Image** Is the overlay mask to be displayed in the designer.
 
-**オフセット値**
- デザイナー上でマスクを設定するために使用されます。
+ **Clippath Mask Image** Is the mask area set for designing purposes by the designer.
 
-**カテゴリ**
- 商品を特定のセクションに整理するために使用されます。
+ **Offset Value** Are used to set the mask on the designer.
 
-**サブカテゴリ**
- 複数の種類の商品を特定のセクションに整理するために使用されます。
+ **Category** Is used to organise products under certain sections
 
-**アプリ名**
- 設定された商品で使用されるデザイナーの種類を指します。例：プリント商品デザイナー、フォトブックデザイナー、カレンダーデザイナー、デコール商品デザイナーなど。
+ **Sub Category** Is used to organise multiple types of products under specific sections
 
-**印刷可能面**
- デザインが行われるデザイナー上の面で、商品仕様が追加される部分です。
+ **App name** It refers to the type of the designer to be used for the configured product ie. prints products designer, photobook products designer, calendar designer, decor products designer.
 
-**出力形式**
- 注文処理後に生成される必要がある出力ファイル形式です。例：JPEG形式やPDF形式。
+ **Printable surfaces** It refers to the designer surface where the designing will be done. Of which the product specification to be added.
 
-**最小ページ数**
- 商品が開かれる際の最小ページ数です。
+ **Output type** It refers to the output file type required to be generated after the order is processed ie. jpeg format or pdf format.
 
-**最大ページ数**
- 商品で追加可能な最大ページ数です。
+ **Min pages** It refers to the minimum number of pages with which a product will open
 
-##### 
-プロダクトブランクの作成方法
+**Max page** It refers to the maximum number of pages a product will have an option to add up to.
 
-1. プロダクトブランクの作成方法（単一面商品）
+## 1. How to Create a Product Blank (Single Surface Product)
 
+### **Example (Single Surface Product)**
 
-**例 1（単一面商品）**
+This guide explains how to create a **Single Surface Product** (example: T-shirt with only front design).
 
-このガイドでは、単一面商品（例：前面のみデザイン可能なTシャツ）の作成方法を説明します。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS1.png)
 
-![](/img/unnamed-5-.png)
+Product Type: T-shirt
 
-##### 
+Surface: Front side only
 
+Product Width: 28 inches
 
+Product Height: 28 inches
 
-* **商品タイプ：** Tシャツ
+Design Area Size: 3.9 × 3.9 inches
 
-* **印刷面：** 前面のみ
+Design Area Position: Top = 8 inches, Left = 14.8 inches
 
-* **商品幅：** 28インチ
+Rendered Image Size: 3.9 × 3.9 inches
 
-* **商品高さ：** 28インチ
+**Prerequisites**
 
-* **デザインエリアサイズ：** 3.9 × 3.9インチ
+Before starting, make sure you have the following:
 
-* **デザインエリア位置：** 上から 8インチ、左から 14.8インチ
+**Assets**
 
-* **レンダリング画像サイズ：** 3.9 × 3.9インチ
+* **Product Preview Image (Shows the actual product like a T-shirt)**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS2.png)
 
+* **Design Area Image (Shows the printable area where the design will be placed)**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS3.png)
 
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
 
+**Step 1:** Open the website link 
+ Enter valid login details and click on login button
 
-## 前提条件
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB1.png)
 
-### 画像タイプ：SVG
+**Step 2:** Click on “Product blanks” and then click on My Blanks.
+ It will display the list of defined product Blanks.
 
-**最適な用途：** シンプルな商品、図形、フラットデザイン
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB14.png)
 
-**メリット：** 画質劣化なしで無限に拡大可能、ファイルサイズが非常に小さい、エッジがシャープ
+**Step 3:**  To create a new product Blank click on the “Add” button.
 
-**制限事項：** 写真やリアルな画像、質感表現には不向き
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPB15.png)
 
-**推奨ユースケース：** キャンバス、ポスター、プリント、実物写真を使用しないフラット商品
+**Step 4: Product Specification :** This step defines **basic product details**.
 
-### 画像タイプ：WEBP
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS5.png)
 
-**最適な用途：** 商品マスク、リアルな商品画像、透明背景が必要な画像
+**Fields Explanation**
 
-**メリット：** 高圧縮でも高画質、透過対応
+* **Product Code**
+  Unique code to identify the product blank (must be unique).
+* **Product Title**
+  Name of the product blank.
+* **Product Description**
+  Short description of the product blank.
+* **Module**
+  Select the module based on product type:
 
-**制限事項：** ベクター形式ではないため、高圧縮時に細部が失われる場合あり
+  * **Prints** – For photo print products
+  * **Photobooks** – For photobook products
+  * **Gifting (Single Surface)** – For products like mugs or T-shirts with only front design
+  * **Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
+  * **Calendar** – For calendar products
+* **Product Thumbnail**
+  Small thumbnail image shown in listings.
+* **Size**
+  Product size (example: 6x6, 12x12, S, M, L, XL).
+* **Preview Type**
+  Defines how the product preview appears in the designer:
 
-**推奨ユースケース：** Tシャツ用マスク、アパレルモックアップ、リアルな商品プレビュー
+  * **None** – No preview
+  * **Image** – Shows only the design area
+  * **Canvas** – Canvas-based preview (faster loading)
+  * **2D** – Flat 2D product preview
+  * **3D** – 3D product preview (requires configured 3D model)
 
-### 画像タイプ：PNG
+Click on the **next** button to continue.
 
-**最適な用途：** 透明背景が必要な画像
+**Step 5** : 
+**Print Specification:** This step defines how the final image will be rendered.
 
-**メリット：** 可逆圧縮で高画質、エッジがきれい
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
-**制限事項：** WEBPと比べてファイルサイズが大きい
+* **Output Type**
+  File format of the rendered image (example: JPG, PNG).
+* **Printable Surfaces**
+  Number of printable surfaces:
 
-**推奨ユースケース：** Tシャツ用マスク、アパレルモックアップ、リアルな商品プレビュー
+  * Mug → 1 surface
+  * T-shirt (front + back) → 2 surfaces
 
+Click **Add Printable Surface** to configure a surface.
 
-**作業を開始する前に、以下の点を必ずご確認ください。**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS7.png)
 
+### **Printable Surface** 
 
-**アセット**
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt: width 3.93 and height 3.93 .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
 
-商品プレビュー画像（Tシャツなどの実際の商品を表示する画像）
+Click **Add** to save the printable surface.
 
+Once added, the surface will appear in the printable surfaces list.
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS8.png)
 
-![](/img/unnamed-6-.png)
+Add product components
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS9.png)
 
+**Step 6 : Designer Specification**
 
-**デザインエリア画像**（デザインを配置する印刷可能なエリアを表示する画像
+This step controls **how the product is shown in the designer**.
 
+Click **Add Designer Specs** to add a surface to the designer
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS10.png)
 
-![](/img/unnamed-7-.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS11.png)
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS12.png)
 
-**注意：** 商品プレビュー画像とデザインエリア画像は、\*\*同じサイズ（寸法）\*\*である必要があります。
+### **Fields Explanation**
 
-**対応ファイル形式：** PNG／WebP／SVG
+* **Surface Type**
+  Select the surface type from dropdown, surface added in prints specs will be shown here.
+* **Surface Name**
+  Name shown to the end user in the designer (example: Front Side).
+* **Product Preview Image**
+  Upload the **Product Preview Image** (example: T-shirt image). 
 
+[Product Preview Black tshirt.png](https://drive.google.com/file/d/1v_TKL09MZGfJ-8ABnel6nDN8Elf213dh/view?usp=drive_link)
 
+* **Design Area Image**
+  Upload the **Design Area Image** that defines the printable area.
 
+[Design area black tshirt.png](https://drive.google.com/file/d/1kuSu5slt2_-fyCbWLHH-FgnXDtGiZBp1/view?usp=drive_link)
 
-**ナビゲーションパス**
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
 
-**移動先：** プロダクトブランク → マイブランク → 追加
+* **Product Width**
+  Actual width of the product.
+  Example: T-shirt = 28 inches.
+* **Product Height**
+  Actual height of the product.
+  Example: T-shirt = 28 inches.
 
-これにより、**プロダクトブランク作成フロー**が開きます。
+**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
 
+* **Orientation**
+  Product orientation (Portrait / Landscape/ Square).
+* **Top Offset**
+  Distance from the top where the design area starts.
+* **Left Offset**
+  Distance from the left where the design area starts.
 
+### **Preview**
 
+Click **Preview** to verify alignment and positioning.
 
-![](/img/unnamed-8-.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS13.png)
 
+If everything looks correct, click **Add** to save the designer surface
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS14.png)
 
-**ステップ 1：商品仕様**
+**Step 7: Final Step: Save and Verify**
 
-このステップでは、商品の基本情報を設定します。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS15.png)
 
+1. Click **Save Product Blank**
+2. Click **View in Designer**
+3. Verify:
+4. * Design area alignment
+   * Preview accuracy
+5. Place a **test order** to confirm everything works correctly
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
 
-![](/img/unnamed-9-.png)
+# **2. How to Create a Product Blank (Multi-Surface)**
 
+## **Example 2 (Multi Surface Product)**
 
+This guide explains how to create a **Multi Surface Product** (example: T-shirt with front and back design).
 
+**Front and back**
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS18.png)
 
+**Product Type:** T-shirt
 
+**Surface:** Front and Back side
 
+**Front**
 
+**Product Width:** 28 inches
 
+**Product Height:** 28 inches
 
+**Design Area Size:** 3.9 × 3.9 inches
 
+**Design Area Position:** Top = 7.8 inches, Left = 15.3 inches
 
+**Rendered Image Size:** 3.9 × 3.9 inches
 
+**Back**
 
+**Product Width:** 28 inches
 
+**Product Height:** 28 inches
 
+**Design Area Size:** 7.87 × 7.87 inches
 
-# 手順：
+**Design Area Position:** Top = 6.1  inches, Left = 10 inches
 
-**手順 1.** 
+**Rendered Image Size:** 7.87 × 7.87 inches
 
-* ウェブサイトのリンクを開く
-* 有効なログイン情報を入力し、**ログイン**ボタンをクリックしてください。
+## **Prerequisites**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/login-jp.png)
+Before starting, make sure you have the following:
 
-**手順  2.**  
+**Assets**
 
-* 「製品ブランク」をクリックし、次に「私の空白」をクリックしてください。
-* 定義済みのプロダクトブランクの一覧が表示されます
+* **Product Preview Image** (Shows the actual product T-shirt (Front and back))
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB14.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS19.png)
 
-**手順 3.** 
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS20.png)
 
-新しいプロダクトブランクを作成するには、「追加」ボタンをクリックしてください。
+* **Design Area Image** (Shows the printable area where the design will be placed (Front and back))
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB15.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS21.png)
 
-**手順 4.**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS22.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB1.png)
+* **Note: Product Preview Image and Design Area Image must have the same dimensions.**
 
-* **商品コード :** ユニークな商品コードを入力してください。
-* **カテゴリ:** 商品を定義するためのカテゴリをドロップダウンから選択してください。
-* **サブカテゴリ :** 商品を定義するためのサブカテゴリを選択してください。
+## **Navigation Path**
 
-  ※カテゴリ・サブカテゴリの追加方法は「カテゴリーとサブカテゴリーを追加する方法」を参照してください。
-* **商品タイトル :** 商品タイトルを入力してください。
-* **（商品説明）:** 200文字以内で商品説明を入力してください。この説明は内部定義用に使用されます。
-* **商品サムネイル :** 商品サムネイルを選択してアップロードしてください（.jpg形式のみ）。このサムネイルはEzyAdmin上で商品に表示されます。
-* **サプライヤー :** 商品を登録するサプライヤーを選択してください。
-* **向き:** 商品の向きを選択してください（例：縦向き、横向き、正方形）。
-* **サイズ:** 商品サイズを選択してください（例：12x12、6x6）。このサイズは内部定義用に使用されます。
-* **プレビュータイプ:** ドロップダウンから商品プレビュータイプを選択してください。このオプションは内部定義用に使用されます。
+Go to: **Product Blanks → My Blanks → Add**
 
-**注：プレビューは商品タイプに応じて選択する必要があります。**
+This will open the product blank creation flow.
 
-**例：Tシャツ 2D**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS23.png)
 
-続行するには、**次へ**ボタンをクリックしてください。
+## **STEP 1: Product Specification**
 
-**手順 5.**
+This step defines **basic product blank details**.
 
-**出力形式 :** 商品の出力形式として「.PNG」を選択してください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS24.png)
 
-**「印刷可能面を追加」ボタンをクリックしてください。**
+### **Fields Explanation**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB2.png)
+* **Module**
+  Select the module based on product type:
 
-**手順  6**
+**Gifting (Multi-Surface)** – For products with front & back (example: T-shirt front + back)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB4.png)
+## **STEP 2: Print Specification**
 
-**サーフェスタイプ:** ドロップダウンから選択してください。
+This step defines how the **final image will be rendered**.
 
-**注：** 入力するすべての仕様やサイズはインチ単位です。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
 
-**画像サイズ :** 画像サイズの仕様を入力してください。このサイズは商品の印刷可能な画像サイズです。
+### **Output Settings**
 
-**注：** 画像サイズでは、画像の幅と高さを入力し、Photo Width & Heightによりデザイナー上で写真ホルダーが表示されます。
+* **Output Type**
+  File format of the rendered image (example: JPG, PNG).
+* **Printable Surfaces**
+  Number of printable surfaces:
+* * T-shirt (front + back) → **2 surfaces**
 
-**商品設定時の必須項目:** 画像の幅・高さ、写真の幅・高さ、およびマスクのオフセット値の仕様は必須です。
+Click **Add Printable Surface** to configure a surface.
 
-**セーフエリア:** セーフエリアの仕様を入力してください。
+### **Printable Surface 1 (Front)**
 
-**塗り足しエリア:** 塗り足しエリアの仕様を入力してください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS26.png)
 
-* 塗り足しは、最終仕上げ時に切り取られる領域です。
-* デザインオブジェクトが用紙の端まで必要な場合、小さな白い隙間ができるのを防ぐために存在します。
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt front: width 3.93 and height 3.93 .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
 
-**トリムエリア:** トリムエリアの仕様を入力してください。（デザインエリアに角丸がある商品の場合のみ、角の半径を入力）
- 例：角丸マグネット商品など
+### **Printable Surface 2 (Back)**
 
-**入力内容を保存するには、**「追加」**ボタンをクリックしてください**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS27.png)
 
-**手順  7**
+* **Image Size**
+  Final rendered image size.
+  Example for T-shirt back: width 7.87 and height 7.87 inches .
+* **Safe Area, Bleed & Trim (Optional)**
+  These values are optional and **do not affect final output**.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB23.png)
+Click **Add** to save the printable surface.
 
-* ドロップダウンから「アプリ名」を選択してください。
-   例：Tシャツタイプの商品では、以下のようにアプリ名を選択します。
+Once added, the surfaces will appear in the printable surfaces list.
 
-1. Tシャツが片面のみ（前面のみ）の場合：「EzyDesigner」を選択
-2. Tシャツが両面（前面と背面）の場合：「Ezygifts」を選択
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS28.png)
 
-* この選択に応じて、商品はそれぞれのデザイナーで開かれます。
-* **デフォルトテンプレート**：カスタマイズテンプレート（テンプレートクリエーターで作成されたテンプレート）をデフォルトとして設定する場合はドロップダウンから選択するか、「なし」のままにしてください。
-* **デザイナー仕様を追加するには**：「デザイナー仕様を追加」ボタンをクリックしてください。
+Add product components
 
-  ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB24.png)
-* **サーフェスタイプ**：マスクと仕様を適用するサーフェスタイプをドロップダウンから選択してください。
-* **サーフェス名**：選択したサーフェスタイプに基づいてサーフェス名を入力してください。
-* **ディスプレイマスク画像**：商品のディスプレイマスク画像を選択してアップロードしてください。
-* **クリップパスマスク画像**：商品のクリップパスマスク画像を選択してアップロードしてください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS29.png)
 
-**注意:**
+## **STEP 3: Designer Specification**
 
-* マスク画像のファイル形式は **.png** である必要があります。
-* デザイナーで商品を表示するには、**ディスプレイマスク画像とクリップパスマスク画像の2枚が必要** です。
-* **クリップパスマスク画像** はTシャツの色や質感に合わせて作成してください。例：クリップパスマスクの色はTシャツの色と同じにする必要があります。
-* ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB.png)
-* 商品の仕様および両方のマスク画像の仕様は同じにする必要があります。
-   推奨サイズは特にありません。製品仕様に依存します。
-* **向き**：アップロードしたマスクに合わせて画像の向きを選択してください。
+This step controls **how the product is shown in the designer**.
 
-**マスクオフセットを入力（単位：インチ）**：
+Click **Add Designer Specs** to add a surface to the designer
 
-* 上オフセット
-* 左オフセット
-* **オフセット**：マスクの追加プロパティをオフセットで設定するための項目です。
-* **プレビュー**：プレビューボタンをクリックすると、追加したマスク画像の表示を確認できます。
-* 必要な情報をすべて入力したら、**「追加」ボタン** をクリックして保存してください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS30.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB5.png)
+**Surface 1**
 
-* 「保存」ボタンをクリックして、商品を保存してください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS31.png)
 
-**手順  8**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB17.png)
+### **Fields Explanation**
 
-* 商品が保存されると、**製品ブランク ダッシュボードリスト**を開くと、作成された商品が表示されます。
+* **Surface Type**
+  Select the surface type from dropdown, surface added in prints specs will be shown here.
+* **Surface Name**
+  Name shown to the end user in the designer (example: Front Side).
+* **Product Preview Image**
+  Upload the **Product Preview Image** (example: T-shirt image). 
+* **Design Area Image**
+  Upload the **Design Area Image** that defines the printable area.
 
-**手順  9**
+**Note: Product Preview Image and Design Area Image must have the same dimensions.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB18.png)
+* **Product Width**
+  Actual width of the product.
+  Example: T-shirt = 28 inches.
+* **Product Height**
+  Actual height of the product.
+  Example: T-shirt = 28 inches.
 
-* 「製品 / プロダクト」タブに移動し、「私の製品」を選択して、作成したTシャツブランク商品を使用して「マーチ / 商品」商品を作成してください。
-* **注意:** マーチ / 商品商品で使用するTシャツ用の.png画像を追加するため、アルバムを作成してください。
+**NOTE: The aspect ratio of the product dimensions must match the aspect ratio of the Product Preview Image and Design Area Image. Otherwise, the design may appear misaligned in the designer.**
 
-**手順  10**
+* **Orientation**
+  Product orientation (Portrait / Landscape/ Square).
+* **Top Offset**
+  Distance from the top where the design area starts.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB19.png)
+**Left Offset**
+Distance from the left where the design area starts.
 
-* 商品が作成されると、**ダッシュボード**を開くと、作成された商品が表示されます。
-* 作成した商品をデザイナーでプレビューするには、**「**デザイナーで表示**」ボタン**をクリックしてください。
+### **Preview**
 
-**手順  11**
+Click **Preview** to verify alignment and positioning.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB20.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS33.png)
 
-* 商品がデザイナーで開かれたら、**「**商品)**」写真タブ**をクリックしてください。
+If everything looks correct, click **Add** to save the designer surface.
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB21.png)
+**Surface 2**
 
-* 商品)アルバムから.png画像を選択し、デザイナーに適用します。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS34.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB22.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS35.png)
 
-* 商品プレビューを確認するには、**「私の製品」ボタン**をクリックしてください。
-* 「 テスト注文」ボタンをクリックして、注文を行ってください。
+Click **Preview** to verify alignment and positioning.
 
-**手順  12**
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS36.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB25.png)
+If everything looks correct, click **Add** to save the designer surface.
 
-* 「注文が正常に完了しました」というメッセージが表示されます。
-* **タブ**が開き、最近の注文が表示されます。
-* 注文の詳細を確認するには、
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS37.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB26.png)
+**Final Step: Save and Verify**
 
-* **「**表示**」注文詳細オプション**をクリックしてください。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS38.png)
 
-**手順  13**
+1. Click **Save Product Blank**
+2. Click **View in Designer**
+3. Verify:
+4. * Design area alignment
+   * Preview accuracy
+5. Place a **test order** to confirm everything works correctly
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB26.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS39.png)
 
-* テスト注文が行われると、注文はレンダラーアプリケーションによってレンダリングされ、
-  注文**画面**で確認できるようになります。
-* 注文のステータスを確認してください。
-* ステータスが 表示済みと表示されたら、注文画像をダウンロードできます。
-* 注文画像は **「 テスト注文」ボタン** を使用して一括でダウンロードするか、個別に単一の画像をダウンロードすることも可能です。
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS40.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB27.png)
+### **Steps to create a Merch Product :**
 
-**注意:** 複数の画像がある場合、ユーザーは単一の画像をダウンロードすることも、**「 テスト注文」ボタン**をクリックしてすべての画像を一度にダウンロードすることもできます。
+**Step 1**
 
-**手順  14**
+* Go to "Products" tab select "My Products" and create a "Merch" product using the created T-shirt blank product.
 
-* テスト注文画像を保存するパスを選択してください。
-* **保存 ボタン**をクリックします。
-* 画像は選択した場所にダウンロードされます。
-* **「すべてをダウンロードしてください」ボタン**を使用して注文をダウンロードした場合は、ZIPファイルとしてダウンロードされます。
-* OPSTestが完了したら、Tシャツ用の透明背景の**デフォルトテンプレート**を設定してください。
-* ダウンロードした画像は、印刷用にプリンターに送信することも、印刷可能な誰かにメールで送信することもできます。
+  Note: Create a album and add .png images for the merch product to be used for the T-shirts.
 
-**手順  15**
+**Step 2**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/HTCTSPB28.png)
+* Once the product is created, open the My product dashboard and it will display the created  product.
+* Click on the “View in designer” button to preview the created product in the designer.
 
-**ステップバイステップ:**
+**Step 3**
 
-1. 今、商品は公開の準備ができています。
-2. プロダクトブランクのダッシュボードに移動します。
-3. \*\*「公開」\*\*ボタンをクリックします。
-4. 商品が公開され、商品テンプレートも公開されると、プロダクトブランクの仕様は変更できません
+* Once the product is opened in the designer, click on the "Merch" photos tab.
+* Select a .png image from the merch album and apply it to the designer.
+* click on the "Preview" button to view the product preview.
+
+**Step 4**
+
+* click on the "Test order" button to place the order
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB24.png)
+
+* Will display a message as “Order placed successfully”.
+* The order tab will open displaying the recent order placed
+* Click on the ‘view” order details option
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
+
+**Step 5**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
+
+* Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+* Check the order status.
+   Once the status is shown as rendered, you can download the order images.
+* Orders can be downloaded using the “Download all” button or you can individually also download single images.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
+
+***Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.***
+
+**Step 6**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB28.png)
+
+* Select a path to save the test order image.
+* Click on the save button.
+* The image will get downloaded to the selected location.
+* If the order is downloaded using the “Download all” button than a zip file will be downloaded.
+* Once the opstest is passed : Set a default template for the T-shirt with transparent background.
+
+*The downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.*
+
+**Step 7**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
+
+* Now the product is ready to be published.
+* Go to the product blank dashboard.
+* Click on the “Publish” button.
+* ***Once the Product is Published & the product Templates are Published, Product Blank Specs Cannot be Changed. Only need formatting dnt change the text, dnt short , dnt do any thing on text keep it as it just make step by step***
