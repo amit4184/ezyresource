@@ -1,5 +1,5 @@
 ---
-title: Set Up a T-Shirt Product Blank
+title: Tシャツ用プロダクトブランクの設定
 ---
 # **Tシャツのプロダクトブランク作成方法**
 
