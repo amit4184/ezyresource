@@ -423,12 +423,12 @@ Tシャツ商品用のマスクを作成します：
 
 追加後、印刷可能面は印刷可能面一覧に表示されます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS28.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-4.png)
 
 
 商品コンポーネントを追加
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS29.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/printable-surface.png)
 
 ## 
 ステップ3：デザイナー仕様
@@ -440,13 +440,13 @@ Tシャツ商品用のマスクを作成します：
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS30.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp6.png)
 
 
 面 1
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS31.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-5.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS17.png)
 
@@ -486,7 +486,7 @@ Tシャツ商品用のマスクを作成します：
 
 配置や位置を確認するには、「プレビュー」をクリックします。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS33.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-8.png)
 
 
 すべて正しく表示されていることを確認したら、「追加」をクリックしてデザイナー面を保存します。
@@ -494,7 +494,7 @@ Tシャツ商品用のマスクを作成します：
 
 **面 2**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS34.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-6.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS35.png)
 
