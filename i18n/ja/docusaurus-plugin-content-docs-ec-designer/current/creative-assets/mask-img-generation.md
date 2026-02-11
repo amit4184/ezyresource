@@ -27,8 +27,6 @@ Tシャツ製品全体の寸法（アートボードサイズ）
 
 Tシャツ製品用のマスク画像を作成するには、まずマスク画像のアートボード領域（Tシャツの寸法）を把握する必要があります。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_1.png)
 
 **ステップ 2**
@@ -37,7 +35,6 @@ PCまたはノートパソコンでAdobe Photoshopを起動します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_2.png)
 
-
 **ステップ 3**
 
 **新しいファイルを作成**
@@ -45,9 +42,6 @@ PCまたはノートパソコンでAdobe Photoshopを起動します。
 ［ファイル］→［新規］をクリックして、マスク画像用の新しいドキュメントを作成します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_3.png)
-
-
-
 
 **ステップ 4**
 
@@ -69,15 +63,11 @@ PCまたはノートパソコンでAdobe Photoshopを起動します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_5.png)
 
-
 **ステップ 5**
 
 白いアートボードとロックされた背景レイヤーが表示されます。Photoshopの右側に［レイヤー］パネルが表示されていることを確認してください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_6.png)
-
-
-
 
 **ステップ 6**
 
@@ -106,10 +96,7 @@ Ctrl + T を使用し、サイズ変更中に Alt キーを押したままにす
 Tシャツレイヤーを右クリックします。
 ［レイヤーをラスタライズ］を選択します。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_9.png)
-
 
 **ステップ 8**
 
@@ -120,9 +107,7 @@ Tシャツレイヤーを右クリックします。
 * Tシャツの背後にある白い背景をクリックします。
 * Deleteキーを押します。
 
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_10.png)
-
 
 **ステップ 9**
 
@@ -131,10 +116,7 @@ Tシャツレイヤーを右クリックします。
 * 背景レイヤーの目のアイコンをクリックして非表示にします。
 * Ctrl + D を押して、現在の選択範囲を解除します。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_11.png)
-
 
 **ステップ 10**
 
@@ -147,13 +129,10 @@ Tシャツレイヤーを右クリックします。
 * 仕様に従って印刷エリアの幅と高さを入力します。
 * ［OK］をクリックします。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_12.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_13.png)
 
-### 
 **ステップ 11**
 
 **Tシャツからデザインエリアを抽出**
@@ -163,11 +142,9 @@ Tシャツレイヤーを右クリックします。
 * Tシャツレイヤーを選択します。
 * Ctrl + J を押して、選択したエリアを複製します。
 
-
 **これにより、個別のデザインエリア用レイヤーが作成されます。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_14.png)
-
 
 **ステップ 12**
 
@@ -177,91 +154,67 @@ Tシャツレイヤーを右クリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_15.png)
 
-
 **ステップ 13**
 
-上記の手順は、Tシャツからデザインエリア部分を切り出すために行います。
+上記の手順で、Tシャツからデザインエリア部分を切り取ります。
+
+デザインエリアの目のアイコンをクリックし、レイヤーを非表示にします。
+
+これで製品画像が完成しました。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
 
-
 **ステップ 14**
 
-Tシャツから印刷エリアを削除するには：
+**商品マスク画像を保存します。**
 
-* 長方形レイヤーを選択します。
-* Ctrlキーを押したまま、長方形のサムネイルをクリックします。
-* Tシャツレイヤーを選択し、Deleteキーを押します。
-* 目のアイコンを使用して背景レイヤーを非表示にします。
+**「ファイル」→「エクスポート」→「名前を付けてエクスポート」を選択します。**
 
+* 以下の設定を使用します。
+* 形式：PNG
+* 透明度：有効
+* 幅と高さ：800～1000ピクセルの間で設定（マスク画像のサイズを小さくするため）
 
-製品画像の準備が完了しました。
+**「保存」をクリックし、保存先のフォルダを選択します。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
 
-##### 
 **ステップ 15**
 
-**エッジをクリーンアップ**
-
-* マジックワンドツールを選択します。
-* 許容値を20に設定します。
-* 「アンチエイリアス」と「隣接」を有効にします。
-* Tシャツレイヤーを選択し、画像上をクリックします。
-
-
+デザインエリアのファイルを任意のフォルダに保存します**。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
 
 
-余分な要素（タグなど）が選択されている場合：
-
-* クイック選択ツールを使用します。
-* Alt キー（または Shift −）を押したまま、不要な部分を選択から除外します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
 
 
-次に：
-
-* Shift + Ctrl + I を押します（選択範囲を反転）。
-* Delete キーを押します。
-
-
-同じクリーンアップ手順をデザインエリアレイヤーにも繰り返して行います。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
 
-## 
-ステップ 16
+**ステップ 16**
 
+.**デザインエリアのマスク画像を保存します。**
 
-製品マスク画像を保存
-［ファイル］→［書き出し］→［Web用に保存（従来）］を選択し、以下の設定を使用します：
+* 「ファイル」→「エクスポート」→「名前を付けてエクスポート」を選択します。
+* 以下の設定を使用します。
+* 形式：PNG
+* 透明度：有効
+* 幅と高さ：800～1000ピクセルの間で設定（マスク画像のサイズを小さくするため）
 
-* 形式：PNG-24
-* 透明部分：有効
-* マット：なし
-* インターレース：未チェック
-* メタデータ：なし
-* 画質：バイキュービック（シャープ）
+**「保存」をクリックし、保存先のフォルダを選択します。**
 
-
-［保存］をクリックし、希望するフォルダを選択します。
+先フォルダを選択します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
 
-## 
-ステップ 17
-
-
-製品画像を希望するフォルダに保存します。
+**ステップ 17**
+デザインエリアのファイルを任意のフォルダに保存します**。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22.jpg)
 
-## 
 お困りですか？
-
 
 もし作業で行き詰まった場合でも、ご安心ください — 以下のメールアドレスまでご連絡ください。
  [support@ezycreate.com](mailto:support@ezycreate.com)
