@@ -521,9 +521,9 @@ Tシャツ商品用のマスクを作成します：
    * プレビューの正確さ
 4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/front-t-shirt.jpg)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/front-t-shirtB.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/back-t-shirtB.png)
 
 ### **マーチ商品を作成する手順：**
 
