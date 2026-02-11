@@ -162,7 +162,9 @@ Tシャツレイヤーを右クリックします。
 
 これで製品画像が完成しました。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step13-1.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step13-2.jpg)
 
 **ステップ 14**
 
@@ -177,21 +179,15 @@ Tシャツレイヤーを右クリックします。
 
 **「保存」をクリックし、保存先のフォルダを選択します。**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step14-1.jpg)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step14-2.jpg)
 
 **ステップ 15**
 
 デザインエリアのファイルを任意のフォルダに保存します**。**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
-
-
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
-
-
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step15.jpg)
 
 **ステップ 16**
 
@@ -207,12 +203,14 @@ Tシャツレイヤーを右クリックします。
 
 先フォルダを選択します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step16-1.jpg)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step16-2.jpg)
 
 **ステップ 17**
 デザインエリアのファイルを任意のフォルダに保存します**。**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_22.jpg)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step-17.jpg)
 
 お困りですか？
 
