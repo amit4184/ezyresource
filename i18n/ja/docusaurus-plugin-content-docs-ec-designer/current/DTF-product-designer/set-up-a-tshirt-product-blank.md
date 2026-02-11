@@ -385,7 +385,7 @@ Tシャツ商品用のマスクを作成します：
 
 このステップでは、最終画像のレンダリング方法を定義します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp5.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/step-2-tshirt.png)
 
 ### **出力設定**
 
