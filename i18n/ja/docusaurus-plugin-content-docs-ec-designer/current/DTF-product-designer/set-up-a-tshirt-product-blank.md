@@ -521,7 +521,7 @@ Tシャツ商品用のマスクを作成します：
    * プレビューの正確さ
 4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/front-t-shirt.jpg)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
 
@@ -562,19 +562,19 @@ Tシャツ商品用のマスクを作成します：
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB25.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/rendering.png)
 
 
 ステップ5
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB26.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/rendered.png)
 
 * テスト注文が完了すると、注文はレンダラーアプリケーションによってレンダリングされ、注文画面に表示されます
 * 注文ステータスを確認してください。
 * ステータスが「レンダリング済み」と表示されたら、注文画像をダウンロードできます
 * 注文は「すべてダウンロード」ボタンを使用して一括でダウンロードするか、個別に画像を1枚ずつダウンロードすることもできます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB27.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/order-detail-3.png)
 
 
 **注意：** 複数の画像がある場合、1枚ずつダウンロードすることも、「**すべてダウンロード**」ボタンをクリックしてすべての画像を一括でダウンロードすることもできます。
@@ -597,7 +597,7 @@ Tシャツ商品用のマスクを作成します：
 
 **ステップ7**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCADECOPB29.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/publish.png)
 
 * 商品の公開準備ができました。
 * プロダクトブランクのダッシュボードに移動します。
