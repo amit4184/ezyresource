@@ -284,7 +284,7 @@ Tシャツ商品用のマスクを作成します：
    * プレビューの正確さ
 4. すべてが正しく動作することを確認するため、テスト注文を行ってください。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS16.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-testord.png)
 
 # **2. 複数面商品のプロダクトブランク作成方法**
 
@@ -363,14 +363,14 @@ Tシャツ商品用のマスクを作成します：
 移動先：**プロダクトブランク → マイブランク → 追加**
 これにより、プロダクトブランク作成フローが開きます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS23.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-preview-2.png)
 
 ## 
 ステップ1：商品仕様
 
 このステップでは、プロダクトブランクの基本情報を定義します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS24.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-1.png)
 
 ### 
 項目の説明
@@ -385,7 +385,7 @@ Tシャツ商品用のマスクを作成します：
 
 このステップでは、最終画像のレンダリング方法を定義します。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS6.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/t-shirt-stp5.png)
 
 ### **出力設定**
 
@@ -400,7 +400,7 @@ Tシャツ商品用のマスクを作成します：
 
 ### **印刷可能面 1（前面）**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS26.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-2.png)
 
 * **画像サイズ**
   最終的にレンダリングされる画像サイズ。
@@ -410,7 +410,7 @@ Tシャツ商品用のマスクを作成します：
 
 ### **印刷可能面 2（背面）**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCTSPBSSMS27.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/ja/Surface-2-3.png)
 
 * **画像サイズ**
   最終的にレンダリングされる画像サイズ。
