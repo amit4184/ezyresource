@@ -144,68 +144,63 @@ Select the Rectangle layer, hold Ctrl, click on the rectangle thumbnail, then se
 
 ## **Step 13**
 
-The above step is done to Cut the Design area part from the T-Shirt 
+The above step is done to Cut the Design area part from the T-Shirt 
+
+Click on eye icon of design area and off the layer. 
+The **product image is now ready**.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_16.png)
 
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_25.png)
+
 ## **Step 14**
 
-To remove the print area from the T-shirt:
+**Save the Product Mask Image**
 
-* Select the Rectangle layer
-* Hold Ctrl and click the rectangle thumbnail
-* Select the T-shirt layer and press Delete
-* Turn off the background layer using the eye icon
+* Go to **File → Export → Export As**.
+* Use the following settings:
+* * **Format:** PNG
 
-The product image is now ready.
+  * **Transparency:** Enabled
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_17.png)
+  * **Width & Height:** Set between **800 px – 1000 px** (to reduce the mask image size)
+
+Click **Save** and choose the desired folder.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_26.jpg)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_27.jpg)
 
 ## **Step 15**
 
-##### **Clean the Edges:**
+##### 
+Save the product image in the desired folder
 
-* Select the Magic Wand Tool
-* Set Tolerance to 20
-* Enable Anti-alias and Contiguous
-* Select the T-shirt layer and click on the image
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_28.jpg)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_18.jpg)
 
-If extra elements (like tags) are selected:
-
-* Use the Quick Selection Tool
-* Hold Alt (or Shift –) to subtract unwanted areas
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_19.jpg)
-
-Then:
-
-* Press Shift + Ctrl + I (Invert Selection)
-* Press Delete
-
-Repeat the same cleanup process for the design area layer.
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_20.png)
 
 ## **Step 16**
 
-Save the Product Mask Image
+##### **Save the Design Area Mask Image**
 
-Go to File → Export → Save for Web (Legacy) and use these settings:
+* Go to **File → Export → Export As**.
+* Use the following settings:
+* * **Format:** PNG
 
-* Format: PNG-24
-* Transparency: Enabled
-* Matte: None
-* Interlaced: Unchecked
-* Metadata: None
-* Quality: Bicubic Sharper
+  * **Transparency:** Enabled
 
-Click Save and choose the desired folder.
+  * **Width & Height:** Set between **800 px – 1000 px** (to reduce the mask image size)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_21.jpg)
+Click **Save** and choose the desired folder.
 
-## **Step 17**   
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_29.jpg)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTGMSKSOP_30.jpg)
+
+## **Step 17**
 
 Save the product image in the desired folder.
 
