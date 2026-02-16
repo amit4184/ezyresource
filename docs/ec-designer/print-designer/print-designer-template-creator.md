@@ -179,12 +179,17 @@ Note:
   ![](/img/ppb8.png)
 * Photo preview will be displayed, now click on the photo to edit
 * ![](/img/ppb9.png)
-* The photo edit menu will be displayed.
 
-  ![](/img/ppb10.png)
-* Click on the crop button to crop the image if required.
 
-  ![](/img/ppb11.png)
+
+![](/img/ppb10.png)
+
+The photo edit menu will be displayed.
+Use crop button to crop a photo, you can crop a portion and remove unnecessary parts of the photo.
+Click on the crop button.
+
+![](/img/ppb11.png)
+
 * Increase the photo quantity if required
 * Once the editing is done click on the “Test Order” button.
 
