@@ -247,10 +247,10 @@ Font style & size selection.
 
 **Center part of the designer is a work area.**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc26.png)
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt51.png)
 
 * The work area will contain a full image displayed when the designer is invoked for the first time.
-* The red dots on the image are the handles that can be used to resize the image as required.
+* The dots on the image outline are the handles that can be used to resize the image as required.
 
 ### **Toolbar for Photo Editing**
 
@@ -266,8 +266,23 @@ Font style & size selection.
   Works similar to Bring Forward and sends the photo/text holder behind.
 * **Crop** – 
   use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
+
+The image will open in the crop window.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
+
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
+
+Using the crop slider and using the photo corner crop handles adjust the image crop.
+
+Click on “Save” button once done.
+
 * **Add Photo** – 
-  Allow to add a photo holder.you can select and drop an image on it.
+  Allow to add a photo holder. you can select and drop an image on it.
 * **Delete** – Deletes selected photo holder
 
 ### **Text Editing Tools**
