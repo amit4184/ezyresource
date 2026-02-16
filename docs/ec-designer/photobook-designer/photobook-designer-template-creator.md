@@ -273,10 +273,6 @@ The image will open in the crop window.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
-
-
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
-
 Using the crop slider and using the photo corner crop handles adjust the image crop.
 
 Click on “Save” button once done.
