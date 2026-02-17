@@ -177,10 +177,10 @@ Note:
 * Select uploaded photo to open in designer
 
   ![](/img/ppb8.png)
-* Photo preview will be displayed, now click on the photo to edit
+
+Photo preview will be displayed, now click on the photo to edit
+
 * ![](/img/ppb9.png)
-
-
 
 ![](/img/ppb10.png)
 
