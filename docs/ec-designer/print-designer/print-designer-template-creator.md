@@ -180,13 +180,21 @@ Note:
 
 Photo preview will be displayed, now click on the photo to edit
 
-* ![](/img/ppb9.png)
+![](https://resources.ezycreate.com/img/ppb9.png)
+
+The photo edit menu will be displayed. 
+
+Click on the crop button. Use crop button to crop a photo, you can crop a portion and remove unnecessary parts of the photo.
 
 ![](/img/ppb10.png)
 
-The photo edit menu will be displayed.
-Use crop button to crop a photo, you can crop a portion and remove unnecessary parts of the photo.
-Click on the crop button.
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/prtdsgppb52.png)
+
+Using the crop slider and using the photo corner crop handles adjust the image crop.
+
+Click on “Save” button once done.
+
+
 
 ![](/img/ppb11.png)
 
