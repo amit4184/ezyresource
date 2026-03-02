@@ -74,8 +74,6 @@ Example: A standard 11oz mug with no associated template or sales info.
 
 ![](/img/inmpf2.png)
 
-
-
 * Click Next.
 
 **Step 5: Add Product Variants**
@@ -147,5 +145,20 @@ Step 6: Enter Product Details
 * Mockups
 
 If everything is correct, click Save.
+
+## **View the SKU id of the created product**
+
+Open the "my products" dashboard.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_51.png)
+
+
+click on the "Variants" options and it will display the list of SKU ids.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_52.png)
+
+
+
+
 
 Your product is now ready for publishing and sale on the platform. If you need additional guidance or encounter issues during setup, please contact the support team at **support@ezycreate.com**.
