@@ -157,6 +157,18 @@ The red dots on the image are the handles that can be used to resize the image a
 * Bring Forward: Photos or text can be arranged one above the other using the Bring Forward button.
 * Send Back: Works similar to Bring Forward and sends the photo/text holder behind.
 * Crop: use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
+
+The image will open in the crop window.
+
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
+
+Using the crop slider and using the photo corner crop handles adjust the image crop.
+
+Click on “Save” button once done.
+
 * Add Photo: Allow to add a photo holder. You can select and drop an image on it.
 * Delete: Delete the selected photo holder.
 
