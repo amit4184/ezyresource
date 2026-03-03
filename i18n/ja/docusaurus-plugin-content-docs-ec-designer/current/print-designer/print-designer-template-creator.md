@@ -177,14 +177,27 @@ Note:
 * Select uploaded photo to open in designer
 
   ![](/img/ppb8.png)
-* Photo preview will be displayed, now click on the photo to edit
-* ![](/img/ppb9.png)
-* The photo edit menu will be displayed.
 
-  ![](/img/ppb10.png)
-* Click on the crop button to crop the image if required.
+Photo preview will be displayed, now click on the photo to edit
 
-  ![](/img/ppb11.png)
+![](https://resources.ezycreate.com/img/ppb9.png)
+
+The photo edit menu will be displayed. 
+
+Click on the crop button. Use crop button to crop a photo, you can crop a portion and remove unnecessary parts of the photo.
+
+![](/img/ppb10.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/prtdsgppb52.png)
+
+Using the crop slider and using the photo corner crop handles adjust the image crop.
+
+Click on “Save” button once done.
+
+
+
+![](/img/ppb11.png)
+
 * Increase the photo quantity if required
 * Once the editing is done click on the “Test Order” button.
 
