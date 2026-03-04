@@ -284,9 +284,6 @@ If generated mockup is as per your requirement, click on generate variants mocku
 
 Review and Save – Check the generated thumbnails or regenerate if needed.
 
-
-
-
 ## **View the SKU id of the created product**
 
 Open the "my products" dashboard.
@@ -297,7 +294,7 @@ click on the "Variants" options and it will display the list of SKU ids.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_52.png)
 
-
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_53.png)
 
 ## **Need Help?**
 
