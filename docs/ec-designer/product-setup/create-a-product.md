@@ -152,12 +152,13 @@ Open the "my products" dashboard.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_51.png)
 
-
 click on the "Variants" options and it will display the list of SKU ids.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_52.png)
 
 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/inhtmcprof_53.png)
 
 
 
