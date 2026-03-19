@@ -11,7 +11,7 @@ title: Set Up a Photobook Product Blank
 
 
 ### 
-**タスク 1:** [フォトブック製品ブランクの設定](https://resources.ezycreate.com/ec-designer/create-a-product-blank/set-up-a-photobook-product-blank)（15分）
+**タスク 1:** [フォトブック製品ブランクの設定](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/set-up-a-photobook-product-blank)（15分）
 
 ### Task 2: [Photobook Designer Template Creator ](https://resources.ezycreate.com/ec-designer/product-types/photobook-designer/)(10 Min)
 
