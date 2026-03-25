@@ -154,11 +154,18 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM13.png)
 
-You can add text, but emojis are currently not supported.
 
-Click on the “Floating text” option to add a text field in the designer.
 
-Click on text to add a text field on the designer.
+テキストを追加できますが、絵文字は現在サポートされていません。
+
+「浮動テキスト」オプションをクリックすると、デザイナーにテキストフィールドを追加できます。
+
+テキストをクリックすると、デザイナーにテキストフィールドが追加されます。
+
+
+
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM14.png)
 
