@@ -202,15 +202,22 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM18.png)
 
-* Lock/Unlock: this feature allows the user to lock/unlock any object in the design area.
-* Duplicate: Duplicate allows you to copy a selected photo.
-* Bring Forward: Photos or text can be arranged one above the other using the Bring Forward button.
-* Send Back: Works similar to Bring Forward and sends the photo/text holder behind.
-* Crop: use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+
+**ロック/アンロック**: この機能を使用すると、デザインエリア内のオブジェクトをロックまたはアンロックできます。
+
+**複製**: 複製機能を使用すると、選択した写真をコピーできます。
+
+**前面へ移動**: 写真やテキストは「前面へ移動」ボタンを使用して重ねて配置できます。
+
+**背面へ送る**: 「前面へ移動」と似た動作をし、写真やテキストホルダーを背面に送ります。
+
+**切り抜き**: 切り抜き機能を使用して写真を編集できます。必要な部分だけを切り抜いて、不要な部分を取り除くことができます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
 
-The image will open in the crop window.
+画像は切り抜きウィンドウで開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
