@@ -182,17 +182,23 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM19.png)
 
-The Center part of the designer is a work area.
+デザイナーの中央部分は作業エリアです。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM16.png)
 
-The work area will contain an image holder and date pad displayed when the designer is invoked for the first time.
+
+デザイナーが初めて呼び出されると、作業エリアには画像ホルダーと日付パッドが表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM17.png)
 
-The red dots on the image are the handles that can be used to resize the image and date pad as required.
 
-### Toolbar for Photo Editing
+
+画像上の赤い点は、画像と日付パッドを必要に応じてサイズ変更するために使用できるハンドルです。
+
+
+
+### **写真編集用ツールバー**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM18.png)
 
