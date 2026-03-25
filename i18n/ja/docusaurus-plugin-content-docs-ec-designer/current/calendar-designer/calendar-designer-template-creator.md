@@ -65,9 +65,10 @@ EzyDesigner カレンダーテンプレートクリエーターが提供する�
 コレクションは、固定イベントと非固定イベントのセットで、簡単に管理・整理できるようにグループ化されたものです。コレクションは、地域別や言語別のイベントを効率的に整理するのに役立ちます。
 
 
-**Tags**
+**4. タグ**
 
-Tags are used to filter specific layouts.
+タグは、特定のレイアウトをフィルタリングするために使用されます。
+
 
 # Section I – Template Creator Features
 
