@@ -70,21 +70,26 @@ title: Calendar Designer
 タグは、特定のレイアウトをフィルタリングするために使用されます。
 
 
-# Section I – Template Creator Features
+# **セクション I – テンプレートクリエーターの機能**
 
-### Navigation Menus
+**ナビゲ**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM1.png)
+![](/img/image-9-.jpeg)
 
-The template name and product name is displayed at the left top corner.
 
-### Upload Photos
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM2.png)
+テンプレート名と製品名は、左上隅に表示されます。
 
-Click on the Photos tab to add your own photos. Supported file type is jpg/jpeg.
+**写真のアップロード**
 
-PLEASE DO NOT USE CMYK IMAGES, IF they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.
+![](/img/image-10-.jpeg)
+
+
+
+「写真」タブをクリックして、自分の写真を追加します。サポートされているファイル形式は jpg/jpeg です。
+
+**CMYK画像は使用しないでください**。アップロードされた場合、通常のJPGに変換されますが、この過程で色に問題が生じる可能性があり、またプリンターのプロファイルにも依存します。
+
 
 ### Photo Holder
 
