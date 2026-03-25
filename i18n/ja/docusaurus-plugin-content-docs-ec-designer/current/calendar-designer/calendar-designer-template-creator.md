@@ -1,15 +1,18 @@
 ---
 title: Calendar Designer
 ---
-# How to Create an EzyDesigner Calendar Template?
+# EzyDesigner カレンダーテンプレートの作成方法は？
 
 [](https://admin.ezycreate.com)
 
-## Introduction
+## 紹介
 
-Calendar Template Creator allows users to easily design custom calendar templates. These templates come with pre-designed date pad layouts, fonts, and color options, which users can personalize by adjusting text styles, colors, and event collections. With an easy-to-use design, this tool makes it simple to create professional-looking calendars without any design experience.
 
-The calendar templates you create here will be used by customers in the EzyDesigner to customize and order printed calendars.
+カレンダーテンプレートクリエーターは、ユーザーがカスタムカレンダーテンプレートを簡単にデザインできるツールです。これらのテンプレートには、事前にデザインされた日付パッドのレイアウト、フォント、カラーパレットが含まれており、ユーザーはテキストスタイル、色、イベントコレクションを調整して個別にカスタマイズできます。使いやすいデザインで、デザイン経験がなくてもプロフェッショナルなカレンダーを簡単に作成できます。
+
+ここで作成したカレンダーテンプレートは、EzyDesignerでお客様がカスタマイズして印刷されたカレンダーを注文する際に使用されます。
+
+
 
 ## Index
 
@@ -161,7 +164,6 @@ The red dots on the image are the handles that can be used to resize the image a
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
 
 The image will open in the crop window.
-
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
