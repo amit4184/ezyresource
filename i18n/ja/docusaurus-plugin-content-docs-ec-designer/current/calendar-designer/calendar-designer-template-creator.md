@@ -169,11 +169,16 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM14.png)
 
-**Note** - The default label on the text field i.e. 'Enter Your Text' will not be rendered if not edited. Any other text will be rendered and printed on the product.
 
-Example: if a text field is added and no editing is done for it, then it will not get rendered.
 
-**Text Options**: Template Creator has standard text options like “Locking/Unlocking” the text box, “Move Forward/Backward” option to move the textbox as desired, “Delete” option to delete the textbox, font style & size selection, font alignment option, Bold/Italics option and also the text color/text background color option.
+
+**注意 -** テキストフィールドのデフォルトラベル（例：'Enter Your Text'）は、編集しない限り表示されません。他のテキストは、製品に表示され、印刷されます。
+
+**例**：テキストフィールドが追加され、編集が行われない場合、そのテキストフィールドは表示されません。
+
+**テキストオプション -** テンプレートクリエーターには、テキストボックスの「ロック/アンロック」、テキストボックスを希望の位置に移動するための「前方/後方に移動」オプション、テキストボックスを削除するための「削除」オプション、フォントスタイルとサイズの選択、フォントの配置オプション、太字/斜体オプション、さらにテキストの色/背景色オプションがあります。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM19.png)
 
