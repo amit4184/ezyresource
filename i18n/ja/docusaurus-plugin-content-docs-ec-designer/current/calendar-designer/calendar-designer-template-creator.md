@@ -91,15 +91,20 @@ title: Calendar Designer
 **CMYK画像は使用しないでください**。アップロードされた場合、通常のJPGに変換されますが、この過程で色に問題が生じる可能性があり、またプリンターのプロファイルにも依存します。
 
 
-### Photo Holder
+### 
+フォトホルダー
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM3.png)
+
+![](/img/image-17-.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM4.png)
 
-Photo holders: photo holder is a frame for holding the photo. These are predefined ratios for the holders, having square, portrait and landscape orientations.
 
-Image placeholder is a dummy image created in different ratios and orientations for easy and fast designing.
+**フォトホルダー**: フォトホルダーは写真を保持するためのフレームです。これらは、正方形、縦長、横長の向きに対応した事前定義された比率のホルダーです。
+
+**画像プレースホルダー**: 画像プレースホルダーは、簡単で迅速なデザインのために、異なる比率と向きで作成されたダミー画像です
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM5.png)
 
