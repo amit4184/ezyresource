@@ -106,23 +106,30 @@ title: Calendar Designer
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM5.png)
+![](/img/image-18-.png)
 
-Photo Holders - Click on Photo Holders, and it shows an image holder creator. Now click on it, and it will create an image holder on the designer.
 
-### Backgrounds
+**フォトホルダー** - フォトホルダーをクリックすると、画像ホルダー作成ツールが表示されます。これをクリックすると、デザイナー上に画像ホルダーが作成されます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM6.png)
 
-Backgrounds are images that are placed behind the main photos. These are selected backgrounds we currently offer.
 
-You can add your own backgrounds from the admin section.
+### 背景
 
-The images need to be jpg format.
+![](/img/image-19-.png)
 
-PLEASE DO NOT USE CMYK IMAGES, IF they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.
 
-Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+**背景**
+
+背景は、メインの写真の後ろに配置される画像です。これらは現在提供している選択された背景です。
+
+管理セクションから独自の背景を追加できます。
+
+画像はJPG形式である必要があります。
+
+**CMYK画像は使用しないでください**。アップロードされた場合、通常のJPGに変換され、この過程で色に問題が生じる可能性があります。
+
+「背景」をクリックすると、背景画像のリストが表示されます。任意の背景画像をクリックして、デザイナーに適用します。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM7.png)
 
