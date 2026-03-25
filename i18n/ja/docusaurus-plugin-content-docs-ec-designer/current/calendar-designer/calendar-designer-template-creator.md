@@ -3,7 +3,7 @@ title: Calendar Designer
 ---
 # EzyDesigner カレンダーテンプレートの作成方法は？
 
-[](https://admin.ezycreate.com)
+
 
 ## 紹介
 
@@ -31,14 +31,17 @@ title: Calendar Designer
 # 
 EzyDesigner カレンダーテンプレートクリエーターが提供する機能:
 
-1. Access pre-designed templates in the dashboard to jumpstart your design process.
-2. Add multilingual events.
-3. Customize templates with calendar date pads, text, images & other design elements for various occasions.
-4. Design by selecting predefined place holders.
-5. Add background color and color to text.
-6. Edit an existing template that is unpublished.
-7. Preview the design in 2D view.
-8. A filter option to search the Template name occasions wise, language-wise, published.
+
+
+1. ダッシュボードで事前にデザインされたテンプレートにアクセスし、デザインプロセスを迅速に開始できます。
+2. 多言語イベントを追加できます。
+3. カレンダーデートパッド、テキスト、画像、その他のデザイン要素を使ってテンプレートをカスタマイズし、さまざまなオケージョンに対応できます。
+4. 事前定義されたプレースホルダーを選択してデザインします。
+5. 背景色やテキストの色を追加できます。
+6. 公開されていない既存のテンプレートを編集できます。
+7. デザインを2Dビューでプレビューできます。
+8. テンプレート名、オケージョン別、言語別、公開状況で検索するためのフィルターオプションがあります。
+
 
 ## Glossary
 
