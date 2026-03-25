@@ -278,29 +278,47 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM23.png)
 
-Default (Fixed Holidays): Fixed holidays fall on the same date every year like New Year, Independence Day etc.
 
-Non-Fixed Holidays: Non-fixed or movable holidays do not have a set date each year. Examples include: Holi, Diwali etc.
+**デフォルト（固定休日）**: 固定休日は毎年同じ日付にあたる祝日で、例えば新年、独立記念日などです。
 
-Click on default to view all fixed/ default holiday list.
+**非固定休日**: 非固定休日または移動祝日には、毎年決まった日付がありません。例としては、ホーリー、ディワリなどがあります。
+
+「デフォルト」をクリックすると、すべての固定/デフォルトの休日リストが表示されます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM24.png)
 
-### Date Style
+### **日付スタイル**
+
+### 
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM25.png)
 
-* It includes all the options to modify the date pad style, such as date pad design, font, and text color.
-* Date Design: A Date Pad Style is the way dates and weekday names are displayed in calendars. You can select your predefined date pad style.
+
+日付スタイルには、日付パッドのデザイン、フォント、テキストの色など、日付パッドスタイルを変更するためのすべてのオプションが含まれています。
+
+**日付デザイン**: 日付パッドスタイルは、カレンダーで日付や曜日名がどのように表示されるかのスタイルです。事前定義された日付パッドスタイルを選択できます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM26.png)
 
-* Date Style: You can modify the date pad style by selecting the font style, font size, and text color.
+
+**日付スタイル**: フォントスタイル、フォントサイズ、テキストカラーを選択して、日付パッドスタイルを変更できます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM27.png)
 
-* This feature allows users to dynamically modify the dimensions to fit different designs or user preferences.
-* This feature allows users to dynamically modify the dimensions of the date pad by adjusting the width and height according to their requirements.
+
+この機能により、ユーザーはさまざまなデザインやユーザーの好みに合わせて、サイズを動的に変更できます。
+
+この機能では、ユーザーが必要に応じて幅と高さを調整することで、日付パッドの寸法を動的に変更できます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM28.png)
 
