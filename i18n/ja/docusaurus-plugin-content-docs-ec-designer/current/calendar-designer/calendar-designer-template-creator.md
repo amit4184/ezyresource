@@ -144,7 +144,7 @@ title: カレンダーデザイナー
 * 「クリップアート」をクリックすると、クリップアートのリストが表示されます。これをクリックすると、デザイナーに適用されます。
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM10.png)
+![](/img/screenshot-2026-03-25-135447.png)
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM11.png)
 
