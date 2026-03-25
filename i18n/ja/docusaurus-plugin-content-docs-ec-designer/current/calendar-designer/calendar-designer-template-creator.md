@@ -235,7 +235,7 @@ title: カレンダーデザイナー
 ### 
 **テキスト編集ツール**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM19.png)
+![](/img/image-29-.png)
 
 
 **複製: 複製機能を使用すると、選択した写真をコピーできます**。
@@ -256,7 +256,7 @@ title: カレンダーデザイナー
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM20.png)
+![](/img/image-17-.jpeg)
 
 ### **グリッド線**
 
@@ -267,7 +267,7 @@ title: カレンダーデザイナー
 
 ### **休日リスト**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM22.png)
+![](/img/image-31-.png)
 
 
 固定休日と非固定休日のリストを表示できます。
