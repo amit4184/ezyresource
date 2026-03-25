@@ -137,7 +137,7 @@ title: カレンダーデザイナー
 
 ### **クリップアート**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM9.png)
+![](/img/image-11-.jpeg)
 
 *  クリップアートは、テンプレートを強化するために使用できるステッカーです。
 * 管理セクションから独自のクリップアートを追加できます。クリップアートのファイル形式はPNGで、透明な画像です。
@@ -146,13 +146,13 @@ title: カレンダーデザイナー
 
 ![](/img/screenshot-2026-03-25-135447.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM11.png)
+![](/img/image-25-.png)
 
 ### Text
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM12.png)
+![](/img/image-12-.jpeg)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM13.png)
+![](/img/image-13-.jpeg)
 
 
 
@@ -167,7 +167,7 @@ title: カレンダーデザイナー
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM14.png)
+![](/img/image-26-.png)
 
 
 
@@ -180,7 +180,7 @@ title: カレンダーデザイナー
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM19.png)
+![](/img/image-14-.jpeg)
 
 デザイナーの中央部分は作業エリアです。
 
@@ -200,7 +200,7 @@ title: カレンダーデザイナー
 
 ### **写真編集用ツールバー**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM18.png)
+![](/img/image-15-.jpeg)
 
 
 **ロック/アンロック**: この機能を使用すると、デザインエリア内のオブジェクトをロックまたはアンロックできます。
@@ -215,7 +215,7 @@ title: カレンダーデザイナー
 
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
+![](/img/image-28-.png)
 
 画像は切り抜きウィンドウで開きます。
 
