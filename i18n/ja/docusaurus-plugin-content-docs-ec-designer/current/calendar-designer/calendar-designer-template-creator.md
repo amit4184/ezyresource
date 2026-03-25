@@ -28,8 +28,8 @@ title: Calendar Designer
 3 | イベントとコレクションの作成方法
 
 
-# 
-EzyDesigner カレンダーテンプレートクリエーターが提供する機能:
+#### 
+**EzyDesigner カレンダーテンプレートクリエーターが提供する機能:**
 
 
 
