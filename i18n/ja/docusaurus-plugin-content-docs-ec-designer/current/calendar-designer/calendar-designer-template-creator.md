@@ -46,7 +46,7 @@ EzyDesigner カレンダーテンプレートクリエーターが提供する�
 ## **用語集**
 
 
-**フォトホルダー vs 画像ホルダー vs 画像プレースホルダー**
+**1. フォトホルダー vs 画像ホルダー vs 画像プレースホルダー**
 
 **フォトホルダー**: テンプレートやデザイン内で写真を追加するための場所。
 
@@ -56,9 +56,10 @@ EzyDesigner カレンダーテンプレートクリエーターが提供する�
 
 
 
-**Template Group**
+**2. テンプレートグループ**
 
-A way of organizing and categorizing templates to facilitate easier management and access, especially when dealing with a large number of templates.
+多数のテンプレートを扱う際に、テンプレートを整理し、分類する方法で、管理とアクセスを簡単にするためのものです
+
 
 **Collection**
 
