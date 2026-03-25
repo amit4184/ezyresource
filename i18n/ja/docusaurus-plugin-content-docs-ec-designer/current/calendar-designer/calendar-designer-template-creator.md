@@ -322,25 +322,35 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM28.png)
 
-1. **NOTE** - The set width and height will be applied to the date pad across all pages.
 
-### **Typography:**
+
+
+**注意** - 設定した幅と高さは、すべてのページにわたって日付パッドに適用されます。
+
+# **タイポグラフィ:**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM29.png)
 
-* You can select your preferred font for the date pad by clicking on the dropdown button and choosing a font style.
-* You can adjust the font size by clicking on the “+” and “-” buttons.
+*  日付パッドのフォントを選択するには、ドロップダウンボタンをクリックしてフォントスタイルを選びます。
+* フォントサイズは「+」および「-」ボタンをクリックして調整できます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM30.png)
 
-* Click on the color picker to display all the available color options. Select any color and click the Apply button. This option allows you to change only the color of the dates on the date pad.
+*  カラー ピッカーをクリックすると、利用可能なすべてのカラ―オプションが表示されます。好きな色を選び、「適用」ボタンをクリックします。このオプションでは、日付パッドの日付の色のみを変更できます。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM31.png)
 
-* Choose all your preferred options and click the Apply button. The date pad for all months will be updated according to your selection.
+* すべての希望するオプションを選択し、「適用」ボタンをクリックします。選択に従って、すべての月のデートパッドが更新されます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM32.png)
 
-### **Need Help?**
 
-If you're stuck, don’t worry — just email us at support@ezycreate.com or send your thoughts to feedback@ezycreate.com.
+**ヘルプが必要ですか？**
+
+もし行き詰まった場合でも心配しないでください。サポートが必要な場合は、
+customercare@ezycreate.com
