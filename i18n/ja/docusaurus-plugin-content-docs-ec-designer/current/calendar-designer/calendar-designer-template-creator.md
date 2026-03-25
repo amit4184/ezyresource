@@ -227,17 +227,17 @@ title: カレンダーデザイナー
 
 **日付デザイン**: 日付パッドスタイルは、カレンダーで日付や曜日名がどのように表示されるかのスタイルです。事前定義された日付パッドスタイルを選択できます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM26.png)
+![](/img/image-20-.png)
 
 **日付スタイル**: フォントスタイル、フォントサイズ、テキストカラーを選択して、日付パッドスタイルを変更できます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM27.png)
+![](/img/image-9-.jpeg)
 
 この機能により、ユーザーはさまざまなデザインやユーザーの好みに合わせて、サイズを動的に変更できます。
 
 この機能では、ユーザーが必要に応じて幅と高さを調整することで、日付パッドの寸法を動的に変更できます。
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM28.png)
+![](/img/image-10-.jpeg)
 
 **注意** - 設定した幅と高さは、すべてのページにわたって日付パッドに適用されます。
 
