@@ -43,15 +43,18 @@ EzyDesigner カレンダーテンプレートクリエーターが提供する�
 8. テンプレート名、オケージョン別、言語別、公開状況で検索するためのフィルターオプションがあります。
 
 
-## Glossary
+## **用語集**
 
-**Photoholder vs Image Holder vs Image Placeholder**
 
-Photo Holder: A spot made for adding a photo, like in a template or design.
+**フォトホルダー vs 画像ホルダー vs 画像プレースホルダー**
 
-Image Placeholder: A blank or default image shown until the real one is added.
+**フォトホルダー**: テンプレートやデザイン内で写真を追加するための場所。
 
-Image Holder: A box or space where the image will go.
+**画像プレースホルダー**: 本物の画像が追加されるまで表示される空白またはデフォルトの画像。
+
+**画像ホルダー**: 画像が配置される箱やスペース。
+
+
 
 **Template Group**
 
