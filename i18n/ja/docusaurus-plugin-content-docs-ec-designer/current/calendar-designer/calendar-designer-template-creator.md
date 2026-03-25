@@ -60,10 +60,10 @@ EzyDesigner カレンダーテンプレートクリエーターが提供する�
 
 多数のテンプレートを扱う際に、テンプレートを整理し、分類する方法で、管理とアクセスを簡単にするためのものです
 
+**3. コレクション**
 
-**Collection**
+コレクションは、固定イベントと非固定イベントのセットで、簡単に管理・整理できるようにグループ化されたものです。コレクションは、地域別や言語別のイベントを効率的に整理するのに役立ちます。
 
-A Collection is a set of both fixed and non-fixed events grouped together for easy management and organization. Collections help organize events efficiently, whether they are regional/language-based events.
 
 **Tags**
 
