@@ -131,19 +131,18 @@ title: Calendar Designer
 「背景」をクリックすると、背景画像のリストが表示されます。任意の背景画像をクリックして、デザイナーに適用します。
 
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM7.png)
+![](/img/image-20-.png)
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM8.png)
+![](/img/image-21-.png)
 
-### Clipart
+### **クリップアート**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM9.png)
 
-Clipart are stickers that can be used to enhance your templates.
+*  クリップアートは、テンプレートを強化するために使用できるステッカーです。
+* 管理セクションから独自のクリップアートを追加できます。クリップアートのファイル形式はPNGで、透明な画像です。
+* 「クリップアート」をクリックすると、クリップアートのリストが表示されます。これをクリックすると、デザイナーに適用されます。
 
-You can add your own clipart's from the admin section. The file formats for cliparts are png and are transparent images.
-
-Click on clipart, and it will show a list of clipart. Click on it to apply to the designer.
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM10.png)
 
