@@ -258,9 +258,10 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM20.png)
 
-### Gridlines
+### **グリッド線**
 
-Gridlines are provided to align two or more photos.
+グリッド線は、2枚以上の写真を整列させるために提供されます。
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM21.png)
 
