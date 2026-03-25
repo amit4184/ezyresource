@@ -269,9 +269,12 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM22.png)
 
-You can view a list of fixed and non-fixed holidays.
 
-The default list will display all fixed holidays.
+固定休日と非固定休日のリストを表示できます。
+
+デフォルトのリストには、すべての固定休日が表示されます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM23.png)
 
