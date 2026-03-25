@@ -14,17 +14,22 @@ title: Calendar Designer
 
 
 
-## Index
+# 
+**インデックス
 
-**Sr. No | Section**
+番号 | セクション**
 
-1 | Calendar Template Creator Features
 
-2 | How to Create a Calendar Template
 
-3 | How to create events and collection
+1 | カレンダーテンプレートクリエーターの機能
 
-## Features that EzyDesigner Calendar Template Creator offers:
+2 | カレンダーテンプレートの作成方法
+
+3 | イベントとコレクションの作成方法
+
+
+# 
+EzyDesigner カレンダーテンプレートクリエーターが提供する機能:
 
 1. Access pre-designed templates in the dashboard to jumpstart your design process.
 2. Add multilingual events.
