@@ -221,25 +221,40 @@ title: Calendar Designer
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
-Using the crop slider and using the photo corner crop handles adjust the image crop.
 
-Click on “Save” button once done.
+切り抜きスライダーと写真のコーナーの切り抜きハンドルを使って、画像の切り抜きを調整します。
 
-* Add Photo: Allow to add a photo holder. You can select and drop an image on it.
-* Delete: Delete the selected photo holder.
+完了したら、「保存」ボタンをクリックします。
 
-### Text Editing Tools
+**1. 写真を追加**: 写真ホルダーを追加できます。画像を選択してドロップすることができます。
+
+**2. 削除**: 選択した写真ホルダーを削除します。
+
+
+
+### 
+**テキスト編集ツール**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM19.png)
 
-* Duplicate: Duplicate allows you to copy a selected photo.
-* Font and size: Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the admin section.
-* Font Text Color & Background: Select the text color and background. The current version allows only pre-set colors.
-* Text alignment can be done using the above tool.
-* Text can be changed to bold or italic by toggling these buttons.
-* Click on Save to save the designed template.
-* Click on Preview to view the template on the product, currently only 2D preview is available.
-* Close will close the template and redirect back to the admin website.
+
+**複製: 複製機能を使用すると、選択した写真をコピーできます**。
+
+**\- フォントとサイズ**: 必要なテキストのフォントとサイズを選択します。現在、いくつかの事前選択されたフォントが設定されています。フォントは管理セクションから有効にできます。
+
+**\- フォントテキストの色と背景**: テキストの色と背景を選択します。現在のバージョンでは、事前設定された色のみが使用可能です。
+
+- テキストの配置は、上記のツールを使用して行うことができます。
+
+- テキストは、これらのボタンを切り替えることで太字や斜体に変更できます。
+
+**\- 保存**をクリックして、デザインしたテンプレートを保存します。
+
+**\- プレビュー**をクリックして、製品上でテンプレートを表示します。現在、2Dプレビューのみが利用可能です。
+
+**\- 閉じる**をクリックすると、テンプレートが閉じ、管理者用ウェブサイトにリダイレクトされます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCEDCTEM20.png)
 
