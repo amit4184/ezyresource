@@ -1,5 +1,5 @@
 ---
-title: Calendar Designer
+title: カレンダーデザイナー
 ---
 # EzyDesigner カレンダーテンプレートの作成方法は？
 
