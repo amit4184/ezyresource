@@ -290,9 +290,9 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/9.png)
 
-* Select “App name” from the drop-down ie. if the  product is a **ezydesigner product** or **ezyprints product**. According to this selection the product will open in that respective designer.
-* Default template : select from the drop down if you want to setup a customized template  (Template created through template creator)  as default template or keep it as none.
-* To add the designer specs click on the “Add designer specs” button.
+* 「アプリ名」をドロップダウンから選択: 製品がEzyDesigner製品またはEzyPrints製品である場合に選択します。この選択により、製品はそれぞれのデザイナーで開きます。
+* デフォルトテンプレート: カスタマイズされたテンプレート（テンプレートクリエーターで作成されたテンプレート）をデフォルトテンプレートとして設定したい場合は、ドロップダウンから選択してください。それ以外の場合は「なし」としておきます。
+* デザイナー仕様を追加: 「デザイナー仕様を追加」ボタンをクリックして、デザイナー仕様を追加します。
 
 ![](/img/10.png)
 
