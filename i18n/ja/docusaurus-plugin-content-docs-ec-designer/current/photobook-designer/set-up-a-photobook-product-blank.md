@@ -67,12 +67,12 @@ title: Set Up a Photobook Product Blank
 3. **ステップ 2** – 「マイブランク」を開く
 4. **ステップ 3** – 新しい製品ブランクを追加
 5. **ステップ 4** – 基本的な製品詳細を入力
-6. **Step 5** – Select Output Type
-7. **Step 6** – Add Printable Surface Specs
-8. **Step 7** – Add Printing Components
-9. **Step 8** – Add Designer Specs
-10. **Step 9** – Set Pricing
-11. **Step 10** – Pricing Notes
+6. **ステップ 5** – 出力タイプを選択
+7. **ステップ 6** – 印刷可能な表面仕様を追加
+8. **ステップ 7** – 印刷コンポーネントを追加
+9. **ステップ 8** – デザイナー仕様を追加
+10. **ステップ 9** – 価格を設定
+11. **ステップ 10** – 価格の注意事項
 12. **Step 11** – View Product in Designer
 13. **Step 12–14** – Upload & Edit Photo
 14. **Step 15–17** – Place and Download Test Order
