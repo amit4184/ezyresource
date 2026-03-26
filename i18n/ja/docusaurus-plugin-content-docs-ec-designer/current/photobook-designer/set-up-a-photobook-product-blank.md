@@ -328,7 +328,7 @@ title: Set Up a Photobook Product Blank
 
 * ![](/img/11.png "Example of cover display (Display mask should have these safe area markings.)")
 
-### **Step 9**
+### **ステップ 9**
 
 ![](/img/13.png)
 
@@ -358,13 +358,13 @@ title: Set Up a Photobook Product Blank
 * 「価格を追加」ボタンをクリックして詳細を保存します。
 * 「保存」ボタンをクリックして製品フォームを保存します。.
 
-### **Step 10**
+### **ステップ 10**
 
-**Notes**:
+**注意:**
 
-* Product having no attribute for such a product you'll can use single qty pricing.
-* Volume pricing is used for a product having min order qty. or to be ordered in bulk.
-* Product having multiple attributes with pricing as per the attribute selected. In this case attribute pricing will be used.
+* 属性がない製品には、単品価格設定を使用できます。
+* 最小注文数量がある製品や大量注文される製品には、ボリュームプライシングを使用します。
+* 複数の属性があり、選択された属性に応じて価格設定が行われる製品には、属性価格設定を使用します。
 
 ### **Step 11**
 
