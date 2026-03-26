@@ -400,17 +400,17 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/22.png)
 
-Once the photos are uploaded, click on the photo to add it to the designer.
+写真がアップロードされたら、写真をクリックしてデザイナーに追加してください。
 
 ![](/img/23.png)
 
-The photo edit menu will be displayed.
+写真編集メニューが表示されます。
 
 ![](/img/24.png)
 
-After editing, click on the Test Order button.
+編集後、「テスト注文」ボタンをクリックしてください。
 
-**Step 15**
+**ステップ 15**
 
 ![](/img/25.png)
 
