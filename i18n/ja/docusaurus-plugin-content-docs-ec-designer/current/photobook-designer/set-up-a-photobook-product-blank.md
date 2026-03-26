@@ -258,18 +258,19 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/7.png)
 
-* Select surface type: from the given drop-down.
+* **表面タイプを選択: ドロップダウンから選択してください。**
 
-**Note : All specs and sizes to be entered are in inches.**
 
-* Image size : Enter image size specs .This image size is the printable image size of the product. Printable output image size.
-  Note : under Image size : as per the image width & height is entered and photo width & height the photo holder will be displayed in the designer.
-* for product config : specs of : image width & height, photo width & height and the mask offsets specs are compulsory
-* Rendered Image type : this options is applicable for photobook only. While configuring a photobook, select the rendered image type as per the book type configured ie. fullspread or split.
-* Safe area : Enter Safe area specs.
-* Bleed area :  Enter Bleed area specs.
 
-The bleed is the area to be trimmed off.
+  **注意: 入力するすべての仕様とサイズはインチ単位です。**
+* 画像サイズ: 画像サイズの仕様を入力してください。この画像サイズは製品の印刷可能な画像サイズです。印刷可能な出力画像サイズです。
+  注意: 画像サイズに関しては、画像の幅と高さ、フォトの幅と高さを入力すると、デザイナーに写真ホルダーが表示されます。
+* 製品構成では、画像の幅と高さ、フォトの幅と高さ、およびマスクのオフセット仕様は必須です。
+* レンダリングされた画像タイプ: このオプションはフォトブック専用です。フォトブックを構成する際に、構成されたブックタイプに応じてレンダリングされた画像タイプ（例: フルスプレッドまたはスプリット）を選択してください。
+* 安全領域: 安全領域の仕様を入力してください。
+* トリム領域: トリム領域の仕様を入力してください。
+
+トリム領域: トリムされる領域です。
 
 * The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
 * Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
