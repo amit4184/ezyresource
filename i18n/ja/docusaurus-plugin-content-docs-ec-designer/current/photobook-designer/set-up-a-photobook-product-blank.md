@@ -89,13 +89,16 @@ title: Set Up a Photobook Product Blank
 各定義に追加する必要がある一意のコード。
 
 **SKU ID**
-A unique ID assigned to each product or product variant in the product fulfillment process.
 
-**Safe Area**
-The outline marking on the product designer to let the customer know which part on the page may get cropped/cut during product fulfillment.
+製品の履行プロセスで、各製品または製品のバリアントに割り当てられる一意のID。
 
-**Bleed Area**
-The portion of a design that extends beyond the final trim size of a printed product.
+**安全領域**
+
+製品デザイナー上で、製品履行中にページのどの部分が切り取られる可能性があるかを顧客に知らせるためのアウトラインマーク。
+
+**トリム領域**
+
+印刷された製品の最終的なトリムサイズを超えてデザインが延びる部分。
 
 **Trim Area**
 The space around the product where excess material is cut away during the final cutting process.
