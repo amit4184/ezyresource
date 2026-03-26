@@ -251,10 +251,10 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/6.png)
 
-**Output type**: Select the output type for the product i.e., JPG / PDF
- Click on the **Add printable surfaces** button.
+**出力タイプ:** 製品の出力タイプを選択してください（例: JPG / PDF）。
+「印刷可能な表面を追加」ボタンをクリックしてください。
 
-### **Step 6**
+### **ステップ 6**
 
 ![](/img/7.png)
 
