@@ -167,7 +167,7 @@ title: Set Up a Photobook Product Blank
 
 ### **ステップ 1**
 
-![](/img/1.png)
+![](/img/image-1-.jpg)
 
 ウェブサイトを開きます。
 
