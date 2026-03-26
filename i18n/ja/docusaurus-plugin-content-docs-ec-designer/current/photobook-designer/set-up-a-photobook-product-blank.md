@@ -25,12 +25,12 @@ title: Set Up a Photobook Product Blank
 * [クリップアート管理](https://resources.ezycreate.com/ja/ec-designer/creative-assets/clipart-management)
 * [DIY: マスク画像生成](https://resources.ezycreate.com/ja/ec-designer/creative-assets/mask-img-generation)
 
-### Task 5: Advanced Setup (If required)
+### タスク 5: 高度な設定 (必要に応じて)
 
-* [3D Preview](https://resources.ezycreate.com/ec-designer/advanced-setup/3d-preview)
-* [Add Occasions](https://resources.ezycreate.com/ec-designer/advanced-setup/add-occasions/)
-* [Define Product Categories](https://resources.ezycreate.com/ec-designer/advanced-setup/define-product-categories)
-* [Set Product Attributes](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
+* [3Dプレビュー](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/3d-preview)
+* [イベントを追加](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/add-occasions/)
+* [商品カテゴリを定義](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
+* [商品属性を設定](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/set-product-attributes)
 
 ### **Before You Start: Setup Checklist**
 
