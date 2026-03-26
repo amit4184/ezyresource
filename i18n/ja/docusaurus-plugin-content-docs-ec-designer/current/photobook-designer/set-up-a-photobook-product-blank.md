@@ -565,13 +565,13 @@ Check the **Order Status**.
 
 ![](/img/pbfs13.png)
 
-* Once all **Designer Specs** are added for each surface, click on the **Next** button
+* 各表面のデザイナー仕様がすべて追加されたら、「次へ」ボタンをクリックします。
 
   ![](/img/pbfs14.png)
-* **Add Product Price**
-* Click on the **Save** button to save all changes
+* **製品価格を追加**
+* すべての変更を保存するには、「保存」ボタンをクリックします。
 
-### **Step 8: View Configured Photobook**
+### **ステップ 8: 設定されたフォトブックを表示**
 
 ![](/img/pbfs15.png)
 
