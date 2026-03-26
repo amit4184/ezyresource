@@ -62,11 +62,11 @@ title: Set Up a Photobook Product Blank
 
 ### **Index**
 
-1. **Glossary** – Key terms and definitions
-2. **Step 1** – Login to EzyCreate Admin
-3. **Step 2** – Access “My Blanks”
-4. **Step 3** – Add a New Product Blank
-5. **Step 4** – Enter Basic Product Details
+1. **用語集 –** 主要な用語と定義
+2. **ステップ 1** – EzyCreate 管理者にログイン
+3. **ステップ 2** – 「マイブランク」を開く
+4. **ステップ 3** – 新しい製品ブランクを追加
+5. **ステップ 4** – 基本的な製品詳細を入力
 6. **Step 5** – Select Output Type
 7. **Step 6** – Add Printable Surface Specs
 8. **Step 7** – Add Printing Components
