@@ -490,20 +490,21 @@ Check the **Order Status**.
 
 ![](/img/pbfs3.png)
 
-* Select the **Surface Type**
-* Enter the **Image Width/Height** of a single page
-* For the **Rendered Image Type**: Select **Fullspread**
+* **表面タイプを選択します。**
+* **単一ページの画像の幅/高さを入力します。**
+* **レンダリングされた画像タイプとして「フルスプレッド」を選択します。**
+*  **注意:** このオプションはフォトブックにのみ適用されます。
 
-   **Note**: This option is applicable for photobooks only.
-   While configuring a photobook, select the rendered image type as per the book type configured (e.g., Fullspread or Split).
-* Enter other required details such as:
+  フォトブックを設定する際、構成されたブックタイプに応じてレンダリングされた画像タイプを選択します（例: フルスプレッドまたはスプリット）。
 
-  * **Safe Area**
-  * **Bleed**
-  * **Trim Settings**
-* Click on the **“Add”** button.
+その他の必要な詳細を入力します:
 
-### **Step 4: Configure Inner Pages**
+* **安全領域**
+* **ブリード**
+* **トリム設定**
+* 「追加」ボタンをクリックします。
+
+### **ステップ 4: 内側ページを設定します。**
 
 ![](/img/pbfs4.png)
 
