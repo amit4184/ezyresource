@@ -515,7 +515,7 @@ Check the **Order Status**.
 * 安全領域、ブリード、トリム設定のその他の必要な詳細を入力します。
 * 「追加」ボタンをクリックします。
 
-### **Step 5: Proceed to Designer Specs**
+### **ステップ 5: デザイナー仕様に進みます。**
 
 ![](/img/pbfs5.png)
 
