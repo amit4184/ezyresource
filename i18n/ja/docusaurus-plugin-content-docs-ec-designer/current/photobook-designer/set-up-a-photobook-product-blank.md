@@ -100,23 +100,26 @@ title: Set Up a Photobook Product Blank
 
 印刷された製品の最終的なトリムサイズを超えてデザインが延びる部分。
 
-**Trim Area**
-The space around the product where excess material is cut away during the final cutting process.
+**トリム領域**
 
-**Substrate / Attributes**
-The paper used for a product. E.g., Artpaper, Silky, Lustre.
+最終的な切断プロセスで過剰な材料が切り取られる製品の周囲のスペース。
 
-**Lamination**
-Layers of material added to the surface of a product to enhance durability, visual appeal, or specific properties.
+**基板 / 属性**
+製品に使用される紙の種類。例: アートペーパー、シルキー、ラスター
 
-**Image Size**
-The size of the image used in the designer.
+**ラミネーション**
+製品の表面に追加される素材の層で、耐久性、視覚的魅力、または特定の特性を向上させるためのもの。
 
-**Photo Width**
-The size of the photo set to the full designer area.
+**画像サイズ**
 
-**Binding**
-The process of securely attaching pages to create a book structure. E.g., imagewrap, stitch binding, perfect binding.
+デザイナーで使用される画像のサイズ。
+
+**写真の幅**
+
+デザイナーの全領域に設定された写真のサイズ。
+
+**製本**
+ページをしっかりと接続して本の構造を作るプロセス。例: イメージラップ、ステッチ製本、パーフェクト製本。
 
 **Display Mask Image**
 The overlay mask displayed in the designer.
