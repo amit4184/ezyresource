@@ -169,10 +169,12 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/1.png)
 
-Open the website [
-](https://admin.ezycreate.com/) Enter valid login details and click on the login button.
+ウェブサイトを開きます。
 
-### **Step 2**
+有効なログイン情報を入力し、ログインボタンをクリックしてください。
+
+### 
+ステップ**2**
 
 ![](/img/2.png)
 
