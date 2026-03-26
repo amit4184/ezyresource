@@ -145,22 +145,27 @@ title: Set Up a Photobook Product Blank
 
 特定のセクションの下で複数の種類の製品を整理します。
 
-**App Name**
-Refers to the type of designer to be used for the configured product. E.g., prints products designer, photobook designer.
+**アプリ名**
 
-**Printable Surfaces**
-Refers to the designer surface where designing will be done.
+設定された製品に使用されるデザイナーのタイプを指します。例: プリント製品デザイナー、フォトブックデザイナー。
 
-**Output Type**
-The output file type generated after the order is processed (e.g., JPEG or PDF).
+**印刷可能な表面**
 
-**Min Pages**
-Minimum number of pages with which a product will open.
+デザインが行われるデザイナーの表面を指します。
 
-**Max Pages**
-Maximum number of pages a product can have.
+**出力タイプ**
 
-### **Step 1**
+注文処理後に生成される出力ファイルのタイプ（例: JPEGまたはPDF）。
+
+**最小ページ数**
+
+製品が開くための最小ページ数。
+
+**最大ページ数**
+
+製品が持つことができる最大ページ数。
+
+### **ステップ 1**
 
 ![](/img/1.png)
 
