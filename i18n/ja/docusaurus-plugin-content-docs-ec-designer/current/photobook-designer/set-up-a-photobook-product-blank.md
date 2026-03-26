@@ -174,18 +174,19 @@ title: Set Up a Photobook Product Blank
 有効なログイン情報を入力し、ログインボタンをクリックしてください。
 
 ### 
-ステップ**2**
+ステップ **2**
 
 ![](/img/2.png)
 
-Click on **My Blanks**.
- It will display the list of defined product blanks.
+「マイブランク」をクリックします。
 
-### **Step 3**
+定義された製品ブランクのリストが表示されます。
+
+### **ステップ3**
 
 ![](/img/3.png)
 
-To create a new product blank, click on the **Add** button.
+新しい製品ブランクを作成するには、「追加」ボタンをクリックします。
 
 ### **Step 4**
 
