@@ -207,7 +207,7 @@ title: Set Up a Photobook Product Blank
 
  **製品タイトル:** 製品タイトルを入力してください。
 
- **Product description**: Enter product description not more than 200 characters. This description is used for internal definition.
+ **製品説明:** 製品説明を200文字以内で入力してください。この説明は内部定義に使用されます。.
 
 **Product thumbnail**: Select and upload the product thumbnail (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that product.
 
