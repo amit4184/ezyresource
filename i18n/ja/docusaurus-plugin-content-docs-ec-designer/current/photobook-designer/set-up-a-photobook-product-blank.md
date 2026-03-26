@@ -559,9 +559,9 @@ Check the **Order Status**.
 * 「プレビュー」ボタンをクリックします。
 
   ![](/img/pbfs12.png)
-* The preview should match the expected layout as shown in the reference screenshot
+* プレビューは、参照スクリーンショットに示された期待されるレイアウトと一致する必要があります。
 
-### **Step 7: Finalize Configuration**
+### **ステップ 7: 設定を確定します。**
 
 ![](/img/pbfs13.png)
 
