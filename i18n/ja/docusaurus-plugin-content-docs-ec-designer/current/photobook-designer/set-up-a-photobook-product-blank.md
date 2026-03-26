@@ -312,11 +312,11 @@ title: Set Up a Photobook Product Blank
 * 向き: アップロードしたマスクに応じて、追加された画像の向きを選択してください。
 * マスクオフセット（インチ単位）を入力: 上部オフセット、下部オフセット、左オフセット、右オフセット
 
-Offset - this is for the additional properties of the mask to be set in terms of the offsets.
+オフセット - これはマスクの追加プロパティをオフセットの観点で設定するためのものです。
 
-* if the product is prints : both orientations are compulsory ie. portrait/landscape. so masks have to be added with both orientations. Otherwise the product will not be able to handle the not added orientation.
-* Once all the required details are entered then to save these details click on the “Add” button.
-* Click the “Next” button to go to the Pricing Section.
+* 製品がプリントの場合、両方の向き（縦向き/横向き）が必須です。したがって、両方の向きでマスクを追加する必要があります。そうしないと、追加されていない向きを製品が処理できません。
+* 必要な詳細をすべて入力したら、「追加」ボタンをクリックしてこれらの詳細を保存してください。
+* 「次へ」ボタンをクリックして価格設定セクションに進んでください。
 
 ![](/img/12.png)
 
