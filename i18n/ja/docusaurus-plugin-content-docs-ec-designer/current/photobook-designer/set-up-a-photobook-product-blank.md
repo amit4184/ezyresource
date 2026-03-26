@@ -432,13 +432,14 @@ Check the **Order Status**.
 
 ![](/img/28.png)
 
-Once the status shows **Rendered**, you can:
+ステータスが「レンダリング完了」と表示されたら、以下の操作ができます：
 
-* Click **Download All** to download as a ZIP file
-* Orders can be downloaded using the “Download all” button or you can individually also download single images.
-* Note : In case of multiple images, users can either download a single image or click on the “Download All” button to download all the images at once.
+* 「すべてダウンロード」をクリックしてZIPファイルとしてダウンロードします。
+* 注文は「すべてダウンロード」ボタンを使用してダウンロードすることも、個別に単一の画像をダウンロードすることもできます。
+* 注意: 複数の画像がある場合、ユーザーは単一の画像をダウンロードするか、「すべてダウンロード」ボタンをクリックしてすべての画像を一度にダウンロードすることができます。
 
-### **Step 17**
+### 
+ステップ **17**
 
 ![](/img/29.png)
 
