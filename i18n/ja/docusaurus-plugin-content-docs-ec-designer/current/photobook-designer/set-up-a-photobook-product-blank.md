@@ -43,15 +43,17 @@ title: Set Up a Photobook Product Blank
 
   \[マスクガイドラインを見る]
 
-**Occasions**
+**イベント**
 
-* If your required **occasion** isn’t listed, add it here:
-  \[Add Occasion]
+* 必要なイベントがリストにない場合は、こちらから追加してください:
 
-**Subcategories**
+  \[イベントを追加]
 
-* For custom **subcategories**, use this link:
-   \[Manage Subcategories]
+**サブカテゴリ**
+
+* カスタムサブカテゴリの場合は、こちらのリンクを使用してください:
+
+  \[サブカテゴリを管理]
 
 **Review Steps**
 
