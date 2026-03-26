@@ -209,13 +209,13 @@ title: Set Up a Photobook Product Blank
 
  **製品説明:** 製品説明を200文字以内で入力してください。この説明は内部定義に使用されます。.
 
-**Product thumbnail**: Select and upload the product thumbnail (.jpg format only). This thumbnail image will be displayed in EzyAdmin for that product.
+**製品サムネイル:** 製品サムネイルを選択してアップロードしてください（.jpg形式のみ）。このサムネイル画像は、その製品のEzyAdminに表示されます。
 
-**Supplier**: Select the supplier under which the product will be listed.
+**サプライヤー:** 製品がリストされるサプライヤーを選択してください。
 
-**Orientation**: Select the product orientation, i.e., portrait, landscape, or square.
+**向き:** 製品の向きを選択してください（例: 縦向き、横向き、または正方形）。
 
- **Size**: Select product size (e.g., 12x12, 6x6). This size is used for internal definition.
+**サイズ:** 製品のサイズを選択してください（例: 12x12、6x6）。このサイズは内部定義に使用されます。
 
 **Preview type**: Select the product preview type from the given drop-down. This option is used for internal definition.
 
