@@ -454,15 +454,15 @@ Check the **Order Status**.
 
 ![](/img/31.png)
 
-Once the test order is passed and product is ready:
+テスト注文が完了し、製品が準備できたら:
 
-Go to the **Product Blank Dashboard**
+製品ブランクダッシュボードに移動します。
 
-Click on **Product Setting**
+「製品設定」をクリックします。
 
-Click on **Publish**
+「公開」をクリックします。
 
-### **Step 19**
+### **ステップ 19**
 
 ![](/img/32.png)
 
