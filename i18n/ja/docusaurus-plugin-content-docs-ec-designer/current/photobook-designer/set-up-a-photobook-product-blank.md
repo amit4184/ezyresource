@@ -478,9 +478,9 @@ Check the **Order Status**.
 
 ![](/img/pbfs1.png)
 
-* Click on the **“Add”** button.
+* 「追加」ボタンをクリックします。
 
-### **Step 2: Enter Required Details**
+### **ステップ 2: 必要な詳細を入力します。**
 
 ![](/img/pbfs2.png)
 
