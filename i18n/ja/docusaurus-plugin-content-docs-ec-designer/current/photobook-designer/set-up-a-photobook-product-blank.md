@@ -237,7 +237,7 @@ title: Set Up a Photobook Product Blank
 
 プリント – 画像
 
-**Book type** : This option is specific to photobooks only. Where user will have to select the book type for example : Full spread or split.
+**ブックタイプ:** このオプションはフォトブック専用です。ユーザーはブックタイプを選択する必要があります（例: フルスプレッドまたはスプリット）。
 
 ![](/img/5.png "Examples of the Full spread or split photobooks")
 
