@@ -543,9 +543,9 @@ Check the **Order Status**.
 * この表面の左オフセットを入力します（例: 単一ページのサイズ）。
 * 「プレビュー」ボタンをクリックします。
 * ![](/img/pbfs9.png)
-* The preview should match the expected layout as shown in the reference screenshot
+* プレビューは、参照スクリーンショットに示された期待されるレイアウトと一致する必要があります。
 
-#### **Inner Page Surface**
+#### **内側ページ表面**
 
 ![](/img/pbfs10.png)
 
