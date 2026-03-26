@@ -182,28 +182,30 @@ title: Set Up a Photobook Product Blank
 
 定義された製品ブランクのリストが表示されます。
 
-### **ステップ3**
+### **ステップ 3**
 
 ![](/img/3.png)
 
 新しい製品ブランクを作成するには、「追加」ボタンをクリックします。
 
-### **Step 4**
+### 
+ステップ **4**
 
 ![](/img/4.png)
 
-**Product code**: Enter the unique product code.
+**製品コード:** ユニークな製品コードを入力してください。
 
-**SKU ID**: Enter SKU ID (same as product code, or different if applicable).
- *A product code, also known as a product number, SKU (Stock Keeping Unit), or UPC (Universal Product Code), is a unique identifier assigned to a particular product or item.*
+**SKU ID**: SKU IDを入力してください（製品コードと同じか、必要に応じて異なる場合があります）。
 
-**Product type**: Select the product type from the drop-down.
+製品コードは、製品番号、SKU（在庫管理単位）、またはUPC（ユニバーサル製品コード）としても知られ、特定の製品やアイテムに割り当てられた一意の識別子です。
 
-**Category**: Select product category from the drop-down under which the product needs to be defined. *(How to Add a category & Sub-category)*
+**製品タイプ:** ドロップダウンから製品タイプを選択してください。
 
- **Subcategory**: Select product and select subcategory under which the product needs to be defined. *(How to Add a category & Sub-category)*
+**カテゴリ:** 製品を定義する必要がある製品カテゴリをドロップダウンから選択してください。 （カテゴリとサブカテゴリの追加方法）
 
- **Product title**: Enter product title.
+ **サブカテゴリ:** 製品を選択し、その製品が定義されるべきサブカテゴリを選択してください。（カテゴリとサブカテゴリの追加方法）
+
+ **製品タイトル:** 製品タイトルを入力してください。
 
  **Product description**: Enter product description not more than 200 characters. This description is used for internal definition.
 
