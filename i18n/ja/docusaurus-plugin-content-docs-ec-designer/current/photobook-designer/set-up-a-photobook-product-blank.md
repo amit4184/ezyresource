@@ -296,9 +296,9 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/10.png)
 
-* Surface Type : Select the surface type from the drop-down for which the mask and specs will be added.
-* Surface name : Enter a surface name based on the surface type selected.
-* Display mask image : Select and upload the Display mask image of the product.
+* 表面タイプ: ドロップダウンからマスクと仕様が追加される表面タイプを選択してください。
+* 表面名: 選択した表面タイプに基づいて表面名を入力してください。
+* 表示マスク画像: 製品の表示マスク画像を選択してアップロードしてください。
 
 **Note :**
 
