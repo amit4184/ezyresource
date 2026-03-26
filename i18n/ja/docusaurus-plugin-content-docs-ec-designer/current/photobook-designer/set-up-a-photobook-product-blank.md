@@ -32,15 +32,16 @@ title: Set Up a Photobook Product Blank
 * [商品カテゴリを定義](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/define-product-categories)
 * [商品属性を設定](https://resources.ezycreate.com/ja/ec-designer/advanced-setup/set-product-attributes)
 
-### **Before You Start: Setup Checklist**
+### **開始前に: セットアップチェックリスト**
 
-Please review the following points to ensure a smooth and efficient product setup process:
+スムーズで効率的な製品セットアッププロセスを確保するため、以下のポイントを確認してください:
 
-**Mask Images**
+**マスク画像**
 
-* For **simple products** (posters, prints), masks can be created during setup.
-* For **complex products** (e.g., photobooks, frames), create masks in advance.
-  \[ View Mask Guidelines]
+* シンプルな製品（ポスター、プリント）の場合、セットアップ中にマスクを作成できます。
+* 複雑な製品（例: フォトブック、フレーム）の場合は、事前にマスクを作成してください。
+
+  \[マスクガイドラインを見る]
 
 **Occasions**
 
