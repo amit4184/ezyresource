@@ -306,11 +306,11 @@ title: Set Up a Photobook Product Blank
 * **デザイナーに製品を表示するには、2つの画像が必要です。一つは「表示マスク画像」、もう一つは「クリップパスマスク画像」です。**
 * **製品仕様と両方のマスク画像仕様は同じである必要があります。**
 * **フォトブックの場合、「表示マスク画像」には安全領域のマークとカバーラベル（例: 「表面 / 裏面」）が必要です。**
-* Display mask image width : Enter Display mask image width in inches.
-* Display mask image height : Enter Display mask image height in inches.
-* There is no recommended size as such as it is dependent on the product specs.
-* Orientation : select orientation for  the added images as per the uploaded mask.
-* Enter Mask offsets (in inches) : Top offset, Bottom offset, Left offset, Right 
+* 表示マスク画像の幅: 表示マスク画像の幅をインチ単位で入力してください。
+* 表示マスク画像の高さ: 表示マスク画像の高さをインチ単位で入力してください。
+* 推奨サイズは特にありません。製品仕様に依存するためです。
+* 向き: アップロードしたマスクに応じて、追加された画像の向きを選択してください。
+* マスクオフセット（インチ単位）を入力: 上部オフセット、下部オフセット、左オフセット、右オフセット
 
 Offset - this is for the additional properties of the mask to be set in terms of the offsets.
 
