@@ -414,9 +414,9 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/25.png)
 
-A message will display: Order placed successfully
+メッセージが表示されます: 注文が正常に完了しました。
 
- The Order tab will open, showing the recent order placed.
+「注文」タブが開き、最近の注文が表示されます。
 
 ![](/img/26.png)
 
