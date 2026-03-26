@@ -508,13 +508,12 @@ Check the **Order Status**.
 
 ![](/img/pbfs4.png)
 
-* Select the **Surface Type**
-* Enter the **Image Width/Height** of a single page
-* For the **Rendered Image Type**: Select **Fullspread**
-
-   Note: Applicable only for photobooks.
-* Enter the other required details of **Safe area**, **Bleed**, and **Trim Settings**
-* Click on the **“Add”** button
+* 表面タイプを選択します。
+* 単一ページの画像の幅/高さを入力します。
+* レンダリングされた画像タイプとして「フルスプレッド」を選択します。
+* 注意: フォトブックにのみ適用されます。
+* 安全領域、ブリード、トリム設定のその他の必要な詳細を入力します。
+* 「追加」ボタンをクリックします。
 
 ### **Step 5: Proceed to Designer Specs**
 
