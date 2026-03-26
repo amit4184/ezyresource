@@ -533,9 +533,9 @@ Check the **Order Status**.
 
 ![](/img/pbfs7.png)
 
-* Set with **Full Spread Mask Images**
+* フルスプレッドマスク画像を設定
 
-#### **Non-Printable Front Surface**
+#### **印刷不可能な前面表面**
 
 ![](/img/pbfs8.png)
 
