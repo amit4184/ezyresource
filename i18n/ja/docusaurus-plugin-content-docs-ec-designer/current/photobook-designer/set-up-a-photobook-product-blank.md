@@ -15,9 +15,6 @@ title: Set Up a Photobook Product Blank
 
 **タスク 2:** [DIYマスク画像生成](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation) (約5分)
 
-
-
-### 
 タスク 4: クリエイティブアセット (必要に応じて)
 
 * [ページレイアウトを作成](https://resources.ezycreate.com/ja/ec-designer/creative-assets/create-page-layouts/)
@@ -173,7 +170,6 @@ title: Set Up a Photobook Product Blank
 
 有効なログイン情報を入力し、ログインボタンをクリックしてください。
 
-### 
 ステップ **2**
 
 ![](/img/untitled.jpg)
@@ -188,7 +184,6 @@ title: Set Up a Photobook Product Blank
 
 新しい製品ブランクを作成するには、「追加」ボタンをクリックします。
 
-### 
 ステップ **4**
 
 ![](/img/image-3-.png)
@@ -239,7 +234,7 @@ title: Set Up a Photobook Product Blank
 
 **ブックタイプ:** このオプションはフォトブック専用です。ユーザーはブックタイプを選択する必要があります（例: フルスプレッドまたはスプリット）。
 
-![](/img/5.png "Examples of the Full spread or split photobooks")
+![](/img/73b1e9ad-5fb6-40a2-b75a-944353829f08.png "Examples of the Full spread or split photobooks")
 
 **最小ページ数:** 最小ページ数を入力してください。
 
@@ -259,8 +254,6 @@ title: Set Up a Photobook Product Blank
 ![](/img/7.png)
 
 * **表面タイプを選択: ドロップダウンから選択してください。**
-
-
 
   **注意: 入力するすべての仕様とサイズはインチ単位です。**
 * 画像サイズ: 画像サイズの仕様を入力してください。この画像サイズは製品の印刷可能な画像サイズです。印刷可能な出力画像サイズです。
@@ -438,7 +431,6 @@ Check the **Order Status**.
 * 注文は「すべてダウンロード」ボタンを使用してダウンロードすることも、個別に単一の画像をダウンロードすることもできます。
 * 注意: 複数の画像がある場合、ユーザーは単一の画像をダウンロードするか、「すべてダウンロード」ボタンをクリックしてすべての画像を一度にダウンロードすることができます。
 
-### 
 ステップ **17**
 
 ![](/img/29.png)
@@ -493,7 +485,7 @@ Check the **Order Status**.
 * **表面タイプを選択します。**
 * **単一ページの画像の幅/高さを入力します。**
 * **レンダリングされた画像タイプとして「フルスプレッド」を選択します。**
-*  **注意:** このオプションはフォトブックにのみ適用されます。
+* **注意:** このオプションはフォトブックにのみ適用されます。
 
   フォトブックを設定する際、構成されたブックタイプに応じてレンダリングされた画像タイプを選択します（例: フルスプレッドまたはスプリット）。
 
