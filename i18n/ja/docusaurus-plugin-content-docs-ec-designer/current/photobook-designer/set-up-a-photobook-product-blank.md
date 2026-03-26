@@ -17,12 +17,13 @@ title: Set Up a Photobook Product Blank
 
 
 
-### Task 4: Creative Assets (If required)
+### 
+タスク 4: クリエイティブアセット (必要に応じて)
 
-* [Create Page Layouts](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts/)
-* [Customize & Add Backgrounds](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
-* [Clipart Management](https://resources.ezycreate.com/ec-designer/creative-assets/clipart-management)
-* [DIY: Mask Image Generation](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)
+* [ページレイアウトを作成](https://resources.ezycreate.com/ja/ec-designer/creative-assets/create-page-layouts/)
+* [カスタマイズして背景を追加](https://resources.ezycreate.com/ja/ec-designer/creative-assets/customize-backgrounds)
+* [クリップアート管理](https://resources.ezycreate.com/ja/ec-designer/creative-assets/clipart-management)
+* [DIY: マスク画像生成](https://resources.ezycreate.com/ja/ec-designer/creative-assets/mask-img-generation)
 
 ### Task 5: Advanced Setup (If required)
 
