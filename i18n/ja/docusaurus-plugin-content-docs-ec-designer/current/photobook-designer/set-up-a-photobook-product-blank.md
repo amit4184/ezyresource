@@ -332,20 +332,20 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/13.png)
 
-* Price type : Select Price type as single qty pricing.
-* Enter Cost price & Selling price values.
+* 価格タイプ: 価格タイプとして「単品価格」を選択してください。
+* コスト価格と販売価格の値を入力してください。
 
 ![](/img/14.png)
 
-* Price type : Select Price type as Volume Pricing. 
+* 価格タイプ: 価格タイプとして「ボリュームプライシング」を選択してください。
 
-Note : in case of product to be ordered in bulk quantities the volume pricing option to be added.
+注意: 大量注文の製品の場合、ボリュームプライシングオプションを追加する必要があります。
 
-* Min quantity : enter min quantity.
-* Cost price : enter Cost price & Selling price
-* Combine set : select the checkbox if the quantity sets are to be combined
-* Click on the add price button to save the details.
-* Click on save button to save the add product form.
+* 最小数量: 最小数量を入力してください。
+* コスト価格: コスト価格と販売価格を入力してください。
+* セットを統合: 数量セットを統合する場合は、チェックボックスを選択してください。
+* 「価格を追加」ボタンをクリックして詳細を保存します。
+* 「保存」ボタンをクリックして製品フォームを保存します。
 
 ![](/img/15.png)
 
