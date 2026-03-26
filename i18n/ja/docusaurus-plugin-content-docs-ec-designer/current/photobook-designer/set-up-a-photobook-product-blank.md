@@ -484,9 +484,9 @@ Check the **Order Status**.
 
 ![](/img/pbfs2.png)
 
-* Select **Book Type** as: **“Full Spread”**
+* ブックタイプとして「フルスプレッド」を選択します。
 
-### **Step 3: Configure Non-Printable Cover Front**
+### **ステップ 3: 印刷不可能なカバー前面を設定します。**
 
 ![](/img/pbfs3.png)
 
