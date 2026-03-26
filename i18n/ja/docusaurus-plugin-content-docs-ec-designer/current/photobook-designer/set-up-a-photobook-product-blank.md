@@ -280,11 +280,10 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/8.png)
 
-**Printing components**: Add substrate, lamination, binding, cover, etc. for the product.
- If there is a new substrate or lamination, define it first under:
- **Attributes → Laminations** *[(How to Add Attributes & Attribute Options)](https://resources.ezycreate.com/ec-designer/Advanced%20Setup/Set%20Product%20Attributes)*
- **Options**: Select applicable options as per the selected substrate or lamination.
- Example: If ‘Artpaper’ is selected, choose lamination type such as ‘Matte’ or ‘Gloss’.
+**印刷コンポーネント: 製品のために、基板、ラミネーション、製本、カバーなどを追加してください。**新しい基板やラミネーションがある場合は、まず次の手順で定義してください:
+**属性 → ラミネーション（[属性と属性オプションの追加方法](https://resources.ezycreate.com/ja/ec-designer/Advanced%20Setup/Set%20Product%20Attributes)）**
+**Options**: Select applicable options as per the selected substrate or lamination.
+Example: If ‘Artpaper’ is selected, choose lamination type such as ‘Matte’ or ‘Gloss’.
 
 Designer specs: *Please note designer specs need to be in inches.*
 
