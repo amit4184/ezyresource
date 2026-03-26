@@ -392,11 +392,11 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/20.png)
 
-Click to select files or drag and drop photos into the uploader.
+「ファイルを選択」をクリックするか、写真をアップローダにドラッグ＆ドロップしてください。
 
 ![](/img/21.png)
 
-Click Upload button to upload the added photos.
+追加した写真をアップロードするには、「アップロード」ボタンをクリックしてください。
 
 ![](/img/22.png)
 
