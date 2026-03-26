@@ -420,11 +420,11 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/26.png)
 
- Click on View Order Details.
+「注文詳細を見る」をクリックします。
 
-### **Step 16**
+### **ステップ 16**
 
-Once the test order is placed the order will be rendered by the renderer application, and it will be available in the order screen
+テスト注文が完了すると、注文はレンダラーアプリケーションによって処理され、注文画面で確認できるようになります。
 
 ![](/img/27.png)
 
