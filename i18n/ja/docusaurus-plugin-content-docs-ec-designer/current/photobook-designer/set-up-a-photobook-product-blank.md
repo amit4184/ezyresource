@@ -78,13 +78,15 @@ title: Set Up a Photobook Product Blank
 14. **ステップ 15–17** – テスト注文を配置してダウンロード
 15. **ステップ 18–19** – 製品を公開
 
-## **Glossary**
+## **用語集**
 
-**Product Blank**
-A basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
+**製品ブランク**
 
-**Product Code**
-A unique code needed to be added for every definition.
+視覚素材や最終テンプレートを追加する前に、製品がデザインおよび注文システムでどのように機能するかを定義する基本的な製品セットアップ。
+
+**製品コード**
+
+各定義に追加する必要がある一意のコード。
 
 **SKU ID**
 A unique ID assigned to each product or product variant in the product fulfillment process.
