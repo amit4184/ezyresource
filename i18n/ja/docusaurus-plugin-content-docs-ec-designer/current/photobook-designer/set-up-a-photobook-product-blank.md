@@ -376,13 +376,13 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/17.png)
 
-Click on the “View in designer” button to preview the created product in the designer.
+「デザイナーで表示」ボタンをクリックして、作成した製品をデザイナーでプレビューします。
 
 ![](/img/18.png)
 
-The designer will open the defined product.
+デザイナーが定義された製品を開きます。
 
-### **Step 13**
+### **ステップ 13**
 
 ![](/img/19.png)
 
