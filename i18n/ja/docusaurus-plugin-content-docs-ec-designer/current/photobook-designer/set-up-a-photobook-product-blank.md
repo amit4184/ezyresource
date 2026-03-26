@@ -282,12 +282,11 @@ title: Set Up a Photobook Product Blank
 
 **印刷コンポーネント: 製品のために、基板、ラミネーション、製本、カバーなどを追加してください。**新しい基板やラミネーションがある場合は、まず次の手順で定義してください:
 **属性 → ラミネーション（[属性と属性オプションの追加方法](https://resources.ezycreate.com/ja/ec-designer/Advanced%20Setup/Set%20Product%20Attributes)）**
-**Options**: Select applicable options as per the selected substrate or lamination.
-Example: If ‘Artpaper’ is selected, choose lamination type such as ‘Matte’ or ‘Gloss’.
+**オプション:** 選択した基板やラミネーションに応じて適用されるオプションを選択してください。例: 「アートペーパー」が選択された場合、「マット」や「光沢」などのラミネーションタイプを選択してください。
 
-Designer specs: *Please note designer specs need to be in inches.*
+デザイナー仕様: デザイナー仕様はインチ単位で入力する必要があることにご注意ください。
 
-### **Step 8**
+### **ステップ 8**
 
 ![](/img/9.png)
 
