@@ -349,15 +349,14 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/15.png)
 
-**Price type: Attribute Level Pricing**
+**価格タイプ: 属性レベル価格設定**
 
-* Price type : Select Price type as Attribute level pricing 
-* Note : in case of a product where multiple attributes to be set the attribute level pricing can be used.
-
-  * Any surface or material on which printing is done. Art paper, Synthetic Paper, Metal, Acrylic
-  * Select & set pricing for each attribute individually.
-  * Click on the add price button to save the details.
-  * Click on save button to save the add product form.
+* 価格タイプとして「属性レベル価格設定」を選択してください。
+* 注意: 複数の属性を設定する製品の場合、属性レベル価格設定を使用できます。
+* 印刷が行われる任意の表面や素材（アートペーパー、合成紙、金属、アクリルなど）に対して価格を設定します。
+* 各属性について個別に価格を選択して設定してください。
+* 「価格を追加」ボタンをクリックして詳細を保存します。
+* 「保存」ボタンをクリックして製品フォームを保存します。.
 
 ### **Step 10**
 
