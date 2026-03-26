@@ -73,10 +73,10 @@ title: Set Up a Photobook Product Blank
 9. **ステップ 8** – デザイナー仕様を追加
 10. **ステップ 9** – 価格を設定
 11. **ステップ 10** – 価格の注意事項
-12. **Step 11** – View Product in Designer
-13. **Step 12–14** – Upload & Edit Photo
-14. **Step 15–17** – Place and Download Test Order
-15. **Step 18–19** – Publish the Product
+12. **ステップ 11** – デザイナーで製品を表示
+13. **ステップ 12–14** – 写真をアップロードして編集
+14. **ステップ 15–17** – テスト注文を配置してダウンロード
+15. **ステップ 18–19** – 製品を公開
 
 ## **Glossary**
 
