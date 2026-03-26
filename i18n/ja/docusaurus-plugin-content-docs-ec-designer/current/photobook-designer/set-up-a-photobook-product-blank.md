@@ -555,8 +555,8 @@ Check the **Order Status**.
 
 ![](/img/pbfs11.png)
 
-* Set with **Full Spread Mask Images**
-* Click on the **Preview** button
+* フルスプレッドマスク画像を設定
+* 「プレビュー」ボタンをクリックします。
 
   ![](/img/pbfs12.png)
 * The preview should match the expected layout as shown in the reference screenshot
