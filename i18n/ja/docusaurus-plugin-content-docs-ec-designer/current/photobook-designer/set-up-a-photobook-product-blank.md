@@ -519,13 +519,13 @@ Check the **Order Status**.
 
 ![](/img/pbfs5.png)
 
-**Repeat the same steps** for the back page “Non-Printable” surfaces as well.
+同じ手順を裏面の「印刷不可能」な表面にも繰り返します。
 
-* Click on the **Next** button to continue
+* 「次へ」ボタンをクリックして続行します。
 
-### **Step 6: Set Designer Specs for Each Surface**
+### **ステップ 6: 各表面のデザイナー仕様を設定します。**
 
-**Click on the “Add Designer Specs” button**
+**「デザイナー仕様を追加」ボタンをクリックします。**
 
 ![](/img/pbfs6.png)
 
