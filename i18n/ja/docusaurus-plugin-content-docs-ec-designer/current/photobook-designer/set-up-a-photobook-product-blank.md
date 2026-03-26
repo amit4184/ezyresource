@@ -272,11 +272,11 @@ title: Set Up a Photobook Product Blank
 
 トリム領域: トリムされる領域です。
 
-* The bleed exists to prevent the possibility of a small white gap at the edge of the finished job where a design object is required to go all the way to the edge of the paper.
-* Trim area :  Enter Trim area specs. (corner radius to be entered only in case if the product has rounded corners on the design area) eg. magnet product having rounded corners.
-* Click on the add button to save the entered details.
+* トリム領域: トリムされる領域です。デザインオブジェクトが用紙の端まで届く必要がある場合に、仕上げ作業の際に小さな白いギャップができないようにするためにブリード領域があります。
+* トリム領域: トリム領域の仕様を入力してください。（デザインエリアに丸みを帯びた角がある製品の場合のみ、角の半径を入力してください）例: 丸みを帯びた角を持つマグネット製品。
+* 入力した詳細を保存するには、「追加」ボタンをクリックしてください。
 
-### **Step 7**
+### **ステップ 7**
 
 ![](/img/8.png)
 
