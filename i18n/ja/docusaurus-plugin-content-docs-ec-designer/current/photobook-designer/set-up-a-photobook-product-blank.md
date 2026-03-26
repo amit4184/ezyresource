@@ -443,14 +443,14 @@ Check the **Order Status**.
 
 ![](/img/29.png)
 
-* Select a path to save the test order image.
-* Click on the save button.
-* The image will get downloaded to the selected location.
-* If the order is downloaded using the  “Download all” button than a zip file will be downloaded. 
+* テスト注文画像を保存するパスを選択します。
+* 「保存」ボタンをクリックします。
+* 画像は選択した場所にダウンロードされます。
+* 「すべてダウンロード」ボタンを使用して注文をダウンロードした場合、ZIPファイルがダウンロードされます。
 
-Note -  downloaded image can be either sent to the printer for printing or it can be mailed to anyone who can print it.
+注意: ダウンロードした画像は、印刷のためにプリンターに送信するか、印刷できる人にメールで送信することができます。
 
-### **Step 18**
+### **ステップ 18**
 
 ![](/img/31.png)
 
