@@ -575,8 +575,8 @@ Check the **Order Status**.
 
 ![](/img/pbfs15.png)
 
-Open the photobook in the **Designer** to view the fully configured Full Spread photobook.
+デザイナーでフォトブックを開き、完全に設定されたフルスプレッドフォトブックを表示します。
 
-## **Need Help?**
+## **ヘルプが必要ですか？**
 
 If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
