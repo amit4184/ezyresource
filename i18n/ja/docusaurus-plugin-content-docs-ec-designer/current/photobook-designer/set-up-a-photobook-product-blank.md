@@ -241,13 +241,13 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/5.png "Examples of the Full spread or split photobooks")
 
-**Min pages**: Enter minimum page count.
+**最小ページ数:** 最小ページ数を入力してください。
 
-**Max pages**: Enter maximum page count. These details will be as per the product specs.
+**最大ページ数:** 最大ページ数を入力してください。これらの詳細は製品仕様に基づきます
 
-Click on the **Next** button to continue.
+「次へ」ボタンをクリックして続行します。
 
-### **Step 5**
+### **ステップ 5**
 
 ![](/img/6.png)
 
