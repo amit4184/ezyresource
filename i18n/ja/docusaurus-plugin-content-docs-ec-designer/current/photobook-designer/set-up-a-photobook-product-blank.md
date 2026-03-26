@@ -539,11 +539,10 @@ Check the **Order Status**.
 
 ![](/img/pbfs8.png)
 
-* Set with **Full Spread Mask Images**
-* Enter the **Left Offset** for this surface (e.g., single page size)
-* Click on the **Preview** button.
-
-  ![](/img/pbfs9.png)
+* フルスプレッドマスク画像を設定
+* この表面の左オフセットを入力します（例: 単一ページのサイズ）。
+* 「プレビュー」ボタンをクリックします。
+* ![](/img/pbfs9.png)
 * The preview should match the expected layout as shown in the reference screenshot
 
 #### **Inner Page Surface**
