@@ -9,13 +9,13 @@ title: Set Up a Photobook Product Blank
 
 「このチュートリアルは順番にタスクが組織されており、次のタスクに進む前に各タスクを完了する必要があります。」
 
-
-### 
 **タスク 1:** [フォトブック製品ブランクの設定](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/set-up-a-photobook-product-blank)（15分）
 
-### Task 2: [Photobook Designer Template Creator ](https://resources.ezycreate.com/ec-designer/product-types/photobook-designer/)(10 Min)
+**タスク 2:** [フォトブックデザイナーテンプレート作成 ](https://resources.ezycreate.com/ja/ec-designer/product-types/photobook-designer/)(約10分)
 
-### Task 3: [DIY Mask Image Generation ](https://resources.ezycreate.com/ec-designer/create-a-product-blank/mask-img-generation)(Approx. 5 Min)
+**タスク 2:** [DIYマスク画像生成](https://resources.ezycreate.com/ja/ec-designer/create-a-product-blank/mask-img-generation) (約5分)
+
+
 
 ### Task 4: Creative Assets (If required)
 
