@@ -55,10 +55,10 @@ title: Set Up a Photobook Product Blank
 
   \[サブカテゴリを管理]
 
-**Review Steps**
+**セットアップ手順の確認**
 
-* Go through the setup steps once to know what resources you'll need.
-* Once ready, start the product setup process.
+* セットアップ手順を一度確認し、必要なリソースを把握してください。
+* 準備が整ったら、製品のセットアッププロセスを開始してください。
 
 ### **Index**
 
