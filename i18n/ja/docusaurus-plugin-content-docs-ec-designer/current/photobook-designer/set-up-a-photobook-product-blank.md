@@ -300,12 +300,12 @@ title: Set Up a Photobook Product Blank
 * 表面名: 選択した表面タイプに基づいて表面名を入力してください。
 * 表示マスク画像: 製品の表示マスク画像を選択してアップロードしてください。
 
-**Note :**
+**注意:**
 
-*  **The mask image file format should be in .png**
-* **To display a product in the designer we require 2 images so one is Display mask image and other is clippath mask image.**
-* **The product specs and both the mask images specs need to be maintained the same.**
-* **For photobooks the “Display Mask image” should have the safe area marking, and the cover label. ie. “Front / back” sides.**
+*  **マスク画像のファイル形式は .png である必要があります**
+* **デザイナーに製品を表示するには、2つの画像が必要です。一つは「表示マスク画像」、もう一つは「クリップパスマスク画像」です。**
+* **製品仕様と両方のマスク画像仕様は同じである必要があります。**
+* **フォトブックの場合、「表示マスク画像」には安全領域のマークとカバーラベル（例: 「表面 / 裏面」）が必要です。**
 * Display mask image width : Enter Display mask image width in inches.
 * Display mask image height : Enter Display mask image height in inches.
 * There is no recommended size as such as it is dependent on the product specs.
