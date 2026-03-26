@@ -121,23 +121,29 @@ title: Set Up a Photobook Product Blank
 **製本**
 ページをしっかりと接続して本の構造を作るプロセス。例: イメージラップ、ステッチ製本、パーフェクト製本。
 
-**Display Mask Image**
-The overlay mask displayed in the designer.
+**表示マスク画像**
 
-**Clippath Mask Image**
-The mask area set for design purposes in the designer.
+デザイナーに表示されるオーバーレイマスク。
 
-**Offset Value**
-Used to set the mask on the designer.
+**クリップパスマスク画像**
 
-**Fullspread**
-It refers to a photobook with full sheet having 2 page surface
+デザイン目的でデザイナーに設定されたマスク領域。
 
-**Category**
-Organizes products under specific sections.
+**オフセット値**
 
-**Sub Category**
-Organizes multiple types of products under specific sections.
+デザイナーでマスクを設定するために使用される値。
+
+**フルスプレッド**
+
+2ページの面があるフルシートのフォトブックを指します。
+
+**カテゴリー**
+
+特定のセクションの下で製品を整理します。
+
+**サブカテゴリー**
+
+特定のセクションの下で複数の種類の製品を整理します。
 
 **App Name**
 Refers to the type of designer to be used for the configured product. E.g., prints products designer, photobook designer.
