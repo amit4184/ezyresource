@@ -217,25 +217,25 @@ title: Set Up a Photobook Product Blank
 
 **サイズ:** 製品のサイズを選択してください（例: 12x12、6x6）。このサイズは内部定義に使用されます。
 
-**Preview type**: Select the product preview type from the given drop-down. This option is used for internal definition.
+**プレビュータイプ:** ドロップダウンから製品のプレビュータイプを選択してください。このオプションは内部定義に使用されます。
 
-**Note**: Preview needs to be selected as per the product type.
+**注意:** プレビューは製品タイプに応じて選択する必要があります。
 
- Photobooks – 3D
+フォトブック – 3D
 
-Mini book – 2D
+ミニブック – 2D
 
-Calendar – 2D
+カレンダー – 2D
 
- Canvas prints – 3D
+キャンバスプリント – 3D
 
- Mounted prints – 3D
+マウントプリント – 3D
 
- Frames – 3D
+フレーム – 3D
 
- Mug – 3D
+マグカップ – 3D
 
- Prints – Image
+プリント – 画像
 
 **Book type** : This option is specific to photobooks only. Where user will have to select the book type for example : Full spread or split.
 
