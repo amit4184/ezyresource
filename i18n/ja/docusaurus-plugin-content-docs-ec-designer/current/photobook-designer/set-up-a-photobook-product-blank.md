@@ -366,13 +366,13 @@ title: Set Up a Photobook Product Blank
 * 最小注文数量がある製品や大量注文される製品には、ボリュームプライシングを使用します。
 * 複数の属性があり、選択された属性に応じて価格設定が行われる製品には、属性価格設定を使用します。
 
-### **Step 11**
+### **ステップ  11**
 
 ![](/img/16.png)
 
-Once the product is saved, open the **product wizard** list and it will display the created product.
+製品が保存されると、製品ウィザードリストを開き、作成した製品が表示されます。
 
-### **Step 12**
+### **ステップ 12**
 
 ![](/img/17.png)
 
