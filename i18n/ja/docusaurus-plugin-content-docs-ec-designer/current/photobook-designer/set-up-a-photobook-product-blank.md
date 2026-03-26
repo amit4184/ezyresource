@@ -579,4 +579,4 @@ Check the **Order Status**.
 
 ## **ヘルプが必要ですか？**
 
-If you're stuck, don’t worry — just email us at [support@ezycreate.com](mailto:support@ezycreate.com)
+もし行き詰まった場合でも心配しないでください — ただちに私たちにメールしてください。[support@ezycreate.com](mailto:support@ezycreate.com)
