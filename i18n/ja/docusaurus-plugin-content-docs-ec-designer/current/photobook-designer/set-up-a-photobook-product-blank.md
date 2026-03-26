@@ -386,9 +386,9 @@ title: Set Up a Photobook Product Blank
 
 ![](/img/19.png)
 
-Click on the **Upload Photo** button.
+「写真をアップロード」ボタンをクリックします。
 
-### **Step 14**
+### **ステップ 14**
 
 ![](/img/20.png)
 
