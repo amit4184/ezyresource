@@ -176,7 +176,7 @@ title: Set Up a Photobook Product Blank
 ### 
 ステップ **2**
 
-![](/img/2.png)
+![](/img/untitled.jpg)
 
 「マイブランク」をクリックします。
 
@@ -184,14 +184,14 @@ title: Set Up a Photobook Product Blank
 
 ### **ステップ 3**
 
-![](/img/3.png)
+![](/img/untitled.png)
 
 新しい製品ブランクを作成するには、「追加」ボタンをクリックします。
 
 ### 
 ステップ **4**
 
-![](/img/4.png)
+![](/img/image-3-.png)
 
 **製品コード:** ユニークな製品コードを入力してください。
 
