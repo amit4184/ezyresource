@@ -549,9 +549,9 @@ Check the **Order Status**.
 
 ![](/img/pbfs10.png)
 
-* Set with **Full Spread Mask Images**
+* フルスプレッドマスク画像を設定
 
-#### **Non-Printable Back Surface**
+#### **印刷不可能な裏面表面**
 
 ![](/img/pbfs11.png)
 
