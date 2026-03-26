@@ -466,15 +466,15 @@ Check the **Order Status**.
 
 ![](/img/32.png)
 
-The product status will update to **Publish**.
+製品のステータスが「公開」に更新されます。
 
- **Note**: Once a product and its templates are published, the product blank specs **cannot** be changed.
+ **注意:** 製品とそのテンプレートが公開されると、製品ブランクの仕様は変更できません。
 
-# **Section III: How to Configure a Full Spread Photobook**
+# **セクション III: フルスプレッドフォトブックの設定方法**
 
-## **To configure a Full spread photobook with Non-Printable surfaces:**
+### **印刷不可能な表面を持つフルスプレッドフォトブックを設定するには:**
 
-### **Step 1: Create a New Product Blank**
+### **ステップ 1: 新しい製品ブランクを作成します。**
 
 ![](/img/pbfs1.png)
 
