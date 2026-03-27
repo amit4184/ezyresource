@@ -271,7 +271,7 @@ title: Set Up a Photobook Product Blank
 
 ### **ステップ 7**
 
-![](/img/8.png)
+![](/img/image-14-.png)
 
 **印刷コンポーネント: 製品のために、基板、ラミネーション、製本、カバーなどを追加してください。**新しい基板やラミネーションがある場合は、まず次の手順で定義してください:
 **属性 → ラミネーション（[属性と属性オプションの追加方法](https://resources.ezycreate.com/ja/ec-designer/Advanced%20Setup/Set%20Product%20Attributes)）**
