@@ -361,7 +361,7 @@ title: Set Up a Photobook Product Blank
 
 ### **ステップ  11**
 
-![]()
+![](/img/image-19-.png)
 
 製品が保存されると、製品ウィザードリストを開き、作成した製品が表示されます。
 
