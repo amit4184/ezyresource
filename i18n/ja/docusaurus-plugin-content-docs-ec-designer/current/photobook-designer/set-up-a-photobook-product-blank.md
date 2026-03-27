@@ -311,7 +311,7 @@ title: Set Up a Photobook Product Blank
 * 必要な詳細をすべて入力したら、「追加」ボタンをクリックしてこれらの詳細を保存してください。
 * 「次へ」ボタンをクリックして価格設定セクションに進んでください。
 
-![](/img/image-17-.png)
+![]()
 
 注意:
 
@@ -319,7 +319,7 @@ title: Set Up a Photobook Product Blank
 2. 正方形の向きの場合は、正方形のマスクのみを更新してください。
 3. フォトブックの場合、「表示マスク画像」には安全領域のマークとカバーラベル（例: 「表面/裏面」）が必要です。
 
-* ![](/img/image-18-.png "Example of cover display (Display mask should have these safe area markings.)")
+* ![]( "Example of cover display (Display mask should have these safe area markings.)")
 
 ### **ステップ 9**
 
