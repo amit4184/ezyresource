@@ -319,7 +319,7 @@ title: Set Up a Photobook Product Blank
 2. 正方形の向きの場合は、正方形のマスクのみを更新してください。
 3. フォトブックの場合、「表示マスク画像」には安全領域のマークとカバーラベル（例: 「表面/裏面」）が必要です。
 
-* ![]( "Example of cover display (Display mask should have these safe area markings.)")
+* ![](/img/image-18-.png "Example of cover display (Display mask should have these safe area markings.)")
 
 ### **ステップ 9**
 
