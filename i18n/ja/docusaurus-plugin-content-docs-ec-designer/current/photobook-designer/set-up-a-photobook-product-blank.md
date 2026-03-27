@@ -251,7 +251,7 @@ title: Set Up a Photobook Product Blank
 
 ### **ステップ 6**
 
-![](/img/7.png)
+![](/img/image-13-.png)
 
 * **表面タイプを選択: ドロップダウンから選択してください。**
 
