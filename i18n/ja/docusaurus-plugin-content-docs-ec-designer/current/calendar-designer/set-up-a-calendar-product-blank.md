@@ -4,11 +4,11 @@ title: Set Up a Calendar Product Blank
 # カレンダー商品のブランクを作成する方法
 
 
+### 作業の流れ／手順
 
 
-### Tutorial Task Flow
+このチュートリアルは順番に進むタスクで構成されており、次に進む前に各タスクを完了する必要があります。
 
-This tutorial is organized into sequential tasks, and each task must be completed before proceeding to the next.
 
 ### Task 1: [Set Up a Calendar Product Blank](https://resources.ezycreate.com/ec-designer/calendar-designer/set-up-a-calendar-product-blank) (15 Min)
 
