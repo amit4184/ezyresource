@@ -156,7 +156,7 @@ Click **Next**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB8.png)
 
-* under printing components, add substrate, Lamination, binding, cover etc for the product.
+* 印刷コンポーネントの項目に、基材、ラミネーション、製本、カバーなどを追加してください。
 * If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
 * [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
 * Under options : select and set an option as per the substrate/lamination etc selected.
