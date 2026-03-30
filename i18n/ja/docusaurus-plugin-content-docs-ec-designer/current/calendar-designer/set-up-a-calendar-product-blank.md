@@ -57,7 +57,7 @@ This tutorial is organized into sequential tasks, and each task must be complete
 
 ### **1. Login**
 
-![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/HTCACALPB1.png)
+![](/img/jpcpbf33.png)
 
 * Open website link
 * Enter valid login details → Click **Login**
