@@ -1,7 +1,10 @@
 ---
 title: Set Up a Calendar Product Blank
 ---
-# **How to Create a Calendar Product Blank**
+# カレンダー商品のブランクを作成する方法
+
+
+
 
 ### Tutorial Task Flow
 
@@ -13,7 +16,8 @@ This tutorial is organized into sequential tasks, and each task must be complete
 
 ### Task 3: [DIY Mask Image Generation ](https://resources.ezycreate.com/ec-designer/creative-assets/mask-img-generation)(Approx. 5 Min)
 
-### Task 4: Creative Assets (If required)
+### **タスク4：クリエイティブ素材（必要な場合）**
+
 
 * [Create Page Layouts](https://resources.ezycreate.com/ec-designer/creative-assets/create-page-layouts)
 * [Customize & Add Backgrounds](https://resources.ezycreate.com/ec-designer/creative-assets/customize-backgrounds)
@@ -155,7 +159,7 @@ Click **Next**
 * under printing components, add substrate, Lamination, binding, cover etc for the product.
 * If there is a new substrate/lamination to be added in the list,then it has to be defined under the admin module under Attributes->laminations.
 * [How to Add a Attributes & Attribute Options](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)
-* [](https://resources.ezycreate.com/ec-designer/advanced-setup/set-product-attributes)Under options : select and set an option as per the substrate/lamination etc selected.
+* Under options : select and set an option as per the substrate/lamination etc selected.
   Eg. if ‘artpaper’ substrates is selected then the lamination type ie. ‘matte’/’gloss’ applicable is also to be set.
 
 ### **7. Designer Specs**
