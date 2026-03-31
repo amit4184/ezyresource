@@ -239,13 +239,13 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
-* Template Creator has standard text options like “Locking/Locking” the text box, “Move Forward/Backward” option to move the textbox as desired. “Delete” option to delete the textbox.
+* テンプレートクリエーターには、「ロック/ロック解除」でテキストボックスを固定する機能や、「前面へ移動/背面へ移動」でテキストボックスの位置を調整する機能、「削除」でテキストボックスを削除する機能などの標準的なテキストオプションがあります。
 
-Font style & size selection.
+フォントのスタイルとサイズの選択。
 
-* Font alignment option, Bold/Italics option and also the text color/text background color option.
+* フォントの配置オプション、太字／イタリックの設定、およびテキストカラー／テキスト背景色のオプション。
 
-**Center part of the designer is a work area.**
+**デザイナーの中央部分は作業エリアです。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt51.png)
 
