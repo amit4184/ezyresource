@@ -147,13 +147,13 @@ EzyDesignerを使用すると、次のことができます:
 
 * フォトブック製品の場合、テンプレートデザイナーの下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
 
-**Upload Photos**
+**写真をアップロード**
 
 ![](/img/ptc11.png)
 
-* Click on the Photos tab to add your own photos, this can be used as a pre designed template. Supported file type is jpg/jpeg.
-* **PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.**
-* Image photo-holder is a placeholder frames in various standard sizes (square, portrait, landscape) for easy and fast designing.
+* 「写真」タブをクリックして、自分の写真を追加します。これらは事前にデザインされたテンプレートとして使用できます。対応ファイル形式は jpg/jpeg です。
+* **注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があり、またプリンターのプロファイルにも依存します。**
+* 画像フォトホルダーは、簡単かつ迅速にデザインできるように、さまざまな標準サイズ（正方形、縦向き、横向き）のプレースホルダーフレームです。
 
 **Add Photo Holders**
 
