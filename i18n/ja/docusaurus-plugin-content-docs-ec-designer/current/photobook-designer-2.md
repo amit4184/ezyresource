@@ -480,9 +480,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
-* This gives you the flexibility to create more beautiful and creative designs based on your style.
+* これにより、自分のスタイルに合わせて、より美しくクリエイティブなデザインを作成する柔軟性が得られます。
 
-### **Clipart**
+### **クリップアート**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc63.png)
 
