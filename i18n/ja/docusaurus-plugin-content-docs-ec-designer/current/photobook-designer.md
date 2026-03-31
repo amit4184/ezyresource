@@ -82,11 +82,11 @@ EzyDesignerを使用すると、次のことができます:
 
 * 「新しいグループを作成」ボタンをクリックして、新しい空のテンプレートを作成します。
 * ![](/img/ptc5.png)
-* The first step is the user has to create a blank template, design it and save it. 
+* 最初のステップとして、ユーザーは空のテンプレートを作成し、デザインして保存する必要があります。
 
-  A template group means after creating one template same template can be resized to other available size orientations which will be then displayed under this base template after reopening, creating a template group.
+  テンプレートグループとは、1つのテンプレートを作成した後、その同じテンプレートを他の利用可能なサイズや向きにリサイズできることを意味します。再度開いた際に、これらはベーステンプレートの下に表示され、テンプレートグループとして管理されます。
 
-  Note : An existing template design can be resized into multiple product sizes.  such template will show all the resized product sizes under it, grouping it for further reference, editing, publishing etc.
+  注意: 既存のテンプレートデザインは複数の製品サイズにリサイズすることができます。そのようなテンプレートは、すべてのリサイズされた製品サイズを一つにまとめて表示し、参照、編集、公開などの管理がしやすくなります。
 
 **Note : Resized templates will appear grouped under the original template**
 
