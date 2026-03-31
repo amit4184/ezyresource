@@ -343,7 +343,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc35.png)
 
-* The list of template sizes for resizing will be displayed
+* リサイズ可能なテンプレートサイズの一覧が表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc36.png)
 
