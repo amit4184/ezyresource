@@ -353,8 +353,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc37.png)
 
-* Once the template is loaded click on the save button.
-* Open and check all pages for any changes if required to be done for the resized design.
+* テンプレートが読み込まれたら、「保存」ボタンをクリックします。
+* リサイズされたデザインに変更が必要かどうか、すべてのページを開いて確認してください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
 
