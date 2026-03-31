@@ -130,12 +130,12 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc8.png)
 
-* Product details like template name, description, occasion ,disable a template.
-* Option to disable the template if not in use
+* テンプレート名、説明、イベントなどの製品詳細を編集し、テンプレートを無効化することができます。
+* 使用しない場合はテンプレートを無効化するオプションがあります。
 
-## **Template Creator Features**
+## **テンプレートクリエーターの機能**
 
- **Navigation Bar**
+ **ナビゲーションバー**
 
 ![](/img/ptc9.png)
 
