@@ -537,7 +537,7 @@ EzyDesignerを使用すると、次のことができます:
   フォトホルダーを追加できます。画像を選択してドラッグ＆ドロップできます。
 * **削除 –** 選択したフォトホルダーを削除します。
 
-### **Text Editing Tools**
+### **テキスト編集ツール**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
