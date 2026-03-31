@@ -529,10 +529,10 @@ EzyDesignerを使用すると、次のことができます:
   選択した写真をコピーできます。
 * **前面へ移動 –**
   「前面へ移動」ボタンを使用して、写真やテキストを重ねて配置できます。
-* **Send Back** – 
-  Works similar to Bring Forward and sends the photo/text holder behind.
-* **Crop** – 
-  use Crop to edit a photo, you can crop a portion and remove unnecessary parts of the photo.
+* **背面へ移動 –**
+  「前面へ移動」と同様に機能し、写真やテキストホルダーを背面に移動します。
+* **トリミング –** 
+  写真を編集するために使用し、不要な部分を切り取ることができます。
 * **Add Photo** – 
   Allow to add a photo holder.you can select and drop an image on it.
 * **Delete** – Deletes selected photo holder
