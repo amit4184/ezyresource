@@ -293,10 +293,10 @@ EzyDesignerを使用すると、次のことができます:
 * フォントは管理画面から有効化することができます。
 * **フォントカラーと背景 –**
   テキストの色と背景を選択します。現在のバージョンでは事前設定された色のみ使用できますが、次のバージョンではカラーパレット付きのカラーピッカーが利用可能になります。
-* **Alignment** – 
-  Text alignment can be done using the above tool.
-* **Bold / Italic** – 
-  The text can be changed to bold or Italic by toggling these buttons.
+* **配置 –**
+  上記のツールを使用してテキストの配置を設定できます。
+* **太字 / イタリック –**
+  これらのボタンを切り替えることで、テキストを太字またはイタリックに変更できます。
 
 ### **Save / Preview / Close**
 
