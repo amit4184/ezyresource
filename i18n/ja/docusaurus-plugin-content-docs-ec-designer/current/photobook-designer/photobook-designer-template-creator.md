@@ -24,13 +24,13 @@ EzyDesignerテンプレートクリエーターは、EzyDesignerで使用でき�
 
 テンプレート名、用途（イベント別）、言語別、公開状態で検索できるフィルター機能
 
-### **Key Features of the EzyDesigner Template Creator**
+### **EzyDesignerテンプレートクリエーターの主な機能**
 
-With EzyDesigner, you can:
+EzyDesignerを使用すると、次のことができます:
 
-Use a library of **pre-designed templates** for various events (e.g., birthdays, weddings, holidays)
+さまざまなイベント（例: 誕生日、結婚式、祝日）向けに事前にデザインされたテンプレートライブラリを利用
 
-**Customize** layouts with text, images, and design elements
+テキスト、画像、デザイン要素を使ってレイアウトをカスタマイズ
 
 **Drag and drop** from a set of predefined placeholders
 
