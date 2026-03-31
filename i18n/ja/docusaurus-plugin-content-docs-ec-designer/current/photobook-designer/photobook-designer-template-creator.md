@@ -11,7 +11,7 @@ EzyDesignerテンプレートクリエーターは、EzyDesignerで使用でき�
 
 これにより、デザインの経験がなくても、ユーザーはプロフェッショナルな見た目のパーソナライズされたギフトを簡単に作成できます。
 
-**Features that EzyDesigner Template creator offers:**
+**EzyDesignerテンプレートクリエーターが提供する機能:**
 
 * A library of pre-designed templates for different occasions and events
 * Customize templates with text, images, and other design elements for different occasions and events.
