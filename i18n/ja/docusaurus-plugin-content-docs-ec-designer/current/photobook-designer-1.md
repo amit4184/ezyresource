@@ -291,8 +291,8 @@ EzyDesignerを使用すると、次のことができます:
 
   必要なテキストのフォントとサイズを選択します。現在は、いくつかの事前選択されたフォントが設定されています。
 * フォントは管理画面から有効化することができます。
-* **Font Color & Background** – 
-  Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
+* **フォントカラーと背景 –**
+  テキストの色と背景を選択します。現在のバージョンでは事前設定された色のみ使用できますが、次のバージョンではカラーパレット付きのカラーピッカーが利用可能になります。
 * **Alignment** – 
   Text alignment can be done using the above tool.
 * **Bold / Italic** – 
