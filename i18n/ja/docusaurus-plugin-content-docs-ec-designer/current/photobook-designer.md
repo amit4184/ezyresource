@@ -119,7 +119,7 @@ EzyDesignerを使用すると、次のことができます:
 
 * 編集したいテンプレートグループをクリックします。
 * ![](/img/ptc6.png)
-* Click the edit icon next to the template
+* テンプレートの横にある編集アイコンをクリックします。
 * ![](/img/ptc4.png)
 * The template will open in a new tab
 
