@@ -269,7 +269,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
 
-The image will open in the crop window.
+画像はトリミングウィンドウで開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
