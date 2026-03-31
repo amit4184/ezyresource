@@ -323,13 +323,13 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
-* Open Dashboard of current templates
-* Click on Templates to load the list of existing templates
+* 現在のテンプレートのダッシュボードを開きます。
+* 「テンプレート」をクリックして、既存のテンプレートのリストを表示します。
 
-**Step 2: Open or Create a Template**
+**ステップ 2: テンプレートを開くまたは作成する**
 
-* Create a new template / Open any existing Template in template creator.
-* Click on the icon 
+* 新しいテンプレートを作成するか、既存のテンプレートをテンプレートクリエーターで開きます。
+* アイコンをクリックします。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc45.png)
 
