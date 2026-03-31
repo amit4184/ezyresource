@@ -186,9 +186,9 @@ EzyDesignerを使用すると、次のことができます:
 * テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
 * ![](/img/ptc17.png)
 
-**Publish Template**
+**テンプレートを公開**
 
-* Click on the option beside the template to publish the template.
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
 
 ![](/img/ptc18.png)
 
