@@ -428,7 +428,7 @@ EzyDesignerを使用すると、次のことができます:
 
 レイアウトタブには、テンプレートをリサイズできる製品サイズの一覧が表示されます。デザインしたテンプレートをリサイズしたい場合は、レイアウトタブを開き、希望する製品サイズを選択してクリックしてください。
 
- It will open in a new tab, the user then can save the template in that selected size.
+新しいタブで開き、ユーザーはその選択したサイズでテンプレートを保存できます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
 
