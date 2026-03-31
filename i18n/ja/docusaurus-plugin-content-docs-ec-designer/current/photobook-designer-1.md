@@ -333,8 +333,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc45.png)
 
-* to create a new template
-* Click on the edit icon to edit an existing template
+* 新しいテンプレートを作成するには、アイコンをクリックします。
+* 既存のテンプレートを編集するには、編集アイコンをクリックします。
 
 3. Create a new design or edit any existing design
 4. Once designing is done click on the layout button to open the layout tab.
