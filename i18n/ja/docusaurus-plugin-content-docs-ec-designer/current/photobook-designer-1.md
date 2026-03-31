@@ -426,7 +426,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc53.png)
 
-Layouts tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the layout tab, select any of the desired product size and click on it.
+レイアウトタブには、テンプレートをリサイズできる製品サイズの一覧が表示されます。デザインしたテンプレートをリサイズしたい場合は、レイアウトタブを開き、希望する製品サイズを選択してクリックしてください。
 
  It will open in a new tab, the user then can save the template in that selected size.
 
