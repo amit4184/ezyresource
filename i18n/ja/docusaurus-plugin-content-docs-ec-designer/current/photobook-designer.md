@@ -121,7 +121,7 @@ EzyDesignerを使用すると、次のことができます:
 * ![](/img/ptc6.png)
 * テンプレートの横にある編集アイコンをクリックします。
 * ![](/img/ptc4.png)
-* The template will open in a new tab
+* テンプレートは新しいタブで開きます。
 
   ![](/img/ptc7.png)
 * Publish the changes to your stores
