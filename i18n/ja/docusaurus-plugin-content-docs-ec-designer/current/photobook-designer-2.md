@@ -462,13 +462,13 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
 
-Backgrounds are images that are placed behind the main photos. These are selected backgrounds we currently offer.
+背景はメインの写真の背後に配置される画像です。これらは現在提供されている選択済みの背景です。
 
-You can add your own backgrounds from the admin section.
+管理画面から独自の背景を追加することもできます。
 
-***The images need to be jpg format. PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors.***
+***画像はjpg形式である必要があります。注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があります。***
 
-* Click on Background, and it shows a list of background images. Click on any background image to apply it to the designer.
+* 「背景」をクリックすると、背景画像の一覧が表示されます。任意の背景画像をクリックすると、デザイナーに適用されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
