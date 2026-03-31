@@ -434,11 +434,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
 
-*Note :* 
+*注意:*
 
-* ***The resized template should be saved after it is loaded.***
-* ***The resized template needs to be verified for any corrections in the template object alignments before saving.***
-* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+* ***リサイズされたテンプレートは、読み込み後に保存する必要があります。***
+* ***保存する前に、テンプレートオブジェクトの配置に修正が必要かどうかを確認してください。***
+* テンプレートをクリックして開きます。ダッシュボード上で、元のテンプレートの下にリサイズされたバージョンがグループ化されて表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
 
