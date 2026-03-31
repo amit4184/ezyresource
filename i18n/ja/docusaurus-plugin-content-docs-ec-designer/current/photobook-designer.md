@@ -94,10 +94,10 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc3.png)
 
-* * Template name - Enter the Template name, this template name will be displayed in the ezydesigner.
-  * Products - Select a product from the product dropdown list
-  * Occasions - Select an occasion from the occasion dropdown list
-  * Tags: add the #tags 
+* * テンプレート名 - テンプレート名を入力してください。このテンプレート名はEzyDesignerに表示されます。
+  * 製品 - 製品のドロップダウンリストから製品を選択してください。
+  * イベント - イベントのドロップダウンリストから選択してください。
+  * タグ: #タグを追加してください
 
   **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
 
