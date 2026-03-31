@@ -406,8 +406,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc50.png)
 
-* Click on the Photos tab to add your own photos, this can be used as a pre designed template. Supported file type is jpg/jpeg.
-* ***PLEASE DO NOT USE CMYK IMAGES,IF  they are uploaded they will be converted to normal JPG and it is in this process something can go wrong with the colors and it also depends on the printer's profile.***
+* 「写真」タブをクリックして自分の写真を追加します。これらは事前デザインテンプレートとして使用できます。対応ファイル形式は jpg/jpeg です。
+* ***注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があり、またプリンターのプロファイルにも依存します。***
 
 ### **Photo Holder**
 
