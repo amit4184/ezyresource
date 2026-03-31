@@ -285,12 +285,12 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
-* **Duplicate** – 
-   Duplicate allows you to copy a selected photo.
-* **Font & Size** –
+* **複製 –**
+   選択した写真をコピーできます。
+* **フォントとサイズ –**
 
-  Select the font and size for the text required. Currently we have set a few pre selected fonts.
-* Fonts can be enabled from the admin section.
+  必要なテキストのフォントとサイズを選択します。現在は、いくつかの事前選択されたフォントが設定されています。
+* フォントは管理画面から有効化することができます。
 * **Font Color & Background** – 
   Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
 * **Alignment** – 
