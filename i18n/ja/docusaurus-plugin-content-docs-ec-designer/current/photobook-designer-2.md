@@ -533,9 +533,9 @@ EzyDesignerを使用すると、次のことができます:
   「前面へ移動」と同様に機能し、写真やテキストホルダーを背面に移動します。
 * **トリミング –** 
   写真を編集するために使用し、不要な部分を切り取ることができます。
-* **Add Photo** – 
-  Allow to add a photo holder.you can select and drop an image on it.
-* **Delete** – Deletes selected photo holder
+* **写真を追加 –**
+  フォトホルダーを追加できます。画像を選択してドラッグ＆ドロップできます。
+* **削除 –** 選択したフォトホルダーを削除します。
 
 ### **Text Editing Tools**
 
