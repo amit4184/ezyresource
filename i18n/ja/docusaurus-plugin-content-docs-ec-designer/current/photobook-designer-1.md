@@ -374,7 +374,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc40.png)
 
-* Once the template is published, open the resized product.
+* テンプレートが公開されたら、リサイズされた製品を開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc41.png)
 
