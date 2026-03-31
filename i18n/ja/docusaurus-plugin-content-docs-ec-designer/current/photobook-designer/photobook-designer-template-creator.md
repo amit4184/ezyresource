@@ -50,10 +50,10 @@ EzyDesignerを使用すると、次のことができます:
 
 このガイドで使用される基本的な用語は以下の通りです:
 
-* **Photo Holder** An empty frame where users can drag and drop their own photos.
-* **Tags** Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
-* **Template Group** A collection of templates with the same design but resized for different product sizes.
-* **Template** A ready-to-use layout that includes photos, text fields, clipart, and background images.
+* **フォトホルダー** ユーザーが自分の写真をドラッグ＆ドロップできる空のフレーム。
+* **タグ** テンプレートを簡単にフィルタリングするために使用されるハッシュタグ（例: #誕生日、#旅行、#新年）。
+* **テンプレートグループ**同じデザインを持ち、異なる製品サイズに合わせてリサイズされたテンプレートの集合。
+* **テンプレート**写真、テキストフィールド、クリップアート、背景画像を含む、すぐに使用できるレイアウト。
 * **Text Field** An editable area where users can add or customize text within a design.
 * **Template Creator** The online design workspace where you create and customize templates.
 * **Template Object** Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
