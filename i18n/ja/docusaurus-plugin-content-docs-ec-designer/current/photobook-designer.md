@@ -101,8 +101,8 @@ EzyDesignerを使用すると、次のことができます:
 
   **注意: タグはユーザーがキーワードでテンプレートを素早く見つけるのに役立ちます。#誕生日、#ミニマル、#新年 などの分かりやすいタグを使用してください。**
 
-  * Create - Click on the create button to open the template in the new tab.
-  * Cancel - Click on the cancel button to cancel the template form
+  * 作成 - 「作成」ボタンをクリックすると、新しいタブでテンプレートが開きます。
+  * キャンセル - 「キャンセル」ボタンをクリックすると、テンプレートフォームをキャンセルします。
 
   Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
 
