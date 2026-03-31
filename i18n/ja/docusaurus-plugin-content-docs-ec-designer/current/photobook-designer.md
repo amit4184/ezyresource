@@ -117,7 +117,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc2.png)
 
-* Click on the Template Group that you want to edit.
+* 編集したいテンプレートグループをクリックします。
 * ![](/img/ptc6.png)
 * Click the edit icon next to the template
 * ![](/img/ptc4.png)
