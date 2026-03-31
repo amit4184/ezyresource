@@ -315,11 +315,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
 
-* Gridlines are provided to align two or more photo holders, text fields etc. when the photo/text field is moved in towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
+* グリッドラインは、2つ以上のフォトホルダーやテキストフィールドなどを整列させるために使用されます。写真やテキストフィールドを他のフォトホルダーやテキストフィールドに近づけて移動すると、自動的にグリッドラインが表示され、他のオブジェクトと簡単に整列できるようになります。
 
-## **Section II: How to Resize a Template in Template Creator**
+## **セクション II: テンプレートクリエーターでテンプレートをリサイズする方法**
 
-**Step 1: Access Dashboard**
+**ステップ 1: ダッシュボードにアクセス**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
