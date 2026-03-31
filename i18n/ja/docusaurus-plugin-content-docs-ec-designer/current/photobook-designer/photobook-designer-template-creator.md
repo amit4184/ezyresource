@@ -22,7 +22,7 @@ EzyDesignerテンプレートクリエーターは、EzyDesignerで使用でき�
 * 未公開の既存テンプレートを編集
 * 2Dビューでデザインをプレビュー
 
-A filter option to search the template Template name occasions wise, language wise,published.
+テンプレート名、用途（イベント別）、言語別、公開状態で検索できるフィルター機能
 
 ### **Key Features of the EzyDesigner Template Creator**
 
