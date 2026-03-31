@@ -5,11 +5,11 @@ title: Photobook Designer
 
 📧 サポートが必要ですか？ メールでお問い合わせください:
 
-**Introduction:**
+**はじめに:**
 
-EzyDesigner template creator allows users to create custom templates that can be used with the Ezydesigner. These templates typically include pre-designed layouts, fonts, and colors that users can customize with their own text, images, and other design elements. 
+EzyDesignerテンプレートクリエーターは、EzyDesignerで使用できるカスタムテンプレートを作成するためのツールです。これらのテンプレートには通常、あらかじめデザインされたレイアウト、フォント、カラーが含まれており、ユーザーはそれらを自分のテキスト、画像、その他のデザイン要素でカスタマイズすることができます。
 
-This makes it easy for users to create professional-looking personalized gifts without having any design experience.
+これにより、デザインの経験がなくても、ユーザーはプロフェッショナルな見た目のパーソナライズされたギフトを簡単に作成できます。
 
 **Features that EzyDesigner Template creator offers:**
 
