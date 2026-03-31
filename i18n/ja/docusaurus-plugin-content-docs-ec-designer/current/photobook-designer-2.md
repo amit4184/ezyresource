@@ -506,9 +506,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
 
-* ***Note - the default text field label ie. 'Enter Your text' will not be rendered. Any other text will be rendered and printed on the product.***
+* ***注意 - デフォルトのテキストフィールドラベル（例:「テキストを入力」）はレンダリングされません。その他のテキストはレンダリングされ、製品に印刷されます。***
 
-**Text Options:**
+**テキストオプション:**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
