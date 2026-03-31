@@ -64,9 +64,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/1.png)
 
-* Open the website Enter valid login details and click on the login button.
+* ウェブサイトを開き、有効なログイン情報を入力してログインボタンをクリックしてください。
 
- **Step 2: Welcome Dashboard**
+ **ステップ 2: ウェルカムダッシュボード**
 
 ![](/img/ptc1.png)
 
