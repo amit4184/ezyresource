@@ -13,14 +13,14 @@ EzyDesignerテンプレートクリエーターは、EzyDesignerで使用でき�
 
 **EzyDesignerテンプレートクリエーターが提供する機能:**
 
-* A library of pre-designed templates for different occasions and events
-* Customize templates with text, images, and other design elements for different occasions and events.
-* Design by selecting predefined place holders.
-* Add background color and color to text.
-* Copy templates across different products and sizes.
-* Publish a template.
-* Edit an existing template that is unpublished.
-* Preview the design in 2D view.
+* さまざまなシーンやイベント向けの事前にデザインされたテンプレートライブラリ
+* テキスト、画像、その他のデザイン要素を使用して、さまざまなシーンやイベントに合わせてテンプレートをカスタマイズ
+* 事前定義されたプレースホルダーを選択してデザイン
+* 背景色やテキストの色を追加
+* 異なる製品やサイズ間でテンプレートをコピー
+* テンプレートを公開
+* 未公開の既存テンプレートを編集
+* 2Dビューでデザインをプレビュー
 
 A filter option to search the template Template name occasions wise, language wise,published.
 
