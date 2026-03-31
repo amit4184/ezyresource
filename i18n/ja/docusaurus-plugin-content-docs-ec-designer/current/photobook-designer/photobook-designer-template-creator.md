@@ -54,9 +54,9 @@ EzyDesignerを使用すると、次のことができます:
 * **タグ** テンプレートを簡単にフィルタリングするために使用されるハッシュタグ（例: #誕生日、#旅行、#新年）。
 * **テンプレートグループ**同じデザインを持ち、異なる製品サイズに合わせてリサイズされたテンプレートの集合。
 * **テンプレート**写真、テキストフィールド、クリップアート、背景画像を含む、すぐに使用できるレイアウト。
-* **Text Field** An editable area where users can add or customize text within a design.
-* **Template Creator** The online design workspace where you create and customize templates.
-* **Template Object** Any design element used in the template, such as photo holders, text fields, clipart, or backgrounds.
+* **テキストフィールド**ユーザーがデザイン内でテキストを追加またはカスタマイズできる編集可能な領域。
+* **テンプレートクリエーター** テンプレートを作成・カスタマイズするオンラインデザインワークスペース。
+* **テンプレートオブジェクト** フォトホルダー、テキストフィールド、クリップアート、背景など、テンプレート内で使用されるすべてのデザイン要素。
 
 ## **Section I: How to Create a Template**
 
