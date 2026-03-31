@@ -76,11 +76,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc2.png)
 
-* Click on Templates to load the list of existing templates
+* 「テンプレート」をクリックして、既存のテンプレートのリストを表示します。
 
-**Step 4: Create a New Template**
+**ステップ 4: 新しいテンプレートを作成**
 
-* Click the “Create new group” button to create blank new templates. 
+* 「新しいグループを作成」ボタンをクリックして、新しい空のテンプレートを作成します。
 * ![](/img/ptc5.png)
 * The first step is the user has to create a blank template, design it and save it. 
 
