@@ -252,7 +252,7 @@ EzyDesignerを使用すると、次のことができます:
 * デザイナーが初めて起動された際、作業エリアにはフルサイズの画像が表示されます。
 * 画像のアウトライン上にある点はハンドルであり、必要に応じて画像サイズを調整するために使用できます。
 
-### **Toolbar for Photo Editing**
+### **写真編集用ツールバー**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc27.png)
 
