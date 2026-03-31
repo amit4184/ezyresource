@@ -220,9 +220,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc23.png)
 
-* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+* 「クリップアート」をクリックすると、クリップアートの一覧が表示されます。クリックするとデザイナーに適用されます。
 
-**Add Text**
+**テキストを追加**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc32.png)
 
