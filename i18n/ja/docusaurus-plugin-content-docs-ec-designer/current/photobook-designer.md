@@ -88,9 +88,9 @@ EzyDesignerを使用すると、次のことができます:
 
   注意: 既存のテンプレートデザインは複数の製品サイズにリサイズすることができます。そのようなテンプレートは、すべてのリサイズされた製品サイズを一つにまとめて表示し、参照、編集、公開などの管理がしやすくなります。
 
-**Note : Resized templates will appear grouped under the original template**
+**注意: リサイズされたテンプレートは元のテンプレートの下にグループ化されて表示されます。**
 
-**Step 4a: Fill Template Details**
+**ステップ 4a: テンプレート詳細を入力**
 
 ![](/img/ptc3.png)
 
