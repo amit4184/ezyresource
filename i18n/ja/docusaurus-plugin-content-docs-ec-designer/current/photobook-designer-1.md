@@ -415,7 +415,7 @@ EzyDesignerを使用すると、次のことができます:
 
 * フォトホルダーは写真を配置するためのフレームです。これらはあらかじめ定義された比率で、正方形、縦向き、横向きの向きがあります。
 
-**To Add a Photo Holder:**
+**フォトホルダーを追加するには:**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
 
