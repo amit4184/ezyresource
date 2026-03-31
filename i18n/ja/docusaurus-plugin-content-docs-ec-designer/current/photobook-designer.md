@@ -124,9 +124,9 @@ EzyDesignerを使用すると、次のことができます:
 * テンプレートは新しいタブで開きます。
 
   ![](/img/ptc7.png)
-* Publish the changes to your stores
+* 変更内容をストアに公開します。
 
-**Edit Template Info**
+**テンプレート情報を編集**
 
 ![](/img/ptc8.png)
 
