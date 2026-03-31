@@ -336,8 +336,8 @@ EzyDesignerを使用すると、次のことができます:
 * 新しいテンプレートを作成するには、アイコンをクリックします。
 * 既存のテンプレートを編集するには、編集アイコンをクリックします。
 
-3. Create a new design or edit any existing design
-4. Once designing is done click on the layout button to open the layout tab.
+3. 新しいデザインを作成するか、既存のデザインを編集します。
+4. デザインが完了したら、「レイアウト」ボタンをクリックしてレイアウトタブを開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc34.png)
 
