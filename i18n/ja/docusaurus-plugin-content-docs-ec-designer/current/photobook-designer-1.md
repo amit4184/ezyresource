@@ -182,8 +182,8 @@ EzyDesignerを使用すると、次のことができます:
 * Make corrections and save
 
   ![](/img/ptc16.png)
-* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
-* Click on the option beside the template to publish the template.
+* テンプレートをクリックして開きます。ダッシュボード上で、元のテンプレートの下にリサイズされたバージョンがグループ化されて表示されます。
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
 * ![](/img/ptc17.png)
 
 **Publish Template**
