@@ -145,7 +145,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc10.png)
 
-* For photobook products additional pages can be added using the “Add Pages” button at the bottom of the template designer.
+* フォトブック製品の場合、テンプレートデザイナーの下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
 
 **Upload Photos**
 
