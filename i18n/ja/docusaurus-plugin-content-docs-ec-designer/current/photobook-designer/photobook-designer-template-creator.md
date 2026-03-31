@@ -1,9 +1,9 @@
 ---
 title: Photobook Designer
 ---
-**How to Create a  Photobook Template in EzyDesigner (Easy Step-by-Step Guide)**
+**EzyDesignerでフォトブックテンプレートを作成する方法（簡単ステップバイステップガイド）**
 
-📧 Need help? Email us at: **support@ezycreate.com**
+📧 サポートが必要ですか？ メールでお問い合わせください:
 
 **Introduction:**
 
