@@ -32,23 +32,23 @@ EzyDesignerを使用すると、次のことができます:
 
 テキスト、画像、デザイン要素を使ってレイアウトをカスタマイズ
 
-**Drag and drop** from a set of predefined placeholders
+事前定義されたプレースホルダーからドラッグ＆ドロップで配置
 
-Change **background colors** and **text colors**
+背景色やテキストの色を変更
 
-**Copy and resize** templates across different product sizes
+異なる製品サイズ間でテンプレートをコピーおよびサイズ変更
 
-**Publish** your designs so customers can use them
+デザインを公開して顧客が利用できるようにする
 
-**Edit** existing unpublished templates
+未公開の既存テンプレートを編集
 
-**Preview** your design in a 2D view before going live
+公開前に2Dビューでデザインをプレビュー
 
-Use **filters** to find templates by name, occasion, language, or publish status
+テンプレート名、用途（イベント）、言語、公開状態でフィルターを使ってテンプレートを検索
 
-## **Glossary of Key Terms**
+## **主要用語の用語集**
 
-Here are some basic terms you'll see in this guide:
+このガイドで使用される基本的な用語は以下の通りです:
 
 * **Photo Holder** An empty frame where users can drag and drop their own photos.
 * **Tags** Hashtags (like #birthday, #travel, or #newyear) used to filter templates easily.
