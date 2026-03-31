@@ -397,8 +397,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
 
-* The template name and product name are displayed at the **top-left corner**.
-* For **Photobook products**, additional pages can be added using the **“Add Pages”** button at the bottom of the template designer.
+* テンプレート名と製品名は左上に表示されます。
+* フォトブック製品の場合、テンプレートデザイナーの下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
 
