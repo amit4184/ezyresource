@@ -476,7 +476,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
 
-* On a single sheet, you can either apply two different backgrounds.one for each page or use a single background across the whole sheet.
+* 1枚のシート上で、各ページに異なる2つの背景を適用することも、シート全体に1つの背景を使用することもできます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
