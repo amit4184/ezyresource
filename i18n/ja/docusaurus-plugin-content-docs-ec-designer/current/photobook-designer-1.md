@@ -273,13 +273,13 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
 
-Using the crop slider and using the photo corner crop handles adjust the image crop.
+トリミングスライダーや写真の角にあるトリミングハンドルを使用して、画像のトリミングを調整します。
 
-Click on “Save” button once done.
+完了したら「保存」ボタンをクリックしてください。
 
-* **Add Photo** – 
-  Allow to add a photo holder. you can select and drop an image on it.
-* **Delete** – Deletes selected photo holder
+* **写真を追加 –**
+  フォトホルダーを追加できます。画像を選択してドラッグ＆ドロップできます。
+* **削除 –** 選択したフォトホルダーを削除します。
 
 ### **Text Editing Tools**
 
