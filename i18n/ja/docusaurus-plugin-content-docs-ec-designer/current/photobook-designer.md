@@ -104,7 +104,7 @@ EzyDesignerを使用すると、次のことができます:
   * 作成 - 「作成」ボタンをクリックすると、新しいタブでテンプレートが開きます。
   * キャンセル - 「キャンセル」ボタンをクリックすると、テンプレートフォームをキャンセルします。
 
-  Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+  作成 - 「作成」ボタンをクリックしてテンプレートを作成すると、テンプレートが作成され、テンプレートクリエーターが新しいタブで開きます。
 
 **Step 4b: Open Template Creator**
 
