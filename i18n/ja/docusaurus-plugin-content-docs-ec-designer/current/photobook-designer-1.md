@@ -386,8 +386,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc43.png)
 
-* Click on proceed to continue to apply the template.
-* The template will get applied.
+* 「続行」をクリックしてテンプレートの適用を進めます。
+* テンプレートが適用されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc44.png)
 
