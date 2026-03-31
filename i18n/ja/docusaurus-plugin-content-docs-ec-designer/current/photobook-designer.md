@@ -139,9 +139,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc9.png)
 
-* The template name and product name is displayed at the left top corner.
+* テンプレート名と製品名は左上に表示されます。
 
-**Add Pages (Photobooks Only)**
+**ページを追加（フォトブックのみ）**
 
 ![](/img/ptc10.png)
 
