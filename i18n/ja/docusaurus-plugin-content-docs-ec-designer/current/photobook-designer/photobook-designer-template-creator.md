@@ -70,9 +70,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc1.png)
 
-* You'll land on the dashboard homepage
+* ダッシュボードのホームページに移動します。
 
-**Step 3: View Templates Dashboard of current templates**
+**ステップ 3: 現在のテンプレートのダッシュボードを表示**
 
 ![](/img/ptc2.png)
 
