@@ -99,7 +99,7 @@ EzyDesignerを使用すると、次のことができます:
   * イベント - イベントのドロップダウンリストから選択してください。
   * タグ: #タグを追加してください
 
-  **Note : Tags help users find templates quickly by keyword. Use descriptive tags like #birthday, #minimal, or #newyear.**
+  **注意: タグはユーザーがキーワードでテンプレートを素早く見つけるのに役立ちます。#誕生日、#ミニマル、#新年 などの分かりやすいタグを使用してください。**
 
   * Create - Click on the create button to open the template in the new tab.
   * Cancel - Click on the cancel button to cancel the template form
