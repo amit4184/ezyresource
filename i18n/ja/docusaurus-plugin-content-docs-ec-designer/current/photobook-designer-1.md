@@ -298,7 +298,7 @@ EzyDesignerを使用すると、次のことができます:
 * **太字 / イタリック –**
   これらのボタンを切り替えることで、テキストを太字またはイタリックに変更できます。
 
-### **Save / Preview / Close**
+### **保存 / プレビュー / 閉じる**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
 
