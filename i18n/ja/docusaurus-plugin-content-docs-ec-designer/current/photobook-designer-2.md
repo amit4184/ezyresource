@@ -452,7 +452,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
 
-* To unpublish a published template click on the setting button beside the template and select and click on the “Unpublish” button. Product can be published without a template.
+* 公開済みのテンプレートを非公開にするには、テンプレートの横にある設定ボタンをクリックし、「非公開」ボタンを選択してクリックしてください。製品はテンプレートなしでも公開することができます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
 
