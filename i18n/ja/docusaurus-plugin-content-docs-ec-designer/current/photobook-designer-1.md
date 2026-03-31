@@ -192,8 +192,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc18.png)
 
-* The then saved template/template’s will be shown under the main template used for resizing.
-* The template will display the resized sizes under it.
+* 保存されたテンプレートは、リサイズに使用されたメインテンプレートの下に表示されます。
+* テンプレートの下には、リサイズされたサイズが表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc19.png)
 
