@@ -420,7 +420,7 @@ EzyDesignerを使用すると、次のことができます:
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
 
 * 画像フォトホルダーは、簡単かつ迅速にデザインできるように、さまざまな標準サイズ（正方形、縦向き、横向き）のプレースホルダーフレームです。
-* Photo Holders- Click on Photo Holders, and it shows an image holder creator (highlighted in red) Now click on it, and it will create an image holder on the designer. 
+* フォトホルダー – 「フォトホルダー」をクリックすると、画像ホルダー作成ツール（赤で強調表示）が表示されます。それをクリックすると、デザイナー上に画像ホルダーが作成されます。
 
 ### **Layout**
 
