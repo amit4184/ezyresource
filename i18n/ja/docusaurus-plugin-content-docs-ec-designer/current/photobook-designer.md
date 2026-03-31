@@ -110,8 +110,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](/img/ptc4.png)
 
-* Template Creator will launch in a new tab for editing
-* Create - Click on create button to create the template , the template is created and the Template creator will open in a new tab
+* テンプレートクリエーターは新しいタブで起動し、編集が可能になります。
+* 作成 - 「作成」ボタンをクリックしてテンプレートを作成すると、テンプレートが作成され、テンプレートクリエーターが新しいタブで開きます。
 
 **Editing an Existing Template**
 
