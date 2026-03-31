@@ -173,10 +173,10 @@ EzyDesignerを使用すると、次のことができます:
 
    新しいタブで開き、ユーザーはその選択したサイズでテンプレートを保存することができます。
 
-  Note : 
+  注意:
 
-  * **The resized template should be saved after it is loaded.**
-  * **The resized template needs to be verified for any corrections in the template object alignments before saving.**
+  * **リサイズされたテンプレートは、読み込み後に保存する必要があります。**
+  * **保存する前に、テンプレートオブジェクトの配置に修正が必要かどうかを確認してください。**
 *
 * ![](/img/ptc15.png)
 * Make corrections and save
