@@ -737,7 +737,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
-* Click on **Background**, and it shows a list of background images. Click on any background image to apply it to the designer.
+* 「Background」をクリックすると、背景画像の一覧が表示されます任意の背景画像をクリックすると、デザイナーに適用されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
 
