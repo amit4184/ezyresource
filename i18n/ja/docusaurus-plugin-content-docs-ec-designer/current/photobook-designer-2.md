@@ -667,7 +667,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
 
-* Additional pages can be added using the “Add Pages” button at the bottom of the template designer.
+* テンプレートデザイナー下部の「Add Pages」ボタンを使用して、ページを追加できます。
 
 **Upload Photos**
 
