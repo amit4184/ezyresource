@@ -619,11 +619,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
 
-* Open and check all pages for any changes if required to be done for the resized design.
+* リサイズされたデザインに変更が必要かどうか、すべてのページを開いて確認してください。
 
-**\*Note:** Resized templates require manual verification and adjustment after resizing.*
+**\*※注意:** リサイズされたテンプレートは、リサイズ後に手動での確認と調整が必要です。*
 
-* Once all editing is done, click on the **save** button.
+* すべての編集が完了したら、「保存」ボタンをクリックしてください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
