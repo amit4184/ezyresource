@@ -804,11 +804,11 @@ EzyDesignerを使用すると、次のことができます:
 * **複製:** 選択した写真をコピーすることができます。
 * **前面へ移動:** 写真やテキストを前面に配置し、他の要素の上に表示できます。
 * **背面へ移動:** と同様の機能で、写真やテキストを背面に配置します。
-* **Crop:** Use Crop to edit a photo; you can crop a portion and remove unnecessary parts of the photo.
-* **Add Photo:** Allows you to add a photo holder. You can select and drop an image on it.
-* **Delete the Selected Photo Holder.**
+* **トリミング:** を使用して写真を編集できます。必要な部分だけを切り取り、不要な部分を削除できます。
+* **写真追加:** フォトホルダーを追加できます。追加後、画像を選択してドラッグ＆ドロップで配置できます。
+* **選択したフォトホルダーを削除します。**
 
-**Text Editing Tools:**
+**テキスト編集ツール：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
