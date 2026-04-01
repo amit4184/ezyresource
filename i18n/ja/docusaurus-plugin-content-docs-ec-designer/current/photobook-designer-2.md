@@ -557,14 +557,15 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
 
-* **Save** – To save the designed template
-* **Preview** – 
-  Click on preview to view the template on the product, currently only 2D preview is available.
-* **Close** – 
+* **保存 –** 作成したテンプレートを保存します。
+* **プレビュー –**
 
-  Close will close the template and redirect back to the admin website.
+  「プレビュー」をクリックすると、製品上でテンプレートを確認できます。現在は2Dプレビューのみ利用可能です。
+* **閉じる –**
 
-  (always save before closing)
+  「閉じる」をクリックすると、テンプレートを閉じて管理サイトに戻ります。
+
+  （閉じる前に必ず保存してください）
 
 ### **Gridlines**
 
