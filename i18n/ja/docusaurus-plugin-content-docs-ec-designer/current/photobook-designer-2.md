@@ -686,7 +686,7 @@ EzyDesignerを使用すると、次のことができます:
 
 * **イメージフォトホルダー：**簡単かつスピーディーにデザインできるよう、さまざまな標準サイズ（正方形・縦向き・横向き）で用意されたプレースホルダーフレームです。
 
-  * Click on **Photo Holders**, and it shows an image holder creator (highlighted in red). Now click on it, and it will create an image holder on the designer.
+  * 「Photo Holders」をクリックすると、画像ホルダー作成ツール（赤枠で表示）が表示されますそれをクリックすると、デザイナー上に画像ホルダーが追加されます。
 
 **Layout:**
 
