@@ -800,10 +800,10 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc70.png)
 
-* **Lock/Unlock:** This feature allows the user to lock/unlock any object in the design area.
-* **Duplicate:** Duplicate allows you to copy a selected photo.
-* **Bring Forward:** Photos or text can be arranged one above the other using the **Bring Forward** button.
-* **Send Back:** Works similarly to Bring Forward and sends the photo/text holder behind.
+* **ロック / ロック解除:**デザインエリア内のオブジェクトをロックまたはロック解除できます。
+* **複製:** 選択した写真をコピーすることができます。
+* **前面へ移動:** 写真やテキストを前面に配置し、他の要素の上に表示できます。
+* **背面へ移動:** と同様の機能で、写真やテキストを背面に配置します。
 * **Crop:** Use Crop to edit a photo; you can crop a portion and remove unnecessary parts of the photo.
 * **Add Photo:** Allows you to add a photo holder. You can select and drop an image on it.
 * **Delete the Selected Photo Holder.**
