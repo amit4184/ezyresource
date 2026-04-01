@@ -715,11 +715,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
 
-* The then saved template/template’s will be shown under the main template used for resizing.
+* 保存されたテンプレートは、リサイズ元のメインテンプレートの下に表示されます。
 
-  The template will display the resized sizes under it.
+  テンプレートには、リサイズされた各サイズが一覧で表示されます。
 
-**To Unpublish a Published Template:**
+**公開済みテンプレートの非公開方法：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
 
