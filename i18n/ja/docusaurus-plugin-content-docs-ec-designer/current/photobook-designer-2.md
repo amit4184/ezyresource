@@ -644,7 +644,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc42.png)
 
-* The resized template will be available to the user in the designer under the same category as the base template.
+* リサイズされたテンプレートは、ベーステンプレートと同じカテゴリー内で、デザイナー上からユーザーが利用できるようになります。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc43.png)
 
