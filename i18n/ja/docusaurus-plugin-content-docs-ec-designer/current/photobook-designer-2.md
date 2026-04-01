@@ -661,9 +661,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
 
-* The template name and product name are displayed at the left top corner.
+* テンプレート名と商品名は、左上に表示されます。
 
-**For Photobook Product**
+**フォトブック商品の場合**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
 
