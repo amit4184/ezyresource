@@ -454,8 +454,6 @@ EzyDesignerを使用すると、次のことができます:
 
 * 公開済みのテンプレートを非公開にするには、テンプレートの横にある設定ボタンをクリックし、「非公開」ボタンを選択してクリックしてください。製品はテンプレートなしでも公開することができます。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
 
 ### **Background**
@@ -548,12 +546,12 @@ EzyDesignerを使用すると、次のことができます:
   必要なテキストのフォントとサイズを選択します。現在は、いくつかの事前選択されたフォントが設定されています。
 
   フォントは管理画面から有効化することができます。
-* **Font Color & Background** – 
-  Select the text color and background. The current version allows only pre-set colors, the next version will have a color picker with a palette.
-* **Alignment** – 
-  Text alignment can be done using the above tool.
-* **Bold / Italic** – 
-  The text can be changed to bold or Italic by toggling these buttons.
+* **フォントカラーと背景 –**
+  テキストの色と背景を選択します。現在のバージョンでは事前設定された色のみ使用できますが、次のバージョンではカラーパレット付きのカラーピッカーが利用可能になります。
+* **配置 –**
+  上記のツールを使用してテキストの配置を設定できます。
+* **太字 / イタリック –**
+  これらのボタンを切り替えることで、テキストを太字またはイタリックに変更できます。
 
 ### **Save / Preview / Close**
 
