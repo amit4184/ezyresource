@@ -707,7 +707,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
 
-* Click on the template to open it. You’ll see the resized versions grouped under the original template in the dashboard.
+* テンプレートをクリックして開きます。ダッシュボードでは、リサイズされたテンプレートが元のテンプレートの下にグループ化されて表示されます。
+
+
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
 
