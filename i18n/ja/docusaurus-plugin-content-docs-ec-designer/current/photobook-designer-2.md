@@ -653,11 +653,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc44.png)
 
-* The template will get applied.
+* テンプレートが適用されます。
 
-### **Section III. How Create a Full spread Photobook in Template Creator**
+### **セクション III：テンプレートクリエーターでフルスプレッドフォトブックを作成する方法**
 
-**Navigation Menus**
+**ナビゲーションメニュー**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
 
