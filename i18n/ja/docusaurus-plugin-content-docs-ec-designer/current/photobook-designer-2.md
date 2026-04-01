@@ -723,10 +723,10 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
 
-* Click on the **setting button** beside the template and select **Unpublish**.
-* A product can be published without a template.
+* テンプレートの横にある設定ボタンをクリックし、「Unpublish」を選択します。
+* 商品はテンプレートなしでも公開することが可能です。
 
-**Backgrounds:**
+**背景:**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
 
