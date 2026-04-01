@@ -696,7 +696,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
 
-* It will open in a new tab, and the user can then save the template in that selected size.
+* 新しいタブで開かれ、その後ユーザーは選択したサイズでテンプレートを保存することができます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
 
