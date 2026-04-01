@@ -680,7 +680,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc51.png)
 
-* A **photo holder** is a frame for holding the photo. These are predefined ratios for the holders, with square, portrait, and landscape orientations.
+* フォトホルダーは、写真を配置するためのフレームです正方形、縦向き、横向きなど、あらかじめ設定された比率で用意されています。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
 
