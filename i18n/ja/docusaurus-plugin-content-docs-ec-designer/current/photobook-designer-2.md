@@ -631,7 +631,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc39.png)
 
-* The resized template will be displayed under the main template.
+* リサイズされたテンプレートは、メインテンプレートの下に表示されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc40.png)
 
