@@ -732,8 +732,8 @@ EzyDesignerを使用すると、次のことができます:
 
 * **背景（Backgrounds）**は、メインの写真の背面に配置される画像です現在は、あらかじめ用意された背景デザインをご利用いただけます。
 
-  * You can add your own backgrounds from the **admin section**. The images need to be in **JPG format**.
-     **PLEASE DO NOT USE CMYK IMAGES.** If uploaded, they will be converted to normal JPG, and something may go wrong with the colors.
+  * 管理画面から独自の背景画像を追加することも可能です。画像はJPG形式である必要があります。
+    ※注意：CMYK画像は使用しないでくださいCMYK画像をアップロードすると通常のJPGに変換されますが、その過程で色味が変わる可能性があります。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
