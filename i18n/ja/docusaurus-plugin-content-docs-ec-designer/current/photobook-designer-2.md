@@ -588,15 +588,15 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc45.png)
 
-* Click on the CREATE icon to create a new template.
+* 「作成」アイコンをクリックして、新しいテンプレートを作成します。
 
-**OR**
+**または**
 
-* Click on the icon to edit an existing template.
+* 既存のテンプレートを編集するには、編集アイコンをクリックします。
 
-**Step 3.** 
+**ステップ 3**
 
-* Create a new design or edit any existing design
+* 新しいデザインを作成するか、既存のデザインを編集します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc34.png)
 
