@@ -812,13 +812,13 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
-* **Duplicate:** Duplicate allows you to copy a selected photo.
-* **Font and Size:** Select the font and size for the text required. Currently, we have set a few pre-selected fonts. Fonts can be enabled from the **admin section**.
-* **Font Text Color & Background:** Select the text color and background. The current version allows only pre-set colors. The next version will have a color picker with a palette.
-* **Text Alignment:** Alignment can be done using the above tool.
-* **Bold/Italic:** The text can be changed to **bold** or **italic** by toggling these buttons.
+* **（複製）：**選択した写真をコピーすることができます。
+* **フォントとサイズ：**テキストに使用するフォントとサイズを選択できます。現在は一部のフォントが事前に設定されています。フォントは管理画面から有効化できます。
+* **テキストカラーと背景：**テキストの色や背景色を選択できます。現在はプリセットカラーのみ対応しており、今後はカラーパレット付きのカラーピッカーが追加予定です。
+* **テキスト配置：**上記ツールを使用してテキストの配置を調整できます。
+* **太字 / 斜体：** ボタンを切り替えることで、テキストを太字または斜体に変更できます。
 
-**Click on Save to save the designed template.**
+**をクリックすると、作成したテンプレートが保存されます。**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
 
