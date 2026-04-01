@@ -713,7 +713,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
 
-* Click on the option beside the template to **publish** the template.
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
 
