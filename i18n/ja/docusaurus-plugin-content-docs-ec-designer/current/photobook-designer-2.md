@@ -611,7 +611,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc37.png)
 
-* Once you click on the desired size from the layout tab, it will open the resized template in the new tab in the same browser.
+* レイアウトタブで希望するサイズをクリックすると、同じブラウザ内の新しいタブでリサイズされたテンプレートが開きます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
 
