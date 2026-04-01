@@ -692,7 +692,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc53.png)
 
-* The **Layouts** tab displays the list of product sizes to which the template can be resized. If the user wants to resize any of the designed templates, open the **layout tab**, select any desired product size, and click on it.
+* 「Layouts」タブには、テンプレートをリサイズできる商品サイズの一覧が表示されますテンプレートをリサイズする場合は、「Layouts」タブを開き、希望する商品サイズを選択してクリックしてください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
 
