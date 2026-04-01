@@ -753,8 +753,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc64.png)
 
-* **Clipart** are stickers that can be used to enhance your templates.
-* You can add your own clipart from the **admin section**. The file formats for clipart are **.png** (transparent images).
+* クリップアートは、テンプレートをより魅力的にするために使用できるステッカーです。
+* 管理画面から独自のクリップアートを追加することも可能です。ファイル形式は .png（透過画像）に対応しています。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc65.png)
 
