@@ -635,8 +635,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc40.png)
 
-* The template can be edited/published
-* Publish the template to make it available to the user.
+* テンプレートは編集または公開することができます。
+* ユーザーが利用できるようにするには、テンプレートを公開してください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc41.png)
 
