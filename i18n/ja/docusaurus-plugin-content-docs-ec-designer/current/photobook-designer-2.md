@@ -730,7 +730,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
 
-* **Backgrounds** are images placed behind the main photos. These are selected backgrounds currently offered.
+* **背景（Backgrounds）**は、メインの写真の背面に配置される画像です現在は、あらかじめ用意された背景デザインをご利用いただけます。
 
   * You can add your own backgrounds from the **admin section**. The images need to be in **JPG format**.
      **PLEASE DO NOT USE CMYK IMAGES.** If uploaded, they will be converted to normal JPG, and something may go wrong with the colors.
