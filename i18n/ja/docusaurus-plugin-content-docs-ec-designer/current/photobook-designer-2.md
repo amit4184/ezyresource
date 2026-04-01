@@ -745,7 +745,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
-* On a single sheet, you can apply two different backgrounds, one for each page, or use a single background across the whole sheet. This gives you the flexibility to create more beautiful and creative designs based on your style.
+* 1枚のシート内で、左右それぞれに異なる背景を設定することも、シート全体に1つの背景を適用することも可能ですこれにより、自分のスタイルに合わせて、より美しくクリエイティブなデザインを作成できます。
 
 **Clipart:**
 
