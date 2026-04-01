@@ -766,8 +766,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc66.png)
 
-* You can add **text** in the text field, except for emojis, which are currently unsupported (emojis will be ignored if used).
-* Click on **Floating Text** to add a text field.
+* テキストフィールドに文字を追加できます。ただし、現在は絵文字には対応しておらず、使用しても反映されません。
+* をクリックすると、テキストフィールドを追加できます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
 
