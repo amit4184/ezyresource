@@ -702,8 +702,8 @@ EzyDesignerを使用すると、次のことができます:
 
 * **Note:**
 
-  * The resized template should be saved after it is loaded.
-  * The resized template needs to be verified for any corrections in the template object alignments before saving.
+  * リサイズされたテンプレートは、読み込み後に必ず保存してください。
+  * 保存する前に、テンプレート内の各オブジェクト（配置や位置など）にズレがないか確認し、必要に応じて修正してください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
 
