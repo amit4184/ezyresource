@@ -758,9 +758,9 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc65.png)
 
-* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+* をクリックすると、クリップアートの一覧が表示されます任意のクリップアートをクリックすると、デザイナーに適用されます。
 
-**Text:**
+**テキスト：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc67.png)
 
