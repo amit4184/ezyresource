@@ -1,0 +1,836 @@
+---
+title: Photobook Designer
+---
+**EzyDesignerでフォトブックテンプレートを作成する方法（簡単ステップバイステップガイド）**
+
+📧 サポートが必要ですか？ メールでお問い合わせください:
+
+**はじめに:**
+
+EzyDesignerテンプレートクリエーターは、EzyDesignerで使用できるカスタムテンプレートを作成するためのツールです。これらのテンプレートには通常、あらかじめデザインされたレイアウト、フォント、カラーが含まれており、ユーザーはそれらを自分のテキスト、画像、その他のデザイン要素でカスタマイズすることができます。
+
+これにより、デザインの経験がなくても、ユーザーはプロフェッショナルな見た目のパーソナライズされたギフトを簡単に作成できます。
+
+**EzyDesignerテンプレートクリエーターが提供する機能:**
+
+* さまざまなシーンやイベント向けの事前にデザインされたテンプレートライブラリ
+* テキスト、画像、その他のデザイン要素を使用して、さまざまなシーンやイベントに合わせてテンプレートをカスタマイズ
+* 事前定義されたプレースホルダーを選択してデザイン
+* 背景色やテキストの色を追加
+* 異なる製品やサイズ間でテンプレートをコピー
+* テンプレートを公開
+* 未公開の既存テンプレートを編集
+* 2Dビューでデザインをプレビュー
+
+テンプレート名、用途（イベント別）、言語別、公開状態で検索できるフィルター機能
+
+### **EzyDesignerテンプレートクリエーターの主な機能**
+
+EzyDesignerを使用すると、次のことができます:
+
+さまざまなイベント（例: 誕生日、結婚式、祝日）向けに事前にデザインされたテンプレートライブラリを利用
+
+テキスト、画像、デザイン要素を使ってレイアウトをカスタマイズ
+
+事前定義されたプレースホルダーからドラッグ＆ドロップで配置
+
+背景色やテキストの色を変更
+
+異なる製品サイズ間でテンプレートをコピーおよびサイズ変更
+
+デザインを公開して顧客が利用できるようにする
+
+未公開の既存テンプレートを編集
+
+公開前に2Dビューでデザインをプレビュー
+
+テンプレート名、用途（イベント）、言語、公開状態でフィルターを使ってテンプレートを検索
+
+## **主要用語の用語集**
+
+このガイドで使用される基本的な用語は以下の通りです:
+
+* **フォトホルダー** ユーザーが自分の写真をドラッグ＆ドロップできる空のフレーム。
+* **タグ** テンプレートを簡単にフィルタリングするために使用されるハッシュタグ（例: #誕生日、#旅行、#新年）。
+* **テンプレートグループ**同じデザインを持ち、異なる製品サイズに合わせてリサイズされたテンプレートの集合。
+* **テンプレート**写真、テキストフィールド、クリップアート、背景画像を含む、すぐに使用できるレイアウト。
+* **テキストフィールド**ユーザーがデザイン内でテキストを追加またはカスタマイズできる編集可能な領域。
+* **テンプレートクリエーター** テンプレートを作成・カスタマイズするオンラインデザインワークスペース。
+* **テンプレートオブジェクト** フォトホルダー、テキストフィールド、クリップアート、背景など、テンプレート内で使用されるすべてのデザイン要素。
+
+## **セクション I: テンプレートの作成方法**
+
+**ステップ 1: ログイン**
+
+![](/img/1.png)
+
+* ウェブサイトを開き、有効なログイン情報を入力してログインボタンをクリックしてください。
+
+ **ステップ 2: ウェルカムダッシュボード**
+
+![](/img/ptc1.png)
+
+* ダッシュボードのホームページに移動します。
+
+**ステップ 3: 現在のテンプレートのダッシュボードを表示**
+
+![](/img/ptc2.png)
+
+* 「テンプレート」をクリックして、既存のテンプレートのリストを表示します。
+
+**ステップ 4: 新しいテンプレートを作成**
+
+* 「新しいグループを作成」ボタンをクリックして、新しい空のテンプレートを作成します。
+* ![](/img/ptc5.png)
+* 最初のステップとして、ユーザーは空のテンプレートを作成し、デザインして保存する必要があります。
+
+  テンプレートグループとは、1つのテンプレートを作成した後、その同じテンプレートを他の利用可能なサイズや向きにリサイズできることを意味します。再度開いた際に、これらはベーステンプレートの下に表示され、テンプレートグループとして管理されます。
+
+  注意: 既存のテンプレートデザインは複数の製品サイズにリサイズすることができます。そのようなテンプレートは、すべてのリサイズされた製品サイズを一つにまとめて表示し、参照、編集、公開などの管理がしやすくなります。
+
+**注意: リサイズされたテンプレートは元のテンプレートの下にグループ化されて表示されます。**
+
+**ステップ 4a: テンプレート詳細を入力**
+
+![](/img/ptc3.png)
+
+* * テンプレート名 - テンプレート名を入力してください。このテンプレート名はEzyDesignerに表示されます。
+  * 製品 - 製品のドロップダウンリストから製品を選択してください。
+  * イベント - イベントのドロップダウンリストから選択してください。
+  * タグ: #タグを追加してください
+
+  **注意: タグはユーザーがキーワードでテンプレートを素早く見つけるのに役立ちます。#誕生日、#ミニマル、#新年 などの分かりやすいタグを使用してください。**
+
+  * 作成 - 「作成」ボタンをクリックすると、新しいタブでテンプレートが開きます。
+  * キャンセル - 「キャンセル」ボタンをクリックすると、テンプレートフォームをキャンセルします。
+
+  作成 - 「作成」ボタンをクリックしてテンプレートを作成すると、テンプレートが作成され、テンプレートクリエーターが新しいタブで開きます。
+
+**ステップ 4b: テンプレートクリエーターを開く**
+
+![](/img/ptc4.png)
+
+* テンプレートクリエーターは新しいタブで起動し、編集が可能になります。
+* 作成 - 「作成」ボタンをクリックしてテンプレートを作成すると、テンプレートが作成され、テンプレートクリエーターが新しいタブで開きます。
+
+**既存テンプレートの編集**
+
+![](/img/ptc2.png)
+
+* 編集したいテンプレートグループをクリックします。
+* ![](/img/ptc6.png)
+* テンプレートの横にある編集アイコンをクリックします。
+* ![](/img/ptc4.png)
+* テンプレートは新しいタブで開きます。
+
+  ![](/img/ptc7.png)
+* 変更内容をストアに公開します。
+
+**テンプレート情報を編集**
+
+![](/img/ptc8.png)
+
+* テンプレート名、説明、イベントなどの製品詳細を編集し、テンプレートを無効化することができます。
+* 使用しない場合はテンプレートを無効化するオプションがあります。
+
+## **テンプレートクリエーターの機能**
+
+ **ナビゲーションバー**
+
+![](/img/ptc9.png)
+
+* テンプレート名と製品名は左上に表示されます。
+
+**ページを追加（フォトブックのみ）**
+
+![](/img/ptc10.png)
+
+* フォトブック製品の場合、テンプレートデザイナーの下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
+
+**写真をアップロード**
+
+![](/img/ptc11.png)
+
+* 「写真」タブをクリックして、自分の写真を追加します。これらは事前にデザインされたテンプレートとして使用できます。対応ファイル形式は jpg/jpeg です。
+* **注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があり、またプリンターのプロファイルにも依存します。**
+* 画像フォトホルダーは、簡単かつ迅速にデザインできるように、さまざまな標準サイズ（正方形、縦向き、横向き）のプレースホルダーフレームです。
+
+**Add Photo Holders**
+
+![](/img/ptc12.png)
+
+* フォトホルダー - 「フォトホルダー」をクリックすると、画像ホルダー作成ツール（赤で強調表示）が表示されます。それをクリックすると、デザイナー上に画像ホルダーが作成されます。
+*
+* ![](/img/ptc13.png)
+
+**Resize via Layouts**
+
+![](/img/ptc14.png)
+
+**レイアウト:**
+
+* レイアウトタブには、テンプレートをリサイズできる製品サイズの一覧が表示されます。デザインしたテンプレートをリサイズしたい場合は、レイアウトタブを開き、希望する製品サイズを選択してクリックしてください。
+
+   新しいタブで開き、ユーザーはその選択したサイズでテンプレートを保存することができます。
+
+  注意:
+
+  * **リサイズされたテンプレートは、読み込み後に保存する必要があります。**
+  * **保存する前に、テンプレートオブジェクトの配置に修正が必要かどうかを確認してください。**
+*
+* ![](/img/ptc15.png)
+* Make corrections and save
+
+  ![](/img/ptc16.png)
+* テンプレートをクリックして開きます。ダッシュボード上で、元のテンプレートの下にリサイズされたバージョンがグループ化されて表示されます。
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
+* ![](/img/ptc17.png)
+
+**テンプレートを公開**
+
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
+
+![](/img/ptc18.png)
+
+* 保存されたテンプレートは、リサイズに使用されたメインテンプレートの下に表示されます。
+* テンプレートの下には、リサイズされたサイズが表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc19.png)
+
+**Unpublish Template**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc20.png)
+
+* 公開済みのテンプレートを非公開にするには、テンプレートの横にある設定ボタンをクリックし、「非公開」ボタンを選択してクリックしてください。製品はテンプレートなしでも公開することができます。
+
+**背景を追加**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc21.png)
+
+* 背景はメインの写真の背後に配置される画像です。これらは現在提供されている選択済みの背景です。
+* 管理画面から独自の背景を追加することもできます。
+* **画像はjpg形式である必要があります。注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があります。**
+* 「背景」をクリックすると、背景画像の一覧が表示されます。任意の背景画像をクリックすると、デザイナーに適用されます。
+
+**Add Clipart**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc22.png)
+
+* クリップアートは、テンプレートをより魅力的にするために使用できるステッカーです。管理画面から独自のクリップアートを追加することもできます。クリップアートのファイル形式は .png で、透過画像である必要があります。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc23.png)
+
+* 「クリップアート」をクリックすると、クリップアートの一覧が表示されます。クリックするとデザイナーに適用されます。
+
+**テキストを追加**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc32.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc31.png)
+
+* テキストフィールドにテキストを追加できますが、現在は絵文字には対応していません（絵文字は使用しても無視されます）。「フローティングテキスト」をクリックしてテキストフィールドを追加します。
+* 「テキスト」をクリックすると、デザイナー上にテキストフィールドが追加されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc24.png)
+
+* 注意 - デフォルトのテキストフィールドラベル（例:「テキストを入力」）はレンダリングされません。その他のテキストはレンダリングされ、製品に印刷されます。
+
+**Text Options:** 
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* テンプレートクリエーターには、「ロック/ロック解除」でテキストボックスを固定する機能や、「前面へ移動/背面へ移動」でテキストボックスの位置を調整する機能、「削除」でテキストボックスを削除する機能などの標準的なテキストオプションがあります。
+
+フォントのスタイルとサイズの選択。
+
+* フォントの配置オプション、太字／イタリックの設定、およびテキストカラー／テキスト背景色のオプション。
+
+**デザイナーの中央部分は作業エリアです。**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt51.png)
+
+* デザイナーが初めて起動された際、作業エリアにはフルサイズの画像が表示されます。
+* 画像のアウトライン上にある点はハンドルであり、必要に応じて画像サイズを調整するために使用できます。
+
+### **写真編集用ツールバー**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc27.png)
+
+* **ロック / ロック解除 –**
+  この機能により、デザインエリア内のオブジェクトをロックまたはロック解除できます。
+* **複製 –**
+  選択した写真をコピーできます。
+* **前面へ移動 –**
+  「前面へ移動」ボタンを使用して、写真やテキストを重ねて配置できます。
+* **背面へ移動 –**
+  「前面へ移動」と同様に機能し、写真やテキストホルダーを背面に移動します。
+* **トリミング –**
+  写真を編集するために使用し、不要な部分を切り取ることができます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt52.png)
+
+画像はトリミングウィンドウで開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/pbtemcrt53.png)
+
+トリミングスライダーや写真の角にあるトリミングハンドルを使用して、画像のトリミングを調整します。
+
+完了したら「保存」ボタンをクリックしてください。
+
+* **写真を追加 –**
+  フォトホルダーを追加できます。画像を選択してドラッグ＆ドロップできます。
+* **削除 –** 選択したフォトホルダーを削除します。
+
+### **テキスト編集ツール**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* **複製 –**
+   選択した写真をコピーできます。
+* **フォントとサイズ –**
+
+  必要なテキストのフォントとサイズを選択します。現在は、いくつかの事前選択されたフォントが設定されています。
+* フォントは管理画面から有効化することができます。
+* **フォントカラーと背景 –**
+  テキストの色と背景を選択します。現在のバージョンでは事前設定された色のみ使用できますが、次のバージョンではカラーパレット付きのカラーピッカーが利用可能になります。
+* **配置 –**
+  上記のツールを使用してテキストの配置を設定できます。
+* **太字 / イタリック –**
+  これらのボタンを切り替えることで、テキストを太字またはイタリックに変更できます。
+
+### **保存 / プレビュー / 閉じる**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
+
+* **保存 –** 作成したテンプレートを保存します。
+* **プレビュー –**
+  「プレビュー」をクリックすると、製品上でテンプレートを確認できます。現在は2Dプレビューのみ利用可能です。
+* **閉じる –**
+
+  「閉じる」をクリックすると、テンプレートを閉じて管理サイトに戻ります。
+
+  （閉じる前に必ず保存してください）
+
+### **グリッドライン**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
+
+* グリッドラインは、2つ以上のフォトホルダーやテキストフィールドなどを整列させるために使用されます。写真やテキストフィールドを他のフォトホルダーやテキストフィールドに近づけて移動すると、自動的にグリッドラインが表示され、他のオブジェクトと簡単に整列できるようになります。
+
+## **セクション II: テンプレートクリエーターでテンプレートをリサイズする方法**
+
+**ステップ 1: ダッシュボードにアクセス**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
+
+* 現在のテンプレートのダッシュボードを開きます。
+* 「テンプレート」をクリックして、既存のテンプレートのリストを表示します。
+
+**ステップ 2: テンプレートを開くまたは作成する**
+
+* 新しいテンプレートを作成するか、既存のテンプレートをテンプレートクリエーターで開きます。
+* アイコンをクリックします。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc45.png)
+
+* 新しいテンプレートを作成するには、アイコンをクリックします。
+* 既存のテンプレートを編集するには、編集アイコンをクリックします。
+
+3. 新しいデザインを作成するか、既存のデザインを編集します。
+4. デザインが完了したら、「レイアウト」ボタンをクリックしてレイアウトタブを開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc34.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc35.png)
+
+* リサイズ可能なテンプレートサイズの一覧が表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc36.png)
+
+* レイアウトタブから希望するサイズを選択してクリックします。
+
+5. レイアウトタブで希望するサイズをクリックすると、同じブラウザ内の新しいタブでリサイズされたテンプレートが開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc37.png)
+
+* テンプレートが読み込まれたら、「保存」ボタンをクリックします。
+* リサイズされたデザインに変更が必要かどうか、すべてのページを開いて確認してください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
+
+*注意: リサイズされたテンプレートは、リサイズ後に手動での確認と調整が必要です。*
+
+* すべての編集が完了したら、「保存」ボタンをクリックしてください。
+* テンプレートをクリックして開き、リサイズされたテンプレートの詳細を確認します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
+
+* リサイズされたテンプレートは、メインテンプレートの下に表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc39.png)
+
+* テンプレートは編集／公開することができます。
+* ユーザーが利用できるようにするには、テンプレートを公開してください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc40.png)
+
+* テンプレートが公開されたら、リサイズされた製品を開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc41.png)
+
+7. リサイズされたテンプレートは、ベーステンプレートと同じカテゴリのデザイナー内でユーザーに利用可能になります。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc42.png)
+
+7. テンプレートを適用する前に、選択したテンプレートが既存のデザイナー内容を上書きすることを顧客に知らせる警告メッセージが表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc43.png)
+
+* 「続行」をクリックしてテンプレートの適用を進めます。
+* テンプレートが適用されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc44.png)
+
+### **セクション III: テンプレートクリエーターでフルスプレッドフォトブックを作成する方法**
+
+### **ナビゲーションメニュー**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
+
+* テンプレート名と製品名は左上に表示されます。
+* フォトブック製品の場合、テンプレートデザイナーの下部にある「ページを追加」ボタンを使用して追加ページを作成できます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
+
+### **Upload Photos**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc50.png)
+
+* 「写真」タブをクリックして自分の写真を追加します。これらは事前デザインテンプレートとして使用できます。対応ファイル形式は jpg/jpeg です。
+* ***注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があり、またプリンターのプロファイルにも依存します。***
+
+### **フォトホルダー**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc51.png)
+
+* フォトホルダーは写真を配置するためのフレームです。これらはあらかじめ定義された比率で、正方形、縦向き、横向きの向きがあります。
+
+**フォトホルダーを追加するには:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
+
+* 画像フォトホルダーは、簡単かつ迅速にデザインできるように、さまざまな標準サイズ（正方形、縦向き、横向き）のプレースホルダーフレームです。
+* フォトホルダー – 「フォトホルダー」をクリックすると、画像ホルダー作成ツール（赤で強調表示）が表示されます。それをクリックすると、デザイナー上に画像ホルダーが作成されます。
+
+### **レイアウト**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc53.png)
+
+レイアウトタブには、テンプレートをリサイズできる製品サイズの一覧が表示されます。デザインしたテンプレートをリサイズしたい場合は、レイアウトタブを開き、希望する製品サイズを選択してクリックしてください。
+
+新しいタブで開き、ユーザーはその選択したサイズでテンプレートを保存できます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
+
+*注意:*
+
+* ***リサイズされたテンプレートは、読み込み後に保存する必要があります。***
+* ***保存する前に、テンプレートオブジェクトの配置に修正が必要かどうかを確認してください。***
+* テンプレートをクリックして開きます。ダッシュボード上で、元のテンプレートの下にリサイズされたバージョンがグループ化されて表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
+
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
+
+* 保存されたテンプレートは、リサイズに使用されたメインテンプレートの下に表示されます。
+
+  テンプレートの下には、リサイズされたサイズが表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
+
+* 公開済みのテンプレートを非公開にするには、テンプレートの横にある設定ボタンをクリックし、「非公開」ボタンを選択してクリックしてください。製品はテンプレートなしでも公開することができます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
+
+### **Background**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
+
+背景はメインの写真の背後に配置される画像です。これらは現在提供されている選択済みの背景です。
+
+管理画面から独自の背景を追加することもできます。
+
+***画像はjpg形式である必要があります。注意: CMYK画像は使用しないでください。アップロードされた場合、通常のJPGに変換されますが、その過程で色に問題が発生する可能性があります。***
+
+* 「背景」をクリックすると、背景画像の一覧が表示されます。任意の背景画像をクリックすると、デザイナーに適用されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
+* 利用可能なオプションを使用して、背景を左ページ、右ページ、または両方のページに適用することもできます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
+
+* 1枚のシート上で、各ページに異なる2つの背景を適用することも、シート全体に1つの背景を使用することもできます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
+* これにより、自分のスタイルに合わせて、より美しくクリエイティブなデザインを作成する柔軟性が得られます。
+
+### **クリップアート**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc63.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc64.png)
+
+* クリップアートは、テンプレートをより魅力的にするために使用できるステッカーです。
+* 管理画面から独自のクリップアートを追加することもできます。クリップアートのファイル形式は .png で、透過画像である必要があります。
+* 「クリップアート」をクリックすると、クリップアートの一覧が表示されます。クリックするとデザイナーに適用されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc65.png)
+
+### **Text**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc67.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc66.png)
+
+* テキストフィールドにテキストを追加できますが、現在は絵文字には対応していません（絵文字は使用しても無視されます）。
+* 「フローティングテキスト」をクリックしてテキストフィールドを追加します。
+* 「テキスト」をクリックすると、デザイナー上にテキストフィールドが追加されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
+
+* ***注意 - デフォルトのテキストフィールドラベル（例:「テキストを入力」）はレンダリングされません。その他のテキストはレンダリングされ、製品に印刷されます。***
+
+**テキストオプション:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* テンプレートクリエーターには、テキストボックスをロック／ロック解除する機能や、テキストボックスを自由に移動できる「前面へ移動／背面へ移動」オプション、テキストボックスを削除する「削除」オプションなどの標準機能があります。また、フォントのスタイルとサイズの選択、テキストの配置オプション、太字／イタリックの設定、テキストカラーおよびテキスト背景色の設定も可能です。
+* デザイナーの中央部分は作業エリアです。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
+
+* デザイナーが初めて起動された際、作業エリアにはフルサイズの画像が表示されます。
+* 画像上の赤い点はハンドルであり、必要に応じて画像サイズを調整するために使用できます。
+
+### **写真編集用ツールバー**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc70.png)
+
+* **ロック / ロック解除 –** この機能により、デザインエリア内の任意のオブジェクトをロックまたはロック解除できます。
+* **複製 –**
+  選択した写真をコピーできます。
+* **前面へ移動 –**
+  「前面へ移動」ボタンを使用して、写真やテキストを重ねて配置できます。
+* **背面へ移動 –**
+  「前面へ移動」と同様に機能し、写真やテキストホルダーを背面に移動します。
+* **トリミング –** 
+  写真を編集するために使用し、不要な部分を切り取ることができます。
+* **写真を追加 –**
+  フォトホルダーを追加できます。画像を選択してドラッグ＆ドロップできます。
+* **削除 –** 選択したフォトホルダーを削除します。
+
+### **テキスト編集ツール**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* **複製 –**
+  選択した写真をコピーできます。
+* **フォントとサイズ –**
+
+  必要なテキストのフォントとサイズを選択します。現在は、いくつかの事前選択されたフォントが設定されています。
+
+  フォントは管理画面から有効化することができます。
+* **フォントカラーと背景 –**
+  テキストの色と背景を選択します。現在のバージョンでは事前設定された色のみ使用できますが、次のバージョンではカラーパレット付きのカラーピッカーが利用可能になります。
+* **配置 –**
+  上記のツールを使用してテキストの配置を設定できます。
+* **太字 / イタリック –**
+  これらのボタンを切り替えることで、テキストを太字またはイタリックに変更できます。
+
+### **Save / Preview / Close**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
+
+* **保存 –** 作成したテンプレートを保存します。
+* **プレビュー –**
+
+  「プレビュー」をクリックすると、製品上でテンプレートを確認できます。現在は2Dプレビューのみ利用可能です。
+* **閉じる –**
+
+  「閉じる」をクリックすると、テンプレートを閉じて管理サイトに戻ります。
+
+  （閉じる前に必ず保存してください）
+
+### **グリッドライン**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
+
+* グリッドラインは、2つ以上のフォトホルダーやテキストフィールドなどを整列させるために使用されます。写真やテキストフィールドを他のフォトホルダーやテキストフィールドに近づけて移動すると、自動的にグリッドラインが表示され、他のオブジェクトと簡単に整列できるようになります。
+
+## **セクション II: テンプレートクリエーターでテンプレートをリサイズする方法**
+
+**ステップ 1**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
+
+* **現在のテンプレートのダッシュボードを開きます。**
+* 「テンプレート」をクリックして、既存のテンプレートのリストを表示します。
+
+**ステップ 2**
+
+* 新しいテンプレートを作成するか、既存のテンプレートをテンプレートクリエーターで開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc45.png)
+
+* 「作成」アイコンをクリックして、新しいテンプレートを作成します。
+
+**または**
+
+* 既存のテンプレートを編集するには、編集アイコンをクリックします。
+
+**ステップ 3**
+
+* 新しいデザインを作成するか、既存のデザインを編集します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc34.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc35.png)
+
+* 新しいデザインを作成するか、既存のデザインを編集してください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc36.png)
+
+* リサイズ可能なテンプレートサイズの一覧が表示されます。
+* レイアウトタブから希望するサイズを選択してクリックしてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc37.png)
+
+* レイアウトタブで希望するサイズをクリックすると、同じブラウザ内の新しいタブでリサイズされたテンプレートが開きます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
+
+* テンプレートが読み込まれたら、「保存」ボタンをクリックしてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
+
+* リサイズされたデザインに変更が必要かどうか、すべてのページを開いて確認してください。
+
+**\*※注意:** リサイズされたテンプレートは、リサイズ後に手動での確認と調整が必要です。*
+
+* すべての編集が完了したら、「保存」ボタンをクリックしてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
+
+* テンプレートをクリックして、リサイズされたテンプレートの詳細を開いて確認します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc39.png)
+
+* リサイズされたテンプレートは、メインテンプレートの下に表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc40.png)
+
+* テンプレートは編集または公開することができます。
+* ユーザーが利用できるようにするには、テンプレートを公開してください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc41.png)
+
+* テンプレートを公開したら、リサイズされた商品を開いてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc42.png)
+
+* リサイズされたテンプレートは、ベーステンプレートと同じカテゴリー内で、デザイナー上からユーザーが利用できるようになります。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc43.png)
+
+* テンプレートを適用する前に、選択したテンプレートが現在のデザインを上書きすることを知らせる警告メッセージが表示されます。
+* 「Proceed」をクリックすると、テンプレートの適用が続行されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc44.png)
+
+* テンプレートが適用されます。
+
+### **セクション III：テンプレートクリエーターでフルスプレッドフォトブックを作成する方法**
+
+**ナビゲーションメニュー**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc48.png)
+
+* テンプレート名と商品名は、左上に表示されます。
+
+**フォトブック商品の場合**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc49.png)
+
+* テンプレートデザイナー下部の「Add Pages」ボタンを使用して、ページを追加できます。
+
+**Upload Photos**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc50.png)
+
+* 「Photos」タブをクリックして、自分の写真を追加します。これは事前にデザインされたテンプレートとして使用できます。対応ファイル形式は jpg/jpeg です。
+   CMYK画像をアップロードすると通常のJPGに変換されますが、その過程で色味が変わる可能性があります。また、プリンターのプロファイルにも影響されます。
+
+**フォトホルダー：**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc51.png)
+
+* フォトホルダーは、写真を配置するためのフレームです正方形、縦向き、横向きなど、あらかじめ設定された比率で用意されています。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
+
+* **イメージフォトホルダー：**簡単かつスピーディーにデザインできるよう、さまざまな標準サイズ（正方形・縦向き・横向き）で用意されたプレースホルダーフレームです。
+
+  * 「Photo Holders」をクリックすると、画像ホルダー作成ツール（赤枠で表示）が表示されますそれをクリックすると、デザイナー上に画像ホルダーが追加されます。
+
+**Layout:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc53.png)
+
+* 「Layouts」タブには、テンプレートをリサイズできる商品サイズの一覧が表示されますテンプレートをリサイズする場合は、「Layouts」タブを開き、希望する商品サイズを選択してクリックしてください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc54.png)
+
+* 新しいタブで開かれ、その後ユーザーは選択したサイズでテンプレートを保存することができます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc55.png)
+
+* **Note:**
+
+  * リサイズされたテンプレートは、読み込み後に必ず保存してください。
+  * 保存する前に、テンプレート内の各オブジェクト（配置や位置など）にズレがないか確認し、必要に応じて修正してください。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc56.png)
+
+* テンプレートをクリックして開きます。ダッシュボードでは、リサイズされたテンプレートが元のテンプレートの下にグループ化されて表示されます。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
+
+* テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc58.png)
+
+* The then saved template/template’s will be shown under the main template used for resizing.
+
+  The template will display the resized sizes under it.
+
+**To Unpublish a Published Template:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc59.png)
+
+* Click on the **setting button** beside the template and select **Unpublish**.
+* A product can be published without a template.
+
+**Backgrounds:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc60.png)
+
+* **Backgrounds** are images placed behind the main photos. These are selected backgrounds currently offered.
+
+  * You can add your own backgrounds from the **admin section**. The images need to be in **JPG format**.
+     **PLEASE DO NOT USE CMYK IMAGES.** If uploaded, they will be converted to normal JPG, and something may go wrong with the colors.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
+* Click on **Background**, and it shows a list of background images. Click on any background image to apply it to the designer.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
+
+* You can also choose to apply the background to the left page, right page, or both pages using the available options.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
+
+* On a single sheet, you can apply two different backgrounds, one for each page, or use a single background across the whole sheet. This gives you the flexibility to create more beautiful and creative designs based on your style.
+
+**Clipart:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc63.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc64.png)
+
+* **Clipart** are stickers that can be used to enhance your templates.
+* You can add your own clipart from the **admin section**. The file formats for clipart are **.png** (transparent images).
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc65.png)
+
+* Click on clipart, and it will show a list of clipart. Click on it to apply to the designer
+
+**Text:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc67.png)
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc66.png)
+
+* You can add **text** in the text field, except for emojis, which are currently unsupported (emojis will be ignored if used).
+* Click on **Floating Text** to add a text field.
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
+
+* Click on **Text** to add a text field on the designer.
+* **Note**: The default text field label (i.e., 'Enter Your text') will not be rendered. Any other text will be rendered and printed on the product.
+
+**Text Options:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* Template Creator has standard text options like:
+
+  * **Locking/Unlocking** the text box
+  * **Move Forward/Backward** options to move the textbox as desired
+  * **Delete** option to delete the textbox
+  * Font style & size selection
+  * Font alignment option
+  * **Bold/Italics** option
+  * Text color/text background color option
+
+**Center Part of the Designer:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
+
+* The **work area** will contain a full image displayed when the designer is invoked for the first time.
+
+  * The red dots on the image are the handles that can be used to resize the image as required.
+
+**Toolbar for Photo Editing:**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc70.png)
+
+* **ロック / ロック解除:**デザインエリア内のオブジェクトをロックまたはロック解除できます。
+* **複製:** 選択した写真をコピーすることができます。
+* **前面へ移動:** 写真やテキストを前面に配置し、他の要素の上に表示できます。
+* **背面へ移動:** と同様の機能で、写真やテキストを背面に配置します。
+* **トリミング:** を使用して写真を編集できます。必要な部分だけを切り取り、不要な部分を削除できます。
+* **写真追加:** フォトホルダーを追加できます。追加後、画像を選択してドラッグ＆ドロップで配置できます。
+* **選択したフォトホルダーを削除します。**
+
+**テキスト編集ツール：**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
+
+* **（複製）：**選択した写真をコピーすることができます。
+* **フォントとサイズ：**テキストに使用するフォントとサイズを選択できます。現在は一部のフォントが事前に設定されています。フォントは管理画面から有効化できます。
+* **テキストカラーと背景：**テキストの色や背景色を選択できます。現在はプリセットカラーのみ対応しており、今後はカラーパレット付きのカラーピッカーが追加予定です。
+* **テキスト配置：**上記ツールを使用してテキストの配置を調整できます。
+* **太字 / 斜体：** ボタンを切り替えることで、テキストを太字または斜体に変更できます。
+
+**をクリックすると、作成したテンプレートが保存されます。**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
+
+* 「Preview」をクリックすると、商品上でのテンプレートを確認できます（現在は2Dプレビューのみ対応）。
+* **「Close」をクリックするとテンプレートが閉じられ、管理画面に戻ります（※閉じる前に必ず保存してください）。**
+
+**グリッドライン：**
+
+![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
+
+* グリッドラインは、複数のフォトホルダーやテキストフィールドなどを整列させるために表示されます写真やテキストフィールドを他のオブジェクトに近づけると、自動的にグリッドラインが表示され、位置合わせがしやすくなります。
+
+## **お困りですか？**
+
+ご不明な点があれば、お気軽に以下のメールアドレスまでご連絡ください。**support@ezycreate.com**
