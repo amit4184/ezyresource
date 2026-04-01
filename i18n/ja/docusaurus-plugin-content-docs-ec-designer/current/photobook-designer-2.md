@@ -648,8 +648,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc43.png)
 
-* Before applying the template, a warning message will be displayed to the customer informing them that the selected template will overwrite the existing designer.
-* Click on **Proceed** to continue to apply the template.
+* テンプレートを適用する前に、選択したテンプレートが現在のデザインを上書きすることを知らせる警告メッセージが表示されます。
+* 「Proceed」をクリックすると、テンプレートの適用が続行されます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc44.png)
 
