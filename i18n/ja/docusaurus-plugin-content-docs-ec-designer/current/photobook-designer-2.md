@@ -684,7 +684,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc52.png)
 
-* **Image Photo-holder**: A placeholder frame in various standard sizes (square, portrait, landscape) for easy and fast designing.
+* **イメージフォトホルダー：**簡単かつスピーディーにデザインできるよう、さまざまな標準サイズ（正方形・縦向き・横向き）で用意されたプレースホルダーフレームです。
 
   * Click on **Photo Holders**, and it shows an image holder creator (highlighted in red). Now click on it, and it will create an image holder on the designer.
 
