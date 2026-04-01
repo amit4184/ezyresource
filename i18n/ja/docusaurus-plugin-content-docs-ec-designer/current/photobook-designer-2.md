@@ -615,7 +615,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
 
-* Once the template is loaded, click on the **save** button.
+* テンプレートが読み込まれたら、「保存」ボタンをクリックしてください。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc38.png)
 
