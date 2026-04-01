@@ -741,7 +741,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc62.png)
 
-* You can also choose to apply the background to the left page, right page, or both pages using the available options.
+* オプションを使用して、背景を左ページ・右ページ・または両ページに適用することもできます。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc61.png)
 
