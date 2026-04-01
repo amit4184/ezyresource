@@ -575,7 +575,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ## **セクション II: テンプレートクリエーターでテンプレートをリサイズする方法**
 
-**Step 1.** 
+**ステップ 1**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
