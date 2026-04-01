@@ -567,7 +567,7 @@ EzyDesignerを使用すると、次のことができます:
 
   （閉じる前に必ず保存してください）
 
-### **Gridlines**
+### **グリッドライン**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
 
