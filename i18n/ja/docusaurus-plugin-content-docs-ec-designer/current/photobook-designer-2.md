@@ -771,10 +771,10 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
 
-* Click on **Text** to add a text field on the designer.
-* **Note**: The default text field label (i.e., 'Enter Your text') will not be rendered. Any other text will be rendered and printed on the product.
+* をクリックすると、デザイナー上にテキストフィールドが追加されます。
+* **※注意：**デフォルトのテキストフィールドラベル（例：「Enter Your text」）は印刷されません。その他の入力されたテキストのみが反映・印刷されます。
 
-**Text Options:**
+**テキストオプション：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc75.png)
 
