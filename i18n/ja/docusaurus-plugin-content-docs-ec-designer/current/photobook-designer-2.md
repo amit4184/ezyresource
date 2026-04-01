@@ -627,7 +627,7 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc2.png)
 
-* Click on the template to open and view the resized template details.
+* テンプレートをクリックして、リサイズされたテンプレートの詳細を開いて確認します。
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc39.png)
 
