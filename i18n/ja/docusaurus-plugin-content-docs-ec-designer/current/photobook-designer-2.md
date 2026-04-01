@@ -709,8 +709,6 @@ EzyDesignerを使用すると、次のことができます:
 
 * テンプレートをクリックして開きます。ダッシュボードでは、リサイズされたテンプレートが元のテンプレートの下にグループ化されて表示されます。
 
-
-
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc57.png)
 
 * テンプレートの横にあるオプションをクリックして、テンプレートを公開します。
@@ -831,8 +829,8 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
 
-* **Gridlines** are provided to align two or more photo holders, text fields, etc., when the photo/text field is moved towards the other photo holder/text field objects. The gridlines appear automatically to make it easier to align with other objects.
+* グリッドラインは、複数のフォトホルダーやテキストフィールドなどを整列させるために表示されます写真やテキストフィールドを他のオブジェクトに近づけると、自動的にグリッドラインが表示され、位置合わせがしやすくなります。
 
-## **Need Help?**
+## **お困りですか？**
 
-If you're stuck, don’t worry — just email us at **support@ezycreate.com**
+ご不明な点があれば、お気軽に以下のメールアドレスまでご連絡ください。**support@ezycreate.com**
