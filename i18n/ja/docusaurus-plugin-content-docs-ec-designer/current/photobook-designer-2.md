@@ -798,11 +798,11 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc68.png)
 
-* The **work area** will contain a full image displayed when the designer is invoked for the first time.
+* 作業エリアには、デザイナーを初めて開いた際にフル画像が表示されます。
 
-  * The red dots on the image are the handles that can be used to resize the image as required.
+  * 画像上の赤いドットはハンドルで、必要に応じて画像サイズを調整するために使用できます。
 
-**Toolbar for Photo Editing:**
+**写真編集ツールバー：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc70.png)
 
