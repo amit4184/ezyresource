@@ -822,10 +822,10 @@ EzyDesignerを使用すると、次のことができます:
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc76.png)
 
-* Click on **Preview** to view the template on the product (currently, only 2D preview is available).
-* **Close** will close the template and redirect back to the admin website. *(Always save before closing.)*
+* 「Preview」をクリックすると、商品上でのテンプレートを確認できます（現在は2Dプレビューのみ対応）。
+* **「Close」をクリックするとテンプレートが閉じられ、管理画面に戻ります（※閉じる前に必ず保存してください）。**
 
-**Gridlines:**
+**グリッドライン：**
 
 ![](https://ezy-resources.s3.ap-south-1.amazonaws.com/en/ptc30.png)
 
