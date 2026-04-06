@@ -3,7 +3,7 @@ title: Print Designer
 ---
 **How to Create a Print Product**
 
-[](https://admin.ezycreate.com/)📩 Feedback Email: [support@ezycreate.com](mailto:support@ezycreate.com)
+[](https://admin.ezycreate.com/)📩フィードバックメール：[support@ezycreate.com](mailto:support@ezycreate.com)
 
 ## **Glossary**
 
@@ -193,8 +193,6 @@ Click on the crop button. Use crop button to crop a photo, you can crop a portio
 Using the crop slider and using the photo corner crop handles adjust the image crop.
 
 Click on “Save” button once done.
-
-
 
 ![](/img/ppb11.png)
 
