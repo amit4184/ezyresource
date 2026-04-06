@@ -33,10 +33,10 @@ title: Print Designer
 
 ![](/img/1.png)
 
-* Open: EC admin
-* Enter login details and submit.
+* EC admin を開く
+* ログイン情報を入力して送信します。
 
-### **Step 2: Navigate to "My Blanks"**
+### **ステップ2：「My Blanks」に移動します。**
 
 ![](/img/2.png)
 
