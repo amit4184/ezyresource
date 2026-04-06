@@ -72,7 +72,7 @@ title: Print Designer
 * **最小／最大ページ数：商品仕様に応じて設定します。**
 * をクリックします。
 
-### **Step 4: Set Output Type & Printable Surface**
+### **ステップ4：出力タイプと印刷可能面を設定します。**
 
 ![](/img/6.png)
 
