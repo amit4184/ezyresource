@@ -69,8 +69,8 @@ title: Print Designer
   * フレーム：3D
   * マグ：3D
   * プリント：画像
-* **Min / Max Pages**: As per product specs.
-* Click **Next**.
+* **最小／最大ページ数：商品仕様に応じて設定します。**
+* をクリックします。
 
 ### **Step 4: Set Output Type & Printable Surface**
 
