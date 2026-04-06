@@ -40,9 +40,9 @@ title: Print Designer
 
 ![](/img/2.png)
 
-* Click on **My Blanks** to see defined product blanks.
+* 定義された商品ブランクを確認するために「My Blanks」をクリックします。
 
-### **Step 3: Create a New Product Blank**
+### **ステップ3：新しい商品ブランクを作成します。**
 
 ![](/img/3.png)
 
