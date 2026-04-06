@@ -15,9 +15,9 @@ title: Print Designer
 * **トリムエリア**: 仕上がり時に余分な部分が裁断される、商品の外周部分です。
 * **用紙 / 素材**: 商品に使用される紙や素材の種類（例：アート紙、シルキー、ラスターなど）を指します。
 * **ラミネーション**: 耐久性や見た目を向上させるために表面に施されるコーティング層です。
-* **Image Size**: Size of the image used in the designer.
-* **Photo Width**: The size of the photo set to fill the designer area.
-* **Binding**: The process to attach pages and create a book structure.
+* **画像サイズ**: デザイナー上で使用される画像のサイズです。
+* **フォト幅**: デザイナーの表示エリアを埋めるために設定される写真のサイズです。
+* **製本**: ページをまとめて本の形に仕上げる工程のことです。
 * **Display Mask Image**: An overlay mask displayed in the designer.
 * **Clippath Mask Image**: The mask area used for designing.
 * **Offset Value**: Used to set mask position in the designer.
