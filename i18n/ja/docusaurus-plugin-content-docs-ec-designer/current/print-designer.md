@@ -49,16 +49,16 @@ title: Print Designer
 * をクリックします。
 
   ![](/img/4.png)
-* **Product Code**: Enter unique code.
-* **SKU ID**: Same as Product Code or enter different ID.
-* **Product Type**: Choose from the dropdown.
-* **Category / Subcategory**: Select as required.
-* **Product Title**: Enter name.
-* **Product Description**: Max 200 characters, internal use.
-* **Thumbnail**: Upload JPG image.
-* **Supplier**: Select supplier.
-* **Orientation**: Portrait, Landscape, or Square.
-* **Size**: e.g., 4x6, 5x7.
+* **商品コード**：一意のコードを入力します。
+* **SKU ID**：商品コードと同じ、または別のIDを入力します。
+* **商品タイプ**：ドロップダウンから選択します。
+* **カテゴリ／サブカテゴリ**：必要に応じて選択します。
+* **商品タイトル**：名前を入力します。
+* **商品説明**：最大200文字（社内用）。
+* **サムネイル**：JPG画像をアップロードします。
+* **サプライヤー**：サプライヤーを選択します。
+* **向き**：縦・横・正方形から選択します。
+* **サイズ**：例：4x6、5x7。
 * **Preview Type**:
 
   * Photobooks: 3D
