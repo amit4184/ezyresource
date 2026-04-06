@@ -9,9 +9,9 @@ title: Print Designer
 
 * **商品ブランク：**最終的なテンプレートやデザインを追加する前に、デザインおよび注文システム上で商品の仕様や動作を定義するための基本設定です。
 * **商品コード：**各商品定義に必要な一意のコードです。
-* **SKU ID**: A unique ID assigned to each product or product variant in the product fulfillment process.
-* **Safe Area**: An outline marking on the product designer indicating the area that may get cropped/cut during fulfillment.
-* **Bleed Area**: A portion of a design that extends beyond the final trim size to prevent white edges.
+* **SKU ID**: 商品または商品バリエーションごとに割り当てられる一意のIDで、製造・出荷プロセスで使用されます。
+* **セーフエリア：**商品デザイナー上で表示されるガイドラインで、製造工程において裁断される可能性のある範囲を示します。
+* **塗り足し**: 仕上がりサイズの外側までデザインを広げる領域で、裁断時に白いフチが出ないようにするための部分です。
 * **Trim Area**: The space around the product where excess material is cut away.
 * **Substrate / Attributes**: The paper or material used for a product (e.g., Artpaper, Silky, Lustre).
 * **Lamination**: A surface layer added to enhance durability or visual appeal.
