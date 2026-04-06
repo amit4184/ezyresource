@@ -7,8 +7,8 @@ title: Print Designer
 
 ## **Glossary**
 
-* **Product Blank**: A basic product setup used to define how a product works in the design and order system, before adding visuals or final templates.
-* **Product Code**: A unique code required for every product definition.
+* **商品ブランク：**最終的なテンプレートやデザインを追加する前に、デザインおよび注文システム上で商品の仕様や動作を定義するための基本設定です。
+* **商品コード：**各商品定義に必要な一意のコードです。
 * **SKU ID**: A unique ID assigned to each product or product variant in the product fulfillment process.
 * **Safe Area**: An outline marking on the product designer indicating the area that may get cropped/cut during fulfillment.
 * **Bleed Area**: A portion of a design that extends beyond the final trim size to prevent white edges.
