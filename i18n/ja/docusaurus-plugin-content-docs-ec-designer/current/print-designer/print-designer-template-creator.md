@@ -12,9 +12,9 @@ title: Print Designer
 * **SKU ID**: 商品または商品バリエーションごとに割り当てられる一意のIDで、製造・出荷プロセスで使用されます。
 * **セーフエリア：**商品デザイナー上で表示されるガイドラインで、製造工程において裁断される可能性のある範囲を示します。
 * **塗り足し**: 仕上がりサイズの外側までデザインを広げる領域で、裁断時に白いフチが出ないようにするための部分です。
-* **Trim Area**: The space around the product where excess material is cut away.
-* **Substrate / Attributes**: The paper or material used for a product (e.g., Artpaper, Silky, Lustre).
-* **Lamination**: A surface layer added to enhance durability or visual appeal.
+* **トリムエリア**: 仕上がり時に余分な部分が裁断される、商品の外周部分です。
+* **用紙 / 素材**: 商品に使用される紙や素材の種類（例：アート紙、シルキー、ラスターなど）を指します。
+* **ラミネーション**: 耐久性や見た目を向上させるために表面に施されるコーティング層です。
 * **Image Size**: Size of the image used in the designer.
 * **Photo Width**: The size of the photo set to fill the designer area.
 * **Binding**: The process to attach pages and create a book structure.
