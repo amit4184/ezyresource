@@ -61,14 +61,14 @@ title: Print Designer
 * **サイズ**：例：4x6、5x7。
 * **プレビュータイプ：**
 
-  * Photobooks: 3D
-  * Mini book: 2D
-  * Calendar: 2D
-  * Canvas prints: 3D
-  * Mounted prints: 3D
-  * Frames: 3D
-  * Mug: 3D
-  * Prints: Image
+  * フォトブック：3D
+  * ミニブック：2D
+  * カレンダー：2D
+  * キャンバスプリント：3D
+  * マウントプリント：3D
+  * フレーム：3D
+  * マグ：3D
+  * プリント：画像
 * **Min / Max Pages**: As per product specs.
 * Click **Next**.
 
