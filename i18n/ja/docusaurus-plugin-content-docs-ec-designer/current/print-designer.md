@@ -59,7 +59,7 @@ title: Print Designer
 * **サプライヤー**：サプライヤーを選択します。
 * **向き**：縦・横・正方形から選択します。
 * **サイズ**：例：4x6、5x7。
-* **Preview Type**:
+* **プレビュータイプ：**
 
   * Photobooks: 3D
   * Mini book: 2D
