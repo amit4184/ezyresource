@@ -18,9 +18,9 @@ title: Print Designer
 * **画像サイズ**: デザイナー上で使用される画像のサイズです。
 * **フォト幅**: デザイナーの表示エリアを埋めるために設定される写真のサイズです。
 * **製本**: ページをまとめて本の形に仕上げる工程のことです。
-* **Display Mask Image**: An overlay mask displayed in the designer.
-* **Clippath Mask Image**: The mask area used for designing.
-* **Offset Value**: Used to set mask position in the designer.
+* **表示マスク画像**: デザイナー上に重ねて表示されるオーバーレイ用のマスク画像です。
+* **クリッピングパスマスク画像**: デザイン時に使用されるマスク領域を定義する画像です。
+* **オフセット値**: デザイナー上でマスクの位置を調整するために使用される値です。
 * **Category / Sub Category**: Used to organize products under specific sections.
 * **App Name**: Type of designer used (e.g., prints designer, photobook designer).
 * **Printable Surfaces**: Designer surface where designing is done.
