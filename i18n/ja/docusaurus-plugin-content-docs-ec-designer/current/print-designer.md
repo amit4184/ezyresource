@@ -46,7 +46,7 @@ title: Print Designer
 
 ![](/img/3.png)
 
-* Click on **Add**.
+* をクリックします。
 
   ![](/img/4.png)
 * **Product Code**: Enter unique code.
